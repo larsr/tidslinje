@@ -92,9 +92,9 @@ footer{margin-top:14px}
 
 <footer><p class="note">Senast uppdaterad: <!--UPDATED-->ej byggd<!--/UPDATED-->.</p></footer>
 
-<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<script src="vendor/js-yaml.min.js"></script>
+<script src="vendor/marked.min.js"></script>
+<script src="vendor/purify.min.js"></script>
 <script>
 const REPO='https://github.com/larsr/tidslinje/blob/main/data/';
 let COLS=[], PERIODS=[], NODES={}, GRID=[];        // GRID[periodIndex][colIndex] = [nod, …]
@@ -121,8 +121,8 @@ async function load(){
   for(const n of Object.values(NODES)) if(n.same_as&&!NODES[n.same_as]) console.warn('same_as saknas',n.id,n.same_as);
 }
 const art=n=>n&&n.same_as?NODES[n.same_as]||n:n;
-function html(n){const a=art(n);if(!(a.id in HTML))HTML[a.id]=DOMPurify.sanitize(marked.parse(a.text||''));return HTML[a.id]}
-function plain(n){const a=art(n);if(!(a.id in PLAIN))PLAIN[a.id]=((a.title||'')+' '+(a.text||'')).replace(/\]\(#[^)]*\)/g,'').replace(/[*\\[\]]/g,'').toLowerCase();return PLAIN[a.id]}
+function html(n){const a=art(n);if(!(a.id in HTML))HTML[a.id]=DOMPurify.sanitize(marked.parse(a.text||'')).replace(/\n/g,' ');return HTML[a.id]}
+function plain(n){const a=art(n);if(!(a.id in PLAIN))PLAIN[a.id]=((a.title||'')+' '+(a.text||'')).replace(/\]\(#[^)]*\)/g,'').replace(/[*\\[\]]/g,'').replace(/\s+/g,' ').toLowerCase();return PLAIN[a.id]}
 const per=y=>`${y}–${y===PERIODS[PERIODS.length-1]?'idag':y+19}`;
 
 // ---------- tabell ----------

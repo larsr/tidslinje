@@ -18,21 +18,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-        with:
-          fetch-depth: 1
-      - uses: actions/setup-node@v6
-        with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
+      - uses: astral-sh/setup-uv@v9
       - name: Kontrollera datat
-        run: npm run check
+        run: uv run scripts/check.py
+      - name: Testa formateringen
+        run: uv run scripts/test_format.py
       - name: Bygg sajten
-        run: npm run build
+        run: uv run scripts/build.py
       - name: Installera Chromium för röktestet
-        run: npx playwright install --with-deps chromium
+        run: uv run --with playwright==1.56.0 playwright install --with-deps chromium
       - name: Röktest
-        run: npm run smoke
+        run: uv run scripts/smoke.py
       - uses: actions/upload-pages-artifact@v5
         if: github.event_name != 'pull_request'
         with:
