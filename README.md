@@ -33,4 +33,5 @@ uv run scripts/build.py && python3 -m http.server -d _site 8080
 ```
 
 Varje push till `main` testas och publiceras automatiskt. Bygget, testerna och
-säkerhetskontrollerna beskrivs i [docs/BUILD.md](docs/BUILD.md).
+säkerhetskontrollerna beskrivs i [docs/BUILD.md](docs/BUILD.md), kodstilen i
+[docs/CODE.md](docs/CODE.md).
