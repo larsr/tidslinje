@@ -24,7 +24,12 @@ const server = http.createServer((req, res) => {
 const url = `http://localhost:${server.address().port}/`;
 
 const fail = [];
-const check = (ok, msg) => { if (!ok) fail.push(msg); console.log(`${ok ? '✓' : '✗'} ${msg}`); };
+const CI = !!process.env.GITHUB_ACTIONS;
+const check = (ok, msg) => {
+  if (!ok) fail.push(msg);
+  console.log(`${ok ? '✓' : '✗'} ${msg}`);
+  if (!ok && CI) console.log(`::error title=Röktest::${msg}`);
+};
 
 const browser = await chromium.launch();
 try {
@@ -68,6 +73,8 @@ try {
   check(true, 'direktlänk med #id öppnar artikeln');
 
   check(errors.length === 0, `inga skriptfel${errors.length ? ': ' + errors.join('; ') : ''}`);
+} catch (e) {
+  check(false, `undantag: ${e.message.split('\n')[0]}`);
 } finally {
   await browser.close();
   server.close();
