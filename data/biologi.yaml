@@ -1,0 +1,1043 @@
+# Biologi & medicin
+# Varje nod: period (första året i 20-årsperioden), label (texten i tabellen),
+# title, wiki (språk:Artikel), text (Markdown; [text](#id) länkar till en annan nod).
+# same_as: id betyder att noden visar samma artikel som en annan nod.
+
+al-zahrawi-kirurgiska-instrument-1000:
+  period: 1000
+  label: "al-Zahrawi: kirurgiska instrument ~1000"
+  title: "al-Zahrawi, kirurgins handbok"
+  wiki:
+    - "en:Al-Zahrawi"
+  text: |
+    **al-Zahrawi** (936–1013, latiniserat Abulcasis) var läkare vid hovet i Córdoba, huvudstad i det muslimska Spanien (al-Andalus), som då var en av Europas största och rikaste städer. Omkring år 1000 fullbordade han *al-Tasrif*, ett medicinskt uppslagsverk i 30 delar.
+
+    Den sista delen handlar om kirurgi och var för sin tid unik: den innehåller teckningar av omkring 200 instrument – skalpeller, krokar, tänger, sonder, sågar, instrument för tandvård och förlossning – med beskrivningar av hur de används. Han beskriver bland annat operationer av blåssten, behandling av benbrott, kauterisering (att bränna med glödgat järn för att stoppa blödningar) och sömnad av sår med katgut, tråd av djurtarm som kroppen själv bryter ned.
+
+    Betydelsen låg i att kirurgi presenterades som en lärd disciplin baserad på anatomi, inte bara som hantverk. Kirurgidelen översattes till latin av [Gerhard av Cremona](#gerhard-av-cremona-oversatter-ptolemaios) i Toledo på 1100-talet och användes i Europa i flera hundra år; den franske kirurgen [Gui de Chauliac](#gui-de-chauliac-kirurgi) citerade honom flitigt på 1300-talet. al-Zahrawi verkade under kalifatets sista storhetstid, strax innan [Córdobakalifatet föll sönder](#cordoba-kalifatet-kollapsar-inbordeskrig).
+
+ibn-sina-medicinens-kanon-1025:
+  period: 1020
+  label: "Ibn Sina: Medicinens kanon ~1025"
+  title: "Medicinens kanon"
+  wiki:
+    - "en:The Canon of Medicine"
+    - "sv:Avicenna"
+  text: |
+    [Ibn Sina](#ibn-sina-avicenna) (980–1037, latiniserat Avicenna) var en persisk läkare och filosof som verkade vid olika hov i Iran. Omkring 1025 fullbordade han *al-Qanun fi al-Tibb*, **Medicinens kanon**, ett verk i fem böcker som samlade det mesta av den tidens medicinska kunskap i ett logiskt system.
+
+    Grunden var den grekiska läran från Hippokrates (400-talet f.Kr.) och Galenos (romersk läkare, 100-talet e.Kr.): kroppen styrs av fyra vätskor – blod, slem, gul och svart galla – och sjukdom är obalans mellan dem. Ibn Sina lade till persisk och indisk kunskap, egna kliniska iakttagelser, beskrivningar av hundratals läkemedel och regler för hur ett läkemedels verkan ska prövas: på en ren sjukdom, i rätt dos, på många fall, med jämförelse mot tid. Det är en tidig föregångare till kliniska prövningar.
+
+    Kanon översattes till latin av [Gerhard av Cremona](#gerhard-av-cremona-oversatter-ptolemaios) på 1100-talet och blev lärobok vid europeiska universitet i nästan 500 år, efter att [Salerno](#salerno-europas-forsta-medicinska-skola) och andra skolor tagit upp den arabiska medicinen. Den kommenterades flitigt, bland annat av [Ibn al-Nafis](#ibn-al-nafis-lungkretsloppet-1242), som i en kommentar beskrev lungkretsloppet. Humoralläran föll först när mikrobiologin på 1800-talet gav sjukdomar konkreta orsaker.
+
+salerno-europas-forsta-medicinska-skola:
+  period: 1040
+  label: "Salerno: Europas första medicinska skola"
+  title: "Läkarskolan i Salerno"
+  wiki:
+    - "en:Schola Medica Salernitana"
+  text: |
+    Salerno är en hamnstad i södra Italien, i en region där latinsk, grekisk-bysantinsk, judisk och arabisk kultur möttes. Här växte från 900- och 1000-talet fram **Schola Medica Salernitana**, Europas första kända skola som systematiskt utbildade läkare. Den var ingen formell institution med stadgar från början, utan en samling läkare och lärare som undervisade och skrev läroböcker.
+
+    Undervisningen byggde först på antika latinska texter, men förändrades när [Constantinus Africanus](#constantinus-africanus-oversatter) på 1000-talet översatte arabiska medicinska verk till latin. Det gav skolan en teoretisk grund i den grekisk-arabiska läran om de fyra kroppsvätskorna. Ovanligt nog fanns här kvinnliga läkare, och skrifterna under namnet [Trotula](#salernos-lakare-trotula-om-kvinnors) om kvinnors hälsa blev kända i hela Europa. Skolans populära hälsodikt, *Regimen sanitatis*, gav råd om kost, sömn och hygien.
+
+    Salerno blev förebild för de medicinska fakulteter som snart växte fram vid universitet som [Bologna](#universitetet-i-bologna-1088), Paris och Montpellier. År 1231 införde kejsaren Fredrik II krav på examen i Salerno för att få praktisera som läkare i hans rike – en tidig form av legitimation. Skolan förlorade senare betydelse till universiteten men stängdes formellt först 1811.
+
+constantinus-africanus-oversatter:
+  period: 1060
+  label: "Constantinus Africanus översätter arabisk medicin"
+  title: "Constantinus Africanus"
+  wiki:
+    - "en:Constantine the African"
+  text: |
+    **Constantinus Africanus** (död ca 1087) var en man från Nordafrika, troligen från Kairouan i nuvarande Tunisien, som kom till södra Italien på 1070-talet, konverterade till kristendomen och blev munk i klostret Monte Cassino, Benediktinordens moderkloster.
+
+    Där översatte han ett stort antal arabiska medicinska verk till latin. Bland dem fanns *Pantegni*, en latinsk version av persern Ali ibn al-Abbas al-Majusis medicinska handbok från 900-talet, samt skrifter av den judiske läkaren Isaak Israeli från Kairouan. Han angav ofta inte de arabiska författarna utan presenterade texterna som sina egna eller anonyma – något som var vanligt vid tiden men gjorde att upphovsmännen glömdes bort i Europa.
+
+    Före honom hade Västeuropa nästan bara korta, praktiska latinska receptsamlingar. Constantinus översättningar gav för första gången en teoretisk grund – den grekisk-arabiska läran om kroppsvätskor, organ och sjukdomsorsaker – och blev basen för undervisningen i [Salerno](#salerno-europas-forsta-medicinska-skola). Han var en föregångare till den stora översättningsvågen på 1100-talet i Spanien, där [översättarna i Toledo](#toledo-arabisk-vetenskap-till-latin) gjorde bland annat [Ibn Sinas Kanon](#ibn-sina-medicinens-kanon-1025) tillgänglig på latin.
+
+salernos-lakare-trotula-om-kvinnors:
+  period: 1080
+  label: "Salernos läkare: Trotula om kvinnors hälsa"
+  title: "Trotula och kvinnomedicinen"
+  wiki:
+    - "en:Trotula"
+    - "en:Trota of Salerno"
+  text: |
+    **Trotula** är namnet på en samling av tre latinska texter om kvinnors sjukdomar, förlossningar och hudvård, som växte fram i [Salerno](#salerno-europas-forsta-medicinska-skola) under 1100-talet. Namnet hänger ihop med **Trota**, en kvinnlig läkare i Salerno som verkligen fanns och skrev en egen medicinsk text; hur stor del av samlingen som går tillbaka på henne är omdiskuterat. En av texterna bygger tydligt på arabisk medicin som kommit till Salerno via [Constantinus Africanus](#constantinus-africanus-oversatter).
+
+    Texterna tar upp menstruationsbesvär, fertilitet, graviditet, svåra förlossningar och vård av nyfödda, samt kosmetik. Förklaringarna följer läran om de fyra kroppsvätskorna, där kvinnokroppen ansågs kallare och fuktigare än mannens. Råden är en blandning av praktisk erfarenhet – till exempel om att stödja mellangården vid förlossning – och behandlingar vi i dag ser som verkningslösa.
+
+    Samlingen spreds i över 100 bevarade handskrifter och översattes till flera folkspråk; den var en av de mest använda texterna om kvinnohälsa i Europa fram till 1500-talet. Länge trodde forskare att ”Trotula” var en påhittad person, men på 1990-talet visades att Trota var historisk. Hon och [Hildegard av Bingen](#hildegard-av-bingen-physica-1150) är bland de få kvinnor vars medicinska skrifter bevarats från medeltiden.
+
+hildegard-av-bingen-fods-1098-lakevaxter:
+  period: 1100
+  label: "Hildegard av Bingen föds 1098: läkeväxter"
+  title: "Hildegard av Bingen"
+  wiki:
+    - "sv:Hildegard av Bingen"
+  text: |
+    **Hildegard av Bingen** (1098–1179) var en tysk benediktinnunna som blev abbedissa och grundade egna kloster vid Rhen. Hon är en av medeltidens mest mångsidiga gestalter: hon skrev mystiska visionsböcker, komponerade musik som framförs än i dag, brevväxlade med påvar och kejsare och skrev om naturen och läkekonst. Hon helgonförklarades 2012.
+
+    Kloster var vid den här tiden centrala för sjukvården i Europa. De hade örtagårdar, sjukstugor och bibliotek med avskrifter av antika texter, och munkar och nunnor vårdade sjuka. Hildegard växte in i den traditionen. Hennes naturkunskap samlades i [Physica](#hildegard-av-bingen-physica-1150) och *Causae et curae* (”Orsaker och botemedel”), där hon beskrev hundratals växter, djur och stenar och deras läkande egenskaper.
+
+    Hennes arbete byggde mer på lokal folklig erfarenhet och klostertradition än på de grekisk-arabiska texter som samtidigt började nå Europa via [Salerno](#salerno-europas-forsta-medicinska-skola) och Toledo. Därför är hon en viktig källa till vilka växter man faktiskt använde i Tyskland på 1100-talet, bland annat en av de äldsta kända beskrivningarna av humle som konserveringsmedel i öl. Mycket av hennes medicin bygger på läran om kroppsvätskor och förutsätter samband vi inte godtar i dag.
+
+ibn-zuhr-kirurgi-pa-djur-forst:
+  period: 1120
+  label: "Ibn Zuhr: kirurgi på djur först"
+  title: "Ibn Zuhr prövar kirurgi på djur"
+  wiki:
+    - "en:Ibn Zuhr"
+  text: |
+    **Ibn Zuhr** (ca 1094–1162, latiniserat Avenzoar) var läkare i Sevilla i det muslimska Spanien och tjänade almoravidiska och sedan almohadiska härskare – två berberdynastier från Marocko som i tur och ordning styrde al-Andalus (se [almohaderna](#almohader-tar-al-andalus)). Han var lärare och vän till [Averroës](#averroes-kommenterar-aristoteles).
+
+    I *al-Taysir* (”Underlättandet”) beskrev han kliniska fynd och behandlingar och var mer kritisk mot antika auktoriteter som Galenos än många samtida. Han beskrev tidigt skabbkvalstret som orsak till skabb, gav en klinisk beskrivning av perikardit (inflammation i hjärtsäcken) och beskrev hur man ger näring till patienter som inte kan svälja, via ett silverrör eller lavemang.
+
+    Det som gör honom särskild i medicinens historia är att han, enligt sina egna texter, prövade kirurgiska ingrepp på djur innan han utförde dem på människor. Han beskriver till exempel att han provade trakeotomi – att öppna luftstrupen – på en get. Idén att testa en metod i en djurmodell innan den används kliniskt är i dag standard i läkemedels- och kirurgisk forskning, och Ibn Zuhr är ett av de tidigaste dokumenterade exemplen. Han verkade samtidigt som [Hildegard av Bingen](#hildegard-av-bingen-physica-1150) i Tyskland, men med helt annan teoretisk utbildning.
+
+hildegard-av-bingen-physica-1150:
+  period: 1140
+  label: "Hildegard av Bingen: Physica ~1150"
+  title: "Hildegards Physica"
+  wiki:
+    - "en:Physica (Hildegard)"
+    - "sv:Hildegard av Bingen"
+  text: |
+    **Physica** är ett naturkunskapsverk skrivet omkring 1150–1158 av den tyska abbedissan [Hildegard av Bingen](#hildegard-av-bingen-fods-1098-lakevaxter). Det är uppdelat i nio böcker: växter (ca 230 kapitel), grundämnen, träd, stenar, fiskar, fåglar, djur, reptiler och metaller. För varje sak beskriver hon dess natur – varm eller kall, torr eller fuktig, enligt läran om kroppsvätskor och elementen – och hur den kan användas som läkemedel eller föda.
+
+    Verket skiljer sig från de antika och arabiska texter som samtidigt översattes i Salerno och Toledo, genom att det i hög grad bygger på lokal kunskap från Rhenlandet. Hon använde tyska folkliga namn på växterna, inte bara latinska, vilket gör boken till en viktig källa för historisk botanik och tysk ordhistoria. Hon beskriver bland annat humle i öl, som man senare förstått har konserverande effekt.
+
+    Det mesta i Physica är förvetenskapligt: många råd vilar på symboliska samband eller på läran om vätskor och är verkningslösa. Men den visar hur kloster samlade och förmedlade praktisk erfarenhet. Det mer systematiska studiet av växter och djur som naturföremål återkom på 1200-talet med [Albertus Magnus](#albertus-magnus-botanik-och-zoologi) och [Fredrik II:s fågelbok](#fredrik-ii-studier-av-faglar), och på 1400-talet kom [tryckta örtaböcker](#tryckta-ortabocker).
+
+averroes-medicinsk-encyklopedi:
+  period: 1160
+  label: "Averroës: medicinsk encyklopedi"
+  title: "Averroës och medicinens allmänna principer"
+  wiki:
+    - "en:Averroes"
+    - "en:Medicine in the medieval Islamic world"
+  text: |
+    **Averroës** (Ibn Rushd, 1126–1198) var domare, läkare och filosof i Córdoba i al-Andalus, det muslimskt styrda Spanien. I Europa blev han mest känd för sina [kommentarer till Aristoteles](#averroes-kommenterar-aristoteles), men han skrev också en medicinsk lärobok, *Kulliyat fi al-tibb* (”Allmänna principer i medicinen”), på latin kallad *Colliget*.
+
+    Boken i sju delar går igenom anatomi, hälsa, sjukdomar, symtom, läkemedel, förebyggande levnadsregler och behandling. Den bygger på Galenos – den grekisk-romerske läkaren från 100-talet vars lära dominerade medicinen i över tusen år – men Averroës försökte förankra medicinen i Aristoteles naturfilosofi och ifrågasatte Galenos där resonemangen inte höll. Han beskrev till exempel näthinnan, snarare än linsen, som ögats känsliga del, även om det inte blev allmänt accepterat förrän långt senare.
+
+    Averroës skrev uttryckligen bara de allmänna principerna; hans vän [Ibn Zuhr](#ibn-zuhr-kirurgi-pa-djur-forst) skrev en kompletterande bok om konkreta sjukdomar och behandlingar. *Colliget* översattes till latin på 1200-talet och användes vid europeiska universitet, men nådde aldrig samma ställning som [Ibn Sinas Kanon](#ibn-sina-medicinens-kanon-1025), som var standardlärobok i Europa in på 1600-talet.
+
+maimonides-lakare-hos-saladin:
+  period: 1180
+  label: "Maimonides, läkare hos Saladin"
+  title: "Maimonides – filosof och hovläkare"
+  wiki:
+    - "en:Maimonides"
+    - "en:Saladin"
+  text: |
+    **Maimonides** (Moses ben Maimon, 1138–1204) föddes i Córdoba i det muslimska Spanien och blev den mest inflytelserika judiske tänkaren under medeltiden. Han skrev en systematisk sammanställning av judisk lag och filosofiverket *Vägledning för villrådiga*, som försöker förena tro med Aristoteles filosofi. Familjen flydde när den nya almohadregimen förföljde judar och kristna, och slog sig till slut ner i Fustat, den gamla delen av Kairo.
+
+    Där blev han läkare vid hovet. **Saladin** (1137–1193) var den kurdiske sultan som enade Egypten och Syrien och [tog Jerusalem från korsfararna 1187](#saladin-vinner-vid-hattin-1187-tar). Maimonides tjänade främst Saladins vesir al-Qadi al-Fadil och sedan sultanens son al-Afdal; uttrycket ”Saladins läkare” är alltså en förenkling.
+
+    Han skrev ett tiotal medicinska verk på arabiska, bland annat om astma, om förgiftningar och om hälsosamma levnadsregler. Han betonade förebyggande vård – kost, sömn, motion och sinnesstämning – och byggde på Galenos, den grekisk-romerske läkare vars lära dominerade medicinen, men pekade också ut motsägelser hos honom. Han verkade i samma kunskapstradition som [Ibn Sina](#ibn-sina-medicinens-kanon-1025) och sin samtida landsman [Averroës](#averroes-medicinsk-encyklopedi), och exemplet visar hur judiska, muslimska och grekiska idéer flöt samman i den arabiskspråkiga världen.
+
+ibn-al-baitar-1-400-lakemedel:
+  period: 1200
+  label: "Ibn al-Baitar: 1 400 läkemedel"
+  title: "Ibn al-Baitars läkemedelsuppslagsverk"
+  wiki:
+    - "en:Ibn al-Baitar"
+    - "en:De materia medica"
+  text: |
+    **Ibn al-Baitar** (ca 1197–1248) var botaniker och farmakolog från Málaga i al-Andalus, det muslimska Spanien. Han reste genom Nordafrika, Mindre Asien och Syrien för att samla och studera växter, och blev överste botaniker hos [ayyubidsultanen](#ayyubider) al-Kamil i Kairo.
+
+    Hans huvudverk är en alfabetiskt ordnad sammanställning av ”enkla” läkemedel och födoämnen – enkla betyder här enskilda substanser, inte blandningar. Den beskriver omkring 1 400 växter, djurprodukter och mineraler: utseende, var de växer, hur de bereds och vad de används mot. Han citerade ett stort antal tidigare författare men angav också när han själv kontrollerat uppgifterna, och lade till flera hundra substanser som saknades hos föregångarna.
+
+    Den viktigaste föregångaren var **Dioskurides**, en grekisk läkare på 100-talet e.Kr. vars *De materia medica* beskrev omkring 600 växter och var standardverket i över 1 500 år. Ibn al-Baitar fördubblade i praktiken det kända förrådet. Hans verk användes länge i den arabiska världen och översattes till franska på 1800-talet. Traditionen ledde i Europa till [tryckta örtaböcker](#tryckta-ortabocker) på 1400-talet och vidare till [Linnés systematiska namngivning](#linne-binomiala-namn-1753) av växter och djur.
+
+fredrik-ii-studier-av-faglar:
+  period: 1220
+  label: "Fredrik II: studier av fåglar"
+  title: "Fredrik II och falkboken"
+  wiki:
+    - "sv:Fredrik II (tysk-romersk kejsare)"
+    - "en:De arte venandi cum avibus"
+  text: |
+    **Fredrik II** (1194–1250) var tysk-romersk kejsare och kung av Sicilien, uppvuxen i Palermo där grekisk, arabisk och latinsk kultur möttes. Samtiden kallade honom *stupor mundi*, ”världens förundran”. Han talade flera språk, korresponderade med muslimska lärda, grundade universitetet i Neapel 1224 och [fick Jerusalem genom förhandlingar](#fredrik-ii-far-jerusalem-genom-avtal) i stället för krig.
+
+    Hans vetenskapliga huvudverk är *De arte venandi cum avibus* (”Om konsten att jaga med fåglar”), skrivet omkring 1240-talet. Det är en handbok i falkjakt men också ett av de första verkligt zoologiska verken i Europa. Det beskriver fåglars anatomi, fjäderdräkt, flykt, flyttning och beteende, och bygger i stor utsträckning på egna observationer. Fredrik skrev att han ville beskriva ”det som är, som det är” och rättade Aristoteles där denne enligt hans erfarenhet hade fel. Han testade till exempel om gamar hittar föda med lukt eller syn genom att täcka över deras ögon.
+
+    Detta var ovanligt: den vanliga naturlitteraturen, bestiarierna, blandade djur med moraliska sinnebilder och fabler. Fredriks empiriska hållning hör ihop med [Grosseteste](#grosseteste-optik-och-experimentell) och [Albertus Magnus](#albertus-magnus-botanik-och-zoologi) i samma århundrade, även om den stora vändningen mot systematisk observation kom först under 1500-talet.
+
+ibn-al-nafis-lungkretsloppet-1242:
+  period: 1240
+  label: "Ibn al-Nafis: lungkretsloppet ~1242"
+  title: "Ibn al-Nafis och lungkretsloppet"
+  wiki:
+    - "en:Ibn al-Nafis"
+    - "en:Pulmonary circulation"
+  text: |
+    **Ibn al-Nafis** (1213–1288) var en arabisk läkare från Damaskus som blev överläkare vid sjukhus i Kairo. Omkring 1242 skrev han en kommentar till anatomidelen av [Ibn Sinas Kanon](#ibn-sina-medicinens-kanon-1025), och i den beskrev han **lungkretsloppet** korrekt för första gången.
+
+    Den rådande läran kom från Galenos, den grekisk-romerske läkaren på 100-talet. Enligt den gick blod från hjärtats högra halva till den vänstra genom osynliga porer i skiljeväggen. Ibn al-Nafis konstaterade att skiljeväggen är tät och saknar porer. Blodet måste därför gå från höger kammare genom lungartären till lungorna, blandas med luft där, och sedan återvända genom lungvenen till vänster förmak. Han förutsade också att det måste finnas förbindelser mellan lungartärens och lungvenens förgreningar – de kapillärer som Marcello Malpighi såg i mikroskop först 1661.
+
+    Han beskrev alltså det ”lilla” kretsloppet genom lungorna, inte hela blodomloppet. Upptäckten fick ingen spridning i Europa; den gjordes om av Michael Servetus 1553 och Realdo Colombo 1559, och om de kände till Ibn al-Nafis är omstritt. Hans text återupptäcktes först 1924. Det stora kretsloppet genom kroppen visades av [Harvey 1628](#harvey-blodomloppet-1628).
+
+albertus-magnus-botanik-och-zoologi:
+  period: 1260
+  label: "Albertus Magnus: botanik och zoologi"
+  title: "Albertus Magnus – medeltidens naturforskare"
+  wiki:
+    - "sv:Albertus Magnus"
+    - "en:Albertus Magnus"
+  text: |
+    **Albertus Magnus** (ca 1200–1280) var en tysk dominikanermunk, teolog och biskop, lärare i Paris och Köln och lärare till filosofen Thomas av Aquino. Han var en av medeltidens mest produktiva författare och fick redan under sin livstid tillnamnet ”den store”.
+
+    Han ville göra hela Aristoteles naturfilosofi tillgänglig för latinska läsare och skrev omfattande kommentarer till den grekiske filosofens verk, men gick ofta längre än förlagan. I *De vegetabilibus* (om växter) beskriver han växters byggnad och skiljer mellan olika typer av blad och blommor, och han lade märke till att ljus och värme påverkar tillväxt. I *De animalibus* (om djur) lade han till ett stort antal djur som Aristoteles inte känt, särskilt från Nordeuropa, och avfärdade fabler han inte kunnat bekräfta – till exempel att pelikanen föder sina ungar med eget blod. Han skrev att i naturvetenskapen är det erfarenheten som är säker.
+
+    Han studerade också mineraler och kemi och har tillskrivits isoleringen av grundämnet arsenik, men det är osäkert. Tillsammans med [Fredrik II:s fågelstudier](#fredrik-ii-studier-av-faglar) visar hans verk att observation av naturen blev en legitim lärd verksamhet under 1200-talet. Den systematiska klassificeringen av växter och djur kom först med [Linné](#linne-binomiala-namn-1753) 500 år senare.
+
+mansurisjukhuset-i-kairo-1284:
+  period: 1280
+  label: "Mansurisjukhuset i Kairo 1284"
+  title: "Mansurisjukhuset i Kairo"
+  wiki:
+    - "en:Bimaristan"
+    - "en:Complex of Qalawun"
+  text: |
+    År 1284 lät mamluksultanen Qalawun bygga ett stort sjukhus i Kairo, al-Bimaristan al-Mansuri. **Mamlukerna** var en härskarklass av tidigare slavsoldater, främst av turkiskt och kaukasiskt ursprung, som tog makten i Egypten 1250 och 1260 [stoppade mongolerna](#ain-jalut-1260-mamluker-stoppar). Ordet *bimaristan* är persiskt och betyder ungefär ”de sjukas hus”.
+
+    Sjukhuset ingick i ett komplex med moské, skola och sultanens gravmonument och finansierades genom en **waqf**, en religiös stiftelse vars hyresintäkter från butiker och mark bekostade driften för all framtid. Det ska ha haft plats för omkring 8 000 patienter, även om den siffran är osäker. Det hade separata avdelningar för män och kvinnor och för feber, ögonsjukdomar, kirurgi, magsjukdomar och psykisk sjukdom, ett apotek, en föreläsningssal för undervisning av läkare och personal för både läkarvård och omvårdnad. Vården var gratis för alla, oavsett religion eller kön, och patienter fick pengar när de skrevs ut så att de inte behövde arbeta direkt.
+
+    Sjukhuset byggde på en lång tradition av bimaristaner i Bagdad, Damaskus och Kairo sedan 800-talet. [Ibn al-Nafis](#ibn-al-nafis-lungkretsloppet-1242) arbetade i Kairo vid den här tiden. Det var i drift i flera hundra år. Europas sjukhus var ännu mest religiösa härbärgen för fattiga och sjuka; stora, kommunalt organiserade [stadssjukhus](#stadssjukhus-ospedale-degli-innocenti) växte fram i Italien under 1400-talet.
+
+mondino-offentlig-dissektion-1315:
+  period: 1300
+  label: "Mondino: offentlig dissektion 1315"
+  title: "Mondino och den första offentliga dissektionen"
+  wiki:
+    - "en:Mondino de Luzzi"
+    - "en:History of anatomy"
+  text: |
+    **Mondino de Luzzi** (ca 1270–1326) var professor i medicin vid [universitetet i Bologna](#universitetet-i-bologna-1088). I januari 1315 dissekerade han offentligt kroppen av en avrättad kvinna inför studenter – den första kända offentliga dissektionen av en människa i Europa sedan antiken. Under antiken hade dissektion av människor gjorts i Alexandria på 200-talet f.Kr., men sedan nästan bara av djur; Galenos, vars lära dominerade medicinen, byggde mycket av sin anatomi på apor och grisar.
+
+    År 1316 skrev Mondino *Anathomia*, en kort handbok som går igenom kroppen i den ordning den dissekerades: först buken (som ruttnade snabbast), sedan bröstkorgen, huvudet och till sist lemmarna. Den blev standardlärobok i Europa i omkring 250 år och trycktes i dussintals upplagor.
+
+    Mondino rättade dock sällan Galenos; han beskrev ofta det texten sa snarare än det han såg. Upplägget blev senare ritualiserat: professorn läste högt ur en text från en upphöjd stol medan en kirurg skar och en assistent pekade. Studenterna lärde sig alltså bekräfta auktoriteten snarare än att granska. Det bröts först när [Vesalius 1543](#vesalius-de-humani-corporis-fabrica-1543) själv dissekerade och visade att Galenos hade fel på över 200 punkter. Mondino står ändå för att dissektion åter blev en del av läkarutbildningen.
+
+spetalska-minskar-i-europa:
+  period: 1320
+  label: "Spetälska minskar i Europa"
+  title: "Spetälskans tillbakagång"
+  wiki:
+    - "sv:Lepra"
+    - "en:History of leprosy"
+  text: |
+    **Spetälska** (lepra) är en kronisk infektion orsakad av bakterien *Mycobacterium leprae*, en släkting till tuberkulosbakterien. Den angriper nerver och hud, ger känselbortfall och leder till sår, skador och deformationer. Den smittar ganska svårt, via droppar under lång närkontakt, och har lång inkubationstid – ofta flera år.
+
+    Under högmedeltiden var sjukdomen vanlig i Europa, och tusentals **leprosorier** (spetälskehospital) byggdes utanför städerna – i England omkring 300, i Frankrike flera tusen. De sjuka avskildes ofta från samhället med en ritual nästan som en begravning och fick bära särskilda kläder och en skallra eller klapper som varnade andra. Sjukdomen sågs både som straff för synd och som ett tecken på Guds utkorelse.
+
+    Från omkring 1300 började sjukdomen minska kraftigt, och vid 1500-talet var den sällsynt i det mesta av Europa utom i Norden. Orsaken är omdiskuterad. Isoleringen kan ha bidragit, men andra förklaringar väger tyngre: att tuberkulos spred sig och gav en korsimmunitet, förbättrad levnadsstandard, och att [digerdöden](#digerdoden-1-3-av-europa-dor) dödade många svaga och sjuka. Genetiska studier visar att bakterien knappt förändrats sedan medeltiden, så det var människorna och miljön som ändrades. Norrmannen Gerhard Armauer Hansen identifierade bakterien 1873, en av de första sjukdomsalstrare som knöts till en specifik sjukdom. Sedan 1980-talet botas lepra med antibiotika.
+
+pestlakare-och-pestforordningar:
+  period: 1340
+  label: "Pestläkare och pestförordningar"
+  title: "Städernas första svar på digerdöden"
+  wiki:
+    - "sv:Digerdöden"
+    - "en:Plague doctor"
+  text: |
+    [Digerdöden](#digerdoden-1-3-av-europa-dor) 1347–51 var en pandemi av pest, en sjukdom orsakad av bakterien *Yersinia pestis* som sprids med loppor från råttor och, i lungform, direkt mellan människor. Ungefär en tredjedel av Europas befolkning dog. Ingen visste då vad som orsakade den: den rådande teorin var att sjukdom kom från *miasma*, förorenad och illaluktande luft, eller från en ogynnsam planetkonstellation.
+
+    Ändå svarade städerna praktiskt. Italienska städer anställde särskilda pestläkare, betalda av staden för att behandla alla, även fattiga – en tidig form av offentlig sjukvård. Pistoia utfärdade redan 1348 pestförordningar: förbud mot att föra in kläder från smittade orter, regler för begravningar och för slakt och avfall. Venedig och Florens tillsatte tillfälliga hälsokommissioner. Den kända bilden av pestläkaren med fågelnäbbsmask är för övrigt från 1600-talet, inte 1300-talet.
+
+    Förordningarna byggde på en felaktig teori men fungerade delvis ändå, eftersom att begränsa kontakter och varutransporter även bromsar loppor och smittbärare. De blev grunden för [karantänen](#karantan-i-ragusa-1377) och för permanenta hälsomyndigheter ([pestförordningar i italienska städer](#pestforordningar-i-italienska-stader)). Själva bakterien identifierades först 1894 av Alexandre Yersin.
+
+karantan-i-ragusa-1377:
+  period: 1360
+  label: "Karantän i Ragusa 1377"
+  title: "Ragusa 1377: världens första karantän"
+  wiki:
+    - "sv:Karantän"
+    - "en:Quarantine"
+  text: |
+    Ragusa, dagens Dubrovnik i Kroatien, var en självstyrande handelsstad vid Adriatiska havet med livlig sjöfart. Den 27 juli 1377 beslutade stadens stora råd att alla som kom från pestsmittade områden måste vistas 30 dagar isolerade på en ö eller i en grannort utanför staden innan de fick komma in. Detta räknas som den första kända lagstadgade karantänen.
+
+    Idén var att vänta ut en eventuell sjukdom: insjuknade personen under isoleringstiden stannade smittan utanför. Ingen visste att pest orsakas av en bakterie, men man hade sett att sjukdomen följde med människor och varor. Venedig och andra städer förlängde senare tiden till 40 dagar – på italienska *quaranta giorni*, därav ordet karantän. Talet 40 hade troligen religiös bakgrund (Jesu 40 dagar i öknen) snarare än medicinsk. Venedig byggde 1423 ett permanent pestsjukhus, ett lasarett, på en ö i lagunen.
+
+    Karantänen växte ur de tidiga [pestförordningarna](#pestlakare-och-pestforordningar) och blev standardvapnet mot epidemier i 500 år, ända tills man förstod smittämnena ([Pasteur](#pasteur-mikrober-och-pastorisering)). Principen används fortfarande, som under covid-19-pandemin 2020.
+
+gui-de-chauliac-kirurgi:
+  period: 1360
+  label: "Gui de Chauliac: kirurgi"
+  title: "Gui de Chauliac: medeltidens kirurgiska lärobok"
+  wiki:
+    - "sv:Guy de Chauliac"
+    - "en:Guy de Chauliac"
+  text: |
+    Gui de Chauliac (ca 1300–1368) var en fransk läkare och kirurg, utbildad i Montpellier och Bologna, och livläkare hos påvarna i Avignon. Under [digerdöden](#digerdoden-1-3-av-europa-dor) 1348 stannade han kvar i staden, insjuknade själv och överlevde. Han beskrev att pesten kom i två former: en med feber och blodiga upphostningar som dödade på några dagar (i dag kallad lungpest), och en med svullna lymfkörtlar, bölder (böldpest).
+
+    Hans huvudverk *Chirurgia magna* (1363) samlade allt man då visste om kirurgi: sårbehandling, frakturer, bråck, starroperation och användning av sömnsvampar indränkta i opium och andra växtdroger som bedövning. Det byggde mycket på arabiska författare som [al-Zahrawi](#al-zahrawi-kirurgiska-instrument-1000) och Ibn Sina, och på den grekiske läkaren Galenos.
+
+    På den tiden sågs kirurgi som ett hantverk, lägre än den bokliga läkekonsten. Gui argumenterade för att en kirurg måste kunna anatomi, och boken förblev en standardlärobok i Europa i ett par hundra år, översatt till många språk. Hans syn att sår skulle läka med var ledde dock delvis fel; först [Ambroise Paré](#pare-sarvard-utan-kokande-olja) på 1500-talet förnyade sårvården.
+
+pestforordningar-i-italienska-stader:
+  period: 1380
+  label: "Pestförordningar i italienska städer"
+  title: "Från nödåtgärd till permanent hälsomyndighet"
+  wiki:
+    - "en:Lazaretto"
+    - "en:Second plague pandemic"
+  text: |
+    Efter [digerdöden](#digerdoden-1-3-av-europa-dor) kom pesten tillbaka med några års mellanrum. De norditalienska stadsstaterna – Venedig, Milano, Florens – var Europas rikaste och mest byråkratiska samhällen, och de byggde gradvis upp ett system för att möta den.
+
+    Under 1400-talet blev tillfälliga pestkommissioner permanenta hälsomyndigheter; Venedig inrättade 1486 ett ständigt hälsoråd. Verktygen var: **hälsopass** (intyg att en resande eller ett skepp kom från smittfri ort), [karantän](#karantan-i-ragusa-1377), **lasarett** – isoleringssjukhus utanför staden, det första i Venedig 1423 – samt dödsregister där man noterade dödsorsak. Ett nätverk av informanter rapporterade om utbrott i andra städer så att handel kunde stoppas i tid.
+
+    Detta var det första systematiska försöket i Europa att använda statistik och statlig makt för folkhälsan, århundraden innan man förstod smittan. Ordningen kopierades i resten av Europa. En liknande metod – att leta mönster i var de döda bodde – gav senare genombrottet när [John Snow 1854](#snow-kolera-och-vattenpumpen-1854) spårade kolera till en vattenpump i London.
+
+stadssjukhus-ospedale-degli-innocenti:
+  period: 1400
+  label: "Stadssjukhus: Ospedale degli Innocenti"
+  title: "Ospedale degli Innocenti: barnhem och ny arkitektur"
+  wiki:
+    - "en:Ospedale degli Innocenti"
+  text: |
+    Ospedale degli Innocenti ("de oskyldigas sjukhus") i Florens var ett hem för övergivna barn. Det beställdes 1419 av sidenhandlarnas gille, ett av stadens mäktiga yrkesförbund, och öppnade 1445. Ordet *ospedale* betydde vid denna tid en välgörenhetsinrättning för behövande i allmänhet, inte bara sjukvård.
+
+    Behovet var stort: fattiga familjer, ogifta mödrar och tjänstekvinnor kunde inte försörja alla barn, och spädbarn övergavs. Vid ingången fanns ett ställe där man anonymt kunde lämna ett barn (senare en vridbar lucka, *ruota*). Barnen fick vård av ammor, utbildning och yrkesträning. Dödligheten var trots det mycket hög enligt dagens mått.
+
+    Byggnaden ritades av Filippo Brunelleschi, samme man som byggde [domens kupol](#brunelleschis-kupol-i-florens-142036), och räknas som en av de första byggnaderna i renässansstil: en lång loggia (öppen pelargång) med rundbågar i enkla, matematiska proportioner, inspirerade av antiken. Stadssjukhus och välgörenhetsinrättningar finansierade av gillen och rika familjer som [Medici](#medici-i-florens) var typiska för de italienska städerna; i den islamiska världen fanns stora sjukhus redan tidigare, som [Mansurisjukhuset i Kairo](#mansurisjukhuset-i-kairo-1284).
+
+pestens-aterkomster-var-10-e-ar:
+  period: 1420
+  label: "Pestens återkomster var 10:e år"
+  title: "Pesten kommer tillbaka – i 350 år"
+  wiki:
+    - "en:Second plague pandemic"
+    - "sv:Pest"
+  text: |
+    Pesten försvann inte efter [digerdöden](#digerdoden-1-3-av-europa-dor) 1347–51. Bakterien *Yersinia pestis* levde kvar i gnagarpopulationer och blossade upp igen med ungefär 10–15 års mellanrum ([pesten återkommer](#pesten-aterkommer-var-10-e15-e-ar)). Utbrottet 1361 kallades "barnpesten" eftersom det drabbade barn födda efter 1350, som saknade immunitet, särskilt hårt.
+
+    Varje utbrott dödade kanske 10–20 % av en stads invånare, ibland mer. Följden blev att Europas befolkning, som kan ha fallit med en tredjedel, inte nådde tillbaka till nivån före 1347 förrän omkring 1500. Arbetskraft blev knapp, vilket höjde lönerna och försvagade livegenskapen i Västeuropa. Pestens ständiga hot låg också bakom de växande hälsomyndigheterna ([pestförordningar i italienska städer](#pestforordningar-i-italienska-stader)).
+
+    Denna "andra pestpandemi" pågick i flera hundra år. Bland de sista stora utbrotten i Europa var [London 1665](#pesten-i-london-1665-branden-1666), [Stockholm och Norden 1710](#pest-1710) och Marseille 1720. Varför pesten sedan drog sig tillbaka från Europa är inte helt klarlagt; bättre karantän, ändrad råttpopulation och bättre bostäder har föreslagits.
+
+tryckta-ortabocker:
+  period: 1440
+  label: "Tryckta örtaböcker"
+  title: "Tryckta örtaböcker"
+  wiki:
+    - "en:Herbal"
+    - "en:Gart der Gesundheit"
+  text: |
+    En örtabok (herbarium) beskrev växter och deras medicinska användning. Under medeltiden var nästan alla läkemedel växtbaserade, och örtaböckerna var läkarnas och apotekarnas uppslagsverk. Grunden var den grekiske läkaren Dioskurides verk från 100-talet e.Kr., kompletterat av arabiska författare som [Ibn al-Baitar](#ibn-al-baitar-1-400-lakemedel) och av europeiska klosterskrifter.
+
+    Med [boktrycket](#gutenbergs-tryckpress-1450) blev örtaböckerna bland de tidigaste tryckta facklitteraturverken, med träsnitt som illustrationer. Ett känt exempel är *Gart der Gesundheit* ("Hälsans trädgård", Mainz 1485) på tyska. Fördelen var att alla exemplar hade samma bild – en handkopierad bild förvanskades för varje avskrift. Nackdelen var att de tidiga träsnitten ofta kopierades från varandra och var schematiska; en växt var svår att känna igen.
+
+    På 1530–40-talen kom böcker av Otto Brunfels och Leonhart Fuchs, där växterna ritades av efter levande exemplar. Det var ett steg mot vetenskaplig botanik baserad på egen observation, som ledde vidare till systematisk beskrivning av arter ([Gesner](#gesner-djurens-historia) för djuren) och till sist [Linnés namnsystem](#linne-binomiala-namn-1753).
+
+forsta-tryckta-medicinska-bockerna:
+  period: 1460
+  label: "Första tryckta medicinska böckerna"
+  title: "Medicinen går i tryck"
+  wiki:
+    - "en:Incunable"
+    - "en:Fasciculus medicinae"
+  text: |
+    Bland de första böcker som trycktes efter [Gutenbergs](#gutenbergs-tryckpress-1450) uppfinning fanns medicinska texter: kalendrar som angav lämpliga dagar för åderlåtning (att tappa blod, en vanlig behandling), pestskrifter och framför allt de klassiska läroböckerna. [Ibn Sinas Medicinens kanon](#ibn-sina-medicinens-kanon-1025), i latinsk översättning, trycktes första gången 1473 och kom ut i dussintals upplagor, liksom texter av de grekiska läkarna Hippokrates och Galenos.
+
+    Trycket gjorde också nya typer av böcker möjliga. *Fasciculus medicinae* (Venedig 1491) var en av de första med anatomiska bilder, och Hieronymus Brunschwigs kirurgibok (Strassburg 1497) beskrev hur man behandlar skottskador från de nya [krutvapnen](#hakebossor).
+
+    Till en början förstärkte trycket den gamla auktoriteten: Galenos och Ibn Sina blev ännu mer spridda. Men när många läsare hade exakt samma text och samma bild framför sig blev det också lättare att upptäcka var texten stred mot vad man själv såg. Det banade väg för [Vesalius](#vesalius-de-humani-corporis-fabrica-1543) anatomi 1543, som byggde på egna dissektioner och detaljerade tryckta illustrationer.
+
+syfilis-i-europa-1494:
+  period: 1480
+  label: "Syfilis i Europa 1494"
+  title: "Syfilis slår till i Europa"
+  wiki:
+    - "sv:Syfilis"
+    - "en:History of syphilis"
+  text: |
+    År 1494–95 belägrade den franske kungen Karl VIII Neapel med en armé av legosoldater från hela Europa. Där bröt en ny, våldsam sjukdom ut, med varbölder, smärtor och ofta död inom några månader. När armén upplöstes spreds den över Europa inom några år. Italienarna kallade den "den franska sjukdomen", fransmännen "den neapolitanska".
+
+    Syfilis orsakas av bakterien *Treponema pallidum* och smittar främst sexuellt. I dag förlöper den långsamt, i stadier under många år, men på 1490-talet var den betydligt akutare – troligen för att befolkningen saknade tidigare exponering. Namnet kommer från en dikt av läkaren Girolamo Fracastoro 1530. Behandlingen blev kvicksilver, som var giftigt, och senare bark från guajakträdet från Amerika; ett verkligt botemedel kom först med [penicillinet](#penicillin-1928) på 1940-talet.
+
+    Varifrån sjukdomen kom är omstritt. Den så kallade Columbushypotesen säger att [Columbus](#columbus-1492) sjömän förde den från Amerika 1493, som en del av [det columbianska utbytet](#columbianska-utbytet-majs-potatis). Fynd av skelett från Amerika med tecken på besläktade sjukdomar stöder det, men vissa europeiska skelettfynd från före 1492 och DNA-studier har tolkats som att besläktade treponema-sjukdomar fanns i Europa tidigare.
+
+leonardos-anatomiska-teckningar:
+  period: 1500
+  label: "Leonardos anatomiska teckningar"
+  title: "Leonardos anatomiska teckningar"
+  wiki:
+    - "en:Leonardo da Vinci's anatomical studies"
+    - "sv:Leonardo da Vinci"
+  text: |
+    Leonardo da Vinci (1452–1519), konstnär och ingenjör i Florens och Milano (se [Leonardo: flygmaskiner](#leonardo-flygmaskiner-mekanik)), studerade människokroppen för att kunna måla den. Särskilt 1507–1513 dissekerade han lik på sjukhus i Florens och Milano – enligt egen uppgift ett trettiotal – och gjorde hundratals detaljerade teckningar.
+
+    Teckningarna var långt före sin tid: skelettet sett från flera vinklar, musklernas lager, kraniets hålor, ett foster i livmodern och hjärtat. Han hällde vax i en oxhjärnas hålrum för att få en avgjutning av hjärnans ventriklar. Han studerade hjärtklaffarna och beskrev hur blodet virvlar i stora kroppspulsådern så att klaffarna stängs – en iakttagelse som bekräftades med moderna metoder först på 1900-talet. Han såg också åderförkalkning hos en gammal man.
+
+    Leonardo publicerade aldrig teckningarna. De hamnade så småningom i den brittiska kungliga samlingen och blev kända först på 1700–1800-talen. Därför fick de inget inflytande; det var [Vesalius](#vesalius-de-humani-corporis-fabrica-1543) tryckta anatomi 1543 som förändrade medicinen. Den offentliga dissektionen som undervisningsmetod hade införts av [Mondino](#mondino-offentlig-dissektion-1315) 200 år tidigare.
+
+paracelsus-kemi-i-medicinen:
+  period: 1520
+  label: "Paracelsus: kemi i medicinen"
+  title: "Paracelsus: läkemedel från kemin"
+  wiki:
+    - "sv:Paracelsus"
+    - "en:Paracelsus"
+  text: |
+    Paracelsus (Theophrastus von Hohenheim, 1493–1541) var en schweizisk-tysk läkare och alkemist som vandrade runt i Europa, bland annat som fältläkare och kort som stadsläkare i Basel. Han var stridslysten: 1527 brände han offentligt ett exemplar av [Ibn Sinas Kanon](#ibn-sina-medicinens-kanon-1025), symbolen för den gamla läkekonsten, och föreläste på tyska i stället för latin.
+
+    Den rådande teorin, från Galenos på 100-talet, var att sjukdom berodde på obalans mellan fyra kroppsvätskor (blod, slem, gul och svart galla), som behandlades med åderlåtning, kost och örter. Paracelsus menade i stället att sjukdomar har specifika yttre orsaker och angriper specifika organ, och att de ska behandlas med specifika ämnen, ofta mineraler och kemiska preparat som kvicksilver, antimon och järnsalter. Han beskrev gruvarbetares lungsjukdomar som arbetsrelaterade. Han är också känd för principen att "dosen gör giftet" – allt är giftigt, det är mängden som avgör.
+
+    Mycket av hans tänkande var mystiskt och astrologiskt, och kvicksilverbehandlingen mot [syfilis](#syfilis-i-europa-1494) var farlig. Men idén att framställa läkemedel kemiskt och dosera dem noggrant blev en grund för farmakologin och toxikologin. Hans efterföljare, iatrokemisterna, stred med galenikerna i över hundra år, tills [organisk kemi](#wohler-urea-1828-organisk-kemi) på 1800-talet gav läkemedelstillverkningen en verklig grund.
+
+vesalius-de-humani-corporis-fabrica-1543:
+  period: 1540
+  label: "Vesalius: De humani corporis fabrica 1543"
+  title: "Vesalius: den moderna anatomin"
+  wiki:
+    - "en:De humani corporis fabrica"
+    - "sv:Andreas Vesalius"
+  text: |
+    **Andreas Vesalius** (1514–1564) var en flamländsk läkare och professor i anatomi i Padua i Italien. År 1543, samma år som [Kopernikus bok om solsystemet](#kopernikus-de-revolutionibus-1543), gav han ut *De humani corporis fabrica* ("Om människokroppens byggnad"), sju böcker med drygt 600 sidor och mycket detaljerade träsnitt av skelett, muskler och organ.
+
+    Fram till dess byggde läkarutbildningen på **Galenos**, en grekisk läkare i Romarriket på 100-talet, vars texter lästes högt medan en assistent dissekerade. Galenos hade främst dissekerat djur som apor och grisar, och flera av hans beskrivningar stämde därför inte på människor. Vesalius dissekerade själv människokroppar och visade exempelvis att underkäken är ett enda ben, inte två, och att ett nätverk av blodkärl vid hjärnbasen som Galenos beskrev finns hos vissa djur men inte hos människan.
+
+    Principen att lita på egen observation framför auktoriteter är kärnan i det som kallas [den vetenskapliga revolutionen](#vetenskapliga-revolutionen-borjar). Vesalius byggde vidare på en tradition där även [Leonardos anatomiska studier](#leonardos-anatomiska-teckningar) ingick, fast dessa aldrig publicerades. Hans efterföljare i Padua, bland andra [Fabricius](#fabricius-venklaffar-1603), ledde fram till Harveys upptäckt av blodomloppet.
+
+gesner-djurens-historia:
+  period: 1540
+  label: "Gesner: djurens historia"
+  title: "Gessner: djurens historia"
+  wiki:
+    - "en:Historiae animalium (Gessner)"
+    - "en:Conrad Gessner"
+  text: |
+    **Conrad Gessner** (1516–1565) var läkare i Zürich och en av renässansens stora samlare av kunskap. Hans *Historiae animalium* ("Djurens historia", 1551–1558) är fem band på sammanlagt runt 4 500 sidor och räknas som början på modern zoologi. Han skrev också *Bibliotheca universalis* (1545), ett försök att förteckna alla böcker skrivna på latin, grekiska och hebreiska, vilket gjort honom känd som bibliografins fader.
+
+    För varje djur samlade Gessner allt han kunde hitta: namn på olika språk, utseende, levnadssätt, användning som mat eller medicin, och vad antika författare och folktro sagt. Materialet blandar egna iakttagelser och brev från korrespondenter med fabler; enhörningar och sjöodjur finns med, ofta försedda med förbehåll. Många av de omkring tusen träsnitten, bland annat en kopia av Dürers berömda noshörning, blev standardbilder i över ett sekel.
+
+    Boken är ett exempel på hur [boktrycket](#gutenbergs-tryckpress-1450) gjorde det möjligt att sprida stora illustrerade uppslagsverk, liksom de [tryckta örtaböckerna](#tryckta-ortabocker) för växter. Gessner ordnade djuren alfabetiskt inom grova grupper; en systematisk indelning efter släktskap kom först senare med [John Ray](#ray-begreppet-art-1686) och [Linné](#linne-binomiala-namn-1753).
+
+pare-sarvard-utan-kokande-olja:
+  period: 1560
+  label: "Paré: sårvård utan kokande olja"
+  title: "Paré: skonsammare sårvård"
+  wiki:
+    - "en:Ambroise Paré"
+  text: |
+    **Ambroise Paré** (ca 1510–1590) var en fransk fältskär, alltså en kirurg med hantverksutbildning som barberare snarare än universitetsutbildad läkare. Han tjänade i de franska arméerna och blev senare kirurg åt fyra franska kungar.
+
+    När [handeldvapen](#hjullasgevar) spreds trodde man att skottsår förgiftades av krutet. Standardbehandlingen var att hälla kokande fläderolja i såret för att bränna bort giftet. Vid belägringen av Turin 1537 tog oljan slut, och Paré fick improvisera ett förband av äggula, rosenolja och terpentin. Han sov oroligt, men nästa morgon mådde de soldaterna bättre, med mindre smärta och svullnad, än de som fått oljan. Han slutade med oljan och skrev om det 1545, på franska så att andra fältskärer kunde läsa.
+
+    Paré återinförde också att man vid amputation knöt av blodkärlen med tråd i stället för att bränna såret med glödgat järn, och han konstruerade proteser. Hans hållning, att pröva och jämföra i stället för att följa tradition, påminner om [Vesalius](#vesalius-de-humani-corporis-fabrica-1543) samtida arbete i anatomi. Att infektioner orsakas av mikroorganismer förstod man dock först tre sekler senare, vilket ledde till [Listers antiseptik](#lister-antiseptik-1867).
+
+fabricius-venklaffar-1603:
+  period: 1580
+  label: "Fabricius: venklaffar 1603"
+  title: "Fabricius: klaffarna i venerna"
+  wiki:
+    - "en:Hieronymus Fabricius"
+  text: |
+    **Hieronymus Fabricius** (1537–1619), kallad ab Aquapendente efter sin hemstad, var professor i anatomi i Padua, Europas ledande medicinska universitet. Han lät 1594 bygga en anatomisk teater, en brant amfiteater där studenter kunde se dissektioner på nära håll; den finns kvar än i dag.
+
+    I *De venarum ostiolis* ("Om venernas små dörrar", 1603) beskrev han klaffarna i venerna: tunna hudveck på insidan av blodkärlen, särskilt i armar och ben. Andra hade sett dem förut, men Fabricius beskrev dem systematiskt. Han tolkade dem dock inom Galenos gamla modell, där blod ständigt bildas i levern och förbrukas ute i kroppen: klaffarna skulle bromsa blodet så att det inte samlades i fötterna.
+
+    Hans student [William Harvey](#harvey-studerar-i-padua) såg något annat. Klaffarna släpper bara igenom blod i riktning mot hjärtat. Om man trycker på en ven på underarmen kan man se att blodet inte går att pressa åt andra hållet. Det var en av nycklarna till insikten att blodet cirkulerar i ett slutet system, som Harvey publicerade 1628, se [blodomloppet](#harvey-blodomloppet-1628). Fabricius står alltså i kedjan från [Vesalius](#vesalius-de-humani-corporis-fabrica-1543) till Harvey.
+
+harvey-studerar-i-padua:
+  period: 1600
+  label: "Harvey studerar i Padua"
+  title: "Harvey i Padua"
+  wiki:
+    - "sv:William Harvey"
+    - "en:University of Padua"
+  text: |
+    **William Harvey** (1578–1657), engelsk läkare, studerade medicin i Padua i Italien 1599–1602, efter studier i Cambridge. Universitetet i Padua, som låg i republiken Venedig, var Europas mest ansedda medicinska lärosäte. Det var relativt öppet för protestantiska studenter från norra Europa eftersom Venedig höll inkvisitionen på avstånd.
+
+    I Padua fanns en tradition av anatomi baserad på egna dissektioner, inledd av [Vesalius](#vesalius-de-humani-corporis-fabrica-1543) på 1530–40-talen. Harveys lärare var [Fabricius](#fabricius-venklaffar-1603), som just då studerade klaffarna i venerna, och samtidigt undervisade [Galilei](#galilei-pendel-och-fallrorelse) i matematik vid samma universitet. Om Harvey hörde Galilei är okänt, men miljön präglades av mätning och kontrollerade iakttagelser.
+
+    Tillbaka i London blev Harvey läkare vid S:t Bartholomew's Hospital och senare livläkare åt kungen. Han dissekerade hjärtan hos många djurarter och kombinerade det med en enkel kalkyl: om hjärtat pumpar ut några tiotal gram blod per slag och slår tusentals gånger i timmen, blir mängden per timme många gånger kroppens vikt. Blodet kan alltså inte nybildas hela tiden utan måste gå runt. Det publicerade han 1628, se [blodomloppet](#harvey-blodomloppet-1628).
+
+harvey-blodomloppet-1628-2:
+  period: 1620
+  label: "Harvey: blodomloppet 1628"
+  same_as: harvey-blodomloppet-1628
+
+kininbark-mot-malaria:
+  period: 1640
+  label: "Kininbark mot malaria"
+  title: "Kinabark mot malaria"
+  wiki:
+    - "en:Cinchona"
+    - "sv:Kinin"
+  text: |
+    **Malaria** är en sjukdom som orsakas av en encellig parasit (av släktet *Plasmodium*) och sprids av myggor. Den ger återkommande feberattacker och var på 1600-talet vanlig även i södra Europa, bland annat i träskmarkerna kring Rom, liksom i England och Sverige. Orsaken var okänd; namnet kommer av italienskans *mal'aria*, "dålig luft".
+
+    Barken från kinaträdet (släktet *Cinchona*), som växer i Anderna i Peru, Bolivia och Ecuador, visade sig bota feberattackerna. Ursprungsbefolkningen kan ha känt till verkan; detaljerna är osäkra. Jesuitmissionärer i Lima förde barken till Europa på 1630–40-talen, och den kallades därför "jesuitpulver". Det gav motstånd i det protestantiska England. Legenden att den spanska vicekungens hustru, grevinnan av Chinchón, botades och gav trädet dess namn anses i dag vara en myt.
+
+    Kinabarken var ett av de första läkemedlen som verkligen botade en specifik sjukdom, i stället för att följa den antika läran om kroppsvätskor. Den verksamma substansen, kinin, isolerades först 1820 av franska kemister. Kinin blev avgörande för europeisk kolonisation av tropiska Afrika och Asien under 1800-talet, och britternas gin och tonic började som ett sätt att få i sig kinin. Plantager i Java ersatte senare de vilda träden. Barken var en del av det större utbytet av växter och sjukdomar mellan världsdelarna, se [det columbianska utbytet](#columbianska-utbytet-majs-potatis).
+
+hooke-celler-1665:
+  period: 1660
+  label: "Hooke: celler 1665"
+  title: "Hooke ser celler i kork"
+  wiki:
+    - "sv:Cell"
+    - "sv:Robert Hooke"
+  text: |
+    I [Micrographia](#hookes-micrographia-1665) (1665) beskrev **Robert Hooke**, engelsk naturforskare vid Royal Society, vad han såg när han skar en mycket tunn skiva kork med en vass pennkniv och tittade på den i mikroskop. Korken bestod av små tomma rum, ordnade som en bikaka. Han kallade dem *cells*, efter latinets *cella*, litet rum, som i munkarnas celler i ett kloster. Han uppskattade att en kubiktum kork innehöll över en miljard sådana.
+
+    Det Hooke såg var egentligen bara de döda cellväggarna; korkcellerna är tomma eftersom korken är död vävnad från korkeken. Han såg liknande strukturer i andra växter och noterade att levande växters celler var fyllda med saft, men han förstod inte att cellen är livets grundenhet. För honom var "cellerna" en mekanisk struktur som förklarade varför kork är lätt och fjädrande.
+
+    Ordet blev kvar. Under ett och ett halvt sekel efter Hooke såg man allt fler cellstrukturer med bättre [mikroskop](#mikroskop-1590), bland annat [Leeuwenhoeks](#leeuwenhoek-bakterier-1676) encelliga organismer. Först 1838–39 formulerade de tyska biologerna Schleiden och Schwann cellteorin: alla levande varelser består av celler, och cellen är den grundläggande enheten för liv. Hookes iakttagelse är därmed starten på en kedja som leder till dagens cell- och molekylärbiologi.
+
+leeuwenhoek-bakterier-1676:
+  period: 1660
+  label: "Leeuwenhoek: bakterier 1676"
+  title: "Leeuwenhoek ser bakterier"
+  wiki:
+    - "sv:Antonie van Leeuwenhoek"
+    - "sv:Bakterier"
+  text: |
+    **Antonie van Leeuwenhoek** (1632–1723) var en tygköpman och stadstjänsteman i Delft i Nederländerna, utan universitetsutbildning och utan kunskaper i latin. Han slipade, eller enligt senare undersökningar delvis smälte, egna små glaslinser och byggde enkla mikroskop: en enda pärlstor lins i en mässingsplatta som man höll nära ögat. De bästa förstorade omkring 200–270 gånger, långt mer än dåtidens sammansatta mikroskop.
+
+    År 1676 skrev han till [Royal Society](#royal-society) i London att han i regnvatten och pepparvatten sett myriader av små levande varelser, "animalcules" (smådjur), mycket mindre än något man tidigare sett. Han såg encelliga organismer och, särskilt i plack skrapat från tänderna 1683, det som i dag identifieras som bakterier. Han uppskattade antal och storlek genom jämförelser med sandkorn. Sällskapet var skeptiskt och lät [Hooke](#hooke-celler-1665) upprepa försöken, vilket bekräftade fynden 1677. Leeuwenhoek beskrev senare även [blodkroppar och spermier](#leeuwenhoek-blodkroppar-och-spermier).
+
+    Han skrev runt 190 brev men avslöjade aldrig hur han gjorde linserna, och ingen kunde efterlikna dem på länge. Kopplingen mellan mikroorganismer och sjukdomar gjordes först omkring 200 år senare, med [bakterieteorin](#bakterieteorin) hos Pasteur och Koch. Han bidrog också till att motbevisa uralstring, föreställningen att liv uppstår spontant ur död materia.
+
+redi-mot-uralstring:
+  period: 1660
+  label: "Redi mot uralstring"
+  title: "Redi visar att maskar kommer från flugor (1668)"
+  wiki:
+    - "en:Francesco Redi"
+    - "en:Spontaneous generation"
+  text: |
+    **Uralstring** (spontan generering) var den urgamla idén att liv kan uppstå direkt ur död materia: maskar ur ruttnande kött, möss ur smutsigt hö, grodor ur gyttja. Tanken fanns redan hos Aristoteles på 300-talet f.Kr. och var fortfarande allmänt accepterad på 1600-talet.
+
+    **Francesco Redi** (1626–1697) var hovläkare hos storhertigen av Toscana i Florens och även poet. 1668 gjorde han ett enkelt men avgörande experiment: han lade kött i flera burkar. Några lämnades öppna, några förseglades och några täcktes med tunn gasväv som släppte in luft men inte flugor. Maskar (fluglarver) dök bara upp i de öppna burkarna; på gasväven lade flugorna ägg som inte nådde köttet. Slutsatsen: larverna kommer från flugornas ägg, inte från köttet.
+
+    Experimentet är ett tidigt exempel på en kontrollgrupp – man ändrar en faktor i taget och jämför. Men frågan var inte avgjord. När [Leeuwenhoek några år senare såg mikroorganismer](#leeuwenhoek-bakterier-1676) i sina mikroskop flyttades debatten ner till den nivån: kanske uppstår inte stora djur ur intet, men väl de små? Den striden fortsatte med [Spallanzanis kokade buljonger](#spallanzani-mot-uralstring) på 1760-talet och avgjordes först av [Pasteur](#pasteur-mikrober-och-pastorisering) runt 1860.
+
+ray-begreppet-art-1686:
+  period: 1680
+  label: "Ray: begreppet art 1686"
+  title: "John Ray definierar arten (1686)"
+  wiki:
+    - "en:John Ray"
+    - "en:Species"
+  text: |
+    **John Ray** (1627–1705) var en engelsk präst och naturforskare som gjorde det första stora försöket att sortera alla kända växter. I verket Historia Plantarum (1686–1704) beskrev han omkring 18 000 växter (ungefärlig siffra).
+
+    Hans viktigaste bidrag var en tydlig definition av **art**. Tidigare grupperades växter mest efter utseende eller användning (medicinska, ätliga). Ray föreslog ett kriterium baserat på fortplantning: individer som ger upphov till likadana individer ur sina frön hör till samma art; former som aldrig uppstår ur varandras frön är skilda arter. Det är en föregångare till dagens biologiska artbegrepp, där en art är en grupp som kan föröka sig med varandra. Han delade också in blomväxterna i en- och tvåhjärtbladiga, en indelning som till stor del håller än i dag.
+
+    Ray såg arterna som fasta, skapade av Gud, och skrev en uppmärksammad bok om hur naturens ändamålsenlighet visar på en skapare. Hans artbegrepp blev grunden för [Linnés namnsystem](#linne-binomiala-namn-1753) på 1700-talet. Att arter kan förändras föreslogs av [Lamarck](#lamarck-arter-forandras-1809) och förklarades av [Darwin och Wallace](#darwin-och-wallace-evolution-185859).
+
+leeuwenhoek-blodkroppar-och-spermier:
+  period: 1700
+  label: "Leeuwenhoek: blodkroppar och spermier"
+  title: "Leeuwenhoek ser blodkroppar och spermier"
+  wiki:
+    - "en:Antonie van Leeuwenhoek"
+    - "en:Spermatozoon"
+  text: |
+    **Antoni van Leeuwenhoek** (1632–1723) var en tygköpman i Delft i Nederländerna utan universitetsutbildning. Han slipade egna mikroskop med en enda liten lins, som förstorade uppåt 200–300 gånger – bättre än tidens sammansatta mikroskop. Han skrev hundratals brev om vad han såg till Royal Society i London, fram till sin död 1723.
+
+    Efter [upptäckten av bakterier 1676](#leeuwenhoek-bakterier-1676) beskrev han 1677 **spermier** i sädesvätska, som rörliga "små djur". Han beskrev också noggrant de röda **blodkropparna** (holländaren Swammerdam hade sett dem tidigare) och 1688 såg han blod strömma genom hårfina kärl, **kapillärer**, i en grodyngels svans.
+
+    Kapillärerna var den saknade länken i [Harveys teori om blodomloppet](#harvey-blodomloppet-1628): Harvey hade inte kunnat visa hur blodet tar sig från artärer till vener (italienaren Malpighi hade sett kapillärer i lungor 1661). Spermierna väckte en lång strid om fortplantning: "spermister" trodde att en färdig liten människa satt i spermien, "ovister" att den fanns i ägget. Att båda bidrar förstods först på 1800-talet. Leeuwenhoek fortsatte arbetet som [Robert Hooke](#hooke-celler-1665) börjat och öppnade mikrovärlden för biologin.
+
+variolation-mot-smittkoppor-1721:
+  period: 1720
+  label: "Variolation mot smittkoppor 1721"
+  title: "Variolation mot smittkoppor (1721)"
+  wiki:
+    - "en:Variolation"
+    - "en:Mary Wortley Montagu"
+  text: |
+    **Smittkoppor** var en av de dödligaste sjukdomarna i historien, orsakad av ett virus. I 1700-talets Europa dog uppskattningsvis 400 000 människor per år, och omkring var tredje smittad dog (ungefärliga siffror). Men den som överlevt blev immun för livet.
+
+    **Variolation** utnyttjade det: man tog var från en smittkoppsblåsa hos en lindrigt sjuk person och ritsade in det i huden på en frisk. Oftast gav det en mildare sjukdom, med en dödlighet på kanske 1–2 procent i stället för omkring 30 procent, och därefter immunitet. Metoden var känd sedan länge i Kina, Indien, Osmanska riket och Afrika. **Lady Mary Wortley Montagu**, gift med det brittiska sändebudet i Konstantinopel och själv ärrad av smittkoppor, lät variolera sin son där och 1721 sin dotter i London under en epidemi. Samma år i Boston fick predikanten Cotton Mather idén från en förslavad afrikan, Onesimus, och läkaren Zabdiel Boylston variolerade hundratals personer – med tydligt lägre dödlighet än bland de naturligt smittade.
+
+    Nackdelen var att de variolerade själva var smittsamma och kunde starta nya utbrott. Därför var [Jenners vaccin 1796](#jenners-vaccin-1796), som använde ofarliga kokoppor, ett stort framsteg. Boylstons jämförelse av dödstal är också en tidig medicinsk statistisk studie. Kedjan slutade med att [smittkoppor utrotades 1980](#smittkoppor-utrotade-1980).
+
+linne-binomiala-namn-1753:
+  period: 1740
+  label: "Linné: binomiala namn 1753"
+  title: "Linnés tvådelade namn (1753)"
+  wiki:
+    - "sv:Binomialnomenklatur"
+    - "sv:Carl von Linné"
+    - "en:Species Plantarum"
+  text: |
+    **Carl von Linné** (1707–1778) var professor i medicin och botanik i Uppsala och skickade ut elever – "apostlar" – över hela världen för att samla växter. Hans system för att ordna naturen presenterades först i [Systema Naturae](#linne-systema-naturae) 1735.
+
+    1753 kom Species Plantarum, där han konsekvent gav varje växtart ett **binomialt namn**: två latinska ord, släkte plus artepitet. Tidigare hade arter beskrivits med långa latinska fraser som samtidigt var beskrivning och namn, t.ex. något i stil med "Rosa med släta stjälkar och fyllda blommor", som ändrades varje gång en ny närliggande art hittades. Linné separerade namnet från beskrivningen: *Homo sapiens* (människa, 1758), *Pinus sylvestris* (tall). Arterna ordnades i en hierarki av släkten, ordningar och klasser – en trädstruktur med unika nycklar, för att tala datavetenskapligt.
+
+    Systemet var lätt att lära sig och blev snabbt internationell standard. Startdatumet för giltiga växtnamn är formellt satt till 1 maj 1753, och för djur till 1758. Linnés indelning av växter efter antalet ståndare och pistiller var dock konstlad och ersattes senare. Han byggde på [John Rays artbegrepp](#ray-begreppet-art-1686) och såg arterna som fasta. Senare blev det tydligt att hierarkin speglar släktskap, något [Darwin och Wallace](#darwin-och-wallace-evolution-185859) förklarade med evolution.
+
+lind-citrus-mot-skorbjugg-1747:
+  period: 1740
+  label: "Lind: citrus mot skörbjugg 1747"
+  title: "Lind testar citrus mot skörbjugg (1747)"
+  wiki:
+    - "en:James Lind"
+    - "sv:Skörbjugg"
+  text: |
+    **Skörbjugg** är en bristsjukdom som orsakas av för lite **C-vitamin** i kosten. Kroppen kan inte bilda kollagen, bindvävens byggsten: tandköttet blöder, gamla sår går upp och man dör till slut. På långa sjöresor med torkad och saltad mat var den en av de största dödsorsakerna; på George Ansons världsomsegling 1740–44 dog en stor del av besättningen, många av skörbjugg.
+
+    **James Lind** (1716–1794) var skotsk skeppsläkare i brittiska flottan. 1747, ombord på HMS Salisbury, tog han tolv sjömän med skörbjugg, så lika sjuka som möjligt, gav dem samma grundkost och delade in dem i sex par med olika tillägg: cider, utspädd svavelsyra, vinäger, havsvatten, en kryddpasta, eller två apelsiner och en citron per dag. Paret med citrus blev nästan friska på en vecka; inget annat hjälpte tydligt. Det räknas som ett av de första **kontrollerade kliniska försöken** – jämförelse av behandlingar i parallella grupper under lika förhållanden.
+
+    Lind förstod inte orsaken, trodde inte heller helt på sitt resultat och rekommenderade en koncentrerad, inkokt saft som förstörde mycket av vitaminet. Först 1795 införde brittiska flottan citronsaft i ransonerna. C-vitamin identifierades först på 1930-talet. Jämför [Boylstons statistik över variolation](#variolation-mot-smittkoppor-1721) och [John Snows kolerastudie](#snow-kolera-och-vattenpumpen-1854) – tidiga exempel på hur medicin började bygga på systematiska jämförelser.
+
+spallanzani-mot-uralstring:
+  period: 1760
+  label: "Spallanzani mot uralstring"
+  title: "Spallanzani kokar buljong (1760-talet)"
+  wiki:
+    - "en:Lazzaro Spallanzani"
+    - "en:Spontaneous generation"
+  text: |
+    **Uralstring** är idén att levande varelser kan uppstå spontant ur död materia. [Redi](#redi-mot-uralstring) hade 1668 visat att maskar i kött kommer från flugägg, men när [Leeuwenhoek upptäckte mikroorganismer](#leeuwenhoek-bakterier-1676) trodde många att åtminstone dessa uppstod av sig själva. 1748 hade den engelske prästen John Needham kokat köttbuljong kort, förslutit den med kork och ändå funnit mikrober efter några dagar – som han tolkade som bevis för uralstring.
+
+    **Lazzaro Spallanzani** (1729–1799), italiensk präst och professor i Pavia, upprepade försöket på 1760-talet med större noggrannhet. Han kokade buljongen längre, upp till en timme, och smälte igen flaskhalsarna i glaset. Då uppstod inget liv. Kort kokning eller otäta flaskor gav mikrober. Slutsatsen var att mikroberna kom utifrån eller överlevde kort kokning – inte att de bildades i buljongen.
+
+    Needham invände att lång kokning förstörde en "livskraft" i luften i flaskan. Frågan förblev öppen i ytterligare ett sekel, tills [Pasteur](#pasteur-mikrober-och-pastorisering) omkring 1860 visade med svanhalskolvar – som släpper in luft men inte damm – att buljongen förblir steril. Spallanzanis metod inspirerade fransmannen Nicolas Appert att runt 1800 konservera mat i slutna, kokade behållare – konservburkens ursprung. Spallanzani gjorde också den första konstgjorda inseminationen, på en hund.
+
+jenners-vaccin-1796-2:
+  period: 1780
+  label: "Jenners vaccin 1796"
+  same_as: jenners-vaccin-1796
+
+lavoisier-andning-ar-forbranning:
+  period: 1780
+  label: "Lavoisier: andning är förbränning"
+  title: "Kroppen som en långsam eld"
+  wiki:
+    - "sv:Antoine Lavoisier"
+    - "en:Respiration (physiology)"
+  text: |
+    **Antoine Lavoisier** (1743–1794) var en fransk kemist som brukar räknas som den moderna kemins grundare; han visade att förbränning är en reaktion med syre (se [kemins revolution](#lavoisier-syre-kemins-revolution)). Han halshöggs under franska revolutionen 1794, inte för sin forskning utan för att han varit skatteindrivare.
+
+    Omkring 1782–1783 gjorde han tillsammans med matematikern Pierre-Simon Laplace ett elegant försök. De satte ett marsvin i en *iskalorimeter*: en behållare omgiven av is, där mängden smält is mäter hur mycket värme djuret avger. Samtidigt mätte de hur mycket koldioxid djuret andades ut och jämförde med hur mycket värme som bildas när kol brinner och ger samma mängd koldioxid. Siffrorna stämde ungefär. Slutsatsen: andning är en långsam förbränning. Kroppen tar upp syre och "bränner" kol och väte från födan till koldioxid och vatten, och kroppsvärmen är förbränningsvärmen.
+
+    Det var ett radikalt steg: livsprocesser kunde mätas och förklaras med samma kemi som en brinnande ljuslåga. Idén ledde vidare till ämnesomsättningsforskning och kalorimätning av mat, och den var en av trådarna som 1840-talets fysiker följde när de formulerade [energiprincipen](#energiprincipen-joule-helmholtz-1847). Att även kroppens ämnen kunde framställas på kemisk väg visades senare av [Wöhlers ureasyntes](#wohler-urea-1828-organisk-kemi).
+
+lamarck-arter-forandras-1809:
+  period: 1800
+  label: "Lamarck: arter förändras 1809"
+  title: "Den första evolutionsteorin"
+  wiki:
+    - "en:Lamarckism"
+    - "sv:Jean-Baptiste de Lamarck"
+  text: |
+    **Jean-Baptiste Lamarck** (1744–1829) var en fransk naturforskare vid naturhistoriska museet i Paris, expert på ryggradslösa djur och en av dem som myntade ordet *biologi*. I *Philosophie zoologique* (1809) lade han fram den första genomarbetade teorin om att arter förändras över mycket lång tid.
+
+    Den rådande synen, som i [Linnés](#linne-binomiala-namn-1753) klassificering, var att arter är fasta sedan skapelsen. Den inflytelserika anatomen Georges Cuvier visade att arter kan dö ut, men förklarade det med katastrofer, inte förändring. Lamarck föreslog två mekanismer: en inneboende drift mot ökad komplexitet, och att egenskaper som en individ förvärvar under livet ärvs. Organ som används mycket växer, organ som inte används tillbakabildas, och förändringen förs vidare till avkomman. Standardexemplet är giraffen som sträcker på halsen för att nå löv och får ungar med lite längre hals.
+
+    Mekanismen visade sig fel. [Darwin och Wallace](#darwin-och-wallace-evolution-185859) förklarade förändringen med naturligt urval bland slumpmässiga variationer, och [Mendels](#mendels-artor-1865) ärftlighetslära visade att anlag förs vidare oförändrade. På 1880-talet visade August Weismann att kroppens förändringar inte når könscellerna. Lamarcks förtjänst är att han tog den djupa tiden och arternas föränderlighet på allvar ett halvsekel före Darwin. Dagens epigenetik visar att vissa miljöeffekter kan påverka genuttryck över en eller ett par generationer, men det är inte Lamarcks mekanism.
+
+stetoskopet-1816:
+  period: 1800
+  label: "stetoskopet 1816"
+  title: "Att lyssna in i kroppen"
+  wiki:
+    - "sv:Stetoskop"
+    - "en:René Laennec"
+  text: |
+    **René Laennec** (1781–1826) var en fransk läkare i Paris. 1816 skulle han undersöka en ung kvinna med hjärtbesvär. Att lägga örat direkt mot bröstet, som man gjorde, var opassande och fungerade dessutom dåligt på överviktiga patienter. Han rullade ihop ett pappersark till ett rör, satte det mot bröstet och hörde hjärtat tydligare än någonsin. Snart ersatte han papperet med en ihålig träcylinder, ungefär 25 cm lång, och döpte den till *stetoskop* (grekiska för "bröstbetraktare").
+
+    Det viktiga var inte röret utan metoden. Laennec lyssnade systematiskt på hundratals patienter och jämförde ljuden med vad obduktionerna visade efter döden. I sitt verk från 1819 beskrev han hur till exempel lunginflammation, tuberkulos och hjärtfel låter. Ironiskt nog dog han själv i tuberkulos vid 45 års ålder.
+
+    Stetoskopet var en del av ett större skifte i Paris kring 1800: läkare började ställa diagnos genom att undersöka kroppen och koppla symtom till skador i bestämda organ, i stället för att utgå från patientens berättelse och teorier om kroppsvätskor. Österrikaren Leopold Auenbrugger hade redan 1761 infört att knacka på bröstkorgen och lyssna. Stetoskopet fick sin moderna form med två öronslangar på 1850-talet. Nästa stora språng i att "se in" i kroppen utan att skära kom med [röntgenstrålningen](#rontgenstralning) 1895.
+
+wohler-urea-1828-organisk-kemi:
+  period: 1820
+  label: "Wöhler: urea 1828, organisk kemi"
+  title: "Livets ämnen ur laboratoriet"
+  wiki:
+    - "en:Wöhler synthesis"
+    - "sv:Friedrich Wöhler"
+  text: |
+    **Friedrich Wöhler** (1800–1882) var en tysk kemist som hade studerat för den svenske kemisten Jöns Jacob Berzelius i Stockholm. Berzelius var en av tidens ledande kemister och hade infört dagens kemiska beteckningar som H₂O. Han hade också gjort skillnad på *oorganiska* ämnen, som salter och mineral, och *organiska*, ämnen som bara bildades i levande organismer. Många trodde, en uppfattning kallad *vitalism*, att det senare krävde en särskild "livskraft".
+
+    1828 upphettade Wöhler det oorganiska saltet ammoniumcyanat (NH₄OCN) och fick urinämne, urea (CO(NH₂)₂) – samma ämne som finns i urin. Han skrev triumferande till Berzelius att han kunnat göra urea "utan att behöva en njure, vare sig av människa eller hund". Lägg märke till att båda ämnena består av exakt samma atomer, bara olika ordnade. Det var ett tidigt exempel på det Berzelius kallade *isomeri*: att egenskaperna beror på hur atomerna sitter ihop, inte bara vilka de är.
+
+    Synen att Wöhler ensam krossade vitalismen är en senare förenkling: ureasyntesen övertygade inte alla, och vitalismen dog ut gradvis. Men under de följande årtiondena framställde kemister allt fler organiska ämnen syntetiskt, och "organisk kemi" kom att betyda kolföreningarnas kemi, oavsett ursprung. Det öppnade för syntetiska färgämnen på 1850-talet, läkemedel och plaster – och stödde den hållning som redan [Lavoisier](#lavoisier-andning-ar-forbranning) hade, att livets processer följer vanlig kemi.
+
+brownsk-rorelse-1827:
+  period: 1820
+  label: "Brownsk rörelse 1827"
+  title: "Pollenkorn som aldrig står still"
+  wiki:
+    - "sv:Brownsk rörelse"
+    - "en:Robert Brown (botanist, born 1773)"
+  text: |
+    **Robert Brown** (1773–1858) var en skotsk botaniker, känd bland annat för att ha gett cellkärnan dess namn. 1827 studerade han i mikroskop små partiklar som frigjorts ur pollenkorn, ungefär några tusendels millimeter stora, i en vattendroppe. De rörde sig hela tiden i oregelbundna, sicksackande banor och slutade aldrig.
+
+    Först trodde han att rörelsen var ett tecken på liv. Men han upprepade försöket med död växtdel, glaspulver och stendamm och fick samma resultat: rörelsen hade inget med liv att göra. Han kunde dock inte förklara den. Under resten av 1800-talet föreslogs bland annat strömmar i vätskan och avdunstning, men ingen förklaring höll.
+
+    Svaret kom från [Einstein 1905](#einstein-1905-och-1915). Han visade att rörelsen orsakas av att vattenmolekylerna, som rör sig slumpmässigt på grund av värme, ständigt knuffar partikeln från alla håll, och att knuffarna inte tar ut varandra exakt i varje ögonblick. Han förutsade hur långt en partikel i genomsnitt hinner vandra: avståndet växer med kvadratroten ur tiden. Fransmannen Jean Perrin mätte detta 1908 och kunde beräkna Avogadros tal – antalet molekyler i en mol, ungefär 6 · 10²³. Därmed var atomernas och molekylernas existens, som [Dalton](#daltons-atomteori) föreslagit, till sist allmänt accepterad. Matematiken för slumpvandringar blev senare grund för statistisk fysik, diffusionsmodeller och modeller för aktiepriser.
+
+darwin-och-wallace-evolution-185859:
+  period: 1840
+  label: "Darwin och Wallace: evolution 1858–59"
+  title: "Naturligt urval"
+  wiki:
+    - "sv:Evolution"
+    - "sv:Charles Darwin"
+    - "sv:Alfred Russel Wallace"
+  text: |
+    **Charles Darwin** (1809–1882) var en engelsk naturforskare som 1831–1836 seglade jorden runt med fartyget *Beagle* och samlade iakttagelser, bland annat av finkar och sköldpaddor på Galápagosöarna. Redan 1838 hade han sin teori klar men publicerade inte i 20 år. 1858 fick han ett brev från **Alfred Russel Wallace** (1823–1913), en engelsk samlare i dagens Indonesien, som självständigt kommit fram till samma idé. Deras texter lästes upp tillsammans i London 1858, och 1859 kom Darwins bok, se [Arternas uppkomst](#darwin-arternas-uppkomst-1859).
+
+    Teorin bygger på några enkla iakttagelser. Individer i en art skiljer sig åt, och mycket av skillnaden ärvs. Det föds fler individer än som kan överleva. De vars ärftliga egenskaper passar bäst i miljön överlever och får ungar oftare. Över många generationer förändras därför arten gradvis – *naturligt urval*. Med tillräckligt lång tid kan en art dela sig i flera, och alla arter har gemensamma förfäder. Det skiljde sig från [Lamarcks](#lamarck-arter-forandras-1809) idé att förvärvade egenskaper ärvs.
+
+    Teorin väckte stor strid, särskilt om människans ursprung. Den stora svagheten var att Darwin inte visste hur ärftlighet fungerar. Svaret fanns redan hos [Mendel](#mendels-artor-1865), men det uppmärksammades först omkring 1900; föreningen av urval och genetik på 1930–40-talen blev grunden för modern biologi. Idén om variation plus urval har sedan inspirerat genetiska algoritmer inom datavetenskapen.
+
+snow-kolera-och-vattenpumpen-1854:
+  period: 1840
+  label: "Snow: kolera och vattenpumpen 1854"
+  title: "Epidemiologin föds vid en pump"
+  wiki:
+    - "en:1854 Broad Street cholera outbreak"
+    - "sv:John Snow"
+  text: |
+    **Kolera** är en tarminfektion som orsakas av en bakterie och ger våldsamma diarréer; obehandlad kan den döda inom ett dygn genom uttorkning. Under 1800-talet svepte flera [kolerapandemier](#kolerapandemier) från Indien över världen. Den rådande teorin var att sjukdomar spreds via *miasma*, "dålig luft" från förruttnelse.
+
+    **John Snow** (1813–1858) var en engelsk läkare, även pionjär inom narkos, som misstänkte att kolera i stället spreds via förorenat vatten. När kolera bröt ut i stadsdelen Soho i London i augusti 1854 och omkring 600 människor dog på några veckor, ritade han in dödsfallen på en karta. De samlades kring en vattenpump på Broad Street. Avvikelserna stärkte hans fall: arbetarna på ett närliggande bryggeri, som drack öl och hade egen brunn, klarade sig; en kvinna långt bort som låtit hämta vatten från just den pumpen dog. Han övertalade myndigheterna att ta bort pumpens handtag. Senare visade det sig att brunnen låg nära en läckande avloppsbrunn.
+
+    Snow gjorde också en stor jämförelse mellan hushåll som fick vatten från två olika vattenbolag, varav det ena tog vatten nedströms från förorenade delar av Themsen. Dödligheten var flera gånger högre hos det bolagets kunder – ett tidigt "naturligt experiment". Han övertygade inte alla i sin livstid; [Pasteurs](#pasteur-mikrober-och-pastorisering) bakterieteori kom senare. Men Snow räknas som epidemiologins grundare, och Londons stora avloppssystem byggdes på 1860-talet.
+
+semmelweis-handtvatt:
+  period: 1840
+  label: "Semmelweis: handtvätt"
+  title: "Läkarnas händer dödade mödrarna"
+  wiki:
+    - "sv:Ignaz Semmelweis"
+  text: |
+    **Ignaz Semmelweis** (1818–1865) var en ungersk läkare vid det stora allmänna sjukhuset i Wien. Där fanns två förlossningsavdelningar. På den ena, där läkare och läkarstudenter förlöste, dog i perioder omkring 10 procent av mödrarna i *barnsängsfeber*, en svår infektion efter förlossningen. På den andra, som sköttes av barnmorskor, låg dödligheten kring 3–4 procent.
+
+    1847 dog en kollega efter att ha skurit sig på en skalpell vid en obduktion, med samma symtom som de döende mödrarna. Semmelweis drog slutsatsen att läkarna förde över "likpartiklar" från obduktionssalen till kvinnorna med händerna. Han införde tvätt med klorkalklösning före undersökningar, och dödligheten på läkarnas avdelning sjönk på kort tid till omkring 1–2 procent.
+
+    Ändå avvisades han. Han kunde inte förklara *vad* partiklarna var, läkare blev förolämpade av att de själva skulle vara smittbärare, och han publicerade sina resultat sent och angrep kritiker hätskt. Han lämnade Wien, och 1865 dog han på ett mentalsjukhus, sannolikt efter misshandel av personalen. Förklaringen kom först med [Pasteurs](#pasteur-mikrober-och-pastorisering) mikrobteori, och [Listers antiseptik](#lister-antiseptik-1867) gjorde rengöring till standard inom kirurgin. "Semmelweisreflexen" har blivit ett begrepp för att man avvisar nya fakta som strider mot etablerade uppfattningar.
+
+pasteur-mikrober-och-pastorisering:
+  period: 1860
+  label: "Pasteur: mikrober och pastörisering"
+  title: "Mikroberna bakom jäsning och sjukdom"
+  wiki:
+    - "sv:Louis Pasteur"
+    - "sv:Pastörisering"
+  text: |
+    **Louis Pasteur** (1822–1895) var en fransk kemist som kom att förändra biologi och medicin. Mikroorganismer – levande varelser för små att se med blotta ögat, som bakterier och jästsvampar – hade setts i mikroskop sedan [Leeuwenhoek](#leeuwenhoek-bakterier-1676) på 1670-talet, men deras roll var oklar.
+
+    På 1850–60-talet visade Pasteur att jäsning, till exempel när vin och öl bildas, orsakas av levande jästceller och att när vin blir surt beror det på andra mikrober. Han visade också att mikrober inte uppstår spontant ur död materia. I hans berömda försök med kolvar med svanhalsliknande böjd hals kunde luft komma in men damm och mikrober fastnade i böjen – buljongen förblev oförstörd. Det avgjorde en gammal strid, se [Spallanzani](#spallanzani-mot-uralstring). Han fann att man kunde döda skadliga mikrober i vin, senare mjölk, genom att värma till omkring 55–60 °C en stund, utan att förstöra smaken. Metoden kallas efter honom *pastörisering*.
+
+    Steget till sjukdomar var kort: om mikrober orsakar jäsning och förruttnelse kan de orsaka infektioner. Den *bakterieteori* som Pasteur och tysken Robert Koch etablerade under 1860–80-talen (se [bakterieteorin](#bakterieteorin)) ersatte miasmateorin och förklarade varför [Semmelweis](#semmelweis-handtvatt) och [Lister](#lister-antiseptik-1867) hade rätt. Pasteur utvecklade sedan vacciner, bland annat [mot rabies](#pasteurs-rabiesvaccin-1885).
+
+mendels-artor-1865:
+  period: 1860
+  label: "Mendels ärtor 1865"
+  title: "Ärftlighet i hela enheter"
+  wiki:
+    - "sv:Gregor Mendel"
+    - "en:Mendelian inheritance"
+  text: |
+    **Gregor Mendel** (1822–1884) var en augustinermunk i Brünn (nuvarande Brno i Tjeckien) som hade studerat naturvetenskap och matematik i Wien. Under åren 1856–1863 korsade han tusentals ärtplantor i klostrets trädgård och räknade avkomman. Han valde egenskaper som bara fanns i två tydliga varianter, till exempel gula eller gröna ärtor, släta eller skrynkliga.
+
+    När han korsade renrasiga gula med renrasiga gröna blev alla barn gula. När de barnen korsades med varandra blev omkring tre fjärdedelar av barnbarnen gula och en fjärdedel gröna – det berömda förhållandet 3:1. Mendel förklarade det så här: varje egenskap styrs av ett par ärftliga "faktorer" (vi säger i dag *gener*), en från varje förälder. En variant kan vara *dominant* (gul) och dölja den andra, *recessiva* (grön). Faktorerna blandas inte ut utan förs vidare oförändrade och fördelas slumpvis. Med G för gul och g för grön ger två Gg-föräldrar GG, Gg, gG och gg lika ofta – tre gula på en grön.
+
+    Han presenterade resultaten 1865 och publicerade 1866, men de ignorerades i 34 år. Det var precis vad [Darwins teori](#darwin-och-wallace-evolution-185859) saknade: förklaringen till hur variation kan bevaras i stället för att spädas ut. Omkring 1900 återupptäcktes arbetet av tre forskare oberoende av varandra, och [Thomas Hunt Morgan](#morgan-gener-sitter-i-kromosomer) visade sedan var generna sitter. Historiker har påpekat att Mendels siffror stämmer misstänkt bra med teorin, men hans slutsatser har bekräftats otaliga gånger.
+
+lister-antiseptik-1867:
+  period: 1860
+  label: "Lister: antiseptik 1867"
+  title: "Att döda bakterierna i såret"
+  wiki:
+    - "sv:Joseph Lister"
+    - "en:Antiseptic"
+  text: |
+    **Joseph Lister** (1827–1912) var en engelsk kirurg verksam i Glasgow. Med [narkosen](#narkos-1846), som infördes 1846, kunde kirurgerna operera längre och mer avancerat, men många patienter dog ändå av infektioner efteråt. Sår blev varigt och "sjukhusbrand" spred sig; vid amputationer kunde grovt räknat hälften av patienterna dö i vissa sjukhus. Kirurgerna opererade i blodiga rockar som sågs som ett tecken på erfarenhet.
+
+    Lister läste [Pasteurs](#pasteur-mikrober-och-pastorisering) arbeten om att förruttnelse orsakas av mikrober och drog slutsatsen att samma sak hände i sår. Han kunde inte värma såren som Pasteur värmde vin, så han valde ett kemiskt medel: *karbolsyra* (fenol), som användes för att minska stanken från avlopp. Han tvättade sår, instrument och händer med det, lade förband indränkta i det och sprejade det i luften under operationen. Han kallade metoden *antiseptik*, "mot förruttnelse". 1867 rapporterade han att dödligheten vid hans amputationer sjunkit från omkring 45 till omkring 15 procent.
+
+    Metoden mötte motstånd men spreds, särskilt i Tyskland. Mot slutet av 1800-talet ersattes den gradvis av *aseptik*: att hindra bakterier från att komma in alls med ångsterilisering, kokade instrument, rena rockar och gummihandskar. Listers idé fullföljde det [Semmelweis](#semmelweis-handtvatt) förgäves försökt införa. Munvattnet Listerine (1879) är uppkallat efter honom.
+
+koch-tuberkelbakterien-1882-2:
+  period: 1880
+  label: "Koch: tuberkelbakterien 1882"
+  same_as: koch-tuberkelbakterien-1882
+
+pasteurs-rabiesvaccin-1885:
+  period: 1880
+  label: "Pasteurs rabiesvaccin 1885"
+  title: "Pasteurs vaccin mot rabies"
+  wiki:
+    - "sv:Louis Pasteur"
+    - "en:Rabies vaccine"
+  text: |
+    **Louis Pasteur** (1822–1895) var en fransk kemist och en av grundarna av mikrobiologin, se [mikrober och pastörisering](#pasteur-mikrober-och-pastorisering). På 1880-talet ville han göra det som Edward Jenner gjort mot smittkoppor ([Jenners vaccin 1796](#jenners-vaccin-1796)) mot fler sjukdomar. Jenner hade använt en närbesläktad sjukdom, kokoppor; Pasteur ville i stället *försvaga* själva smittämnet så att det gav skydd utan att ge sjukdom. Han lyckades med hönskolera och mjältbrand.
+
+    Rabies sprids med bett från smittade djur och är nästan alltid dödlig när symtomen väl har börjat. Pasteur kunde inte se smittämnet – det var ett virus, långt för litet för hans mikroskop. Han förde i stället smittan vidare i kaniners ryggmärg och torkade märgen olika många dagar; ju längre torkning, desto svagare. Eftersom rabies har lång inkubationstid (ofta veckor till månader) hinner kroppen bygga upp immunitet även om vaccinet ges efter bettet.
+
+    I juli 1885 fick den nioårige Joseph Meister, som bitits av en rabiessjuk hund, en serie på 13 injektioner av allt starkare material. Han överlevde. Det var ett riskabelt experiment, men framgången gjorde Pasteur världsberömd, och Institut Pasteur i Paris grundades 1887. Att man kunde bekämpa ett smittämne man inte såg pekade fram mot [upptäckten av virus](#virus-upptacks-1892).
+
+virus-upptacks-1892:
+  period: 1880
+  label: "virus upptäcks 1892"
+  title: "Något mindre än bakterier"
+  wiki:
+    - "sv:Virus"
+    - "en:Tobacco mosaic virus"
+  text: |
+    Under 1870–80-talen hade Pasteur och Robert Koch (se [tuberkelbakterien](#koch-tuberkelbakterien-1882)) visat att många sjukdomar orsakas av bakterier. Bakterier är encelliga organismer, typiskt några tusendels millimeter (mikrometer) stora, och fastnar i porslinsfilter med mycket fina porer.
+
+    Den ryske botanikern **Dmitrij Ivanovskij** studerade 1892 tobaksmosaiksjuka, som ger fläckiga tobaksblad. Han pressade saft ur sjuka blad genom ett sådant bakteriefilter – och den filtrerade saften smittade ändå friska plantor. Han trodde själv att det kanske var ett gift eller mycket små bakterier. Holländaren **Martinus Beijerinck** gick 1898 längre: smittämnet förökade sig bara i levande vävnad och gick inte att odla på näringslösning. Han kallade det *virus* (latin för gift). Samma år visades att mul- och klövsjuka hos djur orsakas av något liknande.
+
+    Virus är typiskt 20–300 nanometer, alltså tio till hundra gånger mindre än bakterier, och kunde inte ses förrän elektronmikroskopet fanns; tobaksmosaikviruset fotograferades först 1939. Vi vet i dag att ett virus är arvsmassa (DNA eller RNA) i ett proteinhölje, som kapar cellens maskineri för att kopiera sig. Antibiotika biter inte på virus. Bland de stora virussjukdomarna finns [spanska sjukan](#spanska-sjukan-1918-50-milj-doda), polio och [hiv](#hiv-identifieras-1983).
+
+blodgrupper-1901:
+  period: 1900
+  label: "Blodgrupper 1901"
+  title: "Landsteiner upptäcker blodgrupperna"
+  wiki:
+    - "sv:Blodgrupp"
+    - "sv:Karl Landsteiner"
+  text: |
+    Blodtransfusion, att föra över blod från en människa till en annan, hade prövats sedan 1600-talet, men ofta dog mottagaren. Ingen visste varför det ibland fungerade och ibland inte.
+
+    Den österrikiske läkaren **Karl Landsteiner** (1868–1943) blandade 1901 röda blodkroppar från en person med blodvätska (serum) från en annan. Ibland klumpade sig blodkropparna ihop, ibland inte. Han visade att människor faller i grupper, i dag kallade A, B och 0 (AB beskrevs året därpå av hans medarbetare). Förklaringen: på de röda blodkropparnas yta finns molekyler, antigen, av typ A, B, båda eller ingen. Blodet innehåller antikroppar mot de antigen man själv saknar. Får en person med grupp A blod av grupp B angriper antikropparna de främmande cellerna, som klumpar ihop sig och förstörs – en livsfarlig reaktion.
+
+    Det gav en enkel regel: testa och matcha blodet. Grupp 0 kan i nödfall ges till nästan alla, och AB kan ta emot från alla. Första matchade transfusionen gjordes 1907 i New York, och under [första världskriget](#forsta-varldskriget) utvecklades metoder för att lagra blod med citrat som förhindrar att det levrar sig. Blodbanker följde på 1930-talet. Landsteiner var också med och upptäckte Rh-faktorn 1940, och fick Nobelpriset 1930. Blodgruppernas ärftlighet följer [Mendels regler](#mendels-artor-1865), och användes tidigt i faderskapsmål.
+
+morgan-gener-sitter-i-kromosomer:
+  period: 1900
+  label: "Morgan: gener sitter i kromosomer"
+  title: "Morgans bananflugor"
+  wiki:
+    - "sv:Thomas Hunt Morgan"
+    - "en:Boveri–Sutton chromosome theory"
+  text: |
+    När [Mendels ärftlighetsregler](#mendels-artor-1865) återupptäcktes 1900 visste man att egenskaper ärvs som odelbara enheter, senare kallade *gener*, men inte var i cellen de fanns. *Kromosomer* är trådlika strukturer i cellkärnan som syns i mikroskop när cellen delar sig, och några forskare föreslog redan runt 1902–03 att de bar arvsanlagen.
+
+    Den amerikanske biologen **Thomas Hunt Morgan** (1866–1945) vid Columbia University var först skeptisk. Han föd upp bananflugor (*Drosophila*), som är små, lätta att hålla och får en ny generation på ungefär två veckor. År 1910 hittade han en hane med vita ögon i stället för röda. Den vita ögonfärgen ärvdes nästan bara av hanar, precis som om genen satt på X-kromosomen, könskromosomen som honor har två av och hanar en.
+
+    Morgans grupp ("fluglabbet") visade också att gener på samma kromosom tenderar att ärvas tillsammans, men att de ibland separeras när kromosomer byter bitar med varandra. Ju längre isär två gener sitter, desto oftare skiljs de. Studenten Alfred Sturtevant använde detta 1913 för att göra den första *genkartan*, med generna i rad längs kromosomen. Morgan fick Nobelpriset 1933. Vad en gen kemiskt bestod av visste man inte förrän [DNA-strukturen](#dna-strukturen-1953) klarlades 1953.
+
+salvarsan-1910:
+  period: 1900
+  label: "Salvarsan 1910"
+  title: "Salvarsan, den första magiska kulan"
+  wiki:
+    - "sv:Paul Ehrlich"
+    - "en:Arsphenamine"
+  text: |
+    **Paul Ehrlich** (1854–1915) var en tysk läkare och kemist. Han hade sett att vissa färgämnen bara färgar vissa celler eller bakterier, och drog slutsatsen att man kunde göra kemiska ämnen som bara angriper smittämnet men inte människans celler – en "magisk kula". Det är grundtanken bakom moderna läkemedel.
+
+    Målet var *syfilis*, en sexuellt överförd sjukdom orsakad av en spiralformad bakterie som upptäcktes 1905. Syfilis var mycket utbredd och kunde efter år leda till förlamning, demens och död. Den dåvarande behandlingen var kvicksilver, som var giftigt och verkade dåligt. Ehrlichs labb provade systematiskt hundratals arsenikföreningar på smittade djur. Förening nummer 606, framtagen 1907 och testad av japanen Sahachiro Hata 1909, fungerade. Den lanserades 1910 under namnet Salvarsan.
+
+    Salvarsan var svår att hantera, hade allvarliga biverkningar och krävde många injektioner, men den botade ofta och blev världens mest förskrivna läkemedel fram till 1940-talet. Viktigare var metoden: att systematiskt testa många varianter av en molekyl mot ett bestämt mål. Samma metod gav [sulfapreparaten](#sulfa-1935) på 1930-talet, och syfilis behandlas i dag med [penicillin](#penicillin-1928). Ehrlich hade fått Nobelpriset 1908 för sin forskning om immunitet.
+
+insulin-1921:
+  period: 1920
+  label: "Insulin 1921"
+  title: "Insulin räddar diabetiker"
+  wiki:
+    - "sv:Insulin"
+    - "en:Frederick Banting"
+  text: |
+    *Diabetes* (typ 1) innebär att kroppen inte kan ta upp socker ur blodet, och före 1920-talet var den hos barn och unga en dödsdom inom något eller några år. Den enda "behandlingen" var svältdiet. Man visste sedan 1889 att hundar utan bukspottkörtel fick diabetes, och misstänkte att körteln producerade ett hormon (en signalsubstans i blodet), men ingen hade lyckats utvinna det.
+
+    Den kanadensiske kirurgen **Frederick Banting** och studenten **Charles Best** lyckades sommaren 1921 vid University of Toronto, i professor John Macleods labb, framställa ett extrakt som sänkte blodsockret hos diabeteshundar. Biokemisten James Collip renade det så att det kunde ges till människor. I januari 1922 fick 14-årige Leonard Thompson, döende i diabetes, insulin och tillfrisknade. *Insulin* är hormonet som får kroppens celler att ta upp socker ur blodet.
+
+    Banting och Macleod fick Nobelpriset 1923 – ovanligt snabbt – och delade med Best och Collip. Universitetet sålde patentet för en symbolisk summa så att läkemedelsbolag (bland andra Eli Lilly, och i Danmark det som blev Novo Nordisk) kunde massproducera insulin från bukspottkörtlar från slaktdjur. Diabetes blev en kronisk men hanterbar sjukdom. Insulin var 1978 också det första läkemedlet som framställdes med genteknik, av bakterier med inklippt mänsklig gen, ett led i den utveckling som senare gav [PCR](#pcr-1983) och [CRISPR](#crispr-2012).
+
+penicillin-1928:
+  period: 1920
+  label: "penicillin 1928"
+  title: "Fleming upptäcker penicillinet"
+  wiki:
+    - "sv:Penicillin"
+    - "sv:Alexander Fleming"
+  text: |
+    **Alexander Fleming** (1881–1955) var en skotsk bakteriolog vid S:t Marys sjukhus i London. I september 1928 kom han tillbaka från semester och såg att en av hans odlingsplattor med stafylokocker (bakterier som orsakar bl.a. sårinfektioner) hade förorenats av en mögelsvamp, *Penicillium*. Runt svampen hade bakterierna dött. Han drog slutsatsen att svampen utsöndrade ett ämne som dödar bakterier och kallade det penicillin. Händelsen finns också i [Englandskolumnen](#fleming-penicillin-1928).
+
+    Penicillin hindrar bakterier från att bygga sin cellvägg, något mänskliga celler inte har, vilket gör det till en nästan perfekt "magisk kula" i [Ehrlichs](#salvarsan-1910) mening. Men Fleming lyckades inte rena fram ämnet i användbar mängd och det var instabilt. Han publicerade 1929, men upptäckten låg i stort sett outnyttjad i tio år.
+
+    I Oxford tog farmakologen Howard Florey och biokemisten Ernst Chain upp spåret 1939. De renade penicillinet, visade 1940 att det skyddade möss mot dödliga infektioner och behandlade de första patienterna 1941. Industriell produktion i USA under kriget, med djuptanksjäsning och en mer produktiv mögelstam funnen på en melon, gjorde det tillgängligt i stor skala ([penicillin massproduceras](#penicillin-massproduceras)). Fleming, Florey och Chain fick Nobelpriset 1945. Penicillin inledde antibiotikaeran, men Fleming varnade redan då för resistens: bakterier som överlever för låga doser blir motståndskraftiga, ett växande problem i dag.
+
+sulfa-1935:
+  period: 1920
+  label: "sulfa 1935"
+  title: "Sulfa, de första antibakteriella läkemedlen"
+  wiki:
+    - "sv:Sulfonamider"
+    - "en:Gerhard Domagk"
+  text: |
+    På 1930-talet följde tyska kemiföretaget IG Farben (Bayer) [Ehrlichs metod](#salvarsan-1910): testa tusentals syntetiska ämnen, här färgämnen, på infekterade möss. Läkaren och forskaren **Gerhard Domagk** (1895–1964) fann 1932 att ett rött färgämne, Prontosil, skyddade möss mot streptokocker, bakterier som orsakar t.ex. barnsängsfeber, halsfluss och blodförgiftning. Resultatet publicerades 1935.
+
+    Samma år visade forskare vid Institut Pasteur i Paris att det verksamma inte var färgen. I kroppen spjälkas Prontosil till *sulfanilamid*, en enkel och redan känd molekyl som inte gick att patentera. Sulfanilamid liknar ett ämne bakterierna behöver för att tillverka folsyra, och blockerar därmed deras tillväxt. Människor får folsyra från maten och påverkas inte på samma sätt. Det ledde till en våg av sulfapreparat.
+
+    Sulfa var det första läkemedlet som brett kunde bota bakteriella infektioner inne i kroppen, flera år före [penicillinets massproduktion](#penicillin-massproduceras). Dödligheten i barnsängsfeber och lunginflammation sjönk märkbart. I USA dog över hundra personer 1937 av en sulfasirap löst i ett giftigt lösningsmedel, vilket ledde till lagen 1938 som kräver säkerhetstester innan läkemedel säljs. Domagk tilldelades Nobelpriset 1939 men tvingades av nazistregimen att avböja; han tog emot det 1947. Sulfapreparat används än i dag, ofta i kombination med andra ämnen.
+
+penicillin-massproduceras:
+  period: 1940
+  label: "Penicillin massproduceras"
+  title: "Penicillinet blir ett läkemedel för alla"
+  wiki:
+    - "en:Penicillin"
+    - "en:History of penicillin"
+  text: |
+    Alexander Fleming, skotsk bakteriolog i London, såg [1928](#penicillin-1928) att mögelsvampen *Penicillium* dödade bakterier, men kunde varken rena eller tillverka ämnet. Det gjorde Howard Florey och Ernst Chain vid Oxford 1939–41: de renade fram penicillin och visade att det botade infekterade möss och sedan människor. Problemet var mängden – den första patienten, 1941, dog när förrådet tog slut.
+
+    Lösningen kom i USA under andra världskriget. Statliga laboratoriet i Peoria och läkemedelsbolag som Pfizer odlade svampen i stora omrörda tankar (djuptanksjäsning) i en näringslösning av majsstöpvatten, och hittade en mer produktiv svampstam på en möglig melon. Produktionen ökade mångtusenfalt på några år; inför landstigningen i Normandie 1944 fanns penicillin för de allierades sårade soldater. Fleming, Florey och Chain fick Nobelpriset 1945.
+
+    Penicillin hämmar bakteriers byggande av cellvägg och skadar därför inte människans celler. Före det fanns [sulfapreparaten](#sulfa-1935), men penicillin var effektivare. Lunginflammation, blodförgiftning och infekterade sår gick från ofta dödliga till behandlingsbara. Redan Fleming varnade dock för resistens: bakterier som överlever en för svag dos förökar sig – ett problem som växt sedan dess.
+
+dna-strukturen-1953-2:
+  period: 1940
+  label: "DNA-strukturen 1953"
+  same_as: dna-strukturen-1953
+
+poliovaccin-1955:
+  period: 1940
+  label: "poliovaccin 1955"
+  title: "Poliovaccinet"
+  wiki:
+    - "en:Polio vaccine"
+    - "en:Jonas Salk"
+  text: |
+    Polio (barnförlamning) orsakas av ett virus som sprids via avföring och smutsigt vatten. De flesta smittade märker lite, men omkring en på 200 får förlamning, ibland av andningsmusklerna. Under 1900-talets första hälft kom epidemierna oftare – USA hade 1952 omkring 58 000 fall – och bilden av barn i ”järnlungor” (respiratorer som pumpade luft genom undertryck) skrämde en hel generation.
+
+    Den amerikanske läkaren Jonas Salk utvecklade ett vaccin av avdödat virus som injiceras. Det testades 1954 i en av historiens största kliniska prövningar, med omkring 1,8 miljoner barn, och förklarades säkert och effektivt i april 1955. Några år senare kom Albert Sabins orala vaccin av försvagat levande virus, som kunde ges på en sockerbit och var billigt att sprida i stora kampanjer.
+
+    Vaccinet byggde på en tradition från [Pasteur](#pasteurs-rabiesvaccin-1885): lär immunförsvaret känna igen viruset utan att orsaka sjukdomen. Fallen i rika länder föll snabbt; Sverige hade sitt sista större utbrott på 1950-talet. Efter framgången med [smittkoppor](#smittkoppor-utrotade-1980) startade WHO 1988 ett globalt utrotningsprogram, och det vilda poliovirus som finns kvar har trängts tillbaka till Pakistan och Afghanistan.
+
+genetiska-koden-1966:
+  period: 1960
+  label: "Genetiska koden 1966"
+  title: "Den genetiska koden knäcks"
+  wiki:
+    - "en:Genetic code"
+    - "en:Nirenberg and Matthaei experiment"
+  text: |
+    När [DNA:s struktur](#dna-strukturen-1953) var känd återstod frågan: hur översätts en följd av fyra ”bokstäver” (baserna A, C, G, T) till proteiner, som byggs av 20 olika aminosyror? Två bokstäver räcker inte (4² = 16 kombinationer), men tre ger 4³ = 64 – tillräckligt. Idén var alltså tripletter, kodoner.
+
+    1961 tillsatte Marshall Nirenberg och Heinrich Matthaei vid amerikanska NIH konstgjort RNA (DNA:s ”arbetskopia”, där T ersätts av U) med bara bokstaven U till ett cellextrakt. Det bildades ett protein av bara aminosyran fenylalanin: UUU betyder alltså fenylalanin. Med liknande experiment och Har Gobind Khoranas syntetiska RNA-sekvenser var alla 64 kodoner kartlagda 1966: 61 kodar för aminosyror (flera kodoner per aminosyra) och tre betyder ”stopp”. Nirenberg, Khorana och Robert Holley fick Nobelpriset 1968.
+
+    Koden är nästan densamma i alla organismer, från bakterier till människor – ett starkt stöd för gemensamt ursprung. Det gör också att en mänsklig gen kan läsas av en bakterie, grunden för bioteknik som insulin från bakterier. Ärftlighetens regler som [Mendel](#mendels-artor-1865) upptäckt fick nu en molekylär förklaring, och koden är det som [mRNA-vacciner](#mrna-vacciner) utnyttjar: man skriver ett meddelande som cellen översätter till protein.
+
+hjarttransplantation-1967:
+  period: 1960
+  label: "hjärttransplantation 1967"
+  title: "Den första hjärttransplantationen"
+  wiki:
+    - "en:Heart transplantation"
+    - "en:Christiaan Barnard"
+  text: |
+    Den 3 december 1967 transplanterade den sydafrikanske kirurgen Christiaan Barnard ett hjärta från en avliden ung kvinna till 53-årige Louis Washkansky på Groote Schuur-sjukhuset i Kapstaden. Operationen lyckades och nyheten gick jorden runt. Washkansky dog dock efter 18 dagar i lunginflammation – läkemedlen som dämpade immunförsvaret, för att det inte skulle stöta bort hjärtat, gjorde honom försvarslös mot infektioner. Barnards andra patient levde i omkring 19 månader.
+
+    Tekniken hade utvecklats av bl.a. Norman Shumway i USA genom djurförsök, och byggde på hjärt-lungmaskinen som håller blodet syresatt under operationen. Kärnproblemet var avstötning: immunförsvaret angriper främmande vävnad, ungefär som det angriper blod med fel blodgrupp ([blodgrupperna](#blodgrupper-1901) var en tidig insikt om detta). Efter en våg av transplantationer 1968 med dåliga resultat sjönk antalet kraftigt.
+
+    Genombrottet kom med ciklosporin, ett immundämpande medel från en jordsvamp som godkändes i början av 1980-talet. Därefter blev hjärttransplantation en rutinbehandling; i dag görs några tusen per år i världen och många patienter lever i över tio år. Operationen tvingade också fram nya definitioner av död: hjärndöd, alltså att hjärnans alla funktioner upphört, blev kriterium så att organ kunde tas medan hjärtat ännu slog.
+
+smittkoppor-utrotade-1980:
+  period: 1960
+  label: "smittkoppor utrotade 1980"
+  title: "Smittkopporna utrotas"
+  wiki:
+    - "sv:Smittkoppor"
+    - "en:Eradication of smallpox"
+  text: |
+    Smittkoppor var en virussjukdom som dödade ungefär var tredje smittad och vanställde många överlevande. Bara under 1900-talet uppskattas den ha dödat omkring 300 miljoner människor. Skyddet hade en lång historia: [variolation](#variolation-mot-smittkoppor-1721) med material från sjuka, och från 1796 Edward Jenners vaccin med det ofarliga kokoppsviruset.
+
+    1967 startade Världshälsoorganisationen WHO en intensifierad global kampanj. Sjukdomen hade då fortfarande 10–15 miljoner fall per år. Nyckeln var inte att vaccinera alla utan ”ringvaccination”: hitta varje fall, isolera det och vaccinera alla i dess omgivning. Det fungerade eftersom viruset bara smittar människor, sjukdomen syns tydligt och vaccinet var stabilt och billigt. Det sista naturliga fallet var en sjukhuskock i Somalia i oktober 1977. Den 8 maj 1980 förklarades smittkopporna utrotade.
+
+    Det är fortfarande den enda mänskliga sjukdom som utrotats (bland djursjukdomar har boskapspest utrotats, 2011). Viruset finns kvar i två laboratorier, i USA och Ryssland. Framgången inspirerade kampanjen mot polio efter [poliovaccinet](#poliovaccin-1955), som ännu inte nått ända fram. Eftersom vaccinationen upphörde är dagens befolkning i stort sett oskyddad, vilket gör viruset till en fråga för biologisk säkerhet.
+
+pcr-1983:
+  period: 1980
+  label: "PCR 1983"
+  title: "PCR – att kopiera DNA i provrör"
+  wiki:
+    - "sv:Polymeraskedjereaktion"
+    - "en:Kary Mullis"
+  text: |
+    1983 körde den amerikanske biokemisten Kary Mullis på företaget Cetus bil en natt i Kalifornien och kom på hur man kan mångfaldiga en vald bit DNA. Metoden, polymeraskedjereaktion (PCR), fungerar i cykler. Värm provet till cirka 95 °C så att DNA:s två strängar separerar. Kyl så att korta konstgjorda DNA-bitar, primrar, fäster precis där den sökta sekvensen börjar och slutar. Låt sedan enzymet DNA-polymeras bygga nya kopior. Varje cykel fördubblar mängden: 30 cykler ger i teorin omkring en miljard kopior.
+
+    Ett problem var att enzymet förstördes av hettan. Lösningen blev Taq-polymeras från bakterien *Thermus aquaticus*, som lever i varma källor i Yellowstone och tål nästan kokning. Med det kunde processen automatiseras i maskiner som bara växlar temperatur. Mullis fick Nobelpriset i kemi 1993.
+
+    PCR gör det möjligt att arbeta med ytterst små mängder DNA, ner till enstaka molekyler. Den blev grunden för genetisk diagnostik, rättsmedicinska DNA-bevis, faderskapstester, studier av forntida DNA och sekvenseringen av [människans arvsmassa](#manniskans-genom-2003). Under [covid-19-pandemin](#covid-19) var PCR-testet standardmetoden för att påvisa viruset. Det bygger direkt på insikterna om [DNA:s dubbelspiral](#dna-strukturen-1953), där varje bas bara passar mot en motsvarande bas.
+
+hiv-identifieras-1983:
+  period: 1980
+  label: "hiv identifieras 1983"
+  title: "Hiv identifieras"
+  wiki:
+    - "sv:Hiv"
+    - "en:Discovery and development of HIV"
+    - "en:HIV/AIDS"
+  text: |
+    1981 rapporterade amerikanska läkare om unga, tidigare friska män som fick ovanliga infektioner och cancer som normalt bara drabbar personer med kraftigt nedsatt immunförsvar. Sjukdomen fick namnet aids (förvärvat immunbristsyndrom). Den spreds via blod och sexuell kontakt, och snart även via blodtransfusioner och delade sprutor.
+
+    1983 isolerade Françoise Barré-Sinoussi och Luc Montagnier vid Pasteurinstitutet i Paris ett nytt virus från en patient. 1984 publicerade Robert Gallos grupp i USA belägg för att viruset orsakar aids; det blev en bitter prioritetsstrid. Viruset fick namnet hiv. Det är ett retrovirus: dess arvsmassa är RNA, som skrivs om till DNA och byggs in i värdcellens DNA. Det angriper särskilt CD4-celler, en sorts vita blodkroppar som samordnar immunförsvaret. Barré-Sinoussi och Montagnier fick Nobelpriset 2008.
+
+    Att viruset var känt gjorde det möjligt att testa blod (från 1985) och utveckla läkemedel. AZT kom 1987; från 1996 kombinerade man tre läkemedel, vilket gjorde hiv från en dödsdom till en kronisk sjukdom med nästan normal livslängd. Men tillgången var ojämn: [aids](#aids) har dödat omkring 40 miljoner människor, flest i [Afrika söder om Sahara](#hiv). Något vaccin finns ännu inte, eftersom viruset muterar snabbt.
+
+klonfaret-dolly-1996:
+  period: 1980
+  label: "klonfåret Dolly 1996"
+  title: "Klonfåret Dolly"
+  wiki:
+    - "en:Dolly (sheep)"
+    - "en:Somatic cell nuclear transfer"
+  text: |
+    Den 5 juli 1996 föddes ett lamm vid Roslin Institute nära Edinburgh; det offentliggjordes i februari 1997. Dolly var det första däggdjuret som klonats från en vuxen kroppscell. Ian Wilmut och Keith Campbell tog en cell från juvret på ett sexårigt får och flyttade dess cellkärna – som innehåller nästan all arvsmassa – till ett obefruktat ägg vars egen kärna tagits bort. Efter en elektrisk stöt började ägget dela sig som ett embryo och placerades i ett annat får. Det krävdes 277 försök för att få ett levande lamm.
+
+    Resultatet var biologiskt omvälvande. Man trodde att specialiserade celler, som juverceller, hade stängt av gener de inte behövde på ett sätt som inte gick att backa. Dolly visade att en vuxen cells DNA kan ”nollställas” och styra utvecklingen av en hel individ. (Grodor hade klonats från cellkärnor av John Gurdon redan 1962.)
+
+    Dolly ledde till intensiv etisk debatt om att klona människor, vilket många länder förbjöd. Viktigare vetenskapligt blev frågan om omprogrammering: 2006 visade japanen Shinya Yamanaka att fyra gener räcker för att få vanliga celler att bli stamceller, utan ägg alls. Dolly dog 2003. Genredigering med [CRISPR](#crispr-2012) är ett senare, mer precist sätt att ändra arvsmassa; båda vilar på förståelsen av [den genetiska koden](#genetiska-koden-1966).
+
+manniskans-genom-2003-2:
+  period: 2000
+  label: "Människans genom 2003"
+  same_as: manniskans-genom-2003
+
+crispr-2012:
+  period: 2000
+  label: "CRISPR 2012"
+  title: "CRISPR – gensaxen"
+  wiki:
+    - "sv:CRISPR"
+    - "en:CRISPR gene editing"
+  text: |
+    Bakterier försvarar sig mot virus med ett eget immunsystem. De sparar bitar av virusets DNA i ett särskilt område av sin arvsmassa, CRISPR (förkortning för ett mönster av korta upprepade sekvenser i området). En RNA-kopia av en sådan bit fungerar som en sökmall och leder enzymet Cas9 till virus-DNA som matchar; Cas9 klipper då av DNA-strängen. Systemet upptäcktes stegvis från 1987, bland annat av spanjoren Francisco Mojica.
+
+    2012 visade Emmanuelle Charpentier (fransk mikrobiolog, då verksam vid Umeå universitet) och Jennifer Doudna (amerikansk biokemist i Berkeley) att man kan programmera Cas9 med ett konstgjort guide-RNA på omkring 20 baser, så att det klipper var man vill i vilket DNA som helst. 2013 visade Feng Zhang och George Church att det fungerar i mänskliga celler. När cellen lagar klippet kan man slå ut en gen eller föra in en ny sekvens.
+
+    Tidigare metoder, som zinkfingernukleaser, krävde att man konstruerade ett nytt protein för varje mål – månader av arbete. Med CRISPR byter man bara en kort RNA-sekvens. Metoden spreds på några år till laboratorier över hela världen. 2023 godkändes den första CRISPR-behandlingen, mot sicklecellanemi. 2018 orsakade en kinesisk forskare skandal genom att genredigera embryon som blev barn. Charpentier och Doudna fick Nobelpriset i kemi 2020. Verktyget bygger på kunskapen om [den genetiska koden](#genetiska-koden-1966) och kompletterar [PCR](#pcr-1983).
+
+mrna-vacciner:
+  period: 2020
+  label: "mRNA-vacciner"
+  title: "mRNA-vacciner"
+  wiki:
+    - "en:MRNA vaccine"
+  text: |
+    Ett vaccin lär immunförsvaret att känna igen ett smittämne utan att man blir sjuk. Traditionellt injicerar man försvagat eller avdödat virus eller renade virusproteiner, vilket tar lång tid att odla fram. Ett mRNA-vaccin ger i stället cellerna själva instruktionen. mRNA (budbärar-RNA) är den molekyl som bär en gens recept från DNA till cellens proteinfabriker, enligt [den genetiska koden](#genetiska-koden-1966). Man syntetiserar mRNA för ett virusprotein – för covid-19 virusets spikprotein – packar det i små fettkulor och injicerar. Cellerna tillverkar proteinet en kort tid, immunförsvaret lär sig känna igen det, och mRNA:t bryts ner.
+
+    Det största hindret var att främmande mRNA gav kraftiga inflammationsreaktioner och bröts ner snabbt. Ungerskan Katalin Karikó och amerikanen Drew Weissman visade 2005 att om man byter ut en av RNA:s byggstenar (uridin mot en modifierad variant) undviker man reaktionen. Karikó hade under lång tid svårt att få forskningsanslag för idén. De fick Nobelpriset 2023.
+
+    När [covid-19](#covid-19) bröt ut publicerades virusets gensekvens i januari 2020; Moderna hade en vaccinkandidat klar på några dagar, och BioNTech/Pfizers vaccin godkändes i december 2020 – under ett år, mot tidigare ofta tio år eller mer. Effekten mot svår sjukdom var hög, och miljarder doser gavs. Tekniken prövas nu mot influensa, andra infektioner och som skräddarsydda cancervacciner. Den följer den långa linjen från [Pasteurs vacciner](#pasteurs-rabiesvaccin-1885).
+
+alphafold-2020:
+  period: 2020
+  label: "AlphaFold 2020"
+  title: "AlphaFold – proteinveckning med AI"
+  wiki:
+    - "en:AlphaFold"
+  text: |
+    Proteiner är långa kedjor av aminosyror (20 sorter) som veckar sig till en bestämd tredimensionell form; formen avgör vad proteinet gör, t.ex. vilka molekyler ett enzym kan binda. Kedjans ordning läses direkt ur genen via [den genetiska koden](#genetiska-koden-1966), men att förutsäga formen ur ordningen var ett av biologins stora olösta problem i ett halvsekel. Experimentellt bestäms formen med röntgenkristallografi eller elektronmikroskopi, vilket kan ta månader eller år per protein.
+
+    Sedan 1994 hålls tävlingen CASP, där metoder testas på proteiner vars form just bestämts men inte publicerats. 2020 nådde AlphaFold 2 från Google DeepMind i London en noggrannhet i nivå med experiment för omkring två tredjedelar av proteinerna – ett stort språng. Systemet är ett djupt neuronnät, en efterföljare till [djupinlärningens genombrott](#djupinlarning-alexnet-2012), tränat på de omkring 170 000 kända strukturerna i den offentliga databasen PDB. Det utnyttjar också att aminosyror som sitter nära varandra i den vikta formen tenderar att mutera tillsammans under evolutionen.
+
+    2021–22 publicerade DeepMind och Europeiska bioinformatikinstitutet förutsagda strukturer för över 200 miljoner proteiner, i praktiken alla kända. Forskare använder dem i läkemedelsutveckling och grundforskning, och liknande metoder används nu för att designa nya proteiner. Demis Hassabis och John Jumper från DeepMind fick Nobelpriset i kemi 2024, tillsammans med David Baker som utvecklat proteindesign.

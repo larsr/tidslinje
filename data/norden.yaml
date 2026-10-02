@@ -1,0 +1,994 @@
+# Norden (övriga)
+# Varje nod: period (första året i 20-årsperioden), label (texten i tabellen),
+# title, wiki (språk:Artikel), text (Markdown; [text](#id) länkar till en annan nod).
+# same_as: id betyder att noden visar samma artikel som en annan nod.
+
+leif-eriksson-nar-vinland-1000:
+  period: 1000
+  label: "Leif Eriksson når Vinland ~1000"
+  title: "Leif Eriksson och Vinland ~1000"
+  wiki:
+    - "sv:Leif Eriksson"
+    - "sv:Vinland"
+  text: |
+    **Leif Eriksson** var son till Erik den röde, en islänning som omkring 985 grundade nordiska bosättningar på **Grönland**. Grönland nåddes från Island, som i sin tur bosatts från Norge från 870-talet: vikingarna rörde sig västerut i hopp över Nordatlanten.
+
+    Omkring år 1000 seglade Leif västerut från Grönland och nådde ett land han kallade **Vinland**, efter de vindruvor eller bär som skulle finnas där. Berättelserna finns i två isländska sagor, nedskrivna först ett par hundra år senare, och de beskriver också Helluland (troligen Baffin Island) och Markland (Labrador). Färden kan ha varit omkring 3 000 km.
+
+    Länge var det oklart om sagorna var sanna. 1960 hittades en nordisk bosättning vid **L'Anse aux Meadows** på Newfoundland (se [Nordamerika ~1000](#vikingar-i-l-anse-aux-meadows)), och 2021 kunde trä som fällts med järnyxa dateras exakt till år 1021. Därmed är det säkert att européer var i Amerika nästan 500 år före [Columbus 1492](#columbus-1492). Men kontakten varade bara några år och fick inga följder – till skillnad från Columbus resa, som inledde den europeiska koloniseringen.
+
+island-antar-kristendomen-1000:
+  period: 1000
+  label: "Island antar kristendomen 1000"
+  title: "Island blir kristet år 1000"
+  wiki:
+    - "en:Christianisation of Iceland"
+    - "sv:Alltinget"
+  text: |
+    **Island** befolkades från omkring 870 av norrmän och deras keltiska trälar. Landet hade ingen kung; i stället möttes de fria männen varje sommar på **Alltinget**, ett lagstiftande möte på Tingvellir, grundat 930 och ofta kallat världens äldsta parlament.
+
+    Kring år 1000 var islänningarna djupt splittrade mellan hedningar, som dyrkade asagudarna, och kristna. Norges kung Olav Tryggvason pressade på för kristendomen och höll isländska gisslan. På Alltinget hotade landet att delas i två rättssystem. Man lät då lagsagomannen **Torgeir**, själv hedning, avgöra. Enligt sagan låg han ett dygn under en fäll och funderade, och kom sedan fram till: alla ska döpas och vara kristna, men hedniska seder som att äta hästkött och offra i hemlighet tolereras tills vidare. Hans motivering var att om lagen delas, delas också freden.
+
+    Det är ett ovanligt exempel på religionsbyte genom förhandling i stället för krig. Jämför Norge, där kungarna kristnade med våld (se [Olav den helige, Stiklestad 1030](#slaget-vid-stiklestad-1030-olav-den)), och Sverige, där kristnandet tog över hundra år. Den isländska kristna skrivkulturen gav oss senare sagorna och Eddan – våra viktigaste källor om vikingatiden. Jämför med [Olof Skötkonung](#olof-skotkonung) i Sverige.
+
+sven-tveskagg-erovrar-england:
+  period: 1000
+  label: "Sven Tveskägg erövrar England"
+  title: "Danskt kungadöme över England 1013"
+  wiki:
+    - "sv:Sven Tveskägg"
+    - "en:Sweyn Forkbeard"
+  text: |
+    Sven Tveskägg var dansk kung från omkring 986 till 1014, son till Harald Blåtand som enat Danmark och infört kristendomen där. Under Svens tid blev vikingatågen mot England storskaliga och statligt organiserade snarare än lösa plundringsfärder.
+
+    England, styrt av den svage kungen Æthelred II, försökte köpa sig fri genom att betala *danagäld* – tribut i silver. Enligt engelska krönikor rörde det sig om tiotusentals pund silver vid flera tillfällen. År 1002 lät Æthelred döda danskar som bodde i England (S:t Brictiusmassakern), och Sven svarade med nya invasioner. År 1013 erövrade han hela landet; Æthelred flydde till Normandie och Sven utropades till kung. Han dog redan i februari 1014.
+
+    Erövringen fick ändå bestående följder. Hans son Knut den store tog England 1016 och byggde upp [ett rike runt Nordsjön](#knuts-nordsjovalde) med England, Danmark och en tid Norge. Det var första gången Skandinavien var en del av europeisk storpolitik. Femtio år senare slutade epoken när [Harald Hårdråde stupade i England 1066](#harald-hardrade-stupar-1066) och normanderna tog över landet.
+
+knuts-nordsjovalde:
+  period: 1020
+  label: "Knuts Nordsjövälde"
+  title: "Knuts Nordsjövälde"
+  wiki:
+    - "en:North Sea Empire"
+    - "sv:Knut den store"
+  text: |
+    Under **[Knut den store](#knut-den-store-kung-av-england-danmark)** (död 1035) samlades England, Danmark och Norge under en och samma kung. Han erövrade England 1016, ärvde Danmark 1018 och tog Norge 1028, efter att ha mutat norska stormän att överge kung Olav Haraldsson (se [Stiklestad 1030](#slaget-vid-stiklestad-1030-olav-den)). Han gjorde också anspråk på delar av Sverige och kallade sig i ett brev ”kung över hela England, Danmark, Norge och en del av svearna”.
+
+    Det kallas **Nordsjöväldet** eftersom det hölls samman av havet. En kungs makt vilade på att hans flotta kunde röra sig mellan rikena. Riket var stort för sin tid – från Wales till norska Finnmark, uppskattningsvis 1 500 km från söder till norr – men saknade gemensam förvaltning. Knut styrde från England, det rikaste landet, och lät söner och jarlar sköta Danmark och Norge.
+
+    Väldet föll sönder snabbt. Norrmännen gjorde uppror redan 1034–1035, och efter Knuts död stred hans söner om arvet. 1042 var allt borta. Det var ändå höjdpunkten av vikingatidens politiska makt: aldrig senare har en skandinavisk kung styrt England. Jämför med [Kalmarunionen 1397](#kalmarunionen-1397-margareta), ett senare försök att ena Norden under en kung.
+
+slaget-vid-stiklestad-1030-olav-den:
+  period: 1020
+  label: "slaget vid Stiklestad 1030, Olav den helige"
+  title: "Slaget vid Stiklestad 1030 och Olav den helige"
+  wiki:
+    - "sv:Slaget vid Stiklestad"
+    - "sv:Olav den helige"
+  text: |
+    **Olav Haraldsson** (995–1030) var en norsk vikinghövding som blev kung av Norge 1015. Han försökte med hårda medel göra Norge kristet och ena landet under en kung: han lät förstöra hednatempel och straffade dem som höll fast vid den gamla tron. Detta, och hans försök att minska stormännens makt, gjorde honom illa omtyckt.
+
+    [Knut den store](#knut-den-store-kung-av-england-danmark) av Danmark och England mutade norska stormän, och 1028 tvingades Olav fly till Kievrus, där hans svägerska Ingegerd ([Olof Skötkonung](#olof-skotkonung)s dotter) var furstinna. 1030 återvände han med en här på några tusen man, bland annat svenskar, men stupade i **slaget vid Stiklestad** nära Trondheim den 29 juli 1030 mot en större bondehär.
+
+    Det märkliga var vad som hände efteråt. Redan året därpå ansågs han vara ett helgon: enligt berättelserna skedde under vid hans grav och hans lik var oförmultnat. **Olav den helige** blev Norges evige kung och skyddshelgon, och Nidarosdomen i Trondheim byggdes över hans grav. Han blev en symbol för norsk enhet och kristendom, och dagen, *olsok*, firas fortfarande. Hans död gjorde mer för Norges kristnande än hans liv.
+
+magnus-den-gode:
+  period: 1040
+  label: "Magnus den gode"
+  title: "Magnus den gode"
+  wiki:
+    - "sv:Magnus den gode"
+  text: |
+    **Magnus den gode** (1024–1047) var son till Olav den helige, den norske kung som stupade i [slaget vid Stiklestad 1030](#slaget-vid-stiklestad-1030-olav-den) och snabbt blev helgon. Efter Olavs död styrdes Norge av danskar under [Knut den store](#knut-den-store-kung-av-england-danmark), som hade ett "Nordsjöimperium" av Danmark, England och Norge.
+
+    Danskarnas styre blev impopulärt, och 1035 hämtade norska stormän hem den elvaårige Magnus från exil i Kievrus (dagens Ryssland/Ukraina). Han blev kung av Norge. När Knuts son Hardeknut dog 1042 blev Magnus även kung av Danmark, enligt ett avtal om att den som levde längst skulle ärva den andres rike. Han slog tillbaka en stor vendisk (slavisk) invasion vid Lyrskov hed 1043.
+
+    Varför det spelar roll: Magnus gjorde också anspråk på Englands tron. Det anspråket ärvdes av hans farbror **[Harald Hårdråde](#harald-hardrade-kung-1046)**, som delade tronen med honom från 1046 och blev ensam kung när Magnus dog 1047 – och som 1066 invaderade England (se [Stamford Bridge](#stamford-bridge-och-hastings-1066)).
+
+harald-hardrade-kung-1046:
+  period: 1040
+  label: "Harald Hårdråde kung 1046"
+  title: "Harald Hårdråde blir kung 1046"
+  wiki:
+    - "sv:Harald Hårdråde"
+    - "sv:Väringagardet"
+  text: |
+    **Harald Hårdråde** (cirka 1015–1066) var halvbror till Olav den helige och kämpade som 15-åring vid [Stiklestad 1030](#slaget-vid-stiklestad-1030-olav-den). Efter förlusten flydde han österut och blev legoknekt, först i Kievrus och sedan i **Väringagardet** i Konstantinopel – den bysantinske kejsarens livgarde av nordbor. Han stred på Sicilien och i Bulgarien och blev mycket rik.
+
+    Med sin förmögenhet återvände han 1045–1046 och tvingade brorsonen [Magnus den gode](#magnus-den-gode) att dela Norges kungamakt med honom. Från 1047 var han ensam kung. Han förde ett nästan 20-årigt krig mot Danmark utan att vinna det, och grundade enligt tradition Oslo. Tillnamnet "Hårdråde" betyder ungefär "den hårde härskaren".
+
+    Varför det spelar roll: Harald är ett levande exempel på vikingatidens nätverk – från Norge via Ryssland till Bysans och Sicilien. Hans försök att erövra England 1066 slutade med hans död vid Stamford Bridge, och [ses ofta som slutpunkten för vikingatiden](#harald-hardrade-stupar-1066).
+
+harald-hardrade-stupar-1066:
+  period: 1060
+  label: "Harald Hårdråde stupar 1066: vikingatidens slut"
+  title: "Harald Hårdråde stupar 1066 – vikingatidens slut"
+  wiki:
+    - "sv:Harald Hårdråde"
+    - "sv:Slaget vid Stamford Bridge"
+    - "sv:Vikingatiden"
+  text: |
+    **Harald Hårdråde**, [Norges kung sedan 1046](#harald-hardrade-kung-1046), gjorde anspråk på Englands tron genom ett avtal som hans brorson [Magnus den gode](#magnus-den-gode) slutit. När engelske kungen [Edvard Bekännaren](#edvard-bekannaren-1042) dog 1066 seglade han med uppskattningsvis 300 skepp och omkring 10 000 man till England, i allians med den förvisade engelske jarlen Tostig.
+
+    Efter en seger vid Fulford nära York blev norrmännen överraskade av engelske kungen Harald Godwinsons armé vid **Stamford Bridge** den 25 september 1066. Många hade lämnat sina brynjor vid skeppen den varma dagen. Harald Hårdråde träffades av en pil i halsen och dog. Av de omkring 300 skeppen räckte cirka 24 för att föra hem de överlevande.
+
+    Varför det spelar roll: 1066 brukar räknas som slutet på **vikingatiden** (cirka 793–1066) – den period när nordbor plundrade, handlade och bosatte sig från Nordamerika till Konstantinopel. Därefter blev de nordiska rikena allt mer kristna, centraliserade kungadömen av europeisk typ. Ironiskt nog var det ättlingar till vikingar i Normandie som tre veckor senare [erövrade England vid Hastings](#stamford-bridge-och-hastings-1066).
+
+olav-kyrre:
+  period: 1060
+  label: "Olav Kyrre"
+  title: "Olav Kyrre, Norges fredskung 1067–1093"
+  wiki:
+    - "sv:Olav Kyrre"
+    - "en:Olaf III of Norway"
+  text: |
+    **Olav Kyrre** var kung av Norge 1067–1093. Han var son till Harald Hårdråde, den krigiske vikingakungen som stupade när han försökte erövra England vid [Stamford Bridge 1066](#stamford-bridge-och-hastings-1066). Olav var själv med på det tåget men fick åka hem med de överlevande – enligt sagorna räckte 24 av drygt 300 skepp för att ta hem dem.
+
+    Tillnamnet ”Kyrre” betyder ungefär den stillsamme eller fredlige. Hans 26 år på tronen var en ovanligt lugn period: inga stora krig, i stället handel och uppbyggnad. Det markerar slutet på vikingatiden i Norge – kungamakten gick från plundring utomlands till att organisera landet hemma.
+
+    Han förknippas med tre saker: grundandet av **Bergen** (traditionellt omkring 1070, se [Bergen grundas](#bergen-grundas)), att kyrkan fick fasta biskopssäten (Nidaros/Trondheim, Bergen, Oslo) och att stenkyrkor började byggas. Kyrkan var då statens viktigaste förvaltningsapparat – den kunde läsa, skriva och föra register. Jämför med [Vilhelm Erövraren](#vilhelm-erovraren) i England samtidigt, som byggde en mycket hårdare centralmakt.
+
+knut-den-helige-mordad-1086:
+  period: 1080
+  label: "Knut den helige mördad 1086"
+  title: "Knut den helige mördas 1086"
+  wiki:
+    - "sv:Knut den helige"
+    - "en:Canute IV of Denmark"
+  text: |
+    **Knut IV** var kung av Danmark 1080–1086. Han ville stärka kungamakten efter europeisk modell: han gav kyrkan mark och privilegier, hävdade kungens rätt till allmänningar, vrakgods och arvlöst gods, och krävde in nya avgifter och böter. Det gjorde honom illa omtyckt hos bönder och stormän.
+
+    1085 samlade han en stor flotta – enligt traditionen omkring 1 000 skepp – för att invadera England och återta det rike som [Knut den store](#knut-den-store-kung-av-england-danmark) styrt 1016–1035. Men flottan låg och väntade i Limfjorden hela sommaren medan kungen dröjde i södra Danmark, och bönderna, som behövdes hemma för skörden, gick hem. Knut försökte straffa dem med böter, vilket utlöste ett uppror. I juli 1086 dödades han, hans bror och sjutton följeslagare i **S:t Albans kyrka i Odense**.
+
+    Efter dåliga skördeår under hans efterträdare tolkades det som Guds straff, och Knut helgonförklarades 1101 – Danmarks första helgonkung. Kyrkan fick en martyr och kungamakten en helig grundare, ungefär som Norge fått med [Olav den helige](#slaget-vid-stiklestad-1030-olav-den) (död 1030) och Sverige senare med [Erik den helige](#erik-den-helige). Hans ben ligger fortfarande i Sankt Knuds kyrka i Odense. Samma år, 1086, gjorde Vilhelm Erövraren sin [Domesday Book](#domesday-book-1086) för att försvara England mot just detta hot.
+
+bergen-grundas:
+  period: 1080
+  label: "Bergen grundas"
+  title: "Bergen grundas"
+  wiki:
+    - "sv:Bergen"
+    - "en:History of Bergen"
+  text: |
+    Enligt de isländska kungasagorna grundade kung **[Olav Kyrre](#olav-kyrre)** (kung av Norge 1067–1093, se Olav Kyrre) staden **Bergen** omkring 1070. Arkeologin visar att det fanns bebyggelse där redan tidigare, så ”grundandet” innebar snarare att kungen gav platsen status som stad, köpingsplats och kungsgård.
+
+    Läget var perfekt för handel: en skyddad hamn på västkusten, nära både fiskelägena i norr och sjövägarna mot Brittiska öarna. Under 1100- och 1200-talet var Bergen Norges största stad och tidvis huvudstad. Den viktigaste varan var **torrfisk** – torsk som torkats på ställningar i Lofoten och kunde hålla i åratal. Den skeppades söderut i stora mängder som fastemat för katolska Europa, där man inte fick äta kött på uppemot en tredjedel av årets dagar.
+
+    På 1300-talet tog tyska köpmän från **[Hansan](#hansan-vaxer)** – ett förbund av handelsstäder kring Östersjön och Nordsjön – över stora delar av handeln. Deras kontor vid kajen, Bryggen, står kvar och är världsarv. Bergen förblev Nordens största stad långt in på 1600-talet.
+
+lund-arkesate-for-norden-1103:
+  period: 1100
+  label: "Lund ärkesäte för Norden 1103"
+  title: "Lund blir Nordens ärkebiskopssäte 1103"
+  wiki:
+    - "sv:Lunds ärkestift"
+    - "sv:Lunds domkyrka"
+  text: |
+    Den katolska kyrkan var organiserad i stift som leddes av biskopar, och flera stift samlades under en **ärkebiskop**. Fram till 1100-talet lydde kyrkan i Norden under ärkebiskopen i Hamburg-Bremen i Tyskland. Det betydde att tyska kyrkoledare, och indirekt den tyske kejsaren, hade inflytande över de nordiska länderna.
+
+    Den danske kungen **Erik Ejegod** reste till påven och fick igenom att **Lund** – då en dansk stad i Skåne – blev ärkebiskopssäte för hela Norden 1103/1104. Förste ärkebiskop var **Asser**. Påven var vid denna tid inne i [investiturstriden](#investiturstriden-borjar) mot den tyske kejsaren och hade intresse av att minska de tyska biskoparnas makt. Domkyrkan i Lund, som invigdes 1145, är en av Nordens viktigaste romanska byggnader.
+
+    Lund var ärkesäte för Danmark, Norge, Sverige, Island och Grönland – Nordens kyrkliga huvudstad. Norge fick ett eget ärkesäte i [Nidaros (Trondheim) 1152/1153](#nidaros-eget-arkesate-1153) och Sverige i Uppsala 1164, men ärkebiskopen i Lund behöll titeln ”primas” över Sverige. Det var ett steg i att de nordiska länderna blev en del av det europeiska systemet.
+
+sigurd-jorsalafar-pa-korstag-110710:
+  period: 1100
+  label: "Sigurd Jorsalafar på korståg 1107–10"
+  title: "Sigurd Jorsalafar"
+  wiki:
+    - "sv:Sigurd Jorsalafar"
+    - "en:Norwegian Crusade"
+  text: |
+    **Sigurd Magnusson** var kung av Norge 1103–1130, son till krigarkungen Magnus Barfot. Han blev den första europeiska kungen som personligen deltog i ett korståg, och fick därför namnet **Jorsalafar** – ”den som farit till Jorsal (Jerusalem)”.
+
+    1107 lämnade han Norge med enligt sagorna 60 skepp och kanske 5 000 man. Färden tog tre år och gick runt hela västra Europa: övervintring i England, strider mot muslimer i Galicien, Lissabon och på Balearerna, besök på Sicilien. 1110 kom han till Jerusalem och hjälpte kung Balduin I att erövra kuststaden **Sidon** (i dagens Libanon). Som tack fick han en flisa av det ”sanna korset”. Hemvägen gick via Konstantinopel, där han enligt sagan lämnade sina skepp till kejsaren och reste landvägen hem genom Europa.
+
+    Färden visar hur snabbt Norden, som bara några generationer tidigare var hedniskt, hade blivit en del av den kristna europeiska världen. Efter hans död 1130 följde ett hundra år av inbördeskrig i Norge om tronen. Hans resa är, jämfört med vikingatågen, ett exempel på samma sjöfartskunskap med ett nytt religiöst syfte. Se även [Första korståget](#forsta-korstaget-jerusalem-intas-1099) som föregick färden.
+
+norska-inbordeskrigen-borjar-1130:
+  period: 1120
+  label: "Norska inbördeskrigen börjar 1130"
+  title: "De norska inbördeskrigen 1130–1240"
+  wiki:
+    - "sv:Inbördeskrigen i Norge"
+    - "sv:Sverre Sigurdsson"
+  text: |
+    När den norske kungen **[Sigurd Jorsalfar](#sigurd-jorsalafar-pa-korstag-110710)** (”Jerusalemfararen”, som gjort korståg till Palestina) dog 1130 fanns ingen tydlig regel för vem som skulle ärva. Enligt sedvänjan kunde varje son till en kung – även utomäktenskaplig – göra anspråk på kronan, och flera kunde dela den. Sigurds son Magnus och **Harald Gille**, en man från Irland som påstod sig vara son till en tidigare kung, blev samkungar och började snart kriga.
+
+    Harald vann 1135 och lät stympa och blinda Magnus (känd som Magnus den blinde). Därefter följde drygt hundra år av återkommande krig mellan tronpretendenter och deras partier, bland annat *birkebeinerna* (”björkbenen”, fattiga anhängare med näver kring benen) och *baglerna* (efter *bagall*, biskopsstav, eftersom kyrkan stödde dem). Den mest kände ledaren var [Sverre Sigurdsson](#sverre-i-norge-birkebeinere), kung 1177–1202.
+
+    Krigen slutade först 1240 när [Håkon Håkonsson](#hakon-hakonsson) besegrade sin sista rival. Under hans tid blev Norge ett starkt kungarike med ny tronföljdslag (äldste äkta sonen ärver) och nådde sin största utbredning med Island och Grönland. Jämför med Sverige, där släkterna Sverker och Erik turades om och dödade varandra under samma period.
+
+nidaros-eget-arkesate-1153:
+  period: 1140
+  label: "Nidaros eget ärkesäte 1153"
+  title: "Nidaros blir ärkebiskopssäte 1153"
+  wiki:
+    - "sv:Nidaros ärkestift"
+    - "sv:Hadrianus IV"
+    - "sv:Nidarosdomen"
+  text: |
+    Den katolska kyrkan var organiserad i kyrkoprovinser, var och en ledd av en ärkebiskop med flera biskopar under sig. Norden hörde först under ärkebiskopen i Hamburg-Bremen i Tyskland, och [från 1104 under Lund](#lund-arkesate-for-norden-1103) (då danskt). Att få ett eget ärkesäte innebar att ett land fick en självständig kyrka – viktigt både för kyrkan och för kungamakten.
+
+    1152–53 kom den påvliga legaten (sändebudet) **Nicholas Breakspear** till Norden. Han inrättade ett ärkebiskopssäte i **Nidaros** (dagens Trondheim), där Norges skyddshelgon [Olav den helige](#slaget-vid-stiklestad-1030-olav-den) låg begravd. Under det lydde inte bara de norska stiften utan även Island, Grönland, Färöarna, Orkneyöarna, Shetland och Isle of Man – hela det norröna Atlanten. Nidarosdomen, Nordens största medeltida kyrka, byggdes ut under de följande århundradena.
+
+    Breakspear försökte även inrätta ett svenskt ärkesäte men misslyckades eftersom svear och götar inte kunde enas om var det skulle ligga. Sverige fick sitt först 1164, i Uppsala. Två år efter Norgeresan valdes Breakspear till påve som **Hadrianus IV** – den ende engelsmannen som blivit påve. Han ska även ha gett [Henrik II av England](#henrik-ii-1154-angevinska-riket) rätt att erövra Irland (se [invasion av Irland 1169](#invasion-av-irland-1169)).
+
+venden-korstaget-1147:
+  period: 1140
+  label: "Venden-korståget 1147"
+  title: "Vendiska korståget 1147"
+  wiki:
+    - "en:Wendish Crusade"
+    - "sv:Vender"
+    - "sv:Nordiska korstågen"
+  text: |
+    **Vender** var det tyska och nordiska namnet på de slaviska folk som bodde längs Östersjöns sydkust, ungefär från Kiel till floden Oder – i dagens nordöstra Tyskland och Polen. De var till stor del fortfarande icke-kristna och låg i ständig konflikt med danskar och tyskar; vendiska pirater plundrade danska kuster.
+
+    När [andra korståget](#andra-korstaget-114749) förbereddes 1146–47 ville nordtyska furstar hellre strida närmare hemmet. Bernhard av Clairvaux, korstågets främste predikant, och påven godkände ett korståg mot venderna med samma andliga belöningar som att resa till Jerusalem. Uppskattningsvis tiotusentals tyska, danska och polska krigare deltog 1147, ledda bland andra av **Henrik Lejonet**, hertig av Sachsen.
+
+    Det militära resultatet var magert: belägringarna av Dobin och Demmin gav lite, och vissa tyska furstar var mer intresserade av att ta jord och tributer än av att omvända. Men det öppnade en lång period av nordiska korståg. Danmark under [Valdemar den store](#valdemar-den-store) erövrade det vendiska helgedomscentret [Arkona 1168](#arkona-pa-rugen-1168) (se dit), och senare följde korståg mot Baltikum och Finland. Tysk kolonisation österut förändrade hela regionen; städer som Lübeck grundades i detta område.
+
+valdemar-den-store:
+  period: 1160
+  label: "Valdemar den store"
+  title: "Valdemar den store"
+  wiki:
+    - "sv:Valdemar den store"
+    - "en:Valdemarian Era"
+  text: |
+    **Valdemar I**, kallad den store (1131–1182), var kung av Danmark. Hans far, Knut Lavard, hade mördats av en släkting 1131, och Danmark plågades därefter av inbördeskrig mellan tronpretendenter. 1157 delades riket mellan tre kungar; vid ett gästabud i Roskilde dödades en av dem och Valdemar undkom med nöd. Kort därefter besegrade han den tredje vid Grathe hed och blev ensam kung.
+
+    Med sin barndomsvän och fosterbror **Absalon**, biskop i Roskilde och senare ärkebiskop i Lund (se [Absalon, Köpenhamn](#absalon-kopenhamn-1167)), förde han en lång rad krigståg mot venderna, de slaviska folken vid Östersjöns sydkust, vars pirater plundrade danska kuster. Höjdpunkten var erövringen av templet i [Arkona på Rügen 1168](#arkona-pa-rugen-1168) (se dit). Han lät bygga Danevirke-vallen förstärkt med tegelmur (”Valdemarsmuren”) mot Tyskland.
+
+    Valdemar inledde den så kallade Valdemarstiden (1157–1241), Danmarks medeltida storhetstid, då Danmark var Nordens ledande makt och kontrollerade Östersjökusten ända till Estland. Hans söner Knut VI och Valdemar Sejr fortsatte expansionen; enligt sägnen föll Dannebrog från himlen under Valdemar Sejrs slag i [Estland 1219](#danmark-erovrar-estland-1219).
+
+absalon-kopenhamn-1167:
+  period: 1160
+  label: "Absalon, Köpenhamn ~1167"
+  title: "Absalon och Köpenhamns grundande"
+  wiki:
+    - "sv:Absalon"
+    - "sv:Köpenhamns historia"
+  text: |
+    **Absalon** (ca 1128–1201) var dansk stormannason, uppvuxen tillsammans med den blivande kungen **[Valdemar den store](#valdemar-den-store)**. Han blev biskop i Roskilde 1158 och ärkebiskop i Lund 1178 (Skåne var danskt fram till 1658). Han var både kyrkoman och krigare: han ledde själv flottan mot venderna, de slaviska folken vid Östersjöns sydkust, och var kungens främste rådgivare.
+
+    Valdemar gav Absalon den lilla fiskeorten Havn (”hamnen”) på Själland, och omkring 1167 lät Absalon bygga en borg där på en holme, för att skydda kusten mot vendiska pirater och kontrollera handeln i Öresund. Det räknas som Köpenhamns grundande. Orten hette senare *Køpmannæhafn*, ”köpmännens hamn”. Resterna av Absalons borg finns i dag under Christiansborgs slott, där Folketinget sitter.
+
+    Absalon gav också Saxo Grammaticus i uppdrag att skriva Danmarks historia, *Gesta Danorum*, där bland annat berättelsen om Amled finns – förlagan till Shakespeares Hamlet. Köpenhamn blev kungarnas huvudstad på 1400-talet. Jämför med [Stockholm](#birger-jarl-stockholm-1250), som nämns första gången 1252, alltså ungefär 85 år senare.
+
+arkona-pa-rugen-1168:
+  period: 1160
+  label: "Arkona på Rügen 1168"
+  title: "Erövringen av Arkona 1168"
+  wiki:
+    - "en:Cape Arkona"
+    - "sv:Svantevit"
+  text: |
+    **Arkona** var en tempelborg på en klippudde längst norrut på ön Rügen, i dagens nordöstra Tyskland. Den tillhörde ranerna, ett av de slaviska folk som danskarna kallade vender. Där fanns templet för **Svantevit**, en fyrhövdad gud som var den viktigaste i hela den vendiska världen; folk från hela kusten sände gåvor och tempelskatt dit, och templet hade en egen ryttartrupp på 300 man.
+
+    Danskarna under kung **[Valdemar den store](#valdemar-den-store)** och biskop **[Absalon](#absalon-kopenhamn-1167)** hade länge gjort krigståg mot venderna, vars pirater plundrade danska kuster. 1168 belägrade de Arkona. Enligt krönikören Saxo Grammaticus fattade vallen eld och försvararna kapitulerade efter några dagar. Danskarna högg sönder och brände den stora träbilden av Svantevit och tog tempelskatten.
+
+    Ranerna fick döpas och erkänna dansk överhöghet; Rügen var danskt till 1325. Erövringen räknas som slutet på den organiserade slaviska hedendomen vid Östersjön och ingick i en bredare rörelse av ”nordiska korståg” (se [Vendiska korståget 1147](#venden-korstaget-1147)), som fortsatte mot Estland, Livland, Preussen och Finland. Stora delar av klippan med borgresterna har sedan dess rasat ner i havet.
+
+sverre-i-norge-birkebeinere:
+  period: 1180
+  label: "Sverre i Norge (birkebeinere)"
+  title: "Sverre och birkebeinerna"
+  wiki:
+    - "sv:Sverre Sigurdsson"
+    - "sv:Birkebeiner"
+  text: |
+    Från 1130 till 1240 rådde i Norge en lång period av inbördeskrig, *[inbördeskrigstiden](#norska-inbordeskrigen-borjar-1130)*, där olika tronpretendenter slogs om kungamakten. Arvsregeln var oklar: alla kungasöner, även utomäktenskapliga, kunde göra anspråk.
+
+    **Sverre Sigurdsson** (ca 1151–1202) växte upp på Färöarna och utbildades till präst, men påstod sig vara son till kung Sigurd Munn. 1177 blev han ledare för **birkebeinerna** (”björkbenen”), ett parti av fattiga upprorsmän som sägs ha lindat näver kring benen i brist på skor. Mot sig hade han kung Magnus Erlingsson, som stöddes av kyrkan och adeln. Sverre vann vid Fimreite 1184, där Magnus stupade, och var kung till sin död.
+
+    Han var bannlyst av påven i en lång maktkamp mot kyrkan om vem som hade högst makt. *Sverres saga*, skriven delvis under hans ledning, är en av de viktigaste källorna. Hans sonson [Håkon Håkonsson](#hakon-hakonsson) avslutade inbördeskrigen och ledde Norge in i en blomstringstid.
+
+danmark-erovrar-estland-1219:
+  period: 1200
+  label: "Danmark erövrar Estland 1219"
+  title: "Danmark erövrar Estland 1219"
+  wiki:
+    - "sv:Valdemar Sejr"
+    - "en:Battle of Lindanise"
+    - "sv:Dannebrog"
+  text: |
+    Runt 1200 var Danmark Östersjöns starkaste makt under kung **Valdemar II Sejr** (”Segraren”, kung 1202–1241). Danskarna hade redan tagit Holstein och Mecklenburg. Samtidigt pågick de så kallade [nordiska korstågen](#venden-korstaget-1147): påven uppmanade till erövring och kristnande av de hedniska folken i Baltikum, dvs. ester, liver, letter och prusser.
+
+    1219 landsteg Valdemar med en stor flotta, enligt uppgift över 1 000 skepp (troligen överdrivet), i norra Estland vid platsen för dagens Tallinn. Esterna anföll lägret i juni vid slaget vid Lyndanisse, och enligt legenden föll då **Dannebrog**, den röda flaggan med vitt kors, från himlen och gav danskarna segern. Det är Danmarks nationalflagga i dag, en av världens äldsta.
+
+    Danskarna byggde en borg där, och staden fick namnet Tallinn, som troligen betyder ”danskarnas borg”. Danmark behöll norra Estland till 1346, då det såldes till [Tyska orden](#tyska-orden-1190). Valdemars makt bröts 1227 vid Bornhöved.
+
+hakon-hakonsson:
+  period: 1220
+  label: "Håkon Håkonsson"
+  title: "Håkon Håkonsson, Norges kung 1217–1263"
+  wiki:
+    - "sv:Håkon Håkonsson"
+    - "en:Civil war era in Norway"
+  text: |
+    **Håkon IV Håkonsson** var kung av Norge 1217–1263. Han tog över ett land som i nästan hundra år slitits sönder av *inbördeskrigstiden* (ca 1130–1240) – en lång rad strider mellan kungapretendenter, eftersom det inte fanns någon fast regel för vem som ärvde tronen. Den sista stora utmanaren, hans svärfar **Skule jarl**, besegrades 1240. Därefter var Norge enat och lugnt.
+
+    Håkons regeringstid räknas som höjdpunkten för det medeltida Norge. Han kröntes 1247 av en påvlig legat (påvens sändebud), vilket gav kungamakten kyrkans välsignelse. Hans hov i Bergen tog in europeisk riddarkultur och lät översätta franska riddarromaner till norröna (fornnordiska). Norges välde nådde sin största utsträckning när Grönland (1261) och Island (1262–64) underkastade sig kungen.
+
+    Han dog 1263 på Orkney efter ett misslyckat fälttåg mot Skottland (slaget vid Largs). Tre år senare sålde sonen [Magnus Lagaböte](#magnus-lagabotes-landslag) Hebriderna och Isle of Man till Skottland – den norske kungens grepp om Västerhavet började släppa. Mycket av det vi vet om Håkon kommer från hans saga, skriven av islänningen Sturla Tordsson, brorson till [Snorre Sturlasson](#snorre-sturlason-skriver).
+
+snorre-sturlason-skriver:
+  period: 1220
+  label: "Snorre Sturlason skriver"
+  title: "Snorre Sturlasson och sagorna"
+  wiki:
+    - "sv:Snorre Sturlasson"
+    - "sv:Heimskringla"
+    - "en:Prose Edda"
+  text: |
+    **Snorre Sturlasson** (1179–1241) var en isländsk hövding, lagman (ordförande i Islands lagtingsförsamling, Alltinget) och författare. Island var då en fristat utan kung, styrd av ett trettiotal mäktiga hövdingar som ofta låg i fejd med varandra.
+
+    Omkring 1220–1235 skrev han två verk som blivit grundläggande för vår bild av vikingatiden. **Snorres Edda** är en handbok för skalder (diktare) som återberättar den fornnordiska mytologin – Oden, Tor, Loke, Ragnarök. Utan den skulle vi veta betydligt mindre om asatron, som då varit borta i ungefär 200 år. **Heimskringla** är en serie sagor om norska kungar från mytisk tid fram till 1177. Den är litterärt skickligt skriven men inte pålitlig som källa i modern mening: den nedtecknades 200–300 år efter många av händelserna.
+
+    Snorre drogs in i maktspelet mellan Islands hövdingar och den norske kungen [Håkon Håkonsson](#hakon-hakonsson), som ville få Island under sig. Han mördades 1241 i sin källare i Reykholt av sin före detta svärson, på kungens order. Tjugo år senare var Island norskt (se ”[Island under Norge 1262](#island-under-norge-1262)”). Hans verk trycktes och översattes på 1600–1800-talen och blev viktiga för nationalromantiken i Norden.
+
+island-under-norge-1262:
+  period: 1240
+  label: "Island under Norge 1262"
+  title: "Island underkastar sig Norge 1262"
+  wiki:
+    - "en:Old Covenant (Iceland)"
+    - "en:Age of the Sturlungs"
+    - "sv:Islands historia"
+  text: |
+    Island hade sedan ca 930 varit en fristat utan kung. Högsta organ var *Alltinget*, en årlig församling där hövdingarna (*goðar*) stiftade lag och dömde. Under 1200-talet koncentrerades makten till några få släkter som förde blodiga fejder – perioden kallas **Sturlungatiden** (ca 1220–1262) efter den mäktigaste släkten, Sturlungarna, där Snorre Sturlasson ingick (se ”[Snorre Sturlason skriver](#snorre-sturlason-skriver)”).
+
+    Norges kung [Håkon Håkonsson](#hakon-hakonsson) utnyttjade striderna genom att ge hövdingar uppdrag och titlar i utbyte mot lojalitet. 1262–64 svor islänningarna trohet till honom i ett avtal, *Gamli sáttmáli* (”den gamla överenskommelsen”). Kungen lovade fred, isländsk lag och sex fartyg om året med varor. Grönland hade underkastat sig redan 1261.
+
+    Island var därefter under Norge, och från 1380, när Norge kom i union med Danmark, under Danmark. Ön blev självständig först 1918 (i personalunion med Danmark) och republik 1944. Isländskan förändrades förvånansvärt lite under tiden, vilket gör att islänningar fortfarande kan läsa sagorna från 1200-talet i original – ungefär som om vi kunde läsa de svenska landskapslagarna utan översättning.
+
+magnus-lagabotes-landslag:
+  period: 1260
+  label: "Magnus Lagabøtes landslag"
+  title: "Magnus Lagaböte och Norges landslag 1274"
+  wiki:
+    - "sv:Magnus Lagaböte"
+    - "en:Magnus Lagabøte's law"
+  text: |
+    **Magnus VI Håkonsson** (1238–1280), son till [Håkon Håkonsson (se den)](#hakon-hakonsson), var kung av Norge 1263–1280. Han kallas *Lagabøte*, ”lagförbättraren”. Han slöt fred med Skottland 1266 och sålde Hebriderna och Isle of Man – ett tecken på att Norge valde att konsolidera i stället för att expandera.
+
+    Norge hade tidigare fyra regionala lagar, en för varje *lagting* (regional församling där bönderna samlades för att döma och stifta lag), med olika regler. 1274 ersattes de av en gemensam **landslag** för hela riket – en av de första nationella lagböckerna i Europa. Den byggde på de äldre lagarna men införde en ny princip: grova brott var inte bara en sak mellan offer och förövare (som skulle lösas med böter eller blodshämnd) utan ett brott mot samhället, som kungen skulle straffa. Därefter följde en stadslag (1276) och en lag för Island (*Jónsbók*, 1281).
+
+    Landslagen gällde i Norge till Christian V:s norska lag 1687, alltså i över 400 år. På Island gäller fortfarande enstaka delar av Jónsbók. Jämför med Sveriges motsvarighet, [Magnus Erikssons landslag ca 1350](#magnus-erikssons-landslag), som kom ungefär 75 år senare.
+
+hansan-dominerar-ostersjon:
+  period: 1280
+  label: "Hansan dominerar Östersjön"
+  title: "Hansan dominerar Östersjön"
+  wiki:
+    - "sv:Hansan"
+    - "en:Hanseatic League"
+  text: |
+    **Hansan** var ett nätverk av nordtyska handelsstäder och köpmän, med **Lübeck** som ledare. Ordet betyder ungefär ”skara” eller ”gille”. Det var ingen stat utan ett förbund för att skydda handeln, med gemensamma regler och möten (hansedagar). På sin höjd omfattade det uppskattningsvis 150–200 städer.
+
+    Hansan kontrollerade handeln mellan Ryssland och Västeuropa: pälsar, vax, spannmål, fisk, salt, tyg och metall. De hade stora handelskontor i Novgorod, Bergen, London och Brygge. Varorna fraktades i *koggar*, rundbottnade segelfartyg som lastade kanske 100 ton – jämför med ett modernt containerfartyg på 200 000 ton.
+
+    För Norden var Hansan avgörande. **Visby** på Gotland var tidigt ett nav, och i Stockholm och Kalmar var en stor del av borgarna tyskar; Magnus Erikssons stadslag på 1300-talet begränsade att högst hälften av rådmännen fick vara tyska. Den svenska kopparn och järnet från Bergslagen exporterades via Lübeck. Hansan kunde föra krig – och [besegrade Danmark 1370](#hansan-stralsundsfreden-1370). Dess makt minskade på 1500-talet när nationalstater som Sverige och Nederländerna tog över handeln.
+
+erik-menved:
+  period: 1300
+  label: "Erik Menved"
+  title: "Erik Menved, dansk kung 1286–1319"
+  wiki:
+    - "sv:Erik Menved"
+  text: |
+    Erik Menved var Danmarks kung 1286–1319. Han blev kung som tolvåring efter att hans far, Erik Klipping, mördats i en lada i Finderup 1286 – ett mord som aldrig klarlades. Tillnamnet Menved är osäkert till betydelsen; det kan komma från en ed han brukade svära.
+
+    Erik förde en ambitiös utrikespolitik. Han ville göra Danmark till herre över Östersjöns södra kust och tog över de nordtyska städerna Rostock och Stralsund som beskyddare. Han blandade sig också i de svenska brödrastriderna mellan kung Birger och hans bröder, som slutade med [Nyköpings gästabud 1317](#nykopings-gastabud-1317) där Birger fängslade bröderna.
+
+    Politiken var mycket dyr. Erik finansierade den genom höjda skatter och genom att pantsätta kronans gods och slott till tyska furstar och stormän: de fick inkomsterna tills lånen återbetalats. När han dog 1319 var statskassan tom och stora delar av riket pantsatta. Det banade väg för [den danska krisen](#danmark-i-kris) och för att [Danmark stod utan kung 1332–40](#danmark-kungalost-och-pantsatt-133240).
+
+danmark-i-kris:
+  period: 1300
+  label: "Danmark i kris"
+  title: "Danmarks kris på 1300-talet"
+  wiki:
+    - "en:Christopher II of Denmark"
+    - "sv:Kristoffer II av Danmark"
+  text: |
+    Under början av 1300-talet hamnade Danmark i djup kris. [Erik Menveds](#erik-menved) krig hade finansierats med lån, och som säkerhet hade kronan pantsatt slott, län och skatteinkomster till tyska grevar och danska stormän. Kungen förlorade därmed både pengar och kontroll över sitt eget land.
+
+    Efter Eriks död 1319 valdes hans bror Kristoffer II, men stormännen tvingade honom först att underteckna en *håndfæstning* 1320 – ett slags maktbegränsande kontrakt där kungen lovade att respektera adelns och kyrkans rättigheter och inte införa nya skatter godtyckligt. Det var den första i en lång rad sådana dokument i dansk historia, jämförbart med den engelska Magna Carta från 1215.
+
+    Kristoffer lyckades inte ändå. Han fördrevs 1326, återkom och förlorade igen. De mäktigaste var nu grevarna av Holstein, särskilt Gerhard III. Krisen kulminerade när [Danmark stod helt utan kung 1332–40](#danmark-kungalost-och-pantsatt-133240). Först [Valdemar Atterdag](#valdemar-atterdag-tar-visby-1361) lyckades bygga upp riket igen.
+
+danmark-kungalost-och-pantsatt-133240:
+  period: 1320
+  label: "Danmark kungalöst och pantsatt 1332–40"
+  title: "Danmark utan kung 1332–1340"
+  wiki:
+    - "sv:Danmarks kungalösa tid"
+    - "sv:Gerhard III av Holstein"
+  text: |
+    När Kristoffer II dog 1332 valdes ingen ny kung. Danmark existerade under åtta år i praktiken inte som rike: nästan hela landet var pantsatt till långivare (se [Danmarks kris](#danmark-i-kris)). Jylland och Fyn kontrollerades av greve Gerhard III av Holstein, medan Skåne hade pantsatts till hans kusin Johan.
+
+    Skåningarna gjorde uppror mot de holsteinska fogdarna och vände sig till Sveriges kung [Magnus Eriksson](#magnus-eriksson). År 1332 köpte han Skåne och Blekinge för 34 000 mark silver – en enorm summa som han hade svårt att betala. Sverige (med Norge i union) sträckte sig därmed en tid från Finland till Öresund.
+
+    År 1340 mördades Gerhard III av den jylländske adelsmannen Niels Ebbesen i Randers. Samma år valdes Kristoffers son Valdemar, sedermera kallad [Valdemar Atterdag](#valdemar-atterdag-tar-visby-1361), till kung. Han ägnade sitt liv åt att lösa tillbaka panterna bit för bit, och 1360 tog han tillbaka Skåne. Episoden visar hur feodala riken kunde behandlas nästan som fastigheter som köptes, såldes och belånades.
+
+digerdoden-134950:
+  period: 1340
+  label: "Digerdöden 1349–50"
+  title: "Digerdöden i Norden 1349–1350"
+  wiki:
+    - "sv:Digerdöden"
+    - "en:Black Death in Norway"
+  text: |
+    Pesten kom till Norden 1349 med ett engelskt fartyg till **Bergen** i Norge, och året därpå till Sverige. [Kung Magnus Eriksson](#magnus-eriksson) skickade 1350 ut ett brev där han beskrev sjukdomen som Guds straff och uppmanade folk till fasta och botgöring – medicinsk förståelse fanns inte.
+
+    Hur många som dog är osäkert, eftersom det saknas folkräkningar. Forskare uppskattar att Norge kan ha förlorat hälften eller mer av sin befolkning, och Sverige kanske en tredjedel till hälften. Spåren syns i landskapet: tusentals gårdar övergavs och kallas *ödegårdar*. I många bygder tog det flera hundra år innan de odlades upp igen.
+
+    Pesten fick politiska följder. Norge, som redan var glest befolkat, förlorade en stor del av sina skattebetalare och sin adel. Kungamakten och kyrkan blev fattigare, vilket bidrog till att landet hamnade i union med Danmark ([se Kalmarunionen 1397](#kalmarunionen-1397-margareta)) och styrdes därifrån fram till 1814. Pesten kom sedan tillbaka i nya vågor med några års mellanrum (se ”[Pesten återkommer](#pesten-aterkommer-var-10-e15-e-ar)” på 1360-talet).
+
+valdemar-atterdag-tar-visby-1361:
+  period: 1360
+  label: "Valdemar Atterdag tar Visby 1361"
+  title: "Valdemar Atterdag tar Visby 1361"
+  wiki:
+    - "sv:Valdemar Atterdags brandskattning av Visby"
+    - "sv:Valdemar Atterdag"
+  text: |
+    **Valdemar Atterdag** var kung av Danmark 1340–1375. När han tillträdde var Danmark i praktiken upplöst – landet var pantsatt bit för bit till tyska furstar. Valdemar köpte, erövrade och skattade tillbaka landet, och tog 1360 även tillbaka **Skåne** från [svenske kungen Magnus Eriksson](#magnus-eriksson).
+
+    Sommaren 1361 seglade han till **Gotland**. Ön var rik av handeln – Visby var en av Östersjöns viktigaste hansestäder. Den 27 juli 1361 besegrade den danska hären de gotländska bönderna utanför Visbys ringmur. Omkring 1 800 bönder dog. Massgravarna grävdes ut på 1900-talet, och skeletten och de bevarade rustningarna är bland Europas viktigaste fynd om medeltida krigföring. Borgarna i Visby, som var skyddade av muren, öppnade portarna och slapp undan genom att betala en brandskatt – enligt legenden genom att fylla tre ölkar med silver och guld.
+
+    Attacken på en hansestad ledde till krig mot Hansan, som Valdemar förlorade ([se Stralsundsfreden 1370](#hansan-stralsundsfreden-1370)). Gotland förblev danskt till 1645. Valdemars dotter **Margareta** kom senare att ena de tre nordiska rikena i [Kalmarunionen 1397](#kalmarunionen-1397-margareta).
+
+kalmarunionen-1397-margareta:
+  period: 1380
+  label: "Kalmarunionen 1397 (Margareta)"
+  title: "Kalmarunionen 1397"
+  wiki:
+    - "sv:Kalmarunionen"
+    - "sv:Margareta (drottning)"
+  text: |
+    **Margareta** (1353–1412) var dotter till den danske kungen [Valdemar Atterdag](#valdemar-atterdag-tar-visby-1361) och gift med Norges kung Håkon VI, son till [Sveriges Magnus Eriksson](#magnus-eriksson). Efter att både hennes far, make och son dött styrde hon själv Danmark och Norge, och när den svenska adeln 1389 hjälpte henne att besegra [kung Albrekt av Mecklenburg](#albrekt-av-mecklenburg) fick hon makten även i Sverige. Hon var en av medeltidens skickligaste politiker.
+
+    Eftersom hon inte hade några levande barn valde hon sin systerdotters son, **Erik av Pommern**, som arvinge. 1397 kröntes han i **Kalmar** till kung över alla tre rikena. Det ”unionsbrev” som skrevs då är oklart till sin rättsliga status, men unionen innebar att Danmark, Norge (med Island och Färöarna) och Sverige (med Finland) hade gemensam kung. Det var till ytan ett av Europas största riken, med uppskattningsvis bara runt 1,5–2 miljoner invånare.
+
+    Syftet var bland annat att stå emot den nordtyska Hansans makt. Men Sverige var ofta missnöjt med dansk dominans och höga skatter, vilket ledde till uppror ([Engelbrekt 1434](#engelbrektsupproret-1434)) och slutligen till att [Gustav Vasa bröt sig ur 1523](#gustav-vasa-1523). Norge förblev i union med Danmark till 1814.
+
+erik-av-pommern-unionskung:
+  period: 1400
+  label: "Erik av Pommern unionskung"
+  title: "Erik av Pommern, unionskung 1397–1439"
+  wiki:
+    - "sv:Erik av Pommern"
+    - "sv:Öresundstullen"
+  text: |
+    **Erik av Pommern** (ca 1382–1459) var en tysk furstesson som drottning **[Margareta](#kalmarunionen-1397-margareta)** valde som arvinge eftersom hon själv inte hade några levande barn. Han kröntes 1397 i Kalmar till kung av Danmark, Norge och Sverige – Kalmarunionen. Så länge Margareta levde, fram till 1412, var det dock hon som styrde. Han gifte sig 1406 med Filippa, dotter till Englands kung Henrik IV.
+
+    Erik är förknippad med tre saker. Han förde ett långt krig (1416–1435) mot Holstein och Hansan om Sønderjylland. Han införde omkring 1429 **Öresundstullen**, en avgift för alla fartyg som passerade Öresund – en av Danmarks viktigaste inkomstkällor ända till 1857. Han byggde också Kronborgs föregångare, slottet Krogen, vid Helsingör för att kontrollera sundet.
+
+    Kriget krävde höga skatter, och Hansans handelsblockad slog hårt mot den svenska bergslagens järn- och kopparexport. Det ledde till **[Engelbrektsupproret](#engelbrektsupproret-1434)** 1434 i Sverige. Erik avsattes 1439 i både Danmark och Sverige och levde därefter som sjörövare på Gotland i tio år, innan han slutade sina dagar i Pommern.
+
+oresundstullen-1429:
+  period: 1420
+  label: "Öresundstullen 1429"
+  title: "Öresundstullen"
+  wiki:
+    - "sv:Öresundstullen"
+  text: |
+    Omkring 1429 började unionskungen [Erik av Pommern](#erik-av-pommern-unionskung) ta ut tull av alla fartyg som passerade Öresund. Han lät bygga borgen Krogen vid Helsingør (senare ombyggd till Kronborg), där fartygen måste stanna och betala. Eftersom Danmark då ägde båda stränderna, inklusive Skåne, kunde ingen smita förbi.
+
+    Öresund var och är huvudvägen mellan Östersjön och Nordsjön. Allt spannmål, trä, tjära och järn från Östersjöländerna som skulle till Västeuropa passerade där. Tullen blev därför en av danska kronans största inkomstkällor i över 400 år. Först togs en fast avgift per skepp; från 1567 en procentsats av lastens värde. Tullregistren finns bevarade och används idag som en unik källa om europeisk handel.
+
+    Tullen skapade ständiga konflikter, först med Hansan och sedan med Sverige. Vid [freden i Brömsebro 1645](#bromsebro-1645) blev svenska fartyg tullfria, och genom [Roskildefreden 1658](#roskildefreden-1658-skane-svenskt) blev sundets östra strand svensk. Tullen avskaffades 1857 efter påtryckningar från bland annat USA, mot en engångsersättning till Danmark från sjöfartsnationerna.
+
+kristian-i-oldenburgska-atten-1448:
+  period: 1440
+  label: "Kristian I, Oldenburgska ätten 1448"
+  title: "Kristian I och den oldenburgska ätten"
+  wiki:
+    - "sv:Kristian I"
+    - "sv:Huset Oldenburg"
+  text: |
+    Kung **Kristoffer av Bayern**, kung av Danmark, Norge och Sverige i **[Kalmarunionen](#kalmarunionen-1397-margareta)** (unionen mellan de tre länderna), dog barnlös 1448. Danska stormän valde då **Kristian I** (1426–1481), en greve från Oldenburg i nordvästra Tyskland som var släkt med den gamla danska kungaätten genom sin mor.
+
+    Han blev kung av Danmark 1448 och av Norge 1450. Men i Sverige valde man istället **Karl Knutsson** ([se Karl Knutsson](#karl-knutsson)), och de båda kämpade om Sverige i över tio år. Kristian kröntes i Uppsala 1457 men förlorade senare Sverige igen – vid Brunkeberg 1471 besegrades hans armé ([se Brunkeberg 1471](#brunkeberg-1471)).
+
+    1460 valdes han dessutom till hertig av Slesvig och greve av Holstein, vilket kopplade dessa områden till danska kronan i 400 år – ursprunget till den slesvig-holsteinska frågan som ledde till krig med Preussen 1864. 1469 pantsatte han Orkney- och Shetlandsöarna till Skottland som hemgift för sin dotter; de löstes aldrig in. Han grundade också Köpenhamns universitet 1479.
+
+    Den **oldenburgska ätten** regerade i Danmark till 1863, och dess grenar sitter än i dag på tronerna i Danmark och Norge.
+
+kopenhamns-universitet-1479:
+  period: 1460
+  label: "Köpenhamns universitet 1479"
+  title: "Köpenhamns universitet grundas"
+  wiki:
+    - "sv:Köpenhamns universitet"
+  text: |
+    Ett universitet var under medeltiden en kyrkligt godkänd skola för högre studier i teologi, juridik, medicin och filosofi, med rätt att dela ut akademiska grader. Påven Sixtus IV gav tillstånd 1475 och universitetet i Köpenhamn invigdes 1479 av den danske kungen [Kristian I](#kristian-i-oldenburgska-atten-1448), den förste kungen av den oldenburgska ätten som sedan styrde Danmark i över 400 år.
+
+    Det kom bara två år efter [Uppsala universitet](#uppsala-universitet-1477). Båda var svar på samma behov: tidigare måste nordiska studenter resa till Paris, Prag, Rostock eller Leipzig för att studera, ett system som börjat med [Bologna](#universitetet-i-bologna-1088) och Paris omkring 1100–1200. Kungarna ville utbilda egna präster och ämbetsmän hemma.
+
+    Universitetet var litet och nästan dog ut under reformationsoroligheterna kring 1530. Det återupprättades 1537 som ett lutherskt universitet efter [reformationen](#reformation-i-danmark-1536) och blev sedan centrum för utbildning av präster och ämbetsmän i hela Danmark–Norge. Norge fick eget universitet först 1811. Senare forskade här bland andra Tycho Brahe, Ole Rømer (som först mätte ljusets hastighet, 1676) och Niels Bohr.
+
+kung-hans:
+  period: 1480
+  label: "Kung Hans"
+  title: "Kung Hans (Johan II)"
+  wiki:
+    - "sv:Hans (kung)"
+    - "sv:Kalmarunionen"
+  text: |
+    Sedan 1397 var Danmark, Norge och Sverige formellt förenade i **[Kalmarunionen](#kalmarunionen-1397-margareta)** under en gemensam kung. I praktiken styrdes Sverige ofta av egna riksföreståndare från Sture-släkten, som ville hålla de danska kungarna borta.
+
+    **Hans** (Johan II, 1455–1513) var kung av Danmark från 1481 och av Norge 1483. I Sverige höll riksföreståndaren [Sten Sture d.ä.](#sten-sture-d-a) emot i 16 år. 1497 besegrade Hans svenskarna vid Rotebro norr om Stockholm och kröntes till svensk kung, men 1501 gjorde svenskarna uppror och han förlorade landet igen. Hans drottning Kristina satt belägrad i Stockholms slott och fick ge upp.
+
+    Hans är också känd för att bygga upp en dansk kunglig flotta, början på den danska marinen. 1500 led hans armé ett förödmjukande nederlag mot bondesamhället i Ditmarsken. Hans son **[Kristian II](#kristian-ii)** fortsatte kampen om Sverige, med [Stockholms blodbad 1520](#stockholms-blodbad-1520) som resultat.
+
+kristian-ii:
+  period: 1500
+  label: "Kristian II"
+  title: "Kristian II och Stockholms blodbad"
+  wiki:
+    - "sv:Kristian II"
+    - "sv:Stockholms blodbad"
+  text: |
+    **Kristian II** (1481–1559) var kung av Danmark och Norge från 1513 och ville återupprätta [Kalmarunionen](#kalmarunionen-1397-margareta), föreningen av de tre nordiska rikena, med Sverige under dansk krona. I Sverige kallas han ”Kristian Tyrann”, i Danmark ofta något mildare, eftersom han stärkte borgare och bönder mot adeln.
+
+    1520 besegrade hans armé av legosoldater [Sten Sture d.y.](#sten-sture-d-y) och intog Stockholm. Han kröntes till svensk kung och lovade amnesti. Men den 8–9 november 1520, i samband med kröningsfesterna, lät han ärkebiskop Gustav Trolle anklaga Sture-anhängarna för kätteri. Omkring 80–100 personer – adelsmän, biskopar och borgare – halshöggs på Stortorget i **[Stockholms blodbad](#stockholms-blodbad-1520)**. Bland dem var Gustav Erikssons (Vasas) far.
+
+    Blodbadet fick motsatt effekt: [Gustav Vasa ledde ett uppror från Dalarna och valdes till svensk kung 1523](#gustav-vasa-1523). Samma år avsattes Kristian i Danmark av sin egen adel. Han flydde, försökte återta makten 1531 och satt sedan fängslad i 27 år på Sønderborg och Kalundborg. Kalmarunionen var definitivt slut.
+
+grevefejden-153436:
+  period: 1520
+  label: "Grevefejden 1534–36"
+  title: "Grevefejden – Danmarks sista inbördeskrig"
+  wiki:
+    - "sv:Grevefejden"
+  text: |
+    Grevefejden var ett inbördeskrig i Danmark 1534–36. När kung Fredrik I dog 1533 kunde riksrådet (adelns och biskoparnas råd som valde kung) inte enas om en efterträdare. Hansestaden Lübeck – ledande stad i Hansan, det tyska handelsförbund som länge kontrollerat Östersjöhandeln – såg sin chans. Lübeck skickade greve Christoffer av Oldenburg (därav namnet) för att i den fängslade [Kristian II](#kristian-ii)s namn ta makten. Borgarna i Köpenhamn och Malmö och många bönder anslöt sig.
+
+    Mot dem stod Fredrik I:s son Kristian III, uppbackad av den jylländska adeln och av [Gustav Vasa](#gustav-vasa-1523), som ville bli av med Lübecks inflytande lika mycket. Köpenhamn belägrades i ungefär ett år och kapitulerade i juli 1536.
+
+    Följderna var stora. Kristian III blev kung, Lübecks och [Hansans](#hansan-dominerar-ostersjon) makt i Norden var bruten för gott, och kungen genomförde direkt [reformationen](#reformation-i-danmark-1536) för att betala kriget med kyrkans egendom. Kriget visar hur religion, handel och kungamakt flätades ihop under 1500-talet, ungefär som i de samtida religionskrigen i Tyskland.
+
+reformation-i-danmark-1536:
+  period: 1520
+  label: "reformation i Danmark 1536"
+  title: "Reformationen i Danmark–Norge"
+  wiki:
+    - "en:Reformation in Denmark–Norway and Holstein"
+  text: |
+    Reformationen var den rörelse som bröt med påven i Rom och skapade protestantiska kyrkor, startad av [Martin Luther 1517](#luther-95-teser-1517). I Danmark avgjordes den av [Grevefejden](#grevefejden-153436): segraren Kristian III lät i augusti 1536 arrestera alla katolska biskopar och drog in kyrkans jord och egendom till kronan – kanske en tredjedel av landets jord.
+
+    Kyrkan blev en luthersk statskyrka med kungen som högsta ledare. Luthers medarbetare Johannes Bugenhagen kom från Wittenberg och skrev 1537 års kyrkoordning. I Norge flydde den siste katolske ärkebiskopen 1537, och Norge reducerades formellt till en del av det danska riket. På Island gjorde man motstånd tills biskop Jón Arason avrättades 1550.
+
+    Parallellen till Sverige är tydlig: [Gustav Vasas reformation från 1527](#reformation-vasteras-1527) hade samma motiv – kungen behövde pengar och ville ha kontroll. I båda länderna stärktes kungamakten och staten fick genom prästerna ett lokalt nätverk i varje socken, som senare användes för folkbokföring och folkundervisning.
+
+agricola-finsk-bibel:
+  period: 1540
+  label: "Agricola: finsk bibel"
+  title: "Mikael Agricola och den finska bibeln"
+  wiki:
+    - "sv:Mikael Agricola"
+    - "en:Mikael Agricola"
+  text: |
+    Finland var under 1500-talet en del av det svenska riket, men befolkningen talade mest finska, ett språk som i stort sett saknade skriftspråk. Reformationen ville att folket skulle läsa Guds ord på sitt eget språk, och det skapade behovet av en finsk skrift.
+
+    **Mikael Agricola** (ca 1510–1557), präst från Pernå i Nyland som studerat i Wittenberg hos [Luther och Melanchthon](#luther-95-teser-1517), skapade i praktiken det finska skriftspråket. Han gav ut en ABC-bok omkring 1543 och översatte Nya testamentet, utgivet 1548. Hans stavning byggde på svenska, tyska och latinska förebilder. Han blev biskop i Åbo 1554.
+
+    Agricola kallas ”det finska skriftspråkets fader”, och hans dödsdag 9 april firas i Finland som det finska språkets dag. Hela bibeln på finska kom dock först 1642. Jämför med Sverige, där [Gustav Vasas](#gustav-vasa-1523) bibel kom 1541, och Tyskland, där Luthers bibel 1534 på liknande sätt formade det tyska standardspråket.
+
+nordiska-sjuarskriget-156370:
+  period: 1560
+  label: "Nordiska sjuårskriget 1563–70"
+  title: "Nordiska sjuårskriget 1563–1570"
+  wiki:
+    - "sv:Nordiska sjuårskriget"
+    - "en:Northern Seven Years' War"
+  text: |
+    Efter att [Sverige lämnat Kalmarunionen 1523](#gustav-vasa-1523) fanns stora spänningar med Danmark. Danmark kontrollerade båda sidor av Öresund (Skåne var danskt) och tog tull av alla skepp; Sverige hade bara en smal kust mot väster vid Älvsborg (dagens Göteborg). Båda länderna ville dessutom ta över Baltikum när Livländska orden föll sönder. Danmark förde de tre kronorna i sitt vapen, vilket Sverige såg som anspråk på landet.
+
+    Kriget 1563–1570 stod mellan Sverige under **[Erik XIV](#erik-xiv-johan-iii)** och Danmark under Fredrik II, allierad med Lübeck och Polen. Danskarna tog Älvsborg 1563 och skar av Sveriges väg västerut. Slaget vid Axtorna 1565 och sjöslagen i Östersjön gav inget avgörande; svenska amiralen Klas Horn vann flera av dem. Båda sidor härjade varandras gränsbygder hårt.
+
+    Freden i Stettin 1570 ändrade inga gränser, men Sverige fick betala 150 000 riksdaler i lösen för Älvsborg – en enorm summa som betalades med en extraskatt på nästan all lös egendom. Det mönstret – Sverige och Danmark i ständiga krig – fortsatte till [1720-talet](#nystad-1721-stormaktstiden-slut).
+
+tycho-brahe-pa-ven-uraniborg:
+  period: 1580
+  label: "Tycho Brahe på Ven (Uraniborg)"
+  title: "Tycho Brahe och Uraniborg på Ven"
+  wiki:
+    - "sv:Tycho Brahe"
+    - "sv:Uraniborg"
+  text: |
+    **Tycho Brahe** (1546–1601) var en dansk adelsman och astronom. Ven, ön i Öresund, var då danskt ([Skåne blev svenskt 1658](#roskildefreden-1658-skane-svenskt)). 1576 gav kung Fredrik II honom ön, och där byggde han observatoriet och slottet **Uraniborg** och senare det delvis underjordiska Stjärneborg. Kostnaden uppges ha motsvarat uppemot 1 procent av danska kronans inkomster under många år.
+
+    Teleskopet fanns ännu inte ([se 1609](#galileis-teleskop-1609)). Tycho mätte stjärnors och planeters positioner med jättelika vinkelinstrument, med en noggrannhet på omkring en bågminut – ungefär tio gånger bättre än tidigare, nära gränsen för vad ögat klarar. Han visade 1572–1577 att [en ny stjärna](#tycho-brahes-supernova-1572) (en supernova) och en komet låg bortom månen, vilket motsade den gamla läran att himlen var oföränderlig.
+
+    Tycho bråkade med den nye kungen och lämnade Ven 1597 för Prag. Där anställde han **Johannes Kepler**, som efter Tychos död använde mätningarna av Mars bana för att härleda planetlagarna (se [Kepler 1609](#kepler-planetlagarna-1609)). Uraniborg revs; idag finns ett museum på platsen.
+
+kalmarkriget:
+  period: 1600
+  label: "Kalmarkriget"
+  title: "Kalmarkriget 1611–1613"
+  wiki:
+    - "sv:Kalmarkriget"
+    - "sv:Älvsborgs lösen"
+  text: |
+    **Kalmarkriget** var ett krig mellan Danmark-Norge och Sverige 1611–1613. Danmark var då den starkare makten i Norden: det ägde Skåne, Halland, Blekinge, Gotland och Norge, och tog ut tull av alla fartyg genom Öresund. Danske kungen **Kristian IV** ville stoppa Sveriges försök att nå Ishavet i norr, där Karl IX gjort anspråk på samiska områden, och återupprätta dansk dominans.
+
+    Danskarna intog Kalmar 1611 – därav namnet – och 1612 Älvsborgs fästning, Sveriges enda hamn mot Västerhavet vid Göta älvs mynning. Karl IX dog under kriget och den unge [Gustav II Adolf](#gustav-ii-adolf-1611) tog över.
+
+    Vid freden i Knäred 1613 fick Sverige tillbaka Älvsborg mot en lösen på 1 miljon riksdaler, att betalas på sex år. Det var en enorm summa – flera gånger statens årsinkomster – och togs ut genom särskilda skatter på alla, bland annat på boskap. Lösensumman visar hur viktig västkusthamnen var; strax efteråt, 1621, grundades Göteborg i närheten. Sverige tog revansch [1658, då Skåne blev svenskt](#roskildefreden-1658-skane-svenskt).
+
+kristian-iv:
+  period: 1600
+  label: "Kristian IV"
+  title: "Kristian IV – byggarkungen"
+  wiki:
+    - "sv:Kristian IV"
+  text: |
+    Kristian IV (1577–1648) var kung av Danmark–Norge från 1588 och regerade i 60 år, längst av alla danska kungar. Danmark omfattade då också Skåne, Halland, Blekinge, Gotland, Norge och Island och kontrollerade Öresundstullen – en avgift på alla fartyg som passerade sundet och en enorm inkomstkälla.
+
+    Han är mest känd som byggherre: Rundetårn, Børsen och Rosenborg i Köpenhamn, och nya städer som Kristianstad (1614) och Christiania (dagens Oslo, återuppbyggt 1624). Han grundade också ett ostindiskt kompani som fick handelsstationen Tranquebar i Indien 1620 – Danmark försökte, i liten skala, göra som Nederländerna och England.
+
+    Militärt började det bra: i [Kalmarkriget](#kalmarkriget) 1611–13 besegrade han unge [Gustav II Adolf](#gustav-ii-adolf-1611), och Sverige fick betala en enorm lösen för fästningen Älvsborg. Sedan gick det utför: [nederlaget i trettioåriga kriget](#kristian-iv-i-trettioariga-kriget) och freden i [Brömsebro 1645](#bromsebro-1645) visade att det nu var Sverige som var den starkaste makten i Norden.
+
+kristian-iv-i-trettioariga-kriget:
+  period: 1620
+  label: "Kristian IV i trettioåriga kriget"
+  title: "Kristian IV i trettioåriga kriget"
+  wiki:
+    - "en:Thirty Years' War"
+  text: |
+    [Trettioåriga kriget](#trettioariga-kriget-1618) (1618–48) började som en konflikt mellan katolska och protestantiska furstar i Tysk-romerska riket och blev en europeisk storkonflikt. Kristian IV av Danmark–Norge var också hertig av Holstein, alltså tysk riksfurste, och gick 1625 in på protestantisk sida, delvis med löften om pengar från England och Nederländerna. Han ville både skydda protestanterna och vinna nordtyska stift åt sina söner.
+
+    Det gick illa. Den kejserlige generalen Tilly besegrade honom vid Lutter am Barenberge 1626, och Albrecht von Wallenstein ockuperade sedan hela Jylland. I freden i Lübeck 1629 fick Kristian tillbaka sina länder mot att lova att inte blanda sig i kriget igen.
+
+    Tomrummet fylldes av Sverige: Gustav II Adolf landsteg i Tyskland 1630 och blev protestanternas ledare tills [han stupade 1632](#gustav-ii-adolf-stupar-1632). Maktförskjutningen i Norden blev tydlig när Sverige 1643 anföll Danmark utan förvarning och tvingade fram [freden i Brömsebro](#bromsebro-1645). Kristians misslyckande var alltså en förutsättning för att [Sverige blev stormakt](#sverige-stormakt).
+
+bromsebro-1645:
+  period: 1640
+  label: "Brömsebro 1645"
+  title: "Freden i Brömsebro 1645"
+  wiki:
+    - "sv:Freden i Brömsebro (1645)"
+    - "sv:Torstensonska kriget"
+  text: |
+    **Freden i Brömsebro** avslutade **Torstensonska kriget** (1643–1645) mellan Sverige och Danmark-Norge. Danmark var då Nordens starkaste rike: det ägde Skåne, Halland och Blekinge, Norge, Gotland och Ösel, och tog ut **Öresundstullen** – en avgift av alla fartyg som passerade sundet, en av Danmarks största inkomstkällor. Sverige var omringat.
+
+    1643 skickade Sverige överraskande sin armé från Tyskland under fältmarskalk Lennart Torstensson upp genom Jylland, medan en annan armé anföll Skåne. Den danska flottan besegrades till sjöss vid Femern 1644. Kung Kristian IV, som själv stred och miste ett öga, fick sluta fred.
+
+    Freden slöts vid en gränsbäck mellan Blekinge och Småland. Sverige fick Gotland, Ösel, Jämtland och Härjedalen, och Halland på 30 år som pant. Svenska fartyg slapp Öresundstullen. Det var första steget i Danmarks nedgång och Sveriges uppgång i Norden; nästa steg kom med [Roskildefreden 1658](#roskildefreden-1658-skane-svenskt) (se 1660-talet). Gränsen mot Norge i Jämtland är i stort sett densamma än idag.
+
+    Se även [Sverige får Pommern 1648](#sverige-far-pommern-1648), som kom tre år senare.
+
+envaldet-i-danmark-1660:
+  period: 1660
+  label: "Enväldet i Danmark 1660"
+  title: "Enväldet införs i Danmark 1660"
+  wiki:
+    - "sv:Enväldet"
+    - "en:Absolute monarchy in Denmark–Norway"
+  text: |
+    Envälde (absolutism) betyder att kungen har all makt utan att behöva dela den med adel eller riksdag. Danmark gick från valkungadöme – där adeln valde kungen och band honom med villkor – till ärftligt envälde på bara några månader 1660.
+
+    Bakgrunden var katastrofen mot Sverige: i [Roskildefreden 1658](#roskildefreden-1658-skane-svenskt) förlorade Danmark Skåne, Halland och Blekinge, och 1659 belägrades Köpenhamn. Borgarna i Köpenhamn försvarade staden och ansåg att adeln, som var skattebefriad, hade svikit. Vid ett ståndsmöte hösten 1660 allierade sig borgare och präster med kung Fredrik III mot adeln och gav honom ärftlig och obegränsad makt.
+
+    1665 skrevs Kongeloven (kungalagen), unik som en skriven grundlag för enväldet. Statsapparaten byggdes om med avlönade ämbetsmän, ofta borgerliga eller tyska. Det liknar [Ludvig XIV](#ludvig-xiv-1643)s Frankrike, och Sverige följde efter med [Karl XI:s envälde 1680](#karl-xi-envalde-1680-reduktionen). I Danmark varade enväldet till [grundlagen 1849](#danmarks-grundlag-1849) – nästan 190 år.
+
+danmarknorge-efter-skanska-kriget:
+  period: 1680
+  label: "Danmark–Norge efter skånska kriget"
+  title: "Danmark–Norge efter skånska kriget"
+  wiki:
+    - "sv:Skånska kriget"
+    - "en:Denmark–Norway"
+  text: |
+    Danmark–Norge var en personalunion där Norge styrdes från Köpenhamn, 1380–1814. Skånska kriget 1675–79 var Danmarks försök att ta tillbaka Skåne, Halland och Blekinge, som förlorats till Sverige 1658. Till sjöss vann danskarna, bland annat under amiral Niels Juel i Köge bukt 1677. På land var slaget vid Lund 1676 ett av de blodigaste i Nordens historia, med tusentals döda, och Sverige höll stånd.
+
+    Freden 1679 bestämdes i praktiken av Frankrike, Sveriges allierade, och gränserna blev desamma som före kriget. Därefter accepterade Danmark–Norge att Öresund var gränsen, även om man försökte igen under [stora nordiska kriget](#stora-nordiska-kriget).
+
+    Kriget följdes av stora reformer på båda sidor. I Danmark–Norge byggdes [enväldets](#envaldet-i-danmark-1660) stat ut: Danske Lov 1683 och Norske Lov 1687 gav enhetliga lagböcker, och flottan rustades. I Sverige genomförde [Karl XI envälde och reduktion](#karl-xi-envalde-1680-reduktionen) och skapade indelningsverket. Båda rikena blev mer centralstyrda, effektiva stater.
+
+tordenskiold:
+  period: 1700
+  label: "Tordenskiold"
+  title: "Tordenskiold – Danmark–Norges sjöhjälte"
+  wiki:
+    - "en:Peter Tordenskjold"
+  text: |
+    Peter Wessel (1690–1720), född i Trondheim, var norsk sjöofficer i den dansk-norska flottan under [stora nordiska kriget](#stora-nordiska-kriget) (1700–21), där Sverige stod mot Danmark–Norge, Ryssland och Sachsen. För sina djärva insatser adlades han 1716 med namnet Tordenskiold, ”dundersköld”.
+
+    Hans mest kända seger var vid Dynekilen i Bohuslän i juli 1716. Karl XII hade gått in i Norge, och hans armé försörjdes av en transportflotta. Tordenskiold slog till i den trånga fjorden och tog eller förstörde större delen av flottan, vilket tvingade Karl XII att retirera. 1719 tog han Marstrand och fästningen Karlsten.
+
+    Kriget tog slut efter att [Karl XII dog 1718](#karl-xii-dor-1718) vid Fredriksten i Norge. Tordenskiold själv dog redan 1720, bara 30 år gammal, i en duell i Tyskland. Han blev en nationalhjälte i både Norge och Danmark och ett exempel på hur mycket enskilda befälhavare kunde betyda i tidens sjökrig.
+
+hans-egede-till-gronland-1721:
+  period: 1720
+  label: "Hans Egede till Grönland 1721"
+  title: "Hans Egede till Grönland"
+  wiki:
+    - "sv:Hans Egede"
+    - "en:History of Greenland"
+  text: |
+    Hans Egede (1686–1758) var en norsk präst som 1721 seglade till Grönland. Han ville hitta ättlingarna till de nordbor som bosatt sig där kring år 1000, samma kretsar som [Leif Eriksson](#leif-eriksson-nar-vinland-1000), och omvända dem till lutherdomen. Men den nordiska kolonin hade dött ut redan på 1400-talet, troligen av kallare klimat, isolering och minskad handel.
+
+    Egede mötte i stället inuiter, det folk som invandrat från Kanada och levde av jakt på säl och val. Han lärde sig grönländska, missionerade och grundade 1728 Godthåb, dagens huvudstad Nuuk. Missionen kombinerades med handel, och Danmark–Norge gjorde Grönland till koloni.
+
+    Det är början på den danska Grönlandshistorien. När Norge skildes från Danmark 1814 stannade Grönland kvar hos Danmark. Kolonistatusen upphörde 1953, Grönland fick hemstyre 1979 och utökat självstyre 2009. Ön har idag stor strategisk betydelse – se [Grönland i stormaktspolitiken](#gronland-i-stormaktspolitiken).
+
+holberg:
+  period: 1740
+  label: "Holberg"
+  title: "Ludvig Holberg – den danska litteraturens fader"
+  wiki:
+    - "sv:Ludvig Holberg"
+  text: |
+    Ludvig Holberg (1684–1754) föddes i Bergen i Norge och blev professor vid Köpenhamns universitet. Han räknas som grundaren av den moderna dansk-norska litteraturen, vid en tid då bildade människor gärna skrev på latin, tyska eller franska.
+
+    När den första danskspråkiga teatern öppnade i Köpenhamn 1722 skrev han på kort tid ett femtontal komedier, bland annat ”Jeppe på berget” och ”Erasmus Montanus”. Förebilden var fransmannen [Molière](#moliere). Komedierna driver med högfärd, falsk lärdom och fördomar och spelas fortfarande.
+
+    Holberg var en upplysningsman, alltså en av de tänkare på 1700-talet som ville ersätta vidskepelse och auktoritet med förnuft och erfarenhet – samma rörelse som [Voltaire](#voltaire) i Frankrike. Han skrev också historieverk, filosofiska essäer och den satiriska romanen ”Niels Klims underjordiska resa” (1741), en sorts science fiction-resa till en värld under jordytan där våra seder framstår som absurda.
+
+struensee-i-danmark:
+  period: 1760
+  label: "Struensee i Danmark"
+  title: "Struensee – läkaren som styrde Danmark"
+  wiki:
+    - "sv:Johann Friedrich Struensee"
+  text: |
+    Johann Friedrich Struensee (1737–1772) var en tysk läkare som blev livläkare åt den danske kungen Kristian VII, som var psykiskt sjuk och oförmögen att regera. Struensee blev också älskare till drottningen Caroline Mathilde. 1770–72 styrde han i praktiken Danmark genom att utfärda kabinettsorder i kungens namn.
+
+    Han var en radikal upplysningsman och genomförde på drygt ett år hundratals reformer. Mest känd är att han 1770 helt avskaffade censuren – före de flesta andra länder och mer långtgående än Sveriges [tryckfrihetsförordning 1766](#tryckfrihetsforordningen-1766). Han rensade också i förvaltningen, minskade adelns privilegier och förbjöd tortyr i förhör.
+
+    Reformerna genomfördes uppifrån, av en tysktalande utlänning, och väckte hat. I januari 1772 störtades han i en hovkupp och avrättades i april samma år. Samma år genomförde [Gustav III sin statskupp](#gustav-iii-s-statskupp-1772) i Sverige – två olika sätt att försöka modernisera en stat ovanifrån. Historien har filmats som ”En kunglig affär” (2012).
+
+danmark-forbjuder-slavhandeln-1792:
+  period: 1780
+  label: "Danmark förbjuder slavhandeln 1792"
+  title: "Danmark förbjuder slavhandeln"
+  wiki:
+    - "sv:Danska Västindien"
+  text: |
+    Den 16 mars 1792 beslutade den danska regeringen att den transatlantiska slavhandeln – att köpa människor i Västafrika och skeppa dem som slavar till Amerika – skulle förbjudas för danska undersåtar. Förbudet trädde i kraft 1803. Danmark var därmed först i Europa med ett lagstadgat förbud, före Storbritannien 1807 trots att [Wilberforce](#wilberforce-mot-slavhandeln) kampanjat där sedan 1780-talet.
+
+    Danmark–Norge var ingen liten aktör: man hade fort på Guldkusten (dagens Ghana) och kolonier i Västindien – S:t Thomas, S:t Croix och S:t Jan – där slavar arbetade på sockerplantager. Ungefär 100 000 afrikaner beräknas ha förts över på danska fartyg.
+
+    Motiven var blandade: upplysningsidéer, men också beräkningen att plantagerna kunde klara sig på slavarnas egna barn. Själva slaveriet fortsatte; det avskaffades i Danska Västindien först 1848, efter ett slavuppror på S:t Croix. [Haitiska revolutionen](#haitiska-revolutionen-1791) året innan förbudet visade vilka risker systemet innebar. Danmark sålde öarna till USA 1917; de heter idag Amerikanska Jungfruöarna.
+
+kopenhamn-bombas-1807:
+  period: 1800
+  label: "Köpenhamn bombas 1807"
+  title: "Britterna bombar Köpenhamn 1807"
+  wiki:
+    - "en:Bombardment of Copenhagen (1807)"
+  text: |
+    Under [Napoleonkrigen](#napoleon-kejsare-1804) var Danmark–Norge neutralt och tjänade pengar på handel. Men landet hade en stor flotta, och efter att [Trafalgar 1805](#trafalgar-1805) gett Storbritannien herravälde till sjöss fruktade britterna att Napoleon skulle ta den danska flottan. De krävde att få ”förvara” den under kriget. Danmark vägrade.
+
+    Den 2–5 september 1807 bombarderade britterna Köpenhamn med raketer och granater, ett av de första angreppen mot en stor stad där civila var ett direkt mål. Omkring 200 civila dog (uppskattningarna varierar) och stora delar av staden brann, bland annat domkyrkan. Danmark kapitulerade och britterna tog hela flottan.
+
+    Följden blev att Danmark–Norge gick med på Napoleons sida. Det ledde till brittisk blockad, svält i Norge – som var beroende av importerad spannmål – och till slut till att Danmark i freden i Kiel 1814 fick lämna Norge till Sverige. Det banade väg för [Norges grundlag](#norges-grundlag-1814) och [unionen med Sverige](#union-sverigenorge-1814).
+
+norges-grundlag-1814:
+  period: 1800
+  label: "Norges grundlag 1814"
+  title: "Norges grundlag – Eidsvoll 1814"
+  wiki:
+    - "sv:Norges grundlag"
+    - "en:Constitution of Norway"
+  text: |
+    I freden i Kiel i januari 1814 tvingades Danmark lämna Norge till Sverige som tack för att Sverige, under kronprinsen [Karl Johan (Bernadotte)](#bernadotte), anslutit sig till Napoleons fiender. Norrmännen hade inte tillfrågats. Den danske prinsen Kristian Fredrik, ståthållare i Norge, samlade i stället ett valt riksmöte på herrgården Eidsvoll.
+
+    Där antogs den 17 maj 1814 en grundlag, inspirerad av [USA:s konstitution](#usa-s-konstitution-1787) och franska revolutionens idéer: folksuveränitet, maktdelning mellan kung, Storting (parlament) och domstolar, och för sin tid bred rösträtt för män. Kristian Fredrik valdes till kung.
+
+    Sverige svarade med ett kort krig sommaren 1814, men Karl Johan ville snabbt få ett avtal och lät Norge behålla grundlagen. I november gick Norge in i en [union med Sverige](#union-sverigenorge-1814) som eget rike med gemensam kung. Grundlagen gjorde Norge till ett av Europas mest demokratiska länder, gav landet en egen politisk identitet som ledde till [unionsupplösningen 1905](#unionsupplosningen-1905), och gäller fortfarande. 17 maj är Norges nationaldag.
+
+h-c-andersen:
+  period: 1820
+  label: "H.C. Andersen"
+  title: "H.C. Andersen och den danska guldåldern"
+  wiki:
+    - "sv:H.C. Andersen"
+  text: |
+    Hans Christian Andersen (1805–1875) föddes i Odense som son till en fattig skomakare och kom till Köpenhamn som 14-åring för att bli skådespelare. Han misslyckades där men fick stöd av mecenater, och blev författare av romaner, resebeskrivningar och framför allt sagor.
+
+    Från 1835 gav han ut omkring 150 sagor, bland dem ”Den lilla sjöjungfrun”, ”Kejsarens nya kläder”, ”Den fula ankungen” och ”Snödrottningen” (som Disneys ”Frost” bygger löst på). Till skillnad från bröderna Grimm, som samlade folksagor, skrev Andersen mestadels egna. De är ofta sorgliga och ironiska, och lika mycket riktade till vuxna. Sagorna är översatta till över hundra språk.
+
+    Andersen var en del av den danska guldåldern, ungefär 1800–1850, en blomstringstid i konst och vetenskap trots att Danmark förlorat flottan och Norge och gått i statsbankrutt 1813. Till samma krets hörde filosofen [Søren Kierkegaard](#kierkegaard), skulptören Bertel Thorvaldsen och fysikern H.C. Ørsted, som [upptäckte elektromagnetismen 1820](#orsted-strom-ger-magnetism-1820).
+
+kierkegaard:
+  period: 1820
+  label: "Kierkegaard"
+  title: "Søren Kierkegaard – existentialismens förfader"
+  wiki:
+    - "sv:Søren Kierkegaard"
+  text: |
+    Søren Kierkegaard (1813–1855) var en dansk filosof och teolog i Köpenhamn under den danska guldåldern, samtida med [H.C. Andersen](#h-c-andersen). Han skrev ofta under pseudonymer, så att olika fiktiva författare kunde företräda olika livshållningar. Huvudverk är ”Antingen – eller” (1843), ”Fruktan och bävan” (1843) och ”Begreppet ångest” (1844).
+
+    Hans centrala tanke är att den enskilda människan måste välja hur hon ska leva och ta ansvar för valet; ingen filosofi eller kyrka kan göra det åt henne. Ångesten är upplevelsen av denna frihet. Tro kan inte bevisas med förnuft utan kräver ett personligt ”språng”. Han vände sig mot den samtida tyske filosofen Hegel, som byggde stora system där individen försvann.
+
+    Mot slutet av sitt liv angrep han hårt den danska statskyrkan för att göra kristendomen bekväm. Han lästes knappt utanför Danmark under sin livstid, men på 1900-talet blev han mycket inflytelserik: Heidegger, Sartre och Camus byggde vidare på honom i existentialismen, filosofin om individens frihet och mening i en värld utan givna svar.
+
+trearskriget-184851:
+  period: 1840
+  label: "Treårskriget 1848–51"
+  title: "Treårskriget om Slesvig"
+  wiki:
+    - "sv:Första slesvigska kriget"
+    - "en:First Schleswig War"
+  text: |
+    Hertigdömena Slesvig och Holstein i södra Jylland styrdes av den danske kungen men var inte en del av kungariket Danmark. Holstein var tysktalande och medlem av Tyska förbundet (en lös sammanslutning av tyska stater). Slesvig var blandat, danskt i norr och tyskt i söder. Med nationalismens framväxt blev frågan explosiv: skulle Slesvig höra till Danmark eller till ett enat Tyskland?
+
+    I [revolutionsåret 1848](#ars-revolutioner-1848) krävde danska nationalliberaler att Slesvig skulle föras in i Danmark, medan den tyskvänliga eliten i hertigdömena gjorde uppror med stöd av Preussen och Tyska förbundet. Kriget varade 1848–51, med slag som Fredericia 1849 och Isted 1850. Sverige–Norge skickade några tusen soldater till Fyn som stöd, och Ryssland och Storbritannien pressade Preussen att dra sig ur.
+
+    Danmark vann militärt, men stormakterna bestämde i London 1852 att allt skulle förbli som förut. Frågan var alltså olöst och ledde till att [Danmark förlorade Slesvig 1864](#danmark-forlorar-slesvig-1864). Samtidigt gav kriget fart åt [den nya grundlagen](#danmarks-grundlag-1849).
+
+danmarks-grundlag-1849:
+  period: 1840
+  label: "Danmarks grundlag 1849"
+  title: "Danmarks grundlag 1849"
+  wiki:
+    - "sv:Danmarks grundlag"
+    - "en:Constitution of Denmark"
+  text: |
+    Den 5 juni 1849 undertecknade kung Fredrik VII en grundlag som avskaffade [enväldet från 1660](#envaldet-i-danmark-1660). Bakgrunden var [revolutionerna 1848](#ars-revolutioner-1848): i mars 1848 tågade tusentals köpenhamnare till slottet, och kungen gick med på att bli konstitutionell monark utan blodsutgjutelse.
+
+    Grundlagen skapade en riksdag med två kamrar, Folketinget och Landstinget, och gav rösträtt till män över 30 år med eget hushåll – ungefär 15 procent av befolkningen, vilket var mycket för tiden. Den garanterade tryckfrihet, religionsfrihet och föreningsfrihet. Kungens ministrar behövde ännu inte riksdagens förtroende; parlamentarism infördes först 1901.
+
+    Danmark fick alltså en fri författning långt före Sverige, som behöll ståndsriksdagen till [1866](#tvakammarriksdag-1866), men 35 år efter [Norges grundlag](#norges-grundlag-1814). Den har reviderats, bland annat 1915 (kvinnlig rösträtt) och 1953 (en kammare), men 5 juni firas fortfarande som grundlovsdag.
+
+danmark-forlorar-slesvig-1864:
+  period: 1860
+  label: "Danmark förlorar Slesvig 1864"
+  title: "1864 – Danmark förlorar Slesvig"
+  wiki:
+    - "sv:Dansk-tyska kriget"
+    - "en:Second Schleswig War"
+  text: |
+    Efter [treårskriget](#trearskriget-184851) var frågan om hertigdömena Slesvig och Holstein olöst. 1863 antog Danmark en författning som knöt Slesvig närmare kungariket, i strid mot överenskommelsen från 1852. Det gav Preussens ministerpresident Otto von Bismarck, som ville ena Tyskland under Preussen, en förevändning. I februari 1864 anföll Preussen och Österrike.
+
+    Danskarna övergav försvarslinjen Dannevirke och den 18 april stormades skansarna vid Dybbøl. Danmark hade räknat med hjälp från Sverige–Norge, där kung Karl XV lovat stöd i en anda av skandinavism (idén om nordisk enighet), men ingen hjälp kom. I freden i Wien förlorade Danmark Slesvig, Holstein och Lauenburg – ungefär två femtedelar av ytan och runt en tredjedel av befolkningen (ungefärliga siffror).
+
+    Nederlaget var ett trauma men också en vändpunkt: Danmark blev en liten, nästan helt danskspråkig nationalstat och satsade inåt, med andelsrörelse (kooperativa mejerier) och uppodling av hedarna. För Bismarck var kriget första steget mot [Tyska riket 1871](#tyska-riket-1871-bismarck). Norra Slesvig återkom till Danmark efter en folkomröstning 1920.
+
+nansen-over-gronland-1888:
+  period: 1880
+  label: "Nansen över Grönland 1888"
+  title: "Fridtjof Nansen korsar Grönland 1888"
+  wiki:
+    - "sv:Fridtjof Nansen"
+    - "en:Nansen's Greenland expedition"
+  text: |
+    År 1888 genomförde den norske zoologen och skidåkaren **Fridtjof Nansen** med fem kamrater (bl.a. två samer) den första kända korsningen av Grönlands inlandsis – en ca 2–3 km tjock isplatta. De gick på skidor och drog slädar från den obebodda östkusten mot väster, ca 500 km på drygt 40 dagar, och nådde upp till ca 2 700 m höjd i kyla ned mot –40 °C.
+
+    Det djärva var att starta på östkusten så att det inte gick att vända tillbaka. Expeditionen gjorde Nansen till nationalhjälte i Norge och populariserade skidåkning internationellt. 1893–96 lät han fartyget *Fram* frysa fast i isen och driva över Polarhavet, och nådde närmare Nordpolen än någon tidigare.
+
+    Polarexpeditionerna var tidens ”rymdkapplöpning”; [Roald Amundsen nådde Sydpolen 1911](#amundsen-pa-sydpolen-1911). Nansen blev senare diplomat och fick Nobels fredspris 1922 för sitt arbete med flyktingar efter [första världskriget](#forsta-varldskriget) (”Nansenpasset”).
+
+finland-fritt-1917:
+  period: 1900
+  label: "Finland fritt 1917"
+  title: "Finlands självständighet 1917"
+  wiki:
+    - "sv:Finlands självständighetsförklaring"
+    - "sv:Finska inbördeskriget"
+  text: |
+    Finland var en del av Sverige i ca 600 år, [fram till 1809](#finland-till-ryssland-1809), då Ryssland erövrade landet. Det blev ett **storfurstendöme** under tsaren med eget lantdag, egen förvaltning och från 1860 egen valuta (marken). Under 1890-talet försökte Ryssland förryska Finland, vilket väckte motstånd.
+
+    När tsarväldet föll i ryska revolutionen 1917 såg finländarna sin chans. Den 6 december 1917 antog lantdagen självständighetsförklaringen, under senaten ledd av **Pehr Evind Svinhufvud**. Lenins bolsjevikregering erkände självständigheten i slutet av december, och Sverige med flera följde i januari 1918.
+
+    Redan i januari 1918 bröt **finska inbördeskriget** ut mellan de ”röda” (socialister, med stöd av ryska trupper) och de ”vita” (borgerliga, ledda av **Carl Gustaf Mannerheim**, med tyskt stöd). De vita vann i maj. Ca 36 000 dog, många i fångläger och avrättningar – ungefär 1 % av befolkningen. Såren präglade landet länge. Se även ”[revolutionerna 1917](#revolutionerna-1917)”.
+
+finska-inbordeskriget-1918:
+  period: 1900
+  label: "finska inbördeskriget 1918"
+  title: "Finska inbördeskriget 1918"
+  wiki:
+    - "sv:Finska inbördeskriget"
+  text: |
+    Kort efter att [Finland förklarat sig självständigt](#finland-fritt-1917) den 6 december 1917 bröt inbördeskrig ut, januari–maj 1918. ”De röda” – socialdemokrater, industriarbetare och torpare (jordlösa arrendatorer), starkast i södra Finland – ville ha en socialistisk revolution i stil med [de ryska revolutionerna 1917](#revolutionerna-1917). ”De vita” – regeringen, borgerligheten och självägande bönder, starkast i Österbotten – leddes av generalen Gustaf Mannerheim.
+
+    De vita vann, med hjälp av en tysk expeditionsstyrka som tog Helsingfors i april 1918 och av svenska frivilliga. Kriget krävde omkring 36 000 liv. Endast en minoritet dog i strid; många avrättades i båda lägrens terror och omkring 12 000 röda fångar dog av svält och sjukdom i fångläger (ungefärliga siffror).
+
+    Kriget splittrade det finska samhället i decennier. Ändå blev Finland en demokrati, och försoningen hade gått så långt att landet stod enat i [vinterkriget](#vinterkriget) mot Sovjetunionen 1939–40. Jämför med Sverige, som samtidigt genomförde sin demokratisering fredligt 1918–21.
+
+kanslergadeforliget-1933:
+  period: 1920
+  label: "Kanslergadeforliget 1933"
+  title: "Kanslergadeforliget 1933"
+  wiki:
+    - "en:Kanslergade Agreement"
+  text: |
+    Ett forlig är danska för en politisk uppgörelse. Den 30 januari 1933 – samma dag som [Hitler blev rikskansler](#hitler-1933) i Tyskland – möttes ledare för tre partier i statsminister Thorvald Staunings lägenhet på Kanslergade i Köpenhamn: Socialdemokratiet, det socialliberala Radikale Venstre och bondepartiet Venstre.
+
+    Under [den stora depressionen](#depressionen) hade Danmarks jordbruksexport rasat och arbetslösheten var mycket hög. Uppgörelsen gav något åt alla: kronan devalverades för att göra dansk export billigare, en hotande storlockout (arbetsgivarnas utestängning av arbetare) stoppades genom att kollektivavtal förlängdes, bönderna fick krisstöd och arbetare fick K.K. Steinckes stora socialreform, en samlad lag om socialförsäkringar.
+
+    Det blev mönstret för nordisk kompromisspolitik: arbetare och bönder i samarbete mot både kommunism och fascism. I Sverige gjordes samma år ”kohandeln” mellan Socialdemokraterna och Bondeförbundet, som lade grunden för [folkhemmet](#folkhemmet-socialdemokrati). Parallellen i USA var [New Deal](#new-deal), medan Tyskland och Italien valde diktatur.
+
+norge-och-danmark-ockuperas:
+  period: 1940
+  label: "Norge och Danmark ockuperas"
+  title: "Norge och Danmark ockuperas 1940"
+  wiki:
+    - "sv:Operation Weserübung"
+    - "sv:Tysklands ockupation av Norge"
+  text: |
+    Den 9 april 1940 anföll Tyskland Danmark och Norge samtidigt (operation Weserübung). Målet var att säkra transporterna av svensk järnmalm, som skeppades från Narvik längs norska kusten, och att få baser för flotta och flyg mot Storbritannien.
+
+    Danmark kapitulerade på några timmar och fick behålla regering och kung under ockupationen. Norge gjorde motstånd: vid Drøbak sänktes den tyska kryssaren Blücher, vilket gav kungen och regeringen tid att fly från Oslo. Striderna pågick i två månader, med brittiskt och franskt stöd vid Narvik. Kung **Haakon VII** och regeringen gick i exil i London, medan nazisten **Vidkun Quisling** blev ledare för en samarbetsregering – hans namn blev ett ord för förrädare på flera språk.
+
+    Ockupationen varade till maj 1945. Hösten 1943 räddades de flesta av Danmarks omkring 7 000 judar över Öresund till Sverige. Sverige förblev neutralt men lät 1940–43 tyska soldater transiteras på järnväg genom landet, en omdebatterad eftergift.
+
+    Jämför med [vinterkriget](#vinterkriget).
+
+    Jämför med [Ockupationen 1940](#ockupationen-1940).
+
+vinterkriget:
+  period: 1940
+  label: "vinterkriget"
+  title: "Vinterkriget 1939–40"
+  wiki:
+    - "sv:Finska vinterkriget"
+  text: |
+    Vinterkriget var Sovjetunionens anfall på Finland 30 november 1939 till 13 mars 1940. Finland hade varit en del av [Sverige till 1809](#finland-till-ryssland-1809) och sedan av Ryssland till [självständigheten 1917](#finland-fritt-1917). Enligt Molotov–Ribbentrop-pakten hörde Finland till Sovjets intressesfär. När Finland vägrade avträda områden på Karelska näset nära Leningrad (dagens S:t Petersburg) gick Röda armén till anfall.
+
+    Sovjet hade uppskattningsvis 450 000–600 000 soldater i början, senare runt en miljon, mot Finlands omkring 300 000. Finländarna, ledda av marskalk **Carl Gustaf Mannerheim**, använde skidpatruller i skogarna och var bättre rustade för kölden ner mot −40 grader. Sovjet förlorade uppskattningsvis 125 000–170 000 döda, Finland omkring 25 000. Omkring 8 000 svenska frivilliga deltog, och parollen var ”Finlands sak är vår”.
+
+    Finland förlorade omkring 10 % av sin yta och omkring 400 000 människor fick evakueras, men behöll sin självständighet. Sovjets dåliga prestation fick Hitler att underskatta Röda armén. Finland krigade igen 1941–44 (fortsättningskriget).
+
+olja-i-nordsjon:
+  period: 1960
+  label: "Olja i Nordsjön"
+  title: "Oljan i Nordsjön"
+  wiki:
+    - "sv:Ekofisk"
+    - "en:Government Pension Fund of Norway"
+  text: |
+    Länge trodde man att det inte fanns olja under Nordsjön. Men i december 1969 hittade det amerikanska bolaget Phillips det gigantiska **Ekofiskfältet** på norsk sida, och produktionen började 1971. Brittiska fält som Forties hittades 1970, och även Danmark och Nederländerna fick olja och gas. Oljekrisen 1973 (se [Yom Kippur 1973](#yom-kippur-1973-oljekris)) fyrdubblade oljepriset och gjorde de dyra plattformarna på öppet hav mycket lönsamma.
+
+    Norge, med omkring 4 miljoner invånare, hade varit fattigare än Sverige. Staten behöll kontrollen: oljebolaget Statoil (i dag Equinor) bildades 1972 och staten tog ut höga skatter. Från 1996 placeras överskottet i en statlig fond som investerar utomlands, så att pengarna inte överhettar ekonomin och räcker åt kommande generationer. Fonden är i dag en av världens största, uppskattningsvis kring 20 000 miljarder norska kronor – flera miljoner kronor per invånare.
+
+    Storbritannien använde oljeintäkterna mer till löpande utgifter och skattesänkningar under [Thatcher](#thatcher) (se det). Sverige hittade ingen olja och [satsade i stället på kärnkraft](#karnkraft-1954) efter oljekrisen. Norges rikedom förklarar också delvis varför norrmännen två gånger röstat nej till EU (1972 och 1994).
+
+nokia-och-mobiltelefonerna:
+  period: 1980
+  label: "Nokia och mobiltelefonerna"
+  title: "Nokia och mobiltelefonerna"
+  wiki:
+    - "sv:Nokia"
+    - "en:Nokia"
+  text: |
+    Nokia grundades 1865 som ett pappersbruk vid orten Nokia i Finland och blev med tiden ett konglomerat som gjorde allt från gummistövlar till kablar. Under 1990-talet satsade företaget under Jorma Ollila helt på telekommunikation och mobiltelefoner.
+
+    Norden hade ett försprång: NMT (Nordisk mobiltelefoni), en gemensam nordisk standard för automatiska mobilsamtal från 1981, gav en tidig marknad. Sedan kom den digitala europeiska standarden [GSM](#gsm-1991); världens första GSM-samtal gjordes i Finland 1991. Från 1998 var Nokia världens största mobiltillverkare, och som mest stod företaget för ungefär en femtedel av Finlands export. Svenska Ericsson var samtidigt ledande inom mobilnät.
+
+    Nokias telefoner var robusta och billiga och gjorde [mobiltelefonen](#mobiltelefonen) till var mans ägodel, även i fattiga länder. Men när [iPhone kom 2007](#iphone-2007) skiftade värdet från hårdvara till mjukvara och appar, och Nokias operativsystem Symbian hängde inte med. Telefondivisionen såldes till Microsoft 2014. Nokia lever kvar som nätverksleverantör och konkurrerar med Ericsson om 5G-utrustning.
+
+utoya-2011:
+  period: 2000
+  label: "Utøya 2011"
+  title: "Terrordåden i Oslo och på Utøya 2011"
+  wiki:
+    - "sv:Terrorattentaten i Norge 2011"
+    - "en:2011 Norway attacks"
+  text: |
+    Den 22 juli 2011 sprängde den norske högerextremisten Anders Behring Breivik en bilbomb i regeringskvarteret i Oslo, som dödade åtta personer. Därefter åkte han, utklädd till polis, till ön Utøya där Arbeiderpartiets ungdomsförbund AUF hade sommarläger, och sköt ihjäl 69 personer, de flesta tonåringar. Totalt dog 77 människor.
+
+    Det var det värsta våldet i Norge sedan [den tyska ockupationen](#norge-och-danmark-ockuperas) under andra världskriget. Gärningsmannen motiverade dådet i ett långt manifest med hat mot islam, invandring och det han kallade ”kulturmarxism”, och angrep socialdemokratin som han ansåg ha svikit landet. Han dömdes 2012 till förvaring, Norges strängaste straff, som kan förlängas så länge personen bedöms farlig.
+
+    Statsminister Jens Stoltenberg svarade med orden att Norge skulle möta terrorn med ”mer demokrati, mer öppenhet”. Efter [11 september 2001](#september-2001-11) hade terrorism mest förknippats med islamism; Utøya visade att högerextrem terror var ett lika verkligt hot. Breiviks manifest har sedan inspirerat andra gärningsmän, bland annat i Christchurch på Nya Zeeland 2019.
+
+gronland-i-stormaktspolitiken:
+  period: 2020
+  label: "Grönland i stormaktspolitiken"
+  title: "Grönland i stormaktspolitiken"
+  wiki:
+    - "sv:Grönland"
+    - "en:Proposals for the United States to acquire Greenland"
+  text: |
+    Grönland är världens största ö men har bara omkring 56 000 invånare, de flesta inuiter. Ön har varit danskt område sedan [1700-talet](#hans-egede-till-gronland-1721), fick hemstyre 1979 och självstyre 2009, med rätt att bli självständigt om befolkningen vill. Danmark sköter fortfarande försvars- och utrikespolitik.
+
+    Läget är strategiskt: mellan Nordamerika och Europa, vid Arktis. USA har sedan 1951 en flygbas i Pituffik (tidigare Thule) och erbjöd sig redan 1946 att köpa ön. När havsisen smälter blir nya sjövägar och mineraler – till exempel sällsynta jordartsmetaller, viktiga för elektronik – mer åtkomliga, och Kina har visat intresse.
+
+    Donald Trump föreslog 2019 att USA skulle köpa Grönland. Efter att [han återkommit som president 2025](#trump-ater-2025) upprepade han kravet och ville inte utesluta påtryckningar, vilket skapade en djup kris med Danmark och oro i hela Norden. Grönländska politiker har svarat att ön varken är dansk eller amerikansk att sälja. Frågan hänger ihop med att Arktis blivit viktigare efter [Rysslands invasion av Ukraina](#rysslands-invasion-av-ukraina-2022) och med [Finlands och Sveriges NATO-inträde](#finland-2023-och-sverige-2024-i-nato).

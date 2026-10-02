@@ -1,0 +1,1575 @@
+# Europa (övriga)
+# Varje nod: period (första året i 20-årsperioden), label (texten i tabellen),
+# title, wiki (språk:Artikel), text (Markdown; [text](#id) länkar till en annan nod).
+# same_as: id betyder att noden visar samma artikel som en annan nod.
+
+stefan-i-kront-till-ungerns-kung-1000:
+  period: 1000
+  label: "Stefan I krönt till Ungerns kung 1000"
+  title: "Stefan I – Ungerns förste kung år 1000"
+  wiki:
+    - "sv:Stefan I av Ungern"
+    - "en:Stephen I of Hungary"
+  text: |
+    **Ungrarna** (magyarerna) var ett ryttarfolk från stäpperna öster om Ural som omkring 895 bosatte sig i Karpaterbäckenet. Under 900-talet plundrade de hela Västeuropa, ända till Spanien, tills den tyske kungen Otto I besegrade dem på Lechfeld 955. Efter det valde deras ledare att bli bofasta och kristna.
+
+    **Stefan I** (ungerska István, ca 975–1038) kröntes på juldagen år 1000 eller nyåret 1001 med en krona som påven Sylvester II skickat, med stöd av kejsar Otto III. Det var viktigt: genom att få kronan från påven, inte från den tyske kejsaren, blev Ungern ett självständigt kungarike och inte en tysk lydstat.
+
+    Stefan slog ner hedniska uppror, organiserade landet i grevskap och grundade tio biskopsdömen. Han helgonförklarades 1083 och är Ungerns nationalhelgon; hans dödsdag 20 augusti är nationaldag. Jämför med Norden vid samma tid: [Olof Skötkonung](#olof-skotkonung) blev Sveriges förste kristne kung och [Island antog kristendomen år 1000](#island-antar-kristendomen-1000) – kristnandet av Europas utkanter skedde nästan samtidigt.
+
+bysans-basileios-ii-krossar-bulgarerna:
+  period: 1000
+  label: "Bysans: Basileios II krossar bulgarerna 1014"
+  title: "Basileios II besegrar bulgarerna 1014"
+  wiki:
+    - "en:Basil II"
+    - "en:Battle of Kleidion"
+  text: |
+    **Bysans** (östromerska riket) var den östra halvan av Romarriket, som överlevde när den västra föll 476. Huvudstaden Konstantinopel (dagens Istanbul) hade uppskattningsvis 300 000–400 000 invånare, mångdubbelt mer än någon stad i kristna Västeuropa. Riket var grekisktalande och ortodoxt kristet.
+
+    **Basileios II** var kejsare 976–1025, nästan 50 år. Hans huvudfiende var det **bulgariska riket** på Balkan under tsar Samuel. Efter decennier av krig vann Basileios slaget vid Kleidion 1014. Enligt bysantinska krönikor lät han blända omkring 14 000–15 000 fångar och lämnade en enögd man per hundra för att leda dem hem; när Samuel såg dem fick han ett slaganfall och dog. Siffran är troligen överdriven, men berättelsen gav kejsaren hans tillnamn *Bulgaroktonos*, bulgardräparen.
+
+    1018 var Bulgarien helt inlemmat i Bysans, som nu nådde sin största utbredning sedan 600-talet. Basileios knöt också allians med Kievrus: hans syster gifte sig med Vladimir den store, som lät döpa sig (se [988](#kievrus-vladimir-den-store-dop-988-dor)). Väringagardet, kejsarens livvakt av skandinaver och ryssar, grundades under honom.
+
+bolesaw-i-i-polen:
+  period: 1000
+  label: "Bolesław I i Polen"
+  title: "Bolesław I den tappre av Polen"
+  wiki:
+    - "en:Bolesław I the Brave"
+    - "en:Congress of Gniezno"
+  text: |
+    **Polen** som stat uppstod på 900-talet kring stammen polanerna. Dess förste kände härskare **Mieszko I** lät döpa sig 966, vilket räknas som Polens födelseår. Hans son **Bolesław I**, kallad *Chrobry* (den tappre), regerade 992–1025.
+
+    År 1000 besökte kejsar Otto III honom i Gnesen (Gniezno), erkände honom som vän och bundsförvant och lät inrätta ett eget polskt ärkebiskopsdöme. Det betydde att den polska kyrkan inte lydde under tyska biskopar – ett avgörande steg mot självständighet. Efter Ottos död förde Bolesław krig mot kejsar Henrik II i omkring femton år (1002–1018) och erövrade områden i Böhmen, Lausitz och Mähren. 1018 intog han Kiev och satte sin svärson på tronen där.
+
+    Bolesław kröntes till kung 1025, strax före sin död (se [Bolesław krönt 1025](#bolesaw-i-kront-1025)). Han har en nordisk koppling: enligt en tolkning var hans syster eller dotter gift med [Sven Tveskägg](#sven-tveskagg-kung-1013) och mor till [Knut den store](#knut-den-store-kung-av-england-danmark). Polen blev under honom en av Centraleuropas stora makter, men riket splittrades igen efter hans död.
+
+normander-i-syditalien:
+  period: 1020
+  label: "Normander i Syditalien"
+  title: "Normanderna i Syditalien"
+  wiki:
+    - "en:Norman conquest of southern Italy"
+    - "sv:Robert Guiscard"
+  text: |
+    Kring 1020 var **Syditalien** splittrat: Bysans (östromerska riket) kontrollerade Apulien och Kalabrien, langobardiska furstar styrde Salerno, Capua och Benevento, och **Sicilien** var muslimskt sedan 800-talet. Alla anlitade legosoldater, och normandiska riddare från norra Frankrike (se [normandiska riddare ~1020](#normandiska-riddare-soker-lycka-i-soder)) kom dit i allt större antal.
+
+    1030 fick en normandisk ledare, Rainulf Drengot, staden Aversa som belöning – normandernas första fasta fäste i Italien. Snart tog de över själva. **[Robert Guiscard](#normander-under-robert-guiscard)** (”den listige”), av den nämnda Hauteville-familjen, erövrade Apulien och Kalabrien, och hans bror **Roger** erövrade Sicilien från muslimerna 1061–1091, alltså under 30 år. 1053 besegrade de till och med påvens armé och tog påven till fånga, varefter påven gjorde dem till sina vasaller.
+
+    1130 skapades [kungariket Sicilien](#roger-ii-normandiska-kungariket-sicilien). Det blev ett av medeltidens rikaste och mest mångkulturella riken, där latinska, grekiska och arabiska användes sida vid sida och arabiska lärda arbetade vid hovet i Palermo. Detta rike blev senare grunden för kungariket Neapel och bestod i olika former ända till Italiens enande 1861.
+
+guido-av-arezzo-notskrift:
+  period: 1020
+  label: "Guido av Arezzo: notskrift"
+  title: "Guido av Arezzo och notskriften"
+  wiki:
+    - "sv:Guido av Arezzo"
+    - "sv:Solmisation"
+  text: |
+    **Guido av Arezzo** (ca 991–efter 1033) var en italiensk munk och musiklärare. Hans problem var praktiskt: korgossar behövde lära sig hundratals gregorianska sånger (enstämmig kyrkosång på latin) utantill, vilket tog omkring tio år. De dåtida tecknen ovanför texten, *neumer*, visade bara ungefär åt vilket håll melodin gick, inte exakt vilka toner.
+
+    Guido förbättrade ett system med horisontella linjer där varje linje och mellanrum motsvarar en bestämd tonhöjd – grunden till vårt **notsystem**, idag med fem linjer. Han införde också tonnamnen *ut, re, mi, fa, sol, la*, tagna från första stavelsen i varje rad i en hymn till Johannes Döparen där varje rad börjar en ton högre. ”Ut” byttes senare mot ”do” och ”si/ti” lades till: det är dagens **solmisation**, do-re-mi.
+
+    Guido påstod att han med sin metod kunde lära ut på två år vad som tidigare tagit tio. Påven bjöd in honom till Rom omkring 1028. Varför spelar det roll? Exakt notskrift gjorde det möjligt att skriva ned musik som en kompositör kunde skapa och andra framföra utan att ha hört den – en förutsättning för flerstämmig musik och hela den västerländska konstmusiken, ungefär som skriften för språket.
+
+bolesaw-i-kront-1025:
+  period: 1020
+  label: "Bolesław I krönt 1025"
+  title: "Bolesław I kröns till Polens kung 1025"
+  wiki:
+    - "en:Bolesław I the Brave"
+    - "sv:Bolesław I av Polen"
+  text: |
+    **Bolesław I**, kallad den tappre, hade styrt Polen som hertig sedan 992 och gjort landet till en av Centraleuropas stormakter (se [Bolesław I ~1000](#bolesaw-i-i-polen)). Kring påsk 1025 lät han kröna sig till **kung** i Gnesen (Gniezno), strax efter att den tyske kejsaren [Henrik II](#henrik-ii-kejsare-1014) dött.
+
+    Varför var kröningen viktig? En kungatitel betydde att Polen var ett fullvärdigt kristet kungarike, jämbördigt med Ungern, Danmark och England, och inte underställt den tyske kejsaren. Kröningen krävde samtycke av påven eller kejsaren, och Bolesław hade väntat i över tjugo år; att han utnyttjade tomrummet efter Henrik II:s död var ett politiskt drag.
+
+    Bolesław dog redan i juni 1025, ett par månader senare. Hans son Mieszko II kröntes samma år, men riket föll snart samman i uppror, en hednisk reaktion och anfall från grannarna. Kungatiteln gick förlorad i perioder, och Polen splittrades på 1100-talet i flera furstendömen. Först 1320 kröntes åter en kung av hela Polen. Bolesław förblev ändå en symbol för polsk självständighet.
+
+stora-schismen-1054-katolska-och:
+  period: 1040
+  label: "Stora schismen 1054: katolska och ortodoxa kyrkan delas"
+  title: "Stora schismen 1054"
+  wiki:
+    - "sv:Stora schismen"
+  text: |
+    Kristendomen hade länge haft två tyngdpunkter: **Rom** i väst, latinsktalande, med påven som ledare, och **Konstantinopel** i öst (Bysans), grekisktalande, med patriarken (överbiskopen) och kejsaren. *Schism* betyder splittring.
+
+    Tvisterna handlade om makt – påven hävdade att han stod över alla biskopar, vilket östkyrkan inte accepterade – och om detaljer i lära och ritual: om den heliga anden utgår från Fadern "och Sonen" (*filioque*, ett tillägg till trosbekännelsen i väst), om nattvardsbrödet skulle vara osyrat, och om prästers celibat. År 1054 bannlyste påvens sändebud kardinal Humbert patriarken Mikael Kerularios i Hagia Sofia, och patriarken bannlyste dem tillbaka.
+
+    Varför det spelar roll: splittringen blev permanent, särskilt efter att korsfarare [plundrade Konstantinopel 1204](#fjarde-korstaget-plundrar-konstantinopel). Den delar fortfarande Europa: katolska (och senare protestantiska) Väst mot ortodoxa Grekland, Ryssland, Serbien och andra. Bannlysningarna upphävdes symboliskt först 1965.
+
+normander-under-robert-guiscard:
+  period: 1040
+  label: "normander under Robert Guiscard"
+  title: "Normanderna i Syditalien – Robert Guiscard"
+  wiki:
+    - "sv:Robert Guiscard"
+    - "en:Norman conquest of southern Italy"
+  text: |
+    **Normander** var ättlingar till vikingar som bosatt sig i Normandie i norra Frankrike och blivit fransktalande riddare. Från cirka 1015 kom normandiska legoknektar till Syditalien, som då var splittrat mellan Bysans, langobardiska furstendömen och muslimska Sicilien.
+
+    **Robert Guiscard** (cirka 1015–1085; "Guiscard" betyder "den listige") var en yngre son till en liten normandisk adelsman. Han började som ledare för ett rövarband i Kalabrien och slutade som hertig av Apulien och Kalabrien. Med sin bror Roger erövrade han Bysans sista italienska besittningar (Bari 1071) och muslimska Sicilien ([Palermo 1072](#normander-tar-sicilien-palermo-1072)). Han anföll till och med Bysans på Balkan.
+
+    Varför det spelar roll: normanderna skapade [kungariket Sicilien (1130)](#roger-ii-normandiska-kungariket-sicilien), en av medeltidens rikaste och mest mångkulturella stater, där latin, grekiska och arabiska användes sida vid sida. Samtidigt erövrade normander från samma lilla område [England (1066)](#stamford-bridge-och-hastings-1066) – ett anmärkningsvärt resultat för ett hertigdöme med kanske några hundratusen invånare.
+
+normander-tar-sicilien-palermo-1072:
+  period: 1060
+  label: "Normander tar Sicilien (Palermo 1072)"
+  title: "Normanderna erövrar Palermo 1072"
+  wiki:
+    - "en:Norman conquest of southern Italy"
+    - "en:Emirate of Sicily"
+  text: |
+    **Sicilien** hade varit muslimskt sedan arabiska erövringar på 800-talet. Under muslimskt styre blev ön rik: nya grödor som citrusfrukter, sockerrör och bomull infördes, med avancerad bevattning. **Palermo** var en av Europas största städer, med kanske uppemot 100 000 invånare – flera gånger fler än Rom eller Paris vid samma tid.
+
+    På 1050-talet var ön splittrad mellan rivaliserande emirer (muslimska furstar). En av dem bad normanderna om hjälp. Bröderna **[Robert Guiscard](#normander-under-robert-guiscard)** och **Roger** invaderade 1061, och efter en lång belägring föll Palermo i januari 1072. Hela ön var erövrad först 1091 – tre decennier, med bara några hundra till några tusen normandiska riddare.
+
+    Varför det spelar roll: Rogers son Roger II [blev kung av Sicilien 1130](#roger-ii-normandiska-kungariket-sicilien). Det normandiska Sicilien blev en blandkultur där arabiska, grekiska och latinska ämbetsmän arbetade sida vid sida, och där geografen al-Idrisi gjorde sin [berömda världskarta (1154)](#al-idrisis-varldskarta-1154-sicilien) åt kungen. Jämför med [Toledo i Spanien (1085)](#toledo-erovras-1085): två kanaler genom vilka arabisk kunskap nådde Europa.
+
+gregorius-vii-pave-1073:
+  period: 1060
+  label: "Gregorius VII påve 1073"
+  title: "Gregorius VII blir påve 1073"
+  wiki:
+    - "sv:Gregorius VII"
+    - "en:Gregorian Reform"
+  text: |
+    **Gregorius VII** (cirka 1020–1085), född Hildebrand i Toscana, var påve 1073–1085. Innan han blev påve hade han i 25 år varit en av de ledande krafterna bakom den **gregorianska reformen**: en rörelse för att rena kyrkan från simoni (köp av kyrkliga ämbeten) och för att tvinga präster att leva i celibat.
+
+    Hans grundidé var att påven stod över alla världsliga härskare. I ett dokument, *Dictatus papae* (1075), slog han fast att påven ensam får avsätta biskopar, att han får avsätta kejsare, och att den romerska kyrkan aldrig har misstagit sig. Det ledde till den öppna konflikten med kejsar [Henrik IV](#henrik-iv) (se [investiturstriden](#investiturstriden-borjar) och [Canossa 1077](#canossa-1077)).
+
+    Varför det spelar roll: Henrik IV tog till slut Rom (1084), och Gregorius dog i exil i Salerno. Hans sista ord ska ha varit: "Jag har älskat rättvisan och hatat orättfärdigheten, därför dör jag i landsflykt." Men hans idéer segrade på sikt: påvedömet blev under 1100–1200-talen Europas mäktigaste institution, och celibatet för präster gäller i katolska kyrkan än i dag. Hans efterträdare Urban II startade [korstågen 1095](#paven-utlyser-korstag-i-clermont-1095).
+
+universitetet-i-bologna-1088:
+  period: 1080
+  label: "Universitetet i Bologna 1088"
+  title: "Universitetet i Bologna 1088"
+  wiki:
+    - "sv:Bolognas universitet"
+    - "en:University of Bologna"
+  text: |
+    Universitetet i **Bologna** i norra Italien räknas som världens äldsta universitet som fortfarande fungerar. Året 1088 är traditionellt – det bestämdes i efterhand vid ett jubileum 1888 – men vid den tiden började undervisning i juridik ta form i staden.
+
+    Kärnan var studiet av **romersk rätt**, särskilt kejsar Justinianus lagsamling från 500-talet, som hade återupptäckts i Italien. Den behövdes i ett Europa där handeln och städerna växte och där kejsare och påvar bråkade om sina rättigheter (se [Investiturstriden](#investiturstriden-borjar)). Läraren **Irnerius** gjorde staden berömd. Studenter från hela Europa – ofta vuxna män – kom dit och organiserade sig i föreningar, *universitates* (”sammanslutningar”), för att skydda sig mot staden och förhandla med lärarna. I Bologna var det studenterna som anställde och kunde bötfälla lärarna.
+
+    Modellen spreds: [Paris (ca 1150–1200), Oxford (ca 1167)](#universitet-i-paris-och-oxford-tar-form), Cambridge (1209). Skandinaviens första universitet kom först [1477 i Uppsala](#uppsala-universitet-1477) och 1479 i Köpenhamn. Jämför med de statliga madrasorna i seldjukriket som grundades samtidigt (se [Nizam al-Mulk](#nizam-al-mulk-grundar-madrasor)). Ordet ”universitet” kommer alltså från ett slags fackförening, inte från ”universum”.
+
+venedig-far-handelsprivilegier-i-bysans:
+  period: 1080
+  label: "Venedig får handelsprivilegier i Bysans 1082"
+  title: "Venedigs privilegier i Bysans 1082"
+  wiki:
+    - "en:Byzantine–Venetian treaty of 1082"
+    - "sv:Republiken Venedig"
+  text: |
+    **Venedig** var en stadsrepublik byggd på öar i en lagun i norra Adriatiska havet, styrd av en vald doge och en köpmannaelit. Den hade formellt varit en del av Bysans (det östromerska riket) och hade starka band dit. **Bysans** var vid den här tiden hårt pressat: turkarna tog Anatolien efter [Manzikert 1071](#manzikert-1071-seldjuker-krossar-bysans), och normanderna från södra Italien under [Robert Guiscard](#normander-under-robert-guiscard) invaderade 1081 Bysans balkanprovinser.
+
+    Kejsar **Alexios I Komnenos** behövde Venedigs flotta mot normanderna. Som betalning utfärdade han 1082 (vissa forskare säger 1084 eller 1092) ett dokument, en *chrysobull* (kejserligt brev med guldsigill), som gav venetianska köpmän tullfrihet i nästan hela riket, ett eget kvarter med kajer i Konstantinopel och fri handel – förmåner som bysantinska köpmän inte ens hade själva.
+
+    Det blev grunden för Venedigs rikedom i 400 år: staden blev mellanhand för handeln mellan Europa och Orienten med kryddor, siden och socker. Privilegierna väckte stor bitterhet i Bysans, och relationen gick till slut så illa att Venedig 1204 ledde [det fjärde korståget till att plundra Konstantinopel](#fjarde-korstaget-plundrar-konstantinopel).
+
+johanniterorden-1113:
+  period: 1100
+  label: "Johanniterorden 1113"
+  title: "Johanniterorden 1113"
+  wiki:
+    - "sv:Johanniterorden"
+    - "en:Knights Hospitaller"
+  text: |
+    **Johanniterorden** började som ett sjukhus för pilgrimer i Jerusalem, drivet av munkar och lekmän redan före korstågen. Efter att korsfararna tagit Jerusalem 1099 (se [Första korståget](#forsta-korstaget-jerusalem-intas-1099)) blev det en självständig organisation, och 1113 erkände påven Paschalis II den som en egen orden under påvens direkta beskydd. Namnet kommer från Johannes döparen, sjukhusets skyddshelgon; på engelska heter de Knights Hospitaller.
+
+    Sjukhuset i Jerusalem hade under 1100-talet uppgifter om omkring 1 000–2 000 sängplatser och tog emot alla oavsett religion. Från 1130-talet fick orden också en militär gren och blev en **riddarorden**: munkar som avlagt löften om fattigdom, kyskhet och lydnad men samtidigt var tungt beväpnade krigare. De försvarade borgar som Krak des Chevaliers i Syrien.
+
+    Orden fick stora donationer av gods i hela Europa, även i Norden (t.ex. Eskilstuna och Antvorskov på Själland). Efter att [korsfararstaterna föll 1291](#akko-faller-1291-korstagen-slut) flyttade de till Rhodos och sedan Malta (1530), därav namnet Malteserorden. Den existerar fortfarande och har status som en suverän enhet med diplomatiska förbindelser, men ägnar sig idag åt sjukvård och hjälparbete.
+
+tempelherreorden-1119:
+  period: 1100
+  label: "Tempelherreorden 1119"
+  title: "Tempelherreorden 1119"
+  wiki:
+    - "sv:Tempelherreorden"
+    - "en:Knights Templar"
+  text: |
+    Omkring 1119 grundade den franske riddaren **Hugo de Payens** och åtta kamrater en grupp i Jerusalem för att skydda pilgrimer på de farliga vägarna mellan kusten och staden. Kungen av Jerusalem gav dem lokaler vid Tempelberget, där Salomos tempel en gång stått, därav namnet **Tempelherrarna**.
+
+    De var den första verkliga **riddarorden**: munkar som avlagt klosterlöften men levde som krigare. Det var en ny och för många chockerande idé, att kombinera munkliv och krigföring. Teologen Bernhard av Clairvaux försvarade den, och 1129 fick orden en egen regel. De blev [korsfararstaternas](#korsfararstater) mest disciplinerade stridskrafter, med kanske några hundra riddare i Heliga landet åt gången plus många fler sergeanter och legosoldater.
+
+    Genom donationer blev orden mycket rik, och den byggde upp ett av de första internationella banksystemen: en pilgrim kunde sätta in pengar i Paris och ta ut dem i Jerusalem mot ett kreditbrev – en sorts tidig resecheck. När [Heliga landet gått förlorat 1291](#akko-faller-1291-korstagen-slut) saknade de uppdrag. Den franske kungen [Filip IV](#filip-iv-den-skone), som var skyldig dem pengar, lät [1307 arrestera dem](#tempelherrarna-krossas-1307) och anklaga dem för kätteri. Orden upplöstes 1312 och ledaren brändes 1314.
+
+roger-ii-normandiska-kungariket-sicilien:
+  period: 1120
+  label: "Roger II: normandiska kungariket Sicilien 1130"
+  title: "Roger II och kungariket Sicilien 1130"
+  wiki:
+    - "sv:Roger II av Sicilien"
+    - "sv:Kungariket Sicilien"
+  text: |
+    Normanderna var ättlingar till vikingar som slagit sig ned i Normandie i norra Frankrike. Förutom att erövra England 1066 tog normandiska äventyrare [södra Italien](#normander-i-syditalien) från Bysans och [Sicilien från arabiska härskare (1061–91)](#normander-tar-sicilien-palermo-1072). **Roger II** (1095–1154), son till erövraren av Sicilien, samlade alla dessa områden och kröntes på juldagen 1130 i Palermo till kung av Sicilien.
+
+    Riket var ett av Europas rikaste och mest välorganiserade. Befolkningen var blandad – grekisktalande, arabisktalande och latinsk – och hovet använde alla tre språken i dokument. Roger behöll den effektiva arabiska och bysantinska förvaltningen, med skattelängder och ett centralt finanskontor. Byggnader som Cappella Palatina i Palermo blandar bysantinska mosaiker med arabiska takdekorationer.
+
+    Roger lockade lärda till hovet, bland andra geografen al-Idrisi som gjorde sin berömda världskarta åt honom (se [al-Idrisis världskarta 1154](#al-idrisis-varldskarta-1154-sicilien)). Hans flotta tog också kuststäder i Nordafrika (se [normander i Tunisien](#normander-i-tunisien)). Kungariket Sicilien överlevde i olika former – senare under tyska, franska och spanska härskare – ända till Italiens enande 1861.
+
+andra-korstaget-114749:
+  period: 1140
+  label: "Andra korståget 1147–49"
+  title: "Andra korståget 1147–1149"
+  wiki:
+    - "sv:Andra korståget"
+    - "sv:Korståg"
+  text: |
+    Korstågen var krig som påven förklarade heliga: deltagarna fick syndernas förlåtelse. Det första korståget (1096–99) hade erövrat Jerusalem och grundat fyra korsfararstater i Mellanöstern. När den nordligaste, Edessa, föll 1144 (se [Zengi tar Edessa](#zengi-tar-edessa-1144)) utlyste påven Eugenius III ett nytt.
+
+    Det blev det första korståget som leddes av kungar: **Konrad III** av Tyskland och **Ludvig VII** av Frankrike. Var och en hade uppskattningsvis 15 000–30 000 man (siffrorna är osäkra). Båda arméerna tog landvägen genom Anatolien och slogs sönder av de seldjukiska turkarna – den tyska vid Dorylaion i oktober 1147. Resterna anföll 1148 Damaskus, men belägringen gav upp efter fyra dagar. Edessa återtogs aldrig.
+
+    Korståget hade också andra fronter: korsfarare hjälpte Portugal att ta [Lissabon 1147](#portugal-kungarike-1139-lissabon-1147) (se dit) och nordtyska och danska furstar förde [Vendiska korståget](#venden-korstaget-1147) mot slaviska folk vid Östersjön (se dit). Misslyckandet i öst stärkte det muslimska enandet under Nur ad-Din och sedan Saladin, som 1187 tog Jerusalem – vilket i sin tur utlöste [tredje korståget](#tredje-korstaget-118992) med Rikard Lejonhjärta och Barbarossa.
+
+venedig-och-genua:
+  period: 1140
+  label: "Venedig och Genua"
+  title: "Venedig och Genua – handelsrepublikerna"
+  wiki:
+    - "sv:Republiken Venedig"
+    - "sv:Republiken Genua"
+  text: |
+    Venedig och Genua var italienska stadsrepubliker: självstyrande städer utan kung, där rika handelsfamiljer styrde. Venedig, byggt på öar i en lagun vid Adriatiska havet, leddes av en vald *doge*. Genua låg på andra sidan Italien vid Liguriska havet. Båda levde på sjöhandel mellan Europa och Mellanöstern.
+
+    Korstågen gav dem stora möjligheter. De skeppade korsfarare och förnödenheter och fick i gengäld egna kvarter, tullfrihet och handelsrättigheter i hamnstäder som Akko och Tyrus. Därifrån köpte de kryddor, silke, socker och färgämnen som kom via Indiska oceanen och karavanvägarna och sålde dem i Europa med stor vinst. [Venedig hade redan 1082 fått tullfrihet i Bysantinska riket](#venedig-far-handelsprivilegier-i-bysans). Venedigs statliga skeppsvarv, *Arsenalen*, kunde senare bygga ett skepp om dagen med löpandebandliknande metoder.
+
+    De två (och Pisa) var bittra rivaler och utkämpade flera krig om kontrollen av handeln, fram till Venedigs seger 1380. Städerna utvecklade också affärstekniker vi använder än i dag: växlar, försäkringar, bolagsformer och [dubbel bokföring](#pacioli-summa-1494-dubbel-bokforing). Genuas mest kände son är [Christofer Columbus](#columbus-1492). Venedig förblev självständigt till 1797, då Napoleon tog staden.
+
+lombardiska-forbundet:
+  period: 1160
+  label: "Lombardiska förbundet"
+  title: "Lombardiska förbundet"
+  wiki:
+    - "sv:Lombardiska förbundet"
+    - "en:Peace of Constance"
+  text: |
+    **Lombardiet** är Poslätten i norra Italien, kring Milano. Den var på 1100-talet en av Europas rikaste och mest tätbefolkade regioner, med självstyrande städer (*kommuner*) som styrdes av valda konsuler. Formellt låg de under den tysk-romerske kejsaren.
+
+    Kejsar **[Fredrik I Barbarossa](#fredrik-i-barbarossa-1152)** krävde 1158 tillbaka kejsarens rättigheter – att utse städernas styresmän och ta ut skatter och tullar. Städer som gjorde motstånd straffades hårt: Milano jämnades med marken 1162 och befolkningen fördrevs. 1167 gick ett 20-tal städer – bland dem Milano, Bergamo, Brescia, Mantua och Verona – samman i Lombardiska förbundet, med stöd av påven Alexander III. De byggde Milano på nytt och grundade en ny fästningsstad som de döpte till Alessandria efter påven.
+
+    Förbundet besegrade Fredrik vid [Legnano 1176](#barbarossa-forlorar-vid-legnano-1176) (se dit), och genom freden i Konstanz 1183 fick städerna i praktiken självstyre. Det var en tidig seger för stadsborgerskapet mot en feodal härskare. Senare krig mot Fredriks sonson [Fredrik II](#fredrik-ii) ledde till ett nytt förbund. Namnet togs upp i modern tid av det italienska partiet Lega Nord.
+
+bysans-forlorar-vid-myriokefalon-1176:
+  period: 1160
+  label: "Bysans förlorar vid Myriokefalon 1176"
+  title: "Slaget vid Myriokefalon 1176"
+  wiki:
+    - "en:Battle of Myriokephalon"
+    - "sv:Manuel I Komnenos"
+  text: |
+    Det bysantinska riket – det östromerska riket med huvudstad i Konstantinopel – hade förlorat det mesta av Anatolien (dagens Turkiet) till seldjukiska turkar efter nederlaget vid [Manzikert 1071](#manzikert-1071-seldjuker-krossar-bysans). Kejsar **Manuel I Komnenos** (1143–1180) hade återställt rikets ställning med diplomati och krig och ville nu ta tillbaka det inre av Anatolien.
+
+    1176 marscherade han med en stor armé, uppskattningsvis 25 000–35 000 man med en lång tross och belägringsutrustning, mot **Konya**, huvudstad i [seldjukernas sultanat Rum](#rum-sultanatet-i-anatolien) (”Rom”, eftersom det låg på före detta romersk mark). I bergspasset vid Myriokefalon i september 1176 överföll sultanen **Kilij Arslan II** den utdragna marschkolonnen. Bysantinerna led stora förluster, särskilt trossen och belägringsmaskinerna, och Manuel slöt fred och vände hem.
+
+    Manuel jämförde själv nederlaget med Manzikert. Armén var inte förintad, men hoppet om att återta Anatolien var ute. Efter Manuels död 1180 föll Bysans in i inre kriser, och [1204 erövrades och plundrades Konstantinopel](#fjarde-korstaget-plundrar-konstantinopel) av fjärde korstågets västerländska riddare. Anatolien blev permanent turkiskt – grunden för det som senare blev Osmanska riket och dagens Turkiet.
+
+tredje-korstaget-118992:
+  period: 1180
+  label: "Tredje korståget 1189–92"
+  title: "Tredje korståget 1189–92"
+  wiki:
+    - "sv:Tredje korståget"
+    - "en:Third Crusade"
+  text: |
+    Korstågen var krig som påven förklarade heliga, med målet att erövra eller försvara Jerusalem. Efter första korståget 1099 fanns kristna korsfararstater längs Levantens kust. 1187 krossade sultanen **Saladin** deras armé [vid Hattin och tog Jerusalem](#saladin-vinner-vid-hattin-1187-tar) (se detta). Svaret blev tredje korståget, kallat ”kungarnas korståg”.
+
+    Tre av Europas mäktigaste härskare deltog: kejsar Fredrik Barbarossa ([som drunknade på vägen, 1190](#barbarossa-drunknar-1190)), Filip II August av Frankrike och Rikard Lejonhjärta av England. Huvudhändelserna var den nästan två år långa belägringen av hamnstaden Akko (1189–91), där tiotusentals dog av strider och sjukdom, och Rikards seger vid Arsuf.
+
+    Jerusalem återtogs aldrig. Freden 1192 lät de kristna behålla en kustremsa från Tyrus till Jaffa och gav obeväpnade pilgrimer rätt att besöka staden. Korsfararstaterna överlevde i ytterligare 100 år, fram till [Akkos fall 1291](#akko-faller-1291-korstagen-slut). Under korståget bildades också [Tyska orden](#tyska-orden-1190) (se denna).
+
+tyska-orden-1190:
+  period: 1180
+  label: "Tyska orden 1190"
+  title: "Tyska orden grundas 1190"
+  wiki:
+    - "sv:Tyska orden"
+    - "en:Teutonic Order"
+  text: |
+    En *riddarorden* var en kombination av munkorden och armé: medlemmarna avlade kyskhets-, fattigdoms- och lydnadslöften men var samtidigt krigare. De äldre var johanniterna och tempelherrarna. **Tyska orden** började 1190 som ett fältsjukhus som tyska köpmän från Bremen och Lübeck startade vid belägringen av Akko under [tredje korståget](#tredje-korstaget-118992), och blev riddarorden 1198.
+
+    Ordens framtid låg dock inte i Palestina utan i Östersjöområdet. 1230 gick den in för att erövra de hedniska prusserna (se ”[Tyska orden till Preussen](#tyska-orden-till-preussen-1230)”), och den tog över [Svärdsriddarnas](#svardsriddarna) land i Livland 1237. Den byggde en egen stat, senare med huvudsäte i Marienburg (Malbork), med borgar, städer och tyska bosättare.
+
+    Ordensstaten var en stormakt i Östersjön i 200 år men förlorade mot Polen–Litauen vid [Tannenberg 1410](#grunwald-1410-tyska-orden-slas). 1525 omvandlades den till hertigdömet Preussen, kärnan i det senare Preussen som enade Tyskland 1871. Orden finns fortfarande som en katolsk orden i Wien.
+
+bulgarien-fritt-1185:
+  period: 1180
+  label: "Bulgarien fritt 1185"
+  title: "Bulgarien fritt 1185"
+  wiki:
+    - "sv:Andra bulgariska riket"
+    - "en:Uprising of Asen and Peter"
+  text: |
+    Det första bulgariska riket, grundat 681, hade varit en stormakt på Balkan men erövrades 1018 av Bysans – det östromerska riket med huvudstad Konstantinopel – under kejsar [Basileios II](#bysans-basileios-ii-krossar-bulgarerna), kallad ”bulgardödaren”. I nästan 170 år var Bulgarien en bysantinsk provins.
+
+    1185 utnyttjade bröderna **Petar och Asen**, bojarer (adelsmän) från Tarnovo, missnöje mot nya bysantinska skatter och startade ett uppror. Bysans var försvagat efter inre strider och ett normandiskt anfall samma år. Upproret lyckades, och det **andra bulgariska riket** grundades med huvudstad i Tarnovo.
+
+    Under kung Kalojan (1197–1207) blev Bulgarien åter en stormakt; han besegrade de latinska korsfararna efter [fjärde korståget](#fjarde-korstaget-plundrar-konstantinopel) vid Adrianopel 1205 och tog deras kejsare till fånga. Riket varade till den osmanska erövringen 1396, varefter Bulgarien låg under osmanskt styre i nästan 500 år, till 1878.
+
+fjarde-korstaget-plundrar-konstantinopel:
+  period: 1200
+  label: "Fjärde korståget plundrar Konstantinopel 1204"
+  title: "Fjärde korståget plundrar Konstantinopel 1204"
+  wiki:
+    - "sv:Fjärde korståget"
+    - "en:Sack of Constantinople"
+  text: |
+    Fjärde korståget utlystes 1198 av påven Innocentius III för att anfalla Egypten, det muslimska maktcentrumet. Korsfararna, främst franska riddare, beställde transport av **[Venedig](#venedig-och-genua)** för 33 500 man, men bara ungefär en tredjedel dök upp, och de kunde inte betala. Venedig krävde då att de i stället skulle erövra den kristna staden Zara (Zadar) åt Venedig.
+
+    Därefter lockades de av en bysantinsk tronpretendent, som lovade pengar, till Konstantinopel, huvudstaden i **Bysans** – det östromerska riket – med uppskattningsvis 150 000–400 000 invånare, Europas största och rikaste stad. När betalningen uteblev stormade korsfararna staden i april 1204 och plundrade den i tre dagar. Kyrkor tömdes; bronshästarna på Markuskyrkan i Venedig kommer härifrån.
+
+    Ett ”latinskt kejsardöme” grundades, och Venedig fick handelsbaser i hela Egeiska havet. [Bysans återtog staden 1261](#bysans-atertar-konstantinopel-1261) men återhämtade sig aldrig och [föll till osmanerna 1453](#konstantinopel-faller-1453). Plundringen fördjupade [schismen](#stora-schismen-1054-katolska-och) mellan den katolska och den ortodoxa kyrkan; påven Johannes Paulus II bad om ursäkt 2001.
+
+franciskus-av-assisi:
+  period: 1200
+  label: "Franciskus av Assisi"
+  title: "Franciskus av Assisi"
+  wiki:
+    - "sv:Franciskus av Assisi"
+    - "sv:Franciskanorden"
+  text: |
+    **Franciskus av Assisi** (1181/82–1226) var son till en rik tygköpman i Assisi i Italien. Efter krigsfångenskap och sjukdom bröt han omkring 1205 med familjen, gav bort allt han ägde och började leva i fullständig fattigdom, predika och vårda spetälska. Han samlade följeslagare, och omkring 1209/1210 godkände påven Innocentius III muntligen hans regel.
+
+    Det blev **franciskanorden**, en av de nya *tiggarordnarna*. Till skillnad från äldre munkar, som levde i rika kloster på landet, levde tiggarmunkarna bland folket i de växande städerna och försörjde sig på allmosor. Samtidigt grundades dominikanorden. Franciskanerna växte explosivt; vid Franciskus död fanns flera tusen.
+
+    Hans rörelse var ett svar på kritik mot en rik och världslig kyrka – samma kritik som drev katarerna (se ”[korståg mot katarerna](#korstag-mot-katarerna-1209)”), men inom kyrkan. Han är känd för sin kärlek till naturen och djuren och för ”Solsången”, en av de första dikterna på italienska. Han helgonförklarades 1228. Påven Franciskus (2013–2025) tog namnet efter honom. Se även [femte korståget](#femte-korstaget-mot-egypten-1217), under vilket han besökte sultanen i Egypten.
+
+fibonacci-liber-abaci-1202:
+  period: 1200
+  label: "Fibonacci, Liber Abaci 1202"
+  title: "Fibonacci och Liber Abaci 1202"
+  wiki:
+    - "sv:Fibonacci"
+    - "en:Liber Abaci"
+  text: |
+    **Leonardo av Pisa**, kallad Fibonacci (ca 1170–ca 1250), var son till en handelsman från Pisa som arbetade i Bugia (Béjaïa) i Algeriet. [Där lärde han sig av arabiska lärare](#fibonacci-lar-sig-arabiska-siffror-i) det indiska positionssystemet med siffrorna 0–9, och han reste sedan runt Medelhavet och studerade.
+
+    1202 gav han ut *Liber Abaci* (”Boken om räknandet”). Den förklarade det nya talsystemet och visade praktiska tillämpningar: bokföring, valutaväxling, viktomvandling, räntor. I Europa räknade man då med romerska siffror och kulram – prova att multiplicera MCCII med XLVII skriftligt. Med positionssystemet och nollan blir det skolräkning.
+
+    I boken finns också en övning om hur många kaninpar man får efter ett år om varje par föder ett nytt par varje månad – därav **Fibonaccitalen** 1, 1, 2, 3, 5, 8…, som indiska matematiker hade beskrivit långt tidigare. Det tog ändå århundraden innan arabiska siffror slog ut de romerska (se ”[arabiska siffror sprids](#arabiska-siffror-sprids)”); [boktryckarkonsten på 1400-talet](#gutenberg-tryckpress-1450-bibeln-1455) påskyndade det.
+
+pavlig-inkvisition-1231:
+  period: 1220
+  label: "Påvlig inkvisition 1231"
+  title: "Påvliga inkvisitionen 1231"
+  wiki:
+    - "sv:Inkvisitionen"
+    - "en:Medieval Inquisition"
+  text: |
+    **Inkvisitionen** (latin *inquisitio*, undersökning) var kyrkans domstolar för att spåra och döma *kättare*, kristna som avvek från kyrkans lära. Tidigare hade lokala biskopar haft ansvaret. Från 1231 gav påven Gregorius IX uppdraget till särskilda påvliga inkvisitorer, framför allt munkar ur dominikan- och franciskanordnarna, främst för att jaga katarerna i södra Frankrike (se ”[korståg mot katarerna](#korstag-mot-katarerna-1209)”).
+
+    Inkvisitorerna reste mellan orter, uppmanade folk att anmäla misstänkta och förhörde dem. Från 1252 tilläts tortyr. De flesta straff var botgöring, pilgrimsfärd eller fängelse; de som vägrade avsvära sig eller återföll överlämnades till världslig makt för att brännas. Andelen dödsdomar var låg men inte försumbar.
+
+    Den medeltida inkvisitionen ska skiljas från den senare **spanska inkvisitionen** (1478–1834), som styrdes av kungen och främst riktades mot konverterade judar och muslimer, och från den romerska (1542), som 1633 dömde Galileo. Inkvisitionens metoder med skriftliga protokoll och förhör påverkade senare europeisk rättsprocess.
+
+mongoler-i-polen-och-ungern-1241:
+  period: 1240
+  label: "Mongoler i Polen och Ungern 1241"
+  title: "Mongolerna i Polen och Ungern 1241"
+  wiki:
+    - "en:Mongol invasion of Europe"
+    - "en:Battle of Legnica"
+    - "en:Battle of Mohi"
+  text: |
+    Efter erövringen av Ryssland (se ”[mongolinvasionen 1237–40](#mongolinvasionen-123740)”) gick Batus och Subutais armé vidare västerut 1241, i två delar. Den norra styrkan, kanske 10 000–20 000 ryttare, plundrade Polen och besegrade den 9 april 1241 en polsk-tysk armé under hertig **Henrik den fromme** vid **Legnica** (Liegnitz) i Schlesien; hertigens huvud bars runt på en lans.
+
+    Två dagar senare krossade huvudarmén Ungerns kung Béla IV vid floden **Sajó** (Mohi). Ungern var ett av Europas starkaste kungadömen, men armén omringades i sitt läger och förintades. Mongolerna härjade landet ett år; uppskattningar av förlusterna går från 15 till 50 procent av Ungerns befolkning – osäkert, men i vilket fall katastrofalt. Mongoliska ryttare nådde Adriatiska havet och trakterna kring Wien.
+
+    Våren 1242 drog de sig plötsligt tillbaka. Den vanliga förklaringen är att storkhanen **Ögedei** dött i december 1241 och att prinsarna ville vara med vid valet av efterträdare; andra pekar på att den ungerska slätten var för liten för att föda hästarna. Västeuropa slapp därmed. Béla IV byggde efteråt stenborgar i hela landet – träpalissader hade visat sig värdelösa.
+
+hansan-vaxer:
+  period: 1240
+  label: "Hansan växer"
+  title: "Hansan växer fram"
+  wiki:
+    - "sv:Hansan"
+    - "sv:Lübeck"
+    - "sv:Kogg"
+  text: |
+    **Hansan** var ett förbund av nordtyska handelsstäder och köpmän som dominerade handeln i Östersjön och Nordsjön ungefär 1250–1450. Ordet *hansa* betyder ungefär ”skara” eller ”sällskap”. Det var inte en stat utan ett nätverk av städer – på höjden runt 70 aktiva och många fler löst anslutna – som samarbetade om privilegier, säkerhet och regler.
+
+    Centrum var **Lübeck**, grundat 1143 och snabbt rikt eftersom det låg där landvägen från Hamburg och Nordsjön mötte Östersjön. Köpmän från Lübeck och andra städer etablerade sig på Gotland (Visby), i Novgorod, Bergen, London och Brygge. Deras skepp, *koggen* – ett brett, däckat lastfartyg som kunde ta uppåt 100 ton – fraktade mycket mer än vikingatidens skepp. Varorna var spannmål, saltad sill, pälsar, vax, timmer, järn och koppar (bl.a. från Sverige) mot tyg, salt och vin.
+
+    Hansan påverkade Norden starkt. Visby och [Stockholm](#birger-jarl-stockholm-1250) hade många tyska borgare; under en tid krävdes att hälften av Stockholms rådmän var tyska. Hansan kunde föra krig – den [besegrade den danske kungen Valdemar Atterdag 1370](#hansan-stralsundsfreden-1370). Den förlorade betydelse på 1500-talet när starka nationalstater och Atlanthandeln tog över.
+
+bysans-atertar-konstantinopel-1261:
+  period: 1260
+  label: "Bysans återtar Konstantinopel 1261"
+  title: "Bysans återtar Konstantinopel 1261"
+  wiki:
+    - "en:Reconquest of Constantinople"
+    - "sv:Fjärde korståget"
+    - "sv:Mikael VIII Palaiologos"
+  text: |
+    **Bysantinska riket** var fortsättningen på det östromerska riket med huvudstad i **Konstantinopel** (dagens Istanbul), grekisktalande och ortodoxt kristet. 1204 hade det [fjärde korståget](#fjarde-korstaget-plundrar-konstantinopel), finansierat av Venedig, i stället för att åka till Jerusalem plundrat Konstantinopel och grundat ett *Latinskt kejsardöme* där. Bysantinska exilstater bildades i Nikaia (Iznik), Epiros och Trapezunt.
+
+    Den 25 juli 1261 tog en liten styrka från Nikaia under generalen Alexios Strategopoulos staden nästan av en slump: den latinska garnisonen och den venetianska flottan var borta på ett fälttåg, och anfallarna tog sig in genom en lucka i murarna. Kejsaren av Nikaia, **Mikael VIII Palaiologos**, tågade in i augusti. Hans släkt, palaiologerna, styrde sedan till slutet 1453.
+
+    Men riket blev aldrig sig likt. Staden var avfolkad och utplundrad, och Bysans var nu ett litet rike bland flera konkurrenter: Venedig och Genua kontrollerade handeln, serberna och bulgarerna var starka i väst, och i Anatolien växte turkiska furstendömen – ett av dem, osmanernas, [tog till slut Konstantinopel 1453](#konstantinopel-faller-1453). Plundringen 1204 lever kvar som ett trauma i relationen mellan ortodox och katolsk kristenhet.
+
+marco-polo-reser-1271:
+  period: 1260
+  label: "Marco Polo reser 1271"
+  title: "Marco Polo reser till Kina 1271"
+  wiki:
+    - "sv:Marco Polo"
+    - "en:Niccolò and Maffeo Polo"
+  text: |
+    **Marco Polo** (1254–1324) var son till en köpman i Venedig. Hans far Niccolò och farbror Maffeo hade redan rest till Kublai khans hov på 1260-talet. 1271 gav de sig av igen, med 17-årige Marco. De reste över land via Armenien, Persien, Afghanistan och Pamir, längs Sidenvägen, och nådde Kublais sommarpalats Shangdu omkring 1275 – en resa på ca 3,5 år och uppskattningsvis 10 000 km.
+
+    Det var möjligt tack vare Pax Mongolica (se ”[Pax Mongolica öppnar Sidenvägen](#pax-mongolica-oppnar-sidenvagen)”): ett enda imperium kontrollerade landvägen, och resande med khanens pass fick hästar och skydd. Kublai använde ofta utlänningar som ämbetsmän, eftersom han inte litade fullt på kineserna han erövrat. Marco påstod att han tjänade khanen i 17 år och reste runt i Kina som sändebud.
+
+    De återvände sjövägen via Sumatra, Indien och Persien och kom hem till Venedig 1295, efter 24 år. Se även ”[Marco Polo](#marco-polo)” för boken han lät skriva. Jämför med [Ibn Battuta](#ibn-battuta-reser-132554), en marockansk resenär som på 1300-talet reste ännu längre, uppskattningsvis 120 000 km genom den islamiska världen och till Kina.
+
+thomas-av-aquino:
+  period: 1260
+  label: "Thomas av Aquino"
+  title: "Thomas av Aquino"
+  wiki:
+    - "sv:Thomas av Aquino"
+    - "sv:Skolastik"
+  text: |
+    **Thomas av Aquino** (1225–1274) var en italiensk dominikanermunk och professor i Paris och Neapel, och den mest inflytelserika filosofen och teologen under medeltiden. Hans familj var adlig och ville att han skulle bli abbot i ett rikt kloster; när han i stället gick med i dominikanerorden – en tiggarorden som predikade och studerade – höll familjen honom inspärrad i ungefär ett år.
+
+    Hans stora projekt var att förena kristen tro med **Aristoteles**, den grekiske filosofen (300-talet f.Kr.) vars verk om logik, natur och etik under 1100–1200-talen översatts från arabiska och grekiska till latin. Många teologer såg Aristoteles som ett hot, eftersom han t.ex. menade att världen alltid funnits. Thomas hävdade att förnuft och tro inte kan motsäga varandra, eftersom båda kommer från Gud: förnuftet kan på egen hand visa att Gud finns (hans berömda ”fem vägar”), medan t.ex. treenigheten bara kan nås genom uppenbarelse.
+
+    Hans huvudverk *Summa theologiae* är uppbyggt som en lång serie frågor med argument för och emot och ett svar – den *skolastiska* metoden, universitetens undervisningsform. Han lämnade det ofullbordat; efter en mystisk upplevelse 1273 sade han att allt han skrivit var ”som halm”. Katolska kyrkan gjorde 1879 hans filosofi till grund för prästutbildningen.
+
+akko-faller-1291-korstagen-slut:
+  period: 1280
+  label: "Akko faller 1291, korstågen slut"
+  title: "Akkos fall 1291 – korstågsstaternas slut"
+  wiki:
+    - "en:Siege of Acre (1291)"
+    - "sv:Korståg"
+  text: |
+    Korstågen var västeuropeiska krigståg från 1096 och framåt för att erövra och hålla Jerusalem och det ”heliga landet” (dagens Israel, Palestina, Libanon och Syrien). Korsfararna grundade där små kristna stater. [Jerusalem förlorades redan 1187](#saladin-vinner-vid-hattin-1187-tar) och igen 1244, men kuststäderna höll längre.
+
+    **Akko** (Acre), en hamnstad i dagens norra Israel, var den sista stora fästningen. 1291 belägrade den egyptiska **mamlukstaten** – ett sultanat styrt av före detta slavsoldater – staden med en här som uppskattas till flera tiotusentals man och ett hundratal belägringsmaskiner. Försvararna var kanske 15 000. Efter sex veckor stormades staden; många dödades eller såldes som slavar, och de sista kuststäderna övergavs inom några månader.
+
+    Därmed var korsfararnas närvaro i Levanten (östra Medelhavskusten) slut efter nästan 200 år. Nya korståg planerades men blev aldrig av på allvar. Riddarordnarna fick nya roller: johanniterna flyttade till Rhodos och senare Malta, medan tempelherrarna förlorade sitt syfte och krossades 1307 ([se det](#tempelherrarna-krossas-1307)). Mamlukerna förblev regionens stormakt tills [osmanerna tog över 1517](#osmaner-erovrar-syrien-och-egypten).
+
+glasogon-uppfinns-1286:
+  period: 1280
+  label: "glasögon uppfinns (~1286)"
+  title: "Glasögon uppfinns i Italien (~1286)"
+  wiki:
+    - "sv:Glasögon"
+    - "en:Glasses"
+  text: |
+    De första glasögonen tillverkades i norra Italien, troligen i Pisa eller Venedig, omkring 1280–1290. Den äldsta säkra källan är en predikan i Florens 1306 där en munk säger att konsten att göra glasögon upptäcktes för mindre än 20 år sedan. Uppfinnaren är okänd. Venedig, med sin glasindustri på ön Murano, blev centrum för tillverkningen.
+
+    De tidiga glasögonen var konvexa linser (förstoringsglas) i ram av trä, ben eller metall, utan skalmar – man höll dem eller klämde dem på näsan. De hjälpte mot *ålderssynthet*, det vill säga svårigheten att se på nära håll som de flesta drabbas av efter 40–45 års ålder. Linser för närsynthet (konkava) kom först på 1400-talet.
+
+    Effekten var stor: munkar, skrivare, hantverkare och lärda kunde fortsätta läsa och göra precisionsarbete i 15–20 år längre. Det är ett tidigt exempel på en teknik som förlänger människors produktiva liv. Linsslipningen ledde senare till [teleskopet](#teleskopet-1608) och [mikroskopet](#mikroskop-1590) omkring 1600, båda uppfunna av glasögonmakare i Nederländerna.
+
+dante-divina-commedia:
+  period: 1300
+  label: "Dante: Divina Commedia"
+  title: "Dante och Divina Commedia"
+  wiki:
+    - "sv:Den gudomliga komedin"
+    - "sv:Dante Alighieri"
+  text: |
+    **Dante Alighieri** (1265–1321) var en poet och politiker från Florens. I stadens partistrider förlorade hans sida, och 1302 dömdes han i sin frånvaro till exil och senare till döden om han återvände. Han levde resten av livet i andra italienska städer och dog i Ravenna.
+
+    Under exilen skrev han **Divina Commedia** (”Den gudomliga komedin”, ”komedi” i betydelsen berättelse som slutar lyckligt), en dikt på över 14 000 rader. Den skildrar en resa genom *Inferno* (helvetet), *Purgatorio* (skärselden, där själar renas före himlen) och *Paradiso*. Guide är först den romerske poeten Vergilius och sedan Beatrice, en kvinna Dante älskat. Han placerade verkliga personer, även påvar och samtida politiker, i helvetet.
+
+    Det revolutionära var språket: Dante skrev på toskanska, folkspråket, i stället för latin, som var de lärdas språk. Verket blev grunden för det italienska skriftspråket, på liknande sätt som Luthers bibel för tyskan 200 år senare. Det är ett av de mest lästa och översatta verken i världslitteraturen, och bilden av helvetets cirklar lever kvar i populärkulturen.
+
+giotto:
+  period: 1300
+  label: "Giotto"
+  title: "Giotto (~1267–1337)"
+  wiki:
+    - "sv:Giotto di Bondone"
+    - "en:Scrovegni Chapel"
+  text: |
+    **Giotto di Bondone** var en målare och arkitekt från Florenstrakten. Han räknas som den förste att bryta med den *bysantinska* stilen som dominerat kyrkokonst i århundraden: platta, stela figurer mot guldbakgrund, målade efter fasta mallar, där målet var att förmedla helighet snarare än verklighet.
+
+    Giotto målade människor med kropp och tyngd, med ansikten som visar sorg, ömhet eller ilska, i ett rum med djup. Hans mest kända verk är freskerna – målningar direkt på våt kalkputs – i **Scrovegnikapellet** i Padua (omkring 1305), med scener ur Jesu och Marias liv i nästan 40 bilder. Han ritade även klocktornet vid domkyrkan i Florens.
+
+    Han hade ännu inte någon matematisk perspektivteknik; den utvecklades först [omkring 1420 av Brunelleschi](#perspektivet-brunelleschi-masaccio). Men redan samtiden såg honom som den som förnyat måleriet, och Dante nämner honom. Han brukar ses som ett första steg mot **[renässansen](#florentinsk-renassans)** – den kulturella pånyttfödelse av antikens ideal som tog fart i Italien på 1400-talet och nådde sin höjdpunkt med [Leonardo och Michelangelo](#leonardo-michelangelo-rafael).
+
+stora-svalten-131517:
+  period: 1300
+  label: "stora svälten 1315–17"
+  title: "Den stora svälten 1315–1317"
+  wiki:
+    - "en:Great Famine of 1315–1317"
+  text: |
+    Våren 1315 började det regna i norra Europa och slutade knappt på två år. Säden ruttnade på åkrarna, höet gick inte att torka och salt, som behövdes för att konservera mat, gick inte att utvinna genom avdunstning. Skördarna föll kraftigt, i vissa områden till hälften av det normala, och priset på vete steg flera gånger om. Boskapssjukdomar följde och dödade en stor del av nötkreaturen.
+
+    Europa hade vuxit kraftigt i 300 år och befolkningen var uppskattningsvis 70–80 miljoner, nära gränsen för vad jordbruket kunde föda. När skördarna slog fel fanns inga marginaler. Uppskattningsvis 5–12 procent av befolkningen i drabbade områden dog, i vissa städer mer. Samtida källor berättar om brottslighet, övergivna barn och till och med kannibalism.
+
+    Svälten markerade slutet på den långa tillväxtperioden under högmedeltiden och början på en krisperiod. Den hänger ihop med klimatförsämringen kallad lilla istiden ([se det](#lilla-istiden-borjar)). Den försvagade befolkningen drabbades 30 år senare av digerdöden ([se 1348](#digerdoden-1348)), som var långt värre. Jämför med Irlands potatissvält 1845–49 och Sveriges nödår 1867–69.
+
+petrarca-tidig-humanism:
+  period: 1320
+  label: "Petrarca, tidig humanism"
+  title: "Petrarca och den tidiga humanismen"
+  wiki:
+    - "sv:Francesco Petrarca"
+    - "sv:Humanism"
+  text: |
+    **Francesco Petrarca** (1304–1374) var en italiensk poet och lärd som växte upp kring påvehovet i Avignon. Han är känd för sina kärleksdikter till en kvinna han kallade Laura, skrivna på italienska. Hans sonettform – en dikt på 14 rader med fast rimschema – blev modell för europeisk poesi i 300 år, ända till Shakespeare.
+
+    Men hans största betydelse var att han grundade **humanismen**: en intellektuell rörelse som ville återuppliva den antika grekiska och romerska litteraturen och se den som förebild för språk, moral och livsstil. Petrarca letade upp och kopierade glömda handskrifter av Cicero i kloster. Han förespråkade elegant klassisk latin i stället för den ”barbariska” medeltida latinet och menade att man skulle studera människan, inte bara teologi.
+
+    Det var Petrarca som började kalla tiden efter Roms fall för en mörk tid – tanken på en ”medeltid” mellan antiken och en ny pånyttfödelse kommer från honom och hans efterföljare. Humanismen blev grunden för [renässansen](#florentinsk-renassans), och för den skolutbildning med latin och klassiker som dominerade Europa in på 1900-talet. Han kröntes också till poet i Rom 1341.
+
+digerdoden-1-3-av-europa-dor:
+  period: 1340
+  label: "Digerdöden: ~1/3 av Europa dör"
+  title: "Digerdöden i Europa 1347–1351"
+  wiki:
+    - "sv:Digerdöden"
+    - "en:Consequences of the Black Death"
+  text: |
+    **Digerdöden** var en pestepidemi som nådde Europa hösten 1347, när genuesiska handelsfartyg från Krim lade till i Messina på Sicilien. På fyra år spred den sig längs handelsvägar och floder över nästan hela kontinenten.
+
+    Europa hade då uppskattningsvis 75–80 miljoner invånare. Mellan en tredjedel och hälften dog, alltså kanske 25–40 miljoner människor. Jämför med spanska sjukan 1918–20: kanske 50 miljoner döda i hela världen, men bara ett par procent av jordens befolkning. Covid-19 hade cirka 7 miljoner registrerade dödsfall. Digerdöden är den relativt sett dödligaste katastrofen i Europas kända historia.
+
+    Följderna blev stora. När var tredje arbetare var borta steg lönerna, och livegenskapen – systemet där bönder var bundna till en jordägare – försvagades i Västeuropa. Myndigheter försökte frysa lönerna ([se bondeupproret i England 1381](#bondeupproret-1381)). Rädslan ledde också till förföljelser: [judar anklagades för att förgifta brunnar](#digerdoden-judeforfoljelser) och tusentals mördades, t.ex. i Strasbourg 1349. Europas befolkning nådde inte tillbaka till nivån före pesten förrän omkring år 1500.
+
+paven-tillbaka-i-rom-1377:
+  period: 1360
+  label: "Påven tillbaka i Rom 1377"
+  title: "Påven återvänder till Rom 1377"
+  wiki:
+    - "sv:Påvarna i Avignon"
+    - "sv:Heliga Birgitta"
+  text: |
+    [Från 1309](#paven-till-avignon-1309) bodde påvarna inte i Rom utan i **Avignon** i södra Frankrike. Rom var otryggt, med strider mellan adelsfamiljer, och den franske kungen hade stort inflytande över kyrkan. Alla sju påvar under perioden var fransmän. Kritiker kallade tiden ”påvedömets babyloniska fångenskap”, efter judarnas exil i Babylon i Bibeln. Påvehovet i Avignon blev en effektiv men dyr förvaltning, ökänd för att sälja kyrkliga ämbeten och ta ut avgifter.
+
+    Många krävde en återkomst, bland dem två kvinnor som senare blev helgon: **Katarina av Siena** i Italien och **Birgitta** från Sverige, som bodde i Rom från 1350 och i brev och uppenbarelser uppmanade påvarna att återvända. Birgitta dog 1373, och 1377 flyttade påven Gregorius XI tillbaka till Rom.
+
+    Gregorius dog redan året därpå. Valet av efterträdare blev kaotiskt och ledde till **stora schismen** 1378, då två och senare tre påvar samtidigt gjorde anspråk på ämbetet ([se 1378](#stora-schismen-tva-pavar-1378)). Påvekyrkans förlorade anseende under denna tid banade väg för kritiker som [Wycliffe](#wycliffe-bibeln) och [Jan Hus](#jan-hus-branns-i-konstanz-1415), och senare reformationen.
+
+stora-schismen-tva-pavar-1378:
+  period: 1380
+  label: "Stora schismen: två påvar (1378)"
+  title: "Stora schismen 1378–1417"
+  wiki:
+    - "sv:Stora schismen"
+    - "sv:Urban VI"
+  text: |
+    Påven Gregorius XI hade 1377 flyttat tillbaka påvedömet från Avignon i Frankrike till Rom ([se den punkten](#paven-tillbaka-i-rom-1377)), men dog 1378. Romerska folkmassor krävde högljutt en italiensk påve, och kardinalerna valde Urban VI, en italienare. Han visade sig vara våldsam och oberäknelig, och flera månader senare förklarade de flesta kardinaler att valet var ogiltigt eftersom det skett under hot. De valde en ny påve, Clemens VII, som flyttade tillbaka till Avignon.
+
+    Nu fanns två påvar, som bannlyste varandra och båda utsåg egna kardinaler och biskopar. Hela Europa delades efter politiska lojaliteter: Frankrike, Skottland, Kastilien och Neapel stödde Avignon; England, Tyska riket, Polen och Skandinavien stödde Rom. Det kallas den **stora västerländska schismen** (schism = splittring). 1409 försökte ett kyrkomöte i Pisa lösa problemet genom att avsätta båda och välja en tredje – men de andra två vägrade avgå, så resultatet blev tre påvar.
+
+    Schismen löstes först vid Konstanzkonciliet 1417 ([se den punkten](#konstanzkonciliet-avslutar-schismen-1417)). Fyrtio år av konkurrerande påvar skadade kyrkans anseende kraftigt och gav kraft åt kritiker som [Wycliffe](#wycliffe-bibeln) och [Jan Hus](#jan-hus-branns-i-konstanz-1415).
+
+kosovo-1389:
+  period: 1380
+  label: "Kosovo 1389"
+  title: "Slaget på Trastfältet (Kosovo) 1389"
+  wiki:
+    - "sv:Slaget på Trastfältet"
+    - "en:Battle of Kosovo"
+  text: |
+    Under 1300-talet hade **Serbien** varit Balkans starkaste rike, men efter tsar Stefan Dušans död 1355 föll det sönder i flera furstendömen. Samtidigt ryckte osmanerna fram från sitt fäste i Edirne ([se 1360-talet](#osmaner-tar-adrianopel-edirne)).
+
+    Den 15 juni 1389 möttes en osmansk armé under sultanen **Murad I** och en kristen koalition ledd av den serbiske fursten **Lazar** på **Kosovo polje**, ”Trastfältet”, i dagens Kosovo. Arméstorlekarna är osäkra – ofta anges uppskattningsvis 20 000–40 000 man på osmansk sida och något färre på serbisk. Både Lazar och Murad dog: Murad blev enligt traditionen knivhuggen av den serbiske riddaren Miloš Obilić, och Lazar avrättades efter att ha tagits till fånga. Slaget var militärt nära oavgjort, men Serbien hade mycket mindre reserver och blev snart osmansk vasallstat. Det annekterades helt 1459.
+
+    Slaget fick enorm efterverkan som myt. I serbisk folkdiktning blev det en symbol för martyrskap och nationell identitet, och Kosovo sågs som Serbiens hjärtland. Slobodan Milošević höll 1989, på 600-årsdagen, ett berömt tal på slagfältet som eldade på nationalismen före Jugoslaviens sönderfall och krigen på 1990-talet.
+
+konstanzkonciliet-avslutar-schismen-1417:
+  period: 1400
+  label: "Konstanzkonciliet avslutar schismen 1417"
+  title: "Konstanzkonciliet 1414–1418"
+  wiki:
+    - "sv:Konciliet i Konstanz"
+    - "en:Pope Martin V"
+  text: |
+    Sedan 1378 hade katolska kyrkan haft två rivaliserande påvar, en i Rom och en i Avignon ([se Stora schismen](#stora-schismen-tva-pavar-1378)). Ett försök att lösa det i Pisa 1409 gav bara en tredje påve. Den tysk-romerske kungen **Sigismund** tryckte då på för ett nytt **koncilium** – ett allmänt kyrkomöte med biskopar, abbotar, teologer och furstar från hela Europa – i staden Konstanz vid Bodensjön.
+
+    Mötet pågick 1414–1418 och var en av medeltidens största sammankomster; tusentals deltagare med följen kom till staden. Konciliet förklarade att det självt hade högre auktoritet än påven, avsatte eller fick två av påvarna att avgå, och valde 1417 **Martin V** till ensam påve. Därmed var schismen slut efter nästan 40 år. Samma koncilium dömde [Jan Hus](#jan-hus-branns-i-konstanz-1415) att brännas (1415).
+
+    Idén att ett kyrkomöte stod över påven kallas *konciliarism*. Den blev en stridsfråga under hela 1400-talet; påvarna lyckades så småningom avvisa den och återta makten. Men eftersom kyrkan inte genomförde de reformer många krävde, växte missnöjet, och hundra år senare kom [Luthers reformation (1517)](#luther-95-teser-1517).
+
+grunwald-1410-tyska-orden-slas:
+  period: 1400
+  label: "Grunwald 1410: Tyska orden slås"
+  title: "Slaget vid Grunwald (Tannenberg) 1410"
+  wiki:
+    - "sv:Slaget vid Grunwald"
+    - "sv:Tyska orden"
+  text: |
+    **Tyska orden** var en riddarorden – en organisation av munkar som också var krigare – grundad under korstågen. På 1200-talet erövrade den Preussen vid Östersjön och omvände eller fördrev de hedniska prusserna. Orden byggde en stark stat med borgar som Marienburg (Malbork), och fortsatte att föra ”[korståg](#korstag-mot-katarerna-1209)” mot Litauen, som länge var Europas sista hedniska stat.
+
+    1386 gifte sig Litauens storfurste **Jagiełło** med Polens drottning, döptes och blev kung av Polen. Därmed hade orden ingen religiös ursäkt för sina krig, och Polen–Litauen blev en stormakt. Den 15 juli 1410 möttes Tyska orden och den polsk-litauiska armén under Jagiełło och hans kusin **[Vytautas](#litauen-stormakt-vytautas)** vid **Grunwald** i nuvarande nordöstra Polen. Det var ett av medeltidens största slag: uppskattningsvis 20 000–30 000 man på polsk-litauisk sida och 15 000–25 000 på ordens. Orden krossades; dess stormästare och större delen av ledningen dog.
+
+    Orden överlevde men gick in i en lång nedgång och blev 1466 polsk vasall. Slaget blev en nationalsymbol för Polen och Litauen. Tyskarna kallade det Tannenberg, och 1914 gavs namnet ett annat slag i trakten för att ”hämnas” 1410.
+
+medici-i-florens:
+  period: 1420
+  label: "Medici i Florens"
+  title: "Medici tar makten i Florens"
+  wiki:
+    - "sv:Medici"
+    - "sv:Cosimo de' Medici"
+  text: |
+    **Florens** var en självständig stadsrepublik i Italien med uppskattningsvis 40 000–60 000 invånare på 1400-talet, rik på ylle- och sidenindustri och på bankverksamhet. Familjen **Medici** drev en bank med filialer i Rom, Venedig, Genève, London och Brygge; den skötte bland annat påvens finanser – ungefär som en dåtida internationell storbank.
+
+    **Cosimo de' Medici** landsförvisades 1433 av rivaliserande släkter men kom tillbaka 1434 och styrde sedan Florens i 30 år – utan att ha något formellt ämbete. Han kontrollerade valen till stadens råd genom nätverk av anhängare och lån. Republiken fanns kvar på papperet, men Medici bestämde.
+
+    Cosimo och senare sonsonen **Lorenzo den praktfulle** (styrde 1469–1492) lade stora summor på konst, arkitektur och lärdom: Brunelleschi, Donatello, Botticelli och [den unge Michelangelo](#leonardo-michelangelo-rafael) fick uppdrag, och Cosimo finansierade en akademi för studier av Platon. Det är därför Florens blev [renässansens centrum](#florentinsk-renassans).
+
+    Släkten höll sig kvar i århundraden: den gav två påvar på 1500-talet (Leo X och Clemens VII, båda inblandade i [reformationens början](#luther-95-teser-1517)) och blev storhertigar av Toscana fram till 1737.
+
+perspektivet-brunelleschi-masaccio:
+  period: 1420
+  label: "perspektivet (Brunelleschi, Masaccio)"
+  title: "Centralperspektivet uppfinns"
+  wiki:
+    - "sv:Perspektiv"
+    - "sv:Filippo Brunelleschi"
+    - "sv:Masaccio"
+  text: |
+    **Centralperspektiv** (linjärperspektiv) är en geometrisk metod för att avbilda tre dimensioner på en plan yta: parallella linjer som går bort från betraktaren dras mot en gemensam *försvinningspunkt*, och föremål krymper i exakt proportion till avståndet. Det är i princip samma projektion som en kamera – eller en 3D-grafikmotor – gör.
+
+    Arkitekten **Filippo Brunelleschi** visade metoden omkring 1415–1420 i Florens med ett berömt experiment: han målade dopkapellet på en panel, borrade ett hål i den, och lät betraktaren titta genom hålet på en spegel – bilden stämde med verkligheten. Brunelleschi byggde också [domkyrkans enorma kupol (färdig 1436)](#brunelleschis-kupol-i-florens-142036), med 45 meters spännvidd, utan bärande ställningar från marken.
+
+    Målaren **Masaccio** använde tekniken i fresken *Treenigheten* (cirka 1427) i kyrkan Santa Maria Novella, som ger illusionen av ett valv inne i väggen. Han dog bara 26 år gammal. 1435 skrev Leon Battista Alberti den första teoretiska beskrivningen, *Om målarkonsten*.
+
+    Perspektivet blev grund för all västerländsk bildkonst fram till 1900-talet, och för teknisk ritning och projektiv geometri.
+
+van-eyck-oljemalning:
+  period: 1420
+  label: "van Eyck: oljemålning"
+  title: "Jan van Eyck och oljemåleriet"
+  wiki:
+    - "sv:Jan van Eyck"
+    - "sv:Oljemålning"
+  text: |
+    **Jan van Eyck** (cirka 1390–1441) var hovmålare åt hertigen av Burgund och verksam i Brygge, i Flandern (dagens Belgien). Flandern var vid den tiden ett av Europas rikaste och mest tätbefolkade områden tack vare ylleindustri och handel.
+
+    Han uppfann inte **oljefärg** – den var känd tidigare – men han och hans samtida utvecklade tekniken så långt att man tillskrev honom uppfinningen. Tidigare målade man mest med *tempera*, pigment blandat med äggula, som torkar snabbt och ger matta ytor. Oljefärg torkar långsamt, kan läggas i många tunna, genomskinliga lager (laseringar) och ger djupa färger, glans och möjlighet till extrema detaljer: ljusreflexer i metall, enskilda hårstrån, landskap i miniatyr.
+
+    Hans mest kända verk är *Gentaltaret* (färdigt 1432, påbörjat av brodern Hubert) och *Arnolfinis bröllop* (1434), med en konvex spegel som visar rummet bakifrån.
+
+    Tekniken spreds till Italien i 1400-talets andra hälft och blev västerlandets dominerande målarteknik i 500 år. Medan Florens utvecklade matematiskt perspektiv ([se Brunelleschi](#perspektivet-brunelleschi-masaccio)) var Flandern ledande i realistisk ytbehandling.
+
+konstantinopel-faller-1453:
+  period: 1440
+  label: "Konstantinopel faller 1453"
+  title: "Konstantinopels fall 1453"
+  wiki:
+    - "sv:Konstantinopels fall"
+    - "sv:Bysantinska riket"
+  text: |
+    **Konstantinopel** (dagens Istanbul) var huvudstad i **Bysantinska riket** – fortsättningen på det östromerska riket, som hade bestått i över 1 000 år sedan Konstantin den store grundade staden år 330. På 1400-talet var riket krympt till i stort sett staden själv och dess befolkning hade sjunkit till uppskattningsvis 40 000–50 000, från kanske en halv miljon under storhetstiden.
+
+    Den 29 maj 1453 intog den osmanske sultanen **Mehmed II** staden efter 53 dagars belägring ([se Mehmed II tar Konstantinopel](#mehmed-ii-tar-konstantinopel-1453)). Den siste kejsaren Konstantin XI dog i striderna. Det var slutet på det romerska riket i någon form.
+
+    Följderna för Europa: grekiska lärda flydde till Italien med antika manuskript, vilket gav [renässansens studier](#florentinsk-renassans) av grekisk filosofi en skjuts (även om flödet hade börjat redan tidigare). Osmanerna kontrollerade nu handelsvägarna mellan Svarta havet och Medelhavet, vilket ökade européernas intresse för sjövägar till Asien – en av drivkrafterna bakom Portugals och Spaniens upptäcktsresor.
+
+    Ortodoxa kyrkan förlorade sitt centrum; [Moskva började kalla sig](#rysk-kyrka-sjalvstandig-1448) ”det tredje Rom”. Året 1453 räknas ofta som medeltidens slut.
+
+varna-1444:
+  period: 1440
+  label: "Varna 1444"
+  title: "Slaget vid Varna 1444"
+  wiki:
+    - "sv:Slaget vid Varna"
+    - "en:Crusade of Varna"
+  text: |
+    På 1440-talet försökte de kristna staterna i Östeuropa driva osmanerna ut ur Balkan. Påven uppmanade till ett **korståg**, och en armé ledd av den unge kungen **Vladislav** av Polen och Ungern (20 år) och den ungerske fältherren **János Hunyadi** gick in i Bulgarien.
+
+    Bakgrunden var cynisk: sommaren 1444 hade Vladislav slutit fred med osmanerna i tio år. Sultanen [Murad II](#murad-ii) abdikerade då till sin 12-årige son Mehmed. Kardinalen **Julian Cesarini** övertygade de kristna om att ett löfte till en icke-kristen inte var bindande, och korståget fortsatte. Murad tog tillbaka befälet.
+
+    Den 10 november 1444, vid Svarta havets kust nära staden **Varna**, möttes cirka 20 000–30 000 korsfarare och en osmansk armé på uppskattningsvis 40 000–60 000 man. Vladislav anföll med sitt livgarde direkt mot sultanens janitsjarer (elitinfanteri) och dödades; hans huvud sattes på en påle. Cesarini dog också.
+
+    Varna var det sista stora korståget mot osmanerna. Det lämnade Konstantinopel utan hopp om undsättning – [staden föll nio år senare, 1453](#konstantinopel-faller-1453).
+
+florentinsk-renassans:
+  period: 1440
+  label: "florentinsk renässans"
+  title: "Renässansen i Florens"
+  wiki:
+    - "sv:Renässansen"
+    - "en:Italian Renaissance"
+  text: |
+    **Renässansen** (franska för ”pånyttfödelse”) är namnet på en kulturell rörelse som började i Italien på 1300–1400-talet. Idén var att återuppliva den antika grekiska och romerska kulturen efter vad man såg som en mörk mellanperiod – det var renässansmänniskorna själva som myntade tanken på en ”medeltid”.
+
+    Centrum var **Florens**, en stadsrepublik med rika köpmän och bankirer, främst familjen Medici ([se Medici i Florens](#medici-i-florens)). Kring 1440–1460 verkade där samtidigt bland andra arkitekten **Brunelleschi** ([domkyrkans kupol, 1436](#brunelleschis-kupol-i-florens-142036)), skulptören **Donatello** (bronsstatyn *David*, cirka 1440, den första fristående nakenstatyn sedan antiken), målaren **Fra Angelico** och tänkaren **Leon Battista Alberti**.
+
+    Det centrala var **humanismen** – inte ”humanism” i dagens mening utan studier av antika texter i grammatik, retorik, historia och moralfilosofi, med fokus på människan och det jordiska livet snarare än bara teologi. Cosimo de' Medici finansierade översättningen av Platons samlade verk till latin.
+
+    Genom boktrycket ([Gutenberg ~1450](#gutenbergs-tryckpress-1450)) spreds renässansens idéer snabbt norrut. Höjdpunkten i Italien kom kring 1500 med [Leonardo, Michelangelo och Rafael](#leonardo-michelangelo-rafael).
+
+matthias-corvinus:
+  period: 1460
+  label: "Matthias Corvinus"
+  title: "Matthias Corvinus, kung av Ungern"
+  wiki:
+    - "sv:Mattias Corvinus"
+    - "en:Black Army of Hungary"
+  text: |
+    **Matthias Corvinus** (1443–1490) var son till János Hunyadi, Ungerns store fältherre mot osmanerna ([se Varna 1444](#varna-1444)). Han valdes till kung av **Ungern** 1458, bara 14 år gammal – som den förste på länge som inte var av kunglig börd. Ungern var då en stor stat som omfattade även Slovakien, Kroatien och Transsylvanien (nu i Rumänien).
+
+    Han byggde upp en av Europas första professionella stående arméer, den **Svarta armén**: legosoldater som fick regelbunden lön, upp mot 20 000–30 000 man på sin topp, med många handeldvapen. Finansieringen kom från kraftigt höjda skatter. Han höll osmanerna borta från Ungern och erövrade istället Mähren, Schlesien och 1485 Wien, där han sedan residerade.
+
+    Han var också en typisk renässansfurste. Hovet i Buda tog emot italienska konstnärer och humanister, och hans bibliotek, **Bibliotheca Corviniana**, omfattade uppskattningsvis 2 000–2 500 böcker och handskrifter – ett av Europas största, efter påvens. Cirka 200 finns kvar.
+
+    Efter hans död 1490 avskaffade adeln de höga skatterna, och Svarta armén upplöstes. 1526 förintades den ungerska hären av osmanerna vid [Mohács](#mohacs-1526), och Ungern delades i 150 år.
+
+leonardo:
+  period: 1460
+  label: "Leonardo"
+  title: "Leonardo da Vinci"
+  wiki:
+    - "sv:Leonardo da Vinci"
+  text: |
+    **Leonardo da Vinci** (1452–1519) föddes utom äktenskapet i byn Vinci nära Florens. Omkring 1466–1467 kom han som lärling till konstnären **Verrocchio** i Florens, där han lärde sig måleri, skulptur, metallarbete och mekanik. Enligt en anekdot målade han en ängel i läromästarens verk *Kristi dop* så skickligt att Verrocchio slutade måla.
+
+    Han blev mästare 1472 och flyttade omkring 1482 till Milano, där han arbetade för hertigen Ludovico Sforza som ingenjör, festarrangör och konstnär. Där målade han *Nattvarden* (cirka 1495–1498). *Mona Lisa* påbörjades först omkring 1503.
+
+    Leonardo är symbolen för ”renässansmänniskan” – den som behärskar allt. Hans anteckningsböcker, uppemot 7 000 bevarade sidor skrivna i spegelskrift, innehåller [studier av anatomi](#leonardos-anatomiska-teckningar) (han dissekerade omkring 30 lik), vattenflöden, optik och geologi, och [skisser av flygmaskiner](#leonardo-flygmaskiner-mekanik), pansarvagnar och broar. De flesta byggdes aldrig eller kunde inte fungera. Han färdigställde få målningar – bara 15–20 tillskrivs honom med säkerhet.
+
+    Hans betydelse ligger i synen att konst och vetenskap båda bygger på noggrann observation av naturen – en hållning som förebådade den vetenskapliga revolutionen.
+
+italienska-krigen-1494:
+  period: 1480
+  label: "Italienska krigen 1494"
+  title: "De italienska krigen 1494–1559"
+  wiki:
+    - "en:Italian Wars"
+    - "en:Peace of Cateau-Cambrésis"
+  text: |
+    De **italienska krigen** var en serie krig i 65 år där Europas stormakter slogs om herraväldet över Italien. Huvudmotståndarna var Frankrike (kungarna Karl VIII, Ludvig XII, Frans I) och Habsburgarna (kejsarna [Maximilian I](#maximilian-i) och Karl V, som också var kung av Spanien). Påven, Venedig, Milano, England, schweiziska legosoldater och till och med Osmanska riket (allierat med Frankrike) var inblandade.
+
+    Italien var det rikaste och mest kulturellt avancerade området i Europa, men splittrat i småstater som inte kunde försvara sig mot de stora nationalstaterna. Viktiga händelser: [Karl VIII:s invasion 1494](#karl-viii-invaderar-italien-1494), [Marignano 1515](#marignano-1515), [slaget vid Pavia 1525 där Frans I tillfångatogs](#frans-i-tillfangatas-vid-pavia-1525), och [plundringen av Rom 1527](#rom-plundras-1527), då kejserliga legosoldater härjade staden i månader.
+
+    Krigen blev ett laboratorium för ny krigföring: fältartilleri, musköter, pikinfanteri och stjärnformade fästningar. Arméerna växte till tiotusentals man. Freden i Cateau-Cambrésis 1559 gav Spanien kontroll över Milano och Neapel för 150 år. För Italien betydde det slutet på självständigheten fram till enandet 1861.
+
+savonarola:
+  period: 1480
+  label: "Savonarola"
+  title: "Savonarola i Florens"
+  wiki:
+    - "en:Girolamo Savonarola"
+    - "en:Bonfire of the vanities"
+  text: |
+    **Girolamo Savonarola** (1452–1498) var en dominikanermunk i **Florens**, [renässansens centrum](#florentinsk-renassans), som i decennier hade styrts av bankfamiljen [Medici](#medici-i-florens). Han predikade mot lyx, korruption i kyrkan och den världsliga konsten, och förutsade att Gud skulle straffa Italien.
+
+    När [Karl VIII:s franska armé kom 1494](#karl-viii-invaderar-italien-1494) såg folk det som en uppfylld profetia. Medici fördrevs och Savonarola blev i praktiken stadens andlige ledare i några år. Han försökte göra Florens till en gudsstat. Mest känd är **”fåfänglighetens bål”** 1497, där speglar, smycken, kortlekar, böcker och målningar brändes på torget. Enligt en (omstridd) tradition kastade målaren Botticelli själv några av sina verk på bålet.
+
+    Savonarola angrep också påven Alexander VI (Borgia), som var ökänd för sitt korrupta liv, och blev bannlyst. Folket tröttnade, och 1498 hängdes och brändes han på samma torg. Han ses ofta som en föregångare till reformationen – [Luther](#luther-95-teser-1517) beundrade honom – men han ifrågasatte aldrig katolsk lära, bara kyrkans moral.
+
+leonardo-2:
+  period: 1480
+  label: "Leonardo"
+  same_as: leonardo
+
+leonardo-michelangelo-rafael:
+  period: 1500
+  label: "Leonardo, Michelangelo, Rafael"
+  title: "Högrenässansen: Leonardo, Michelangelo, Rafael"
+  wiki:
+    - "en:High Renaissance"
+    - "en:Leonardo da Vinci"
+    - "en:Michelangelo"
+  text: |
+    **Renässansen** (”pånyttfödelsen”) var en kulturrörelse som började i Italien på 1300-talet och ville återuppliva antikens konst och tänkande. Omkring 1500 nådde den sin topp, högrenässansen, med tre konstnärer verksamma samtidigt i Florens och Rom.
+
+    **[Leonardo da Vinci](#leonardo)** (1452–1519) målade *Nattvarden* (1495–98) och *Mona Lisa* (påbörjad ca 1503), men var också ingenjör och naturforskare: hans anteckningsböcker, omkring 7 000 bevarade sidor, innehåller anatomistudier och skisser på [flygmaskiner](#leonardo-flygmaskiner-mekanik). **Michelangelo** (1475–1564) skulpterade *David* (1501–04, drygt 5 m hög) och målade Sixtinska kapellets tak (1508–12) – cirka 500 m² som han arbetade med i fyra år. **Rafael** (1483–1520) målade *Skolan i Aten* i Vatikanen, där antikens filosofer avbildas.
+
+    Uppdragsgivarna var rika bankirer som [Medici](#medici-i-florens) och påvar som Julius II. Konstnärerna använde perspektiv (räknat matematiskt), anatomi och oljefärg för att avbilda verkligheten. Konstnären steg från hantverkare till hyllat geni. Samtidigt var påvarnas dyra byggprojekt, som Peterskyrkan, en orsak till avlatshandeln som [Luther angrep 1517](#luther-95-teser-1517).
+
+machiavelli-fursten:
+  period: 1500
+  label: "Machiavelli: Fursten"
+  title: "Machiavelli skriver Fursten 1513"
+  wiki:
+    - "en:The Prince"
+    - "en:Niccolò Machiavelli"
+  text: |
+    **Niccolò Machiavelli** (1469–1527) var diplomat och ämbetsman i republiken Florens. Han hade sett [Savonarolas fall](#savonarola) och mött många av tidens makthavare, bland andra Cesare Borgia, påvens son som skoningslöst byggde ett eget furstendöme. När familjen [Medici](#medici-i-florens) återtog Florens 1512 avsattes Machiavelli, fängslades och torterades.
+
+    I exil på sitt lantställe skrev han 1513 ***Il Principe*** (”Fursten”), en handbok för den som vill skaffa och behålla makt. Det nya var att han beskrev politik som den faktiskt fungerar, inte som den borde fungera enligt kristen moral. Kända tankar: det är säkrare att vara fruktad än älskad, om man inte kan vara båda; en furste måste kunna bryta löften när det gagnar staten. Boken publicerades först 1532, efter hans död, och sattes senare på kyrkans lista över förbjudna böcker.
+
+    ”Machiavellisk” betyder i dag skrupellöst beräknande. Men han räknas också som den moderna statsvetenskapens grundare. Bakgrunden var Italiens förnedring i de [italienska krigen](#italienska-krigen-1494): han drömde om en stark ledare som kunde ena Italien och kasta ut fransmän och spanjorer.
+
+mohacs-1526:
+  period: 1520
+  label: "Mohács 1526"
+  title: "Slaget vid Mohács 1526"
+  wiki:
+    - "sv:Slaget vid Mohács (1526)"
+    - "en:Battle of Mohács"
+  text: |
+    Vid Mohács i södra Ungern möttes 29 augusti 1526 Osmanska rikets armé under sultan **[Süleyman den store](#suleyman-den-store-1520)** – uppskattningsvis 50 000–100 000 man med mycket artilleri – och en ungersk armé på kanske 25 000–30 000 man. Slaget var över på ett par timmar. Ungrarna krossades och den unge kungen Ludvig II drunknade under flykten.
+
+    Ungern var vid den tiden ett av Centraleuropas större kungariken. Efter Mohács delades det i tre delar: osmanerna tog så småningom mitten med Buda, Habsburgarna ([Karl V](#karl-v-kejsare):s bror Ferdinand) tog norr och väst, och Transsylvanien i öster blev ett osmanskt lydrike. Delningen varade i omkring 150 år, tills Habsburgarna [erövrade landet på 1680–90-talen](#osmaner-trangs-ur-ungern).
+
+    Mohács öppnade vägen mot Wien (se [Wien belägras 1529](#wien-belagras-1529)) och gjorde Habsburgarna och osmanerna till huvudmotståndare i Centraleuropa. I Ungern ses det än idag som en nationell katastrof.
+
+wien-belagras-1529:
+  period: 1520
+  label: "Wien belägras 1529"
+  title: "Belägringen av Wien 1529"
+  wiki:
+    - "sv:Belägringen av Wien (1529)"
+    - "en:Siege of Vienna (1529)"
+  text: |
+    Tre år efter segern vid [Mohács](#mohacs-1526) marscherade sultan **[Süleyman den store](#suleyman-den-store-1520)** mot Wien, huvudstad i Habsburgarnas österrikiska länder. Den osmanska armén var stor, uppskattningsvis 100 000–120 000 man, medan försvararna var kanske 17 000–20 000.
+
+    Belägringen misslyckades ändå. Avståndet från Istanbul är omkring 1 200 km fågelvägen, och kraftiga regn gjorde att osmanerna fick lämna mycket av sitt tunga artilleri på vägen. De började först i slutet av september, och när vintern närmade sig och försöken att spränga murarna med minor misslyckades bröt de upp i mitten av oktober.
+
+    Wien blev därmed gränsen för osmansk expansion i Centraleuropa. Det dröjde till [1683](#wien-belagras-1683-och-raddas) innan osmanerna försökte igen, och då förlorade de stort. Hotet från öster påverkade också reformationen: [Karl V](#karl-v-kejsare) behövde de protestantiska tyska furstarnas soldater mot osmanerna och kunde därför inte slå ner protestantismen med full kraft.
+
+zwingli-calvin:
+  period: 1520
+  label: "Zwingli, Calvin"
+  title: "Zwingli och Calvin – den reformerta grenen"
+  wiki:
+    - "sv:Huldrych Zwingli"
+    - "sv:Jean Calvin"
+    - "sv:Kalvinism"
+  text: |
+    [Luthers uppror mot påvekyrkan 1517](#luther-95-teser-1517) fick snabbt efterföljare som gick längre än han. **Huldrych Zwingli** (1484–1531), präst i Zürich, genomförde från 1520-talet en reformation där bilder och orgelmusik togs bort ur kyrkorna och nattvarden sågs som en symbolisk minneshandling, inte som att Kristus kropp verkligen fanns i brödet (vilket Luther hävdade). Zwingli stupade 1531 i ett krig mellan katolska och protestantiska schweiziska kantoner.
+
+    **Jean Calvin** (1509–1564), fransk jurist, blev [ledare i Genève från 1541](#calvin-i-geneve) och skrev en systematisk lärobok i protestantisk teologi. Ett kännetecken var predestinationsläran: att Gud i förväg bestämt vem som blir frälst. Genève blev ett slags mönsterstad med sträng moralisk övervakning.
+
+    Tillsammans grundade de den reformerta (kalvinistiska) grenen av protestantismen, som spreds till Nederländerna, Skottland (presbyterianer), Frankrike ([hugenotter](#hugenottkrigen-1562)) och via de engelska puritanerna till Nordamerika. Sverige och Danmark blev i stället lutherska.
+
+kopernikus-1543:
+  period: 1540
+  label: "Kopernikus 1543"
+  title: "Kopernikus och den heliocentriska modellen 1543"
+  wiki:
+    - "sv:Nicolaus Copernicus"
+    - "en:De revolutionibus orbium coelestium"
+  text: |
+    **Nicolaus Copernicus** (1473–1543) var en polsk astronom och domkyrkokanik (kyrklig ämbetsman). Sedan antiken hade man följt Ptolemaios modell där jorden står still i centrum och solen och planeterna rör sig runt den i komplicerade cirklar på cirklar (epicykler).
+
+    Kopernikus föreslog att solen står i mitten och att jorden är en planet som roterar runt sin axel varje dygn och går runt solen varje år. Hans bok *De revolutionibus orbium coelestium* (”Om himlakropparnas kretslopp”) trycktes 1543, enligt traditionen samma år som han dog. Modellen var ännu inte mer exakt än Ptolemaios – han behöll cirkelbanor och behövde därför också epicykler – men den var enklare i grundidén och förklarade varför planeter ibland verkar gå baklänges.
+
+    Det tog ett sekel innan modellen vann. [Kepler upptäckte omkring 1609](#kepler-planetlagarna-1609) att banorna är ellipser, Galilei såg Jupiters månar i teleskop 1610 och [dömdes av inkvisitionen 1633](#galileiprocessen-1633), och [Newton förklarade allt med gravitationen 1687](#newton-principia-1687). Därför ses 1543 som starten på den vetenskapliga revolutionen. [Boktrycket (Gutenberg ~1450)](#gutenbergs-tryckpress-1450) gjorde att idén spreds snabbt.
+
+vesalius-anatomi-1543:
+  period: 1540
+  label: "Vesalius anatomi 1543"
+  title: "Vesalius anatomi 1543"
+  wiki:
+    - "sv:Andreas Vesalius"
+    - "en:De humani corporis fabrica"
+  text: |
+    **Andreas Vesalius** (1514–1564) var en läkare från Bryssel som undervisade i anatomi i Padua i Italien. Medicinsk undervisning byggde då på den grekiske läkaren Galenos (100-talet e.Kr.), vars texter lästes upp medan en assistent dissekerade. Galenos hade dock främst dissekerat apor och grisar.
+
+    Vesalius dissekerade själv människokroppar och påvisade omkring 200 fel hos Galenos, till exempel om underkäken (ett ben, inte två) och om hjärtats skiljevägg (blod passerar inte genom den). 1543 gav han ut *De humani corporis fabrica* (”Om människokroppens byggnad”), sju böcker med över 200 detaljerade träsnitt, sannolikt utförda av konstnärer ur Tizians krets. Det var en av de första böckerna där bild och text tillsammans byggde upp exakt kunskap – möjligt tack vare [boktrycket](#boktryck-sprider-kunskap-snabbt).
+
+    Samma år kom [Kopernikus bok](#kopernikus-1543), och 1543 ses därför ofta som den vetenskapliga revolutionens startår. Principen att lita på egen observation snarare än auktoriteter är densamma. Nästa stora steg i medicinen var William Harveys upptäckt av [blodomloppet 1628](#harvey-blodomloppet-1628).
+
+tridentinska-motet-jesuiter:
+  period: 1540
+  label: "tridentinska mötet, jesuiter"
+  title: "Tridentinska mötet och jesuiterna"
+  wiki:
+    - "sv:Tridentinska mötet"
+    - "sv:Jesuitorden"
+  text: |
+    Katolska kyrkans svar på reformationen kallas **[motreformationen](#motreformation)**. Två av dess viktigaste verktyg kom på 1540-talet.
+
+    **Jesuitorden** (Societas Jesu) grundades av den baskiske f.d. officeraren **Ignatius av Loyola** och godkändes av påven 1540. Den var organiserad nästan militärt, med lydnad direkt till påven. Jesuiterna blev kända för sina skolor och universitet, som utbildade stora delar av den katolska eliten, och för missionen: Francisco Xavier nådde Japan 1549 (se [Francisco Xavier 1549](#francisco-xavier-1549)), och jesuiter verkade senare vid kejsarhovet i Kina.
+
+    **Tridentinska mötet** var ett kyrkomöte i staden Trento i norra Italien, som pågick med avbrott 1545–1563. Det försvarade katolsk lära mot protestanterna (t.ex. att både tro och goda gärningar behövs för frälsning, och att det finns sju sakrament), men rättade också verkliga missförhållanden: präster skulle utbildas i seminarier och biskopar bo i sitt stift. Mässan standardiserades på latin och gällde i stort sett oförändrad till 1960-talet. Mötet befäste därmed splittringen mellan katoliker och protestanter för gott.
+
+nederlandska-frihetskriget:
+  period: 1560
+  label: "Nederländska frihetskriget"
+  title: "Nederländska frihetskriget (1568–1648)"
+  wiki:
+    - "sv:Nederländska frihetskriget"
+    - "en:Eighty Years' War"
+  text: |
+    Det nederländska frihetskriget, även kallat åttioåriga kriget, var Nederländernas krig för att frigöra sig från Spanien. Det började 1568 (se [Nederländska upproret 1568](#nederlandska-upproret-1568)) och var både ett religionskrig, ett skatteuppror och en kamp om lokalt självstyre.
+
+    Viktiga händelser: ”Vattengeusen” – protestantiska kapare – tog hamnstaden Brielle 1572 och gav upproret fotfäste i Holland och Zeeland. Leiden höll ut i en lång belägring 1574 och räddades genom att holländarna öppnade vallarna och översvämmade landet. Spanska soldater som inte fått lön plundrade 1576 Antwerpen och dödade uppskattningsvis 7 000–8 000 invånare. 1579 slöt de norra provinserna Utrechtunionen, och 1581 avsatte de formellt [Filip II](#filip-ii-1556) – ett tidigt exempel på att ett folk förklarade sin härskare avsatt, som senare inspirerade den [amerikanska självständighetsförklaringen](#sjalvstandighetsforklaringen-1776).
+
+    Vilhelm av Oranien mördades 1584, men kriget fortsatte. Spanien erkände Republiken Förenade Nederländerna först i [Westfaliska freden 1648](#westfaliska-freden-1648). Under kriget flyttade handeln från Antwerpen till Amsterdam, som blev 1600-talets finanscentrum.
+
+tycho-brahes-supernova-1572:
+  period: 1560
+  label: "Tycho Brahes supernova 1572"
+  title: "Tycho Brahes supernova 1572"
+  wiki:
+    - "sv:Tycho Brahe"
+    - "en:SN 1572"
+  text: |
+    I november 1572 dök en ny, mycket ljus stjärna upp i stjärnbilden Cassiopeia. Den var en tid synlig även på dagen och lyste i ungefär 16 månader innan den försvann. Idag vet vi att det var en **supernova**: en stjärna som exploderar och under kort tid lyser som miljarder solar.
+
+    Den danske adelsmannen **Tycho Brahe** (1546–1601), då 26 år, mätte noggrant dess position och visade att den inte rörde sig i förhållande till de andra stjärnorna. Den måste alltså ligga långt bortom månen. Det var revolutionerande: enligt Aristoteles, vars lära dominerade, var himlen bortom månen fullkomlig och oföränderlig. Tycho publicerade sina rön i boken *De nova stella* 1573.
+
+    Berömmelsen gav honom ön Ven i Öresund av den danske kungen, där han [byggde observatoriet Uraniborg](#tycho-brahe-pa-ven-uraniborg). Där gjorde han i över 20 år de mest exakta mätningar av planeterna som gjorts före teleskopet. Hans assistent [Johannes Kepler](#kepler-planetlagarna-1609) använde dessa data för att visa att planeterna rör sig i ellipser (1609). Se även [Kopernikus 1543](#kopernikus-1543) och den [vetenskapliga revolutionen](#vetenskapliga-revolutionen-borjar).
+
+gregorianska-kalendern-1582:
+  period: 1580
+  label: "Gregorianska kalendern 1582"
+  title: "Gregorianska kalendern 1582"
+  wiki:
+    - "sv:Gregorianska kalendern"
+    - "sv:Svenska kalendern"
+  text: |
+    Den **julianska kalendern**, införd av Julius Caesar 46 f.Kr., hade ett skottår vart fjärde år, vilket ger ett medelår på 365,25 dagar. Det verkliga solåret är cirka 365,2422 dagar – 11 minuter kortare. Sedan kyrkomötet i Nicaea 325, som låg till grund för påskberäkningen, hade felet vuxit till 10 dagar, så att vårdagjämningen och därmed påskens datum drev iväg.
+
+    Påven **Gregorius XIII** införde 1582 en ny kalender: man hoppade direkt från 4 till 15 oktober, och sekelår är bara skottår om de är delbara med 400 (1600 och 2000 ja, 1700, 1800, 1900 nej). Det ger ett medelår på 365,2425 dagar – felet blir ungefär en dag på 3 000 år.
+
+    Katolska länder bytte direkt, protestantiska och ortodoxa dröjde, eftersom de inte ville lyda påven. England bytte 1752, Ryssland först 1918 (därför inträffade ”oktoberrevolutionen” i november enligt vår kalender). Sverige försökte en gradvis övergång från 1700 men gav upp; under några år hade Sverige en egen kalender, och 1712 fick därför en 30 februari. Sverige bytte helt 1753. Datorers datumbibliotek bygger idag på just denna kalender.
+
+galilei-fallrorelse:
+  period: 1580
+  label: "Galilei: fallrörelse"
+  title: "Galilei och fallrörelsen (~1590–1604)"
+  wiki:
+    - "sv:Galileo Galilei"
+    - "en:Two New Sciences"
+  text: |
+    **Galileo Galilei** (1564–1642) var en italiensk matematiker och fysiker, professor i Pisa och sedan Padua. Sedan antiken hade man följt Aristoteles, som lärde att tunga föremål faller fortare än lätta, i proportion till vikten. Galilei visade att det är fel: bortsett från luftmotstånd faller alla föremål lika fort.
+
+    Historien om att han släppte kulor från lutande tornet i Pisa är troligen en efterhandskonstruktion. Hans verkliga metod var mer modern: han lät kulor rulla nedför lutande rännor för att sakta ned rörelsen så att den gick att mäta, bland annat med vattenur. Han fann att sträckan växer med tiden i kvadrat (efter 2 sekunder har kulan rullat 4 gånger så långt som efter 1). Han visade också att en kastbana är en parabel.
+
+    Det nya var kombinationen av experiment, mätning och matematisk lag – grunden för den moderna naturvetenskapliga metoden. Resultaten publicerades först 1638. Isaac [Newton byggde vidare och förklarade 1687](#newton-principia-1687) varför: tyngdkraften ger konstant acceleration (cirka 9,8 m/s² vid jordytan).
+
+    Se även [Galileis teleskop 1609](#galileis-teleskop-1609), där han tillämpade samma experimentella tänkande på himlen.
+
+galileis-teleskop-1609:
+  period: 1600
+  label: "Galileis teleskop 1609"
+  title: "Galileis teleskop 1609"
+  wiki:
+    - "sv:Galileo Galilei"
+    - "en:Sidereus Nuncius"
+  text: |
+    Teleskopet uppfanns i Nederländerna; glasögonmakaren Hans Lipperhey sökte patent 1608. När **Galileo Galilei** (se [fallrörelsen](#galilei-fallrorelse)) hörde talas om det 1609 byggde han ett eget, slipade sina linser själv och förbättrade förstoringen från cirka 3 till omkring 20 gånger.
+
+    Han riktade det mot himlen och publicerade 1610 boken *Sidereus Nuncius* (”Stjärnbudbäraren”). Han såg berg och kratrar på månen, att Vintergatan består av otaliga stjärnor och, viktigast, fyra månar som kretsar kring Jupiter. Det visade att inte allt kretsar kring jorden. Han såg också att Venus har faser som månen, vilket inte går ihop med den gamla modellen där Venus går runt jorden.
+
+    Fynden blev starka argument för [Kopernikus](#kopernikus-1543) solcentrerade världsbild och gjorde Galilei berömd i hela Europa. De ledde också till konflikten med den katolska kyrkan och [Galileiprocessen 1633](#galileiprocessen-1633) (se där). Teleskopen fick sedan större linser och speglar; Newton byggde ett spegelteleskop 1668, och idag ser rymdteleskop som James Webb galaxer vars ljus färdats i över 13 miljarder år.
+
+voc-1602:
+  period: 1600
+  label: "VOC 1602"
+  title: "Holländska Ostindiska kompaniet (VOC) 1602"
+  wiki:
+    - "sv:Holländska Ostindiska kompaniet"
+    - "en:Dutch East India Company"
+  text: |
+    **VOC** (Vereenigde Oostindische Compagnie, ”Förenade Ostindiska kompaniet”) grundades 1602 när den nederländska statsledningen slog ihop flera konkurrerande handelsbolag. Nederländerna var mitt i ett [frihetskrig mot Spanien](#nederlandska-frihetskriget) och ville ta över Portugals (då förenat med Spanien) handel med kryddor från Asien.
+
+    VOC brukar räknas som det första företaget med permanent aktiekapital vars andelar fritt kunde köpas och säljas vidare på börsen (se [Amsterdams börs](#amsterdams-bors)) – grundformen för dagens börsbolag. Startkapitalet var cirka 6,4 miljoner gulden, ungefär tio gånger mer än engelska Ostindiska kompaniet. Det hade dessutom rätt att föra krig, sluta fördrag, bygga fästningar och prägla mynt.
+
+    VOC blev 1600-talets största företag, med tiotusentals anställda och hundratals skepp. Det grundade Batavia ([se 1619](#voc-grundar-batavia-1619)), tog monopol på muskot och kryddnejlika genom brutalt våld – på Bandaöarna dödades, svältes eller förslavades större delen av befolkningen 1621 – och grundade [Kapstaden 1652](#kapstaden-grundas-1652). Det upplöstes efter konkurs 1799. Holland blev under denna tid Europas rikaste land.
+
+amsterdams-bors:
+  period: 1600
+  label: "Amsterdams börs"
+  title: "Amsterdams börs (1602–1611)"
+  wiki:
+    - "en:Amsterdam Stock Exchange"
+    - "en:Dutch Golden Age"
+  text: |
+    När VOC ([se 1602](#voc-1602)) grundades kunde vem som helst köpa andelar, och andelarna kunde säljas vidare. Därmed behövdes en plats för handeln. Den skedde först på gator och broar i Amsterdam; 1611 stod en särskild börsbyggnad klar, ritad av Hendrick de Keyser – en innergård med pelargångar där handeln pågick vid bestämda tider varje dag.
+
+    Amsterdams börs räknas som världens första moderna aktiebörs, alltså en marknad där andelar i ett företag handlades löpande. Där uppstod snabbt sådant vi känner igen idag: terminer (avtal om att köpa till ett bestämt pris i framtiden), optioner, blankning (att sälja aktier man inte äger i hopp om att köpa tillbaka billigare) och spekulation. Den första dokumenterade blankningsstriden, kring Isaac Le Maire, inträffade redan 1609. Holländarna grundade också Amsterdams växelbank (Wisselbank) 1609.
+
+    Amsterdam blev 1600-talets finansiella centrum, och här utspelades 1636–37 ”tulpanmanin”, en spekulationsbubbla i tulpanlökar. Systemet kopierades av London på 1690-talet och lever kvar i dagens börser, från Stockholmsbörsen till Nasdaq, nu med elektronisk handel på mikrosekunder.
+
+galileiprocessen-1633:
+  period: 1620
+  label: "Galileiprocessen 1633"
+  title: "Galileiprocessen 1633"
+  wiki:
+    - "sv:Galileo Galilei"
+    - "en:Galileo affair"
+  text: |
+    **Galileo Galilei** hade med teleskopet ([se 1609](#galileis-teleskop-1609)) samlat argument för att jorden går runt solen, som [Kopernikus föreslagit 1543](#kopernikus-1543). Katolska kyrkan förklarade 1616 läran som ”dårskap och kätteri” eftersom den ansågs motsäga Bibeln, och Galilei förbjöds att försvara den. Kyrkan var mitt i [motreformationen](#motreformation), sin kamp mot protestantismen, och var särskilt känslig för ifrågasättande av auktoriteter.
+
+    1632 publicerade Galilei *Dialog om de två världssystemen*, skriven på italienska för en bred publik. Formellt var det en diskussion, men solsystemet med solen i mitten vann tydligt, och påvens egen åsikt lades i munnen på en figur som hette Simplicio (”Enfaldig”). Påven Urban VIII, tidigare hans vän, kände sig förrådd.
+
+    Inkvisitionen, kyrkans domstol mot kätteri, dömde 1633 den 69-årige Galilei. Hotad med tortyr tvingades han avsvära sig läran och dömdes till livstids husarrest i Arcetri nära Florens, där han skrev sin [bok om fallrörelse](#galilei-fallrorelse) (1638). Att han skulle ha mumlat ”och ändå rör den sig” är troligen en legend. Boken var förbjuden till 1835, och påven Johannes Paulus II erkände först 1992 att kyrkan hade fel. Processen har blivit symbolen för konflikten mellan vetenskap och auktoritet.
+
+descartes-discours-1637:
+  period: 1620
+  label: "Descartes: Discours 1637"
+  title: "Descartes: Avhandling om metoden 1637"
+  wiki:
+    - "sv:René Descartes"
+    - "en:Discourse on the Method"
+  text: |
+    **René Descartes** (1596–1650) var en fransk filosof och matematiker som levde större delen av sitt vuxna liv i Nederländerna, där tankefriheten var större än i katolska Frankrike. 1637 gav han ut *Discours de la méthode* (”Avhandling om metoden”) – skriven på franska i stället för latin, så att en bredare publik kunde läsa den.
+
+    Boken är känd för meningen ”Jag tänker, alltså finns jag” (cogito ergo sum): Descartes ville börja om från noll, tvivla på allt som gick att tvivla på, och bygga kunskap steg för steg från det som var helt säkert – ungefär som ett axiomsystem. Metoden: dela upp problem i delar, gå från enkelt till komplicerat, kontrollera att inget fattas.
+
+    Som bilagor fanns tre vetenskapliga uppsatser, bland annat om optik och om geometri – den senare innehöll den [analytiska geometrin (se separat punkt)](#descartes-analytisk-geometri-1637). Descartes förde också fram idén att naturen är en maskin som kan förklaras med materia och rörelse. Detta blev ett av fundamenten för den [vetenskapliga revolutionen](#vetenskapliga-revolutionen-borjar) och för [Newton ~1687](#newton-principia-1687). Descartes dog 1650 i Stockholm, dit [drottning Kristina](#kristina) bjudit in honom.
+
+torricellis-barometer-1643:
+  period: 1640
+  label: "Torricellis barometer 1643"
+  title: "Torricellis barometer 1643"
+  wiki:
+    - "sv:Evangelista Torricelli"
+    - "sv:Barometer"
+  text: |
+    **Evangelista Torricelli** (1608–1647) var en italiensk fysiker och lärjunge till [Galileo Galilei](#galilei-fallrorelse). Brunnsgrävare hade märkt att pumpar inte kunde suga upp vatten högre än cirka 10 meter. Galileo hade inte kunnat förklara varför.
+
+    1643 fyllde Torricelli ett glasrör med kvicksilver – 13,6 gånger tyngre än vatten – och vände det upp och ned i en skål. Kvicksilvret sjönk till cirka 76 cm höjd och lämnade ett tomrum överst. Torricelli tolkade det rätt: det är luftens tryck på skålen som håller pelaren uppe. ”Vi lever på botten av ett hav av luft.” 76 cm kvicksilver motsvarar just 10 meter vatten.
+
+    Det var två upptäckter i en: luften har vikt och tryck, och ett vakuum kan finnas – något Aristoteles sagt var omöjligt (”naturen skyr tomrummet”). [Pascal visade 1648](#pascal-lufttryck) att pelaren blir lägre uppe på ett berg. Instrumentet blev **barometern** som används i väderprognoser, och trycket mäts än idag ibland i ”mm Hg”. Se även [Guerickes vakuumpump](#vakuumpumpen-guericke).
+
+nederlanderna-erkanns-1648:
+  period: 1640
+  label: "Nederländerna erkänns 1648"
+  title: "Nederländerna erkänns 1648"
+  wiki:
+    - "sv:Republiken Förenade Nederländerna"
+    - "sv:Åttioåriga kriget"
+  text: |
+    De nordliga provinserna i Nederländerna gjorde 1568 uppror mot sin härskare, kungen av Spanien. Orsakerna var höga skatter, förföljelse av protestanter och centralstyre från Madrid. Upproret blev det **[åttioåriga kriget](#nederlandska-frihetskriget)** (1568–1648). 1581 förklarade de sju nordliga provinserna sig självständiga som **Republiken Förenade Nederländerna**; de södra (ungefär dagens Belgien) stannade under Spanien.
+
+    Med freden i Münster 1648 – en del av Westfaliska freden – erkände Spanien till sist republiken. Då var den redan världens ledande handelsmakt. Den holländska ”guldåldern” på 1600-talet gav världens första moderna aktiebolag (VOC 1602), första [fondbörs i Amsterdam](#amsterdams-bors), en av världens största handelsflottor och konstnärer som Rembrandt och Vermeer. Republiken hade bara uppskattningsvis 1,5–2 miljoner invånare.
+
+    Landet var en republik utan kung, styrd av rika köpmän, med ovanlig tolerans för religiösa minoriteter och tryckfrihet – därför tryckte och verkade tänkare som Descartes och Spinoza där. [Se även VOC](#voc-1602) och [Nya Amsterdam](#nya-amsterdam-1626).
+
+huygens-pendelur:
+  period: 1660
+  label: "Huygens pendelur"
+  title: "Huygens pendelur 1656"
+  wiki:
+    - "sv:Christiaan Huygens"
+    - "sv:Pendelur"
+  text: |
+    **Christiaan Huygens** (1629–1695) var en nederländsk matematiker, fysiker och astronom. [Galileo hade iakttagit att en pendel svänger](#galilei-pendel-och-fallrorelse) med nästan samma takt oavsett hur stort utslaget är, men det var Huygens som 1656 byggde det första fungerande **pendeluret** och patenterade det 1657.
+
+    Det var ett jättekliv i precision. De bästa mekaniska urens fel var tidigare kanske 15 minuter per dag; Huygens pendelur gick fel med ungefär 15 sekunder per dag, senare förbättrade ur ännu mindre – en förbättring med en faktor 50–100. Pendelur var världens noggrannaste klockor i nästan 300 år, ända tills kvartsuret kom på 1930-talet. Huygens uppfann också balansfjädern för fickur (1675).
+
+    Huygens försökte även använda pendelur för att bestämma longitud till sjöss – positionen öst-väst kräver exakt tid – men pendeln stördes av fartygets rörelser. Problemet löstes först med [John Harrisons kronometer](#harrisons-h4-loser-longitudproblemet) på 1760-talet. Huygens upptäckte också Saturnus ring och månen Titan och lade fram en vågteori för ljuset. Precis tid blev en grund för vetenskap, industri och, långt senare, GPS och datornätverk.
+
+leeuwenhoek-ser-bakterier-1676:
+  period: 1660
+  label: "Leeuwenhoek ser bakterier 1676"
+  title: "Leeuwenhoek ser bakterier 1676"
+  wiki:
+    - "sv:Antonie van Leeuwenhoek"
+  text: |
+    **Antonie van Leeuwenhoek** (1632–1723) var en tygförsäljare i Delft i Nederländerna utan akademisk utbildning. Han slipade själv små glaslinser, några millimeter stora, och monterade dem i metallplattor: [enkla mikroskop](#mikroskopet-1590) med bara en lins men med förstoring upp till uppskattningsvis 200–300 gånger, bättre än samtidens sammansatta mikroskop.
+
+    Han tittade på allt: regnvatten, damm, blod, sperma. 1676 rapporterade han till [Royal Society](#royal-society) i London om ”små djur” (animalcules) i vatten som fått stå med peppar – det var **bakterier** och andra mikroorganismer, sedda för första gången av en människa. 1683 beskrev han bakterier från sitt eget tandplack. Han såg också röda blodkroppar och spermier. Royal Society tvivlade först men bekräftade fynden.
+
+    Upptäckten fick ingen praktisk betydelse för medicinen på nästan 200 år. Först på 1860–80-talen visade Louis Pasteur och Robert Koch att bakterier orsakar sjukdomar – grunden för hygien, vacciner och senare antibiotika (penicillin 1928). Leeuwenhoek kallas mikrobiologins fader.
+
+spinoza:
+  period: 1660
+  label: "Spinoza"
+  title: "Baruch Spinoza"
+  wiki:
+    - "sv:Baruch Spinoza"
+  text: |
+    **Baruch Spinoza** (1632–1677) var en filosof i Amsterdam, född i en judisk familj som flytt från Portugal undan inkvisitionen. Som 23-åring blev han utesluten ur den judiska församlingen för sina radikala åsikter. Han försörjde sig delvis som [linsslipare för mikroskop och teleskop](#mikroskopet-1590).
+
+    Hans huvudverk *Etiken* (utgiven efter hans död 1677) är uppbyggt som Euklides geometri, med definitioner, axiom och bevisade satser – något en matematiskt lagd läsare känner igen. Han hävdade att Gud och naturen är samma sak (”Deus sive Natura”): det finns ingen personlig Gud som gör mirakel, allt följer av nödvändiga lagar.
+
+    I *Teologisk-politisk traktat* (1670, anonymt) behandlade han Bibeln som en historisk text skriven av människor, och försvarade tanke- och yttrandefrihet och demokrati. Boken förbjöds och han kallades ateist. Spinoza blev en av grundarna för upplysningen och den moderna bibelkritiken. Einstein svarade på frågan om han trodde på Gud: ”Jag tror på Spinozas Gud.” Nederländerna var ett av få länder där han kunde publicera alls.
+
+    Jämför med [Descartes: Discours 1637](#descartes-discours-1637), som verkade i samma toleranta Nederländerna.
+
+wien-belagras-1683-och-raddas:
+  period: 1680
+  label: "Wien belägras 1683 och räddas"
+  title: "Belägringen av Wien 1683"
+  wiki:
+    - "sv:Slaget vid Wien"
+    - "sv:Johan III Sobieski"
+  text: |
+    1683 marscherade Osmanska riket (det turkiska imperiet med huvudstad i Istanbul) mot **Wien**, huvudstad för de österrikiska Habsburgarna. Storvesiren (regeringschefen) **Kara Mustafa** hade uppskattningsvis 90 000–150 000 man. Staden försvarades av runt 15 000 soldater och belägrades i två månader; murarna var nära att falla.
+
+    Den 12 september anlände en undsättningsarmé på cirka 70 000 man, med polska och tyska trupper, ledd av Polens kung **Johan III Sobieski**. Det polska tunga kavalleriet (husarerna) gjorde ett berömt anfall i slaget vid Kahlenberg och osmanerna flydde.
+
+    Det var en vändpunkt: Osmanska riket hade expanderat i Europa sedan 1300-talet, men därefter gick det bakåt. Habsburgarna tog under de följande 16 åren [nästan hela Ungern](#osmaner-trangs-ur-ungern) (se [Karlowitz 1699](#karlowitz-1699)). Jämför den [första belägringen av Wien 1529](#wien-belagras-1529), som också misslyckades.
+
+utrechtfreden-1713:
+  period: 1700
+  label: "Utrechtfreden 1713"
+  title: "Utrechtfreden 1713"
+  wiki:
+    - "sv:Freden i Utrecht"
+  text: |
+    **Utrechtfreden** är en serie fredsavtal 1713–1715, förhandlade i den holländska staden Utrecht, som avslutade [spanska tronföljdskriget](#spanska-tronfoljdskriget) (se det). Det var en av de första stora fredskonferenserna där många stater förhandlade samtidigt.
+
+    Huvudpunkter: Filip V fick behålla Spanien och de amerikanska kolonierna men avsade sig rätten till Frankrikes tron, så att länderna aldrig kunde förenas. Österrike fick Spanska Nederländerna (Belgien), Milano och Neapel. Storbritannien fick [Gibraltar](#gibraltar-brittiskt-1713) och Menorca, Newfoundland och Hudson Bay-området från Frankrike, och **asiento** – ensamrätt i 30 år att sälja afrikanska slavar till Spanska Amerika. Savojen fick Sicilien och blev kungarike.
+
+    Idén bakom freden var **maktbalans**: ingen enskild stat skulle få dominera Europa. Den principen styrde europeisk diplomati fram till 1900-talet. Storbritannien kom ut som vinnare och påbörjade sin väg mot att bli världens ledande sjö- och handelsmakt. Asiento-rättigheterna låg bakom [Södersjöbubblan 1720](#sodersjobubblan-1720) (se den).
+
+vivaldi:
+  period: 1720
+  label: "Vivaldi"
+  title: "Antonio Vivaldi"
+  wiki:
+    - "sv:Antonio Vivaldi"
+    - "sv:De fyra årstiderna"
+  text: |
+    **Antonio Vivaldi** (1678–1741) var en italiensk tonsättare och violinist från Venedig. Han var prästvigd och kallades "den röde prästen" efter sitt hår, men slutade läsa mässa tidigt. I många år var han musiklärare vid Ospedale della Pietà, ett barnhem för flickor i Venedig, vars kvinnliga orkester blev berömd i Europa.
+
+    Hans mest kända verk är *De fyra årstiderna* (publicerat 1725), fyra violinkonserter som skildrar vår, sommar, höst och vinter med fågelsång, åska och frysande tänder. Han skrev omkring 500 konserter och cirka 50 operor. Han gjorde **solokonserten** – ett soloinstrument mot orkester, i tre satser snabb–långsam–snabb – till en standardform.
+
+    [Bach](#bach) (se Bach) studerade och arrangerade flera av hans konserter. Vivaldi dog fattig i Wien och glömdes bort i nästan 200 år; stora mängder handskrifter återupptäcktes först på 1920-talet. Idag är De fyra årstiderna ett av de mest spelade klassiska verken i världen.
+
+lissabons-jordbavning-1755:
+  period: 1740
+  label: "Lissabons jordbävning 1755"
+  title: "Jordbävningen i Lissabon 1755"
+  wiki:
+    - "sv:Jordbävningen i Lissabon 1755"
+    - "en:Marquis of Pombal"
+  text: |
+    Förmiddagen den 1 november 1755, allhelgonadagen då kyrkorna var fulla, slog ett jordskalv till utanför Portugals kust. Magnituden uppskattas i efterhand till ungefär 8,5–9, alltså i samma klass som Japan 2011. Skalvet följdes av en tsunami och av bränder som rasade i flera dygn. Av Lissabons cirka 200 000 invånare dog uppskattningsvis 30 000–50 000; stora delar av staden, inklusive kungliga arkiv och bibliotek, förstördes.
+
+    Katastrofen skakade också tänkandet. Hur kunde en god Gud låta en from stad förstöras på en helgdag? Filosofen **[Voltaire](#voltaire)** skrev en dikt om skalvet och gjorde sedan narr av tron att allt är ”för det bästa” i romanen *Candide* (1759). Debatten bidrog till upplysningens mer vetenskapliga syn på naturen.
+
+    Premiärministern **Pombal** lät bygga upp stadskärnan med raka gator och tidiga jordbävningssäkra trästommar, och skickade ut enkäter till alla församlingar om vad som hänt – ofta räknat som början på seismologin, vetenskapen om jordskalv.
+
+    Jämför med den tidigare stadskatastrofen [pesten i London 1665, branden 1666](#pesten-i-london-1665-branden-1666), som också följdes av en planerad återuppbyggnad.
+
+maria-teresia:
+  period: 1740
+  label: "Maria Teresia"
+  title: "Maria Teresia (regent 1740–1780)"
+  wiki:
+    - "sv:Maria Teresia"
+  text: |
+    **Maria Teresia** (1717–1780) var den enda kvinnan som själv styrde Habsburgarnas länder: Österrike, Böhmen, Ungern, delar av Italien och dagens Belgien. Hon ärvde tronen 1740 och fick genast försvara den i [österrikiska tronföljdskriget](#osterrikiska-tronfoljdskriget), där hon förlorade Schlesien till [Fredrik den store](#fredrik-den-store) av Preussen. Ett nytt försök att ta tillbaka provinsen i [sjuårskriget 1756–1763](#sjuarskriget-slut-1763) misslyckades.
+
+    Hennes stora insats var inrikes: hon centraliserade förvaltningen och skatteuppbörden, byggde upp en stående armé och införde 1774 allmän skolplikt i sina arvländer – mer än 60 år före Sveriges folkskolestadga 1842. Hon var samtidigt djupt katolsk och intolerant mot judar och protestanter.
+
+    Hon fick 16 barn och använde dem som diplomatiska pjäser genom giftermål. Mest känd är dottern **Marie Antoinette**, gift med Ludvig XVI av Frankrike och [avrättad under franska revolutionen 1793](#ludvig-xvi-avrattas-1793). Sonen Josef II fortsatte reformerna i ännu radikalare form.
+
+polens-forsta-delning-1772:
+  period: 1760
+  label: "Polens första delning 1772"
+  title: "Polens första delning 1772"
+  wiki:
+    - "sv:Polens delningar"
+    - "en:First Partition of Poland"
+  text: |
+    **Polen-Litauen** var på 1600-talet ett av Europas största riken, från Östersjön nästan till Svarta havet. Det var en adelsrepublik: kungen valdes av adeln, och i riksdagen kunde en enda ledamot stoppa varje beslut med sitt veto, *liberum veto*. Det gjorde staten nästan omöjlig att styra och lätt att muta för grannarna.
+
+    1772 kom Ryssland ([Katarina den stora](#katarina-den-stora)), Preussen ([Fredrik den store](#fredrik-den-store)) och Österrike (Maria Teresia) överens om att var och en skulle ta en bit. Polen förlorade omkring 30 procent av sin yta och ungefär en tredjedel av sin befolkning, uppskattningsvis 4–5 miljoner människor. Preussen fick Västpreussen, vilket förenade dess östliga och västliga delar.
+
+    Chocken ledde till reformer i Polen, bland annat Europas första moderna skrivna konstitution 1791 (bara fyra år efter [USA:s](#usa-s-konstitution-1787)). Men grannarna ville inte ha ett starkt Polen. Två nya delningar 1793 och 1795 utplånade staten helt (se [Polen delas helt 1795](#polen-delas-helt-1795)). Polen återuppstod först 1918.
+
+revolutionskrigen:
+  period: 1780
+  label: "Revolutionskrigen"
+  title: "Franska revolutionskrigen 1792–1802"
+  wiki:
+    - "sv:Franska revolutionskrigen"
+    - "en:Levée en masse"
+  text: |
+    De franska revolutionskrigen var de krig som det revolutionära Frankrike förde mot Europas monarkier 1792–1802, före Napoleonkrigen. Österrike och Preussen ville stoppa [revolutionen](#franska-revolutionen-1789) från att sprida sig och skydda Ludvig XVI; Frankrike förklarade krig i april 1792 i tron att folken skulle resa sig mot sina kungar. Efter [kungens avrättning 1793](#ludvig-xvi-avrattas-1793) anslöt Storbritannien, Spanien, Nederländerna med flera.
+
+    Det nya var **massmobiliseringen**: genom *levée en masse* 1793 inkallades alla ogifta män 18–25 år, och den franska armén växte till uppskattningsvis 750 000–800 000 man – långt större än de små yrkesarméer som 1700-talets kungar fört. Officerare befordrades efter förmåga, inte börd. Det var början på det moderna folkkriget.
+
+    Frankrike erövrade dagens Belgien, Rhenlandet och norra Italien och upprättade lydrepubliker där. Den unge generalen [Napoleon Bonaparte](#napoleon) gjorde karriär i Italien 1796–97. Krigen gick sömlöst över i Napoleonkrigen (1803–1815), och totalt beräknas åren 1792–1815 ha kostat uppskattningsvis 3–6 miljoner liv.
+
+polen-delas-helt-1795:
+  period: 1780
+  label: "Polen delas helt 1795"
+  title: "Polens tredje delning 1795"
+  wiki:
+    - "sv:Polens delningar"
+    - "sv:Tadeusz Kościuszko"
+  text: |
+    Efter den [första delningen 1772](#polens-forsta-delning-1772) (se den) försökte Polen-Litauen reformera sig. Den 3 maj 1791 antogs en ny konstitution som avskaffade det förlamande vetot där en enda riksdagsman kunde stoppa allt, och stärkte staten. Det var Europas första moderna skrivna grundlag, [efter USA:s](#usa-s-konstitution-1787).
+
+    Ryssland ingrep, och 1793 delade Ryssland och Preussen en andra stor bit. 1794 ledde **Tadeusz Kościuszko**, som tidigare stridit i [det amerikanska frihetskriget](#amerikanska-kolonier-forlorade-1783), ett uppror med bönder beväpnade med liar. Det slogs ned, och ryska trupper massakrerade tusentals civila i Warszawaförorten Praga. 1795 delade Ryssland, Preussen och Österrike på resten. Polen fanns inte längre på kartan; Ryssland fick merparten.
+
+    Polen var borta i 123 år, till 1918. Under tiden hölls den nationella identiteten vid liv genom språk, katolska kyrkan och upprepade uppror (1830, 1863). Nationalsången, skriven 1797 av polska soldater i [Napoleons](#napoleon) tjänst, börjar ”Polen är ännu inte förlorat”. Delningarna förklarar också varför så många judar hamnade i Ryssland.
+
+wienkongressen-1815:
+  period: 1800
+  label: "Wienkongressen 1815"
+  title: "Wienkongressen 1814–1815"
+  wiki:
+    - "sv:Wienkongressen"
+    - "sv:Klemens von Metternich"
+  text: |
+    Efter [Napoleons första fall](#napoleon) samlades Europas stater i Wien från september 1814 till juni 1815 för att rita om kartan. De verkliga besluten togs av de fyra segrarna – Österrike (företrätt av **Metternich**), Ryssland (tsar Alexander I), Preussen och Storbritannien – samt det besegrade Frankrike genom den skicklige Talleyrand. Kongressen var också en enda lång fest med baler, så att det sades att ”kongressen dansar men kommer inte framåt”.
+
+    Principerna var *legitimitet* (gamla kungahus tillbaka) och *maktbalans* (ingen stat skulle dominera). Ryssland fick större delen av Polen, Preussen fick Rhenlandet och halva Sachsen, Österrike norra Italien, Nederländerna och Belgien slogs ihop. Sverige fick behålla Norge ([se 1814](#union-sverigenorge-1814)) och gav upp Svenska Pommern. Tyskland blev ett löst förbund av 39 stater.
+
+    Resultatet, ”konsertsystemet” där stormakterna möttes regelbundet, gav ett sekel utan allomfattande krig i Europa, till 1914. Men det ignorerade nationalismen och liberalismen, vilket ledde till [revolutionerna 1830](#julirevolutionen-1830) och [1848](#revolution-1848) och till Tysklands och Italiens enande. Jämför med Versailles 1919 och FN 1945, senare försök att bygga en fredsordning.
+
+voltas-batteri-1800:
+  period: 1800
+  label: "Voltas batteri 1800"
+  title: "Voltas batteri 1800"
+  wiki:
+    - "sv:Voltas stapel"
+    - "sv:Alessandro Volta"
+  text: |
+    Under 1700-talet kunde man bara lagra elektricitet i [Leidenflaskor](#leidenflaskan-1745), en sorts kondensatorer som gav en enda kort gnista. 1791 rapporterade italienaren [Luigi Galvani](#galvanis-grodlar) att döda grodlår ryckte när de rördes vid med två olika metaller. Han trodde att det var ”djurisk elektricitet” i själva vävnaden.
+
+    Fysikern **Alessandro Volta** i Pavia menade i stället att strömmen kom från de två metallerna. För att bevisa det byggde han 1799–1800 en stapel av omväxlande skivor av zink och koppar (eller silver), åtskilda av papp indränkt i saltvatten. Denna **voltastapel** gav för första gången en jämn, kontinuerlig elektrisk ström. Varje cell ger ungefär en volt; enheten volt är uppkallad efter honom.
+
+    Uppfinningen öppnade ett nytt forskningsfält. Redan 1800 delades vatten med ström i vätgas och syrgas (elektrolys); Humphry Davy isolerade natrium och kalium 1807, och svensken Berzelius använde elektrolys i sin kemi. [Örsted upptäckte 1820](#orsted-strom-ger-magnetism-1820) kopplingen mellan ström och magnetism, som ledde till elmotorn och telegrafen. Kemiskt är voltastapeln samma princip som batteriet i din telefon.
+
+greklands-frihetskrig-1821:
+  period: 1820
+  label: "Greklands frihetskrig 1821"
+  title: "Grekiska frihetskriget 1821–1829"
+  wiki:
+    - "sv:Grekiska frihetskriget"
+  text: |
+    Grekland hade sedan 1400-talet varit en del av **Osmanska riket**, det turkiska muslimska imperium med huvudstad i Konstantinopel (Istanbul) som styrde Balkan, Mellanöstern och Nordafrika. Grekerna var ortodoxa kristna och hade viss självförvaltning, men inspirerades av franska revolutionens idéer om nationer och frihet.
+
+    Upproret bröt ut 1821. Båda sidor begick massakrer: greker dödade tusentals turkiska invånare, och osmanerna massakrerade och förslavade befolkningen på ön Chios 1822, där uppskattningsvis 20 000–25 000 dog. Upproret höll på att krossas av egyptiska trupper när stormakterna ingrep. Vid sjöslaget vid **Navarino** 1827 sänkte en brittisk-fransk-rysk flotta den osmansk-egyptiska flottan.
+
+    Grekland blev ett självständigt kungadöme 1830/1832 med en bayersk prins, Otto, som kung. Den nya staten var liten – bara ca 800 000 invånare, och de flesta greker bodde kvar i Osmanska riket. Kriget fick stort stöd bland europeiska intellektuella (poeten Lord Byron dog där 1824) och blev mönster för senare nationalistiska frigörelser på Balkan, vilket så småningom ledde fram till [Balkankrigen](#balkankrigen) och [första världskriget](#forsta-varldskriget).
+
+belgien-1830:
+  period: 1820
+  label: "Belgien 1830"
+  title: "Belgiens självständighet 1830"
+  wiki:
+    - "sv:Belgiska revolutionen"
+  text: |
+    Vid [Wienkongressen 1815](#wienkongressen-1815), där segrarna över Napoleon ritade om Europas karta, slogs de katolska och fransk- eller flamländsktalande södra Nederländerna (nuvarande Belgien) ihop med de protestantiska norra Nederländerna under den holländske kungen **Vilhelm I**. Syftet var att skapa en buffertstat mot Frankrike.
+
+    Södra delen hade fler invånare men kände sig styrd av holländarna: holländska tvingades fram som ämbetsspråk, och den katolska kyrkan och den liberala borgerligheten var missnöjda. Inspirerade av [Julirevolutionen](#julirevolutionen-1830) i Paris bröt ett uppror ut i Bryssel i augusti 1830 – enligt traditionen efter en operaföreställning om ett frihetsuppror. Holländska trupper drevs ut, och Belgien utropade sin självständighet.
+
+    Stormakterna erkände Belgien vid en konferens i London och garanterade 1839 dess neutralitet. Belgien fick en tysk prins, Leopold I, som kung och en för sin tid liberal författning. Landet blev tidigt industrialiserat tack vare kol och järn. Tysklands brott mot den belgiska neutraliteten 1914 blev skälet till att Storbritannien gick in i [första världskriget](#forsta-varldskriget).
+
+ars-revolutioner-1848:
+  period: 1840
+  label: "1848 års revolutioner"
+  title: "1848 års revolutioner i Europa"
+  wiki:
+    - "sv:Revolutionerna 1848"
+    - "sv:Marsoroligheterna"
+  text: |
+    Under 1848 utbröt revolutioner i ett femtiotal länder och regioner i Europa, ibland kallat ”folkens vår”. Gemensamma orsaker var missväxt och höga matpriser 1846–1847, en ekonomisk kris, och idéer som stått tillbaka sedan [Wienkongressen 1815](#wienkongressen-1815): liberalism (författningar, pressfrihet, rösträtt), nationalism (att varje folk ska ha sin egen stat) och tidig socialism.
+
+    Det började i Sicilien i januari och [Paris i februari](#revolution-1848), och spreds sedan på veckor till Wien, Berlin, Milano, Budapest och Prag – med hjälp av den nya [telegrafen](#telegraf) och järnvägarna. Österrikes mäktige kansler **Metternich**, symbol för den gamla ordningen, flydde. Ungrarna försökte bryta sig loss från Österrike, italienarna kämpade mot österrikiskt styre, och tjecker och andra slaviska folk krävde självstyre. I Stockholm förekom kravaller i mars 1848, då ett trettiotal dödades.
+
+    Nästan alla revolutioner slogs ned 1849, ofta med militärt våld; Ungern krossades med hjälp av en rysk armé på omkring 200 000 man. Men livegenskapen avskaffades i Österrike, flera länder fick bestående författningar, och de nationella frågorna – [Italien, Tyskland](#italien-enas-1861), Ungern – löstes inom några decennier.
+
+krimkriget-1853:
+  period: 1840
+  label: "Krimkriget 1853"
+  title: "Krimkriget 1853–1856"
+  wiki:
+    - "sv:Krimkriget"
+    - "sv:Florence Nightingale"
+  text: |
+    **Krimkriget** utkämpades mellan Ryssland å ena sidan och Osmanska riket, Storbritannien, Frankrike och senare kungariket Sardinien å andra sidan. Ryssland ville utnyttja det försvagade Osmanska riket för att vinna inflytande på Balkan och kontroll över sundet vid Konstantinopel, vägen från Svarta havet till Medelhavet. Britterna och fransmännen ville förhindra detta.
+
+    Huvudkriget utkämpades på halvön **Krim** i Svarta havet, kring belägringen av den ryska flottbasen Sevastopol, som varade nästan ett år. Uppskattningsvis 500 000–750 000 människor dog, de flesta av sjukdomar som kolera och dysenteri snarare än i strid. Sjuksköterskan **Florence Nightingale** förbättrade de brittiska fältsjukhusen och lade grunden till modern sjukvård. Det var också det första kriget som bevakades med [telegraf](#telegraf) och [fotografi](#fotografi), vilket gjorde allmänhetens krav på ansvar större.
+
+    Ryssland förlorade, och freden i Paris 1856 förbjöd landet att ha en flotta i Svarta havet. Nederlaget visade hur efterblivet Ryssland var och ledde till tsar Alexander II:s reformer, bl.a. [livegenskapens avskaffande 1861](#livegenskapen-avskaffas-1861). Kriget berörde även Östersjön, där britter och fransmän förstörde fästningen Bomarsund på Åland.
+
+italien-enas-1861:
+  period: 1860
+  label: "Italien enas 1861"
+  title: "Italiens enande 1861 (Risorgimento)"
+  wiki:
+    - "sv:Italiens enande"
+    - "sv:Giuseppe Garibaldi"
+  text: |
+    Före 1860 var Italien uppdelat i ett halvdussin stater: kungariket **Sardinien-Piemonte** i nordväst, österrikiskt Lombardiet-Venetien, Kyrkostaten styrd av påven i mitten, Kungariket Bägge Sicilierna i söder och några små hertigdömen. Rörelsen för enande och frihet från utländskt styre kallas **Risorgimento** (”pånyttfödelse”).
+
+    Tre personer brukar lyftas fram: **Camillo Cavour**, Piemontes premiärminister, som skickligt fick [Napoleon III:s](#napoleon-iii) Frankrike att hjälpa till att driva ut Österrike från Lombardiet 1859; **Giuseppe Garibaldi**, en gerillaledare som 1860 med bara ca 1 000 frivilliga i röda skjortor (”de tusen”) erövrade Sicilien och Neapel; och idealisten **Giuseppe Mazzini**, som spred tanken om en italiensk nation. Kungariket Italien utropades i mars 1861 med Viktor Emanuel II av Piemonte som kung.
+
+    Venetien tillkom 1866, och Rom erövrades 1870 när de franska trupperna som skyddat påven drogs hem på grund av [fransk-tyska kriget](#fransk-tyska-kriget-1870). Bara en liten del av befolkningen talade standarditalienska 1861 – en av ledarna sade: ”Vi har skapat Italien, nu måste vi skapa italienare.” Klyftan mellan rikare Nord och fattigare Syd består än idag.
+
+mendel-arftlighet:
+  period: 1860
+  label: "Mendel: ärftlighet"
+  title: "Mendel upptäcker ärftlighetens lagar 1865"
+  wiki:
+    - "sv:Gregor Mendel"
+    - "sv:Mendels lagar"
+  text: |
+    **Gregor Mendel** (1822–1884) var en augustinermunk i Brünn (nuvarande Brno i Tjeckien), då en del av Österrike. Han hade studerat fysik och matematik i Wien. I klostrets trädgård korsade han under åren 1856–1863 omkring 28 000 ärtplantor och räknade noggrant hur egenskaper som blomfärg, ärtans form och plantans längd ärvdes.
+
+    Han fann att egenskaperna inte blandas som färger, utan ärvs som diskreta enheter – det vi idag kallar **gener**. Varje planta har två anlag för varje egenskap, ett från vardera förälder. Ett anlag kan vara dominant och dölja ett annat (recessivt), som ändå kan dyka upp i nästa generation, i förhållandet ungefär 3:1. Det var ett tidigt exempel på att använda statistik i biologin.
+
+    Mendel presenterade resultaten 1865, men de förstods inte och glömdes bort. Kring 1900 återupptäcktes de oberoende av tre forskare. De gav den saknade pusselbiten till Darwins teori (se [Darwin: Arternas uppkomst 1859](#darwin-arternas-uppkomst-1859)): hur variation förs vidare. Vägen ledde sedan till kromosomer, upptäckten av [DNA:s struktur 1953](#dna-strukturen-1953) och dagens gensekvensering. Mendel blev senare abbot och slutade forska.
+
+nobel-dynamit-1867:
+  period: 1860
+  label: "Nobel: dynamit 1867"
+  title: "Alfred Nobel och dynamiten 1867"
+  wiki:
+    - "sv:Alfred Nobel"
+    - "sv:Dynamit"
+  text: |
+    **Alfred Nobel** (1833–1896) var en svensk kemist, uppfinnare och industriman, uppvuxen delvis i Sankt Petersburg där hans far tillverkade sjöminor åt den ryska staten. Det kraftfulla sprängämnet **nitroglycerin** hade upptäckts 1847 av italienaren Ascanio Sobrero, men det var en olja som exploderade vid minsta stöt och var livsfarligt att hantera. En explosion i familjens laboratorium i Stockholm 1864 dödade fem personer, bl.a. Alfreds yngre bror Emil.
+
+    Nobel fann att nitroglycerin uppsugen i kiselgur (en porös jord av fossila kiselalger) blev en formbar massa som var säker att transportera och bara exploderade med en tändhatt, som han också uppfunnit. Han patenterade den 1867 som **dynamit**. Jämfört med svartkrut, som använts sedan medeltiden, var dynamit flera gånger kraftigare.
+
+    Dynamiten revolutionerade gruvdrift, tunnel-, väg- och järnvägsbygge – t.ex. Gotthardtunneln i Alperna. Nobel byggde ett internationellt företagsimperium med ett nittiotal fabriker. Han testamenterade större delen av förmögenheten till [de priser som delats ut sedan 1901](#nobelpriset-1901): fysik, kemi, medicin, litteratur och fred.
+
+marconi-radio-1895:
+  period: 1880
+  label: "Marconi: radio 1895"
+  title: "Marconi och radion 1895"
+  wiki:
+    - "sv:Guglielmo Marconi"
+    - "sv:Radio"
+  text: |
+    Den italienske uppfinnaren **Guglielmo Marconi** började 1895, som 21-åring, sända trådlösa telegrafsignaler med radiovågor – elektromagnetiska vågor som [Heinrich Hertz påvisat 1887](#hertz-radiovagor-1887) och som [James Clerk Maxwell](#maxwells-ekvationer-1865) förutsagt teoretiskt. Marconis bidrag var att göra det praktiskt: antenner, jordning och allt längre räckvidd.
+
+    Han flyttade till England, fick patent 1896 och grundade ett bolag. 1901 tog han emot en signal (bokstaven S i morsekod) över Atlanten, ca 3 500 km. Andra arbetade parallellt – ryssen Aleksandr Popov och serbisk-amerikanen [Nikola Tesla](#stromkriget-tesla-och-vaxelstrom) – och prioriteten är omtvistad. Marconi delade Nobelpriset i fysik 1909.
+
+    Trådlöst var avgörande för fartyg: när [Titanic sjönk 1912](#titanic-1912) räddades överlevande tack vare radion. Röstsändningar och rundradio kom på 1920-talet. Samma princip ligger bakom TV, mobiltelefoni, wifi och GPS.
+
+rontgen-1895:
+  period: 1880
+  label: "Röntgen 1895"
+  title: "Wilhelm Röntgen upptäcker röntgenstrålningen 1895"
+  wiki:
+    - "sv:Wilhelm Conrad Röntgen"
+    - "sv:Röntgenstrålning"
+  text: |
+    I november 1895 experimenterade den tyske fysikern **Wilhelm Conrad Röntgen** i Würzburg med katodstrålerör – glasrör med nästan vakuum där en elektrisk ström leds genom gasen. Han märkte att en fluorescerande skärm en bit bort började lysa trots att röret var täckt med svart papper. En okänd strålning gick genom materialet; han kallade den **X-strålar**.
+
+    Strålarna gick igenom mjukvävnad men stoppades av ben och metall. Hans första bild visade handen på hans fru Anna Bertha med ringen. Inom några månader användes tekniken på sjukhus över hela världen för att hitta benbrott och kulor – en av de snabbaste spridningarna av en ny teknik i medicinhistorien. Röntgen tog aldrig patent och fick det första [Nobelpriset i fysik 1901](#nobelpriset-1901).
+
+    Faran förstod man först senare; många tidiga användare fick brännskador och cancer. Upptäckten satte igång forskningen som ledde till [radioaktiviteten 1896](#radioaktivitet) och [elektronen 1897](#elektronen-1897). Idag används röntgen även i datortomografi och kristallografi (som visade [DNA:s struktur](#dna-strukturen-1953)).
+
+sarajevo-1914:
+  period: 1900
+  label: "Sarajevo 1914"
+  title: "Skotten i Sarajevo 28 juni 1914"
+  wiki:
+    - "sv:Skotten i Sarajevo"
+    - "sv:Julikrisen"
+  text: |
+    Den 28 juni 1914 sköts den österrikisk-ungerske tronföljaren **ärkehertig Franz Ferdinand** och hans hustru Sophie ihjäl i Sarajevo, huvudstad i Bosnien. Bosnien hade annekterats av Österrike-Ungern 1908, till stor ilska hos grannlandet Serbien. Mördaren var den 19-årige bosnienserben **Gavrilo Princip**, medlem av en grupp med kopplingar till den serbiska militära hemliga organisationen ”Svarta handen”.
+
+    Mordet lyckades nästan av en slump: ett bombattentat tidigare samma dag misslyckades, men bilen svängde senare fel och stannade precis framför Princip.
+
+    Det som följde kallas **julikrisen**. Österrike-Ungern, med tyskt stöd, ställde ett ultimatum till Serbien och förklarade krig den 28 juli. Alliansssystemet drog in den ena stormakten efter den andra: Ryssland mobiliserade för Serbien, Tyskland förklarade krig mot Ryssland och Frankrike och gick genom Belgien, och Storbritannien gick med. På fem veckor hade ett politiskt mord blivit ett [världskrig](#forsta-varldskriget).
+
+    Se även [Balkankrigen](#balkankrigen).
+
+forsta-varldskriget-2:
+  period: 1900
+  label: "första världskriget"
+  same_as: forsta-varldskriget
+
+balkankrigen:
+  period: 1900
+  label: "Balkankrigen"
+  title: "Balkankrigen 1912–1913"
+  wiki:
+    - "sv:Balkankrigen"
+    - "sv:Första Balkankriget"
+  text: |
+    På **Balkanhalvön** hade det osmanska riket (det turkiska imperiet) styrt i århundraden, men under 1800-talet blev Grekland, Serbien, Montenegro, Rumänien och Bulgarien självständiga. Kvar under osmanskt styre fanns bl.a. Makedonien, Albanien och Thrakien.
+
+    I **första Balkankriget** (oktober 1912–maj 1913) gick Serbien, Bulgarien, Grekland och Montenegro samman och besegrade osmanerna på några månader. Osmanska riket förlorade nästan allt sitt europeiska territorium. Men segrarna blev osams om bytet, särskilt Makedonien, och i **andra Balkankriget** (juni–augusti 1913) angrep Bulgarien sina forna allierade och förlorade. Albanien blev självständigt.
+
+    Uppskattningsvis 150 000–200 000 soldater dog, och civila drabbades av etnisk rensning och flyktingströmmar. Serbien fördubblade nästan sin yta och blev mer självsäkert, vilket skrämde Österrike-Ungern. Ett år senare utlöste spänningen mellan dem [första världskriget](#forsta-varldskriget) (se ”[Sarajevo 1914](#sarajevo-1914)”). Balkan kallades ”Europas krutdurk”.
+
+mussolini-1922:
+  period: 1920
+  label: "Mussolini 1922"
+  title: "Mussolini tar makten 1922"
+  wiki:
+    - "sv:Benito Mussolini"
+    - "sv:Marschen mot Rom"
+  text: |
+    **Benito Mussolini** var en före detta socialistisk journalist som efter första världskriget grundade fascismen, en rörelse som ville ha en stark nationalistisk stat under en ledare, med våld mot vänstern och utan demokrati. Namnet kommer från fasces, ett risknippe med yxa som symboliserade makt i antikens Rom.
+
+    Italien var i kris efter kriget: inflation, strejker och besvikelse över fredsavtalet. Mussolinis beväpnade ”svartskjortor” misshandlade socialister och fackliga ledare. I oktober 1922 genomförde de ”marschen mot Rom” med uppskattningsvis 25 000–30 000 män. Kungen vägrade låta armén stoppa dem och utnämnde i stället Mussolini till premiärminister. Från 1925 styrde han som diktator, ”Il Duce” (ledaren).
+
+    Mussolini blev förebild för [Hitler, som försökte](#hitler-1933) en liknande kupp i München 1923. Han [invaderade Etiopien 1935](#italien-invaderar-etiopien-1935), allierade sig med Tyskland och drog in Italien i [andra världskriget](#andra-varldskriget). 1945 sköts han av partisaner. Ordet ”fascism” används än idag om auktoritär nationalism.
+
+depressionen:
+  period: 1920
+  label: "depressionen"
+  title: "Den stora depressionen"
+  wiki:
+    - "sv:Den stora depressionen"
+  text: |
+    Den stora depressionen var den värsta ekonomiska krisen i den industrialiserade världen, från 1929 till slutet av 1930-talet. Den utlöstes av börskraschen i New York i oktober 1929 (se [Börskraschen 1929](#borskraschen-1929)) och spreds via världshandel, lån och guldmyntfoten – systemet där valutor var knutna till guld, vilket hindrade länder från att öka penningmängden.
+
+    I USA sjönk industriproduktionen med nästan hälften och arbetslösheten nådde omkring 25 %. Tusentals banker gick omkull. I Tyskland var arbetslösheten runt 30 %. Världshandeln sjönk med omkring två tredjedelar, delvis för att länder höjde tullar för att skydda sig, vilket gjorde allt värre.
+
+    Politiskt fick krisen enorma följder: den [hjälpte Hitler](#hitler-1933) till makten i Tyskland, men ledde också till [New Deal](#new-deal) i USA och folkhemspolitiken i Sverige. Ekonomen **John Maynard Keynes** argumenterade för att staten bör öka sina utgifter i kriser, en idé som dominerade efterkrigstiden. [Finanskrisen 2008](#finanskrisen-2008) jämfördes ofta med depressionen, och lärdomarna därifrån styrde centralbankernas agerande.
+
+andra-varldskriget:
+  period: 1940
+  label: "Andra världskriget"
+  title: "Andra världskriget 1939–45"
+  wiki:
+    - "sv:Andra världskriget"
+  text: |
+    Andra världskriget var det största och dödligaste kriget i historien, med uppskattningsvis 70–85 miljoner döda – omkring 3 % av jordens befolkning, en majoritet civila. I Europa började det med Tysklands [anfall på Polen](#polen-anfalls-1939) 1 september 1939; i Asien hade Japan redan krigat mot Kina sedan 1937.
+
+    Två allianser stod mot varandra: axelmakterna (Tyskland, Italien, Japan) och de allierade (Storbritannien, Sovjetunionen från 1941, USA från 1941 efter Japans anfall på [Pearl Harbor](#pearl-harbor), Kina m.fl.). Vändpunkterna kom 1942–43: [Stalingrad](#stalingrad), Midway i Stilla havet och El Alamein i Nordafrika. Sovjetunionen bar den tyngsta bördan med uppskattningsvis 24–27 miljoner döda. Kriget i Europa slutade 8 maj 1945, i Asien efter atombomberna i augusti 1945.
+
+    Kriget formade världen vi lever i: [FN bildades](#fn-1945), USA och Sovjet blev supermakter och det kalla kriget följde, Europa delades, kolonialväldena föll inom några decennier, och tekniker som radar, jetmotorer, raketer, kärnvapen och de första elektroniska datorerna (för kodknäckning och ballistik) växte fram ur krigsforskningen.
+
+marshallplanen:
+  period: 1940
+  label: "Marshallplanen"
+  title: "Marshallplanen 1948–52"
+  wiki:
+    - "sv:Marshallplanen"
+  text: |
+    Marshallplanen, officiellt European Recovery Program, var ett amerikanskt biståndsprogram för att återuppbygga Västeuropa efter [andra världskriget](#andra-varldskriget). Den föreslogs 1947 av USA:s utrikesminister **George Marshall**, tidigare arméchef.
+
+    1948–1952 gav USA omkring 13 miljarder dollar, motsvarande över 150 miljarder dollar i dagens penningvärde och omkring 5 % av USA:s BNP under ett år. Pengarna gick till mat, bränsle, maskiner och infrastruktur i 16 länder; störst mottagare var Storbritannien, Frankrike och Västtyskland. Sverige deltog också, främst som exportör.
+
+    Syftet var både humanitärt och strategiskt: ett fattigt Europa riskerade att bli kommunistiskt. Sovjetunionen tackade nej och tvingade sina östeuropeiska satellitstater att göra detsamma, vilket fördjupade [delningen av Europa](#jarnridan). Planen krävde att mottagarländerna samarbetade, vilket lade grunden för europeisk integration (se [Romfördraget 1957](#romfordraget-1957)). Den ses ofta som ett av de mest framgångsrika biståndsprogrammen i historien.
+
+nato-1949:
+  period: 1940
+  label: "NATO 1949"
+  title: "NATO 1949"
+  wiki:
+    - "sv:Nato"
+  text: |
+    NATO (North Atlantic Treaty Organization, Nordatlantiska fördragsorganisationen) är en militärallians som bildades 4 april 1949 av USA, Kanada och tio västeuropeiska länder, bland dem Storbritannien, Frankrike, Norge och Danmark. Bakgrunden var Sovjetunionens kontroll över Östeuropa och Berlinblockaden 1948–49.
+
+    Kärnan är artikel 5: ett väpnat angrepp mot ett medlemsland ska betraktas som ett angrepp mot alla. Den har bara åberopats en gång, efter terrorattackerna mot USA [11 september 2001](#september-2001-11). NATO:s förste generalsekreterare sammanfattade syftet som att hålla ryssarna ute, amerikanerna inne och tyskarna nere. Västtyskland gick med 1955, och Sovjet svarade samma år med Warszawapakten.
+
+    Sverige och Finland valde alliansfrihet under kalla kriget. Efter [Sovjetunionens fall 1991](#sovjet-faller-1991) utvidgades NATO österut med tidigare östblocksländer, något Ryssland såg som ett hot. Efter [Rysslands fullskaliga invasion av Ukraina 2022](#rysslands-invasion-av-ukraina-2022) sökte Finland och Sverige medlemskap; [Finland blev medlem 2023 och Sverige 2024](#finland-2023-och-sverige-2024-i-nato). Alliansen har idag 32 medlemmar.
+
+romfordraget-1957:
+  period: 1940
+  label: "Romfördraget 1957"
+  title: "Romfördraget 1957"
+  wiki:
+    - "sv:Romfördragen"
+    - "sv:Europeiska ekonomiska gemenskapen"
+  text: |
+    Romfördraget undertecknades 25 mars 1957 av sex länder: Frankrike, Västtyskland, Italien, Belgien, Nederländerna och Luxemburg. Det skapade Europeiska ekonomiska gemenskapen (EEG), ofta kallad den gemensamma marknaden, föregångaren till dagens EU.
+
+    Idén var att knyta samman ekonomierna, särskilt Frankrikes och Tysklands, så att krig mellan dem skulle bli omöjligt – efter tre krig mellan dem på 70 år (1870, 1914, 1939). Ett första steg var Kol- och stålunionen 1951, som lade de två viktigaste krigsindustrierna under gemensam kontroll. Romfördraget gick längre: en [tullunion](#tullunionen-1834) där tullar mellan länderna avskaffades till 1968, gemensam handelspolitik, och en gemensam jordbrukspolitik. Ett parallellt fördrag skapade Euratom för samarbete om kärnkraft.
+
+    Gemenskapen växte från sex till 28 medlemmar (27 efter [Brexit 2020](#brexit-2020)). [Sverige gick med 1995](#eu-1995). [Maastrichtfördraget 1992](#eu-1993) skapade EU och lade grunden för euron 1999.
+
+pragvaren-1968:
+  period: 1960
+  label: "Pragvåren 1968"
+  title: "Pragvåren 1968"
+  wiki:
+    - "sv:Pragvåren"
+    - "en:Warsaw Pact invasion of Czechoslovakia"
+  text: |
+    Tjeckoslovakien var sedan 1948 en kommunistisk satellitstat under Sovjetunionen. I januari 1968 blev reformkommunisten **Alexander Dubček** partiledare och lovade ”socialism med mänskligt ansikte”: censuren avskaffades i praktiken, folk fick resa och diskutera fritt, och ekonomin skulle bli mindre styrd. Våren 1968 blomstrade debatt, press och kultur.
+
+    Sovjetledaren **Leonid Brezjnev** fruktade att reformerna skulle sprida sig och hota hela östblocket. Natten mot den 21 augusti 1968 invaderade Warszawapakten (Sovjets militärallians) med uppskattningsvis 250 000 soldater och tusentals stridsvagnar. Tjeckoslovakerna gjorde mest passivt motstånd, men över hundra civila dödades. Dubček fördes till Moskva och avsattes året därpå.
+
+    Därefter följde 20 år av ”normalisering”: utrensningar, censur och stillastående. Sovjet motiverade invasionen med att socialistiska länder inte fick överge socialismen – den så kallade Brezjnevdoktrinen. Jämför med Ungernrevolten 1956, som slogs ned betydligt blodigare, och med [Solidaritet i Polen 1980](#solidaritet) (se det). Först 1989, när Gorbatjov övergett doktrinen, kom den fredliga ”sammetsrevolutionen”, och dramatikern Václav Havel blev president.
+
+    Se även [maj 1968](#maj-1968).
+
+solidaritet:
+  period: 1980
+  label: "Solidaritet"
+  title: "Solidaritet i Polen 1980"
+  wiki:
+    - "sv:Solidarność"
+    - "sv:Lech Wałęsa"
+  text: |
+    Polen var kommunistisk diktatur under sovjetisk kontroll, men med en stark katolsk kyrka – stärkt ytterligare 1978 när den polske kardinalen Karol Wojtyła blev påve Johannes Paulus II. Efter prishöjningar på kött strejkade arbetarna vid Leninvarvet i Gdańsk i augusti 1980. De leddes av elektrikern **Lech Wałęsa**.
+
+    Regimen tvingades godkänna **Solidaritet** (Solidarność), östblockets första fria fackförening, som inte styrdes av kommunistpartiet. Inom ett år hade den omkring 10 miljoner medlemmar, ungefär en tredjedel av Polens vuxna – i praktiken en folkrörelse. Under hot om sovjetisk invasion införde general Wojciech Jaruzelski undantagstillstånd i december 1981. Solidaritet förbjöds, tusentals greps, och rörelsen gick under jorden. Wałęsa fick Nobels fredspris 1983.
+
+    När ekonomin försämrades och Gorbatjov inte längre stödde hårda tag, förhandlade regimen 1989 med Solidaritet vid ”det runda bordet”. I det delvis fria valet i juni 1989 vann Solidaritet nästan alla platser som var öppna för konkurrens, och i augusti fick Polen östblockets första icke-kommunistiska regeringschef. Det startade dominoeffekten som ledde till [Berlinmurens fall](#murens-fall-1989) (se det). Wałęsa blev president 1990. Jämför med [Pragvåren 1968](#pragvaren-1968), som slogs ned.
+
+jugoslaviska-krigen:
+  period: 1980
+  label: "Jugoslaviska krigen"
+  title: "De jugoslaviska krigen 1991–2001"
+  wiki:
+    - "sv:Jugoslaviska krigen"
+    - "sv:Massakern i Srebrenica"
+  text: |
+    Jugoslavien var en kommunistisk federation av sex republiker – Slovenien, Kroatien, Bosnien-Hercegovina, Serbien, Montenegro och Makedonien – med många folkgrupper och religioner: katolska kroater, ortodoxa serber och muslimska bosniaker. Landet hölls ihop av partisanledaren **Tito**, som styrde 1945–1980 och stod utanför både Nato och Sovjetblocket. Efter hans död kom ekonomisk kris och växande nationalism, framför allt under Serbiens ledare **Slobodan Milošević**.
+
+    När Slovenien och Kroatien förklarade sig självständiga 1991 utbröt krig, och 1992 i Bosnien. Bosnienkriget 1992–95 var värst: ”etnisk rensning”, alltså fördrivning och mord för att skapa etniskt rena områden, belägringen av Sarajevo i nästan fyra år, och massmordet i **Srebrenica** i juli 1995, där bosnienserbiska styrkor dödade omkring 8 000 muslimska män och pojkar trots att staden var ett FN-skyddat område.
+
+    Totalt dog omkring 130 000–140 000 människor i krigen och miljontals fördrevs; Sverige tog emot över 100 000 flyktingar, främst från Bosnien. Bosnienkriget avslutades efter Natobombningar med Daytonavtalet 1995. Kosovokriget 1998–99 slutade efter att Nato bombade Serbien. Det var de första krigen i Europa sedan 1945, och en internationell domstol i Haag dömde flera ledare för folkmord och krigsbrott; Milošević dog under rättegången 2006.
+
+    Jämför med [Rwanda 1994](#rwanda-1994).
+
+eu-1993:
+  period: 1980
+  label: "EU 1993"
+  title: "Europeiska unionen bildas 1993"
+  wiki:
+    - "sv:Europeiska unionen"
+    - "sv:Maastrichtfördraget"
+  text: |
+    EU bildades genom **Maastrichtfördraget**, som undertecknades 1992 och trädde i kraft den 1 november 1993. Det byggde vidare på EG (se [EG 1973](#eg-1973)), som främst var ett ekonomiskt samarbete om tullar, handel och jordbruk mellan då tolv länder.
+
+    Nytt var att samarbetet utvidgades till politiska områden: gemensam utrikes- och säkerhetspolitik, samarbete om polis och rättsväsende, ett EU-medborgarskap och en plan för en gemensam valuta. Samtidigt infördes den **inre marknaden** 1993: fri rörlighet för varor, tjänster, kapital och personer. Drivkrafterna var bland annat att binda det just återförenade Tyskland till Europa (se [återföreningen 1990](#aterforeningen-1990)), med Frankrikes Mitterrand och Tysklands Kohl i spetsen.
+
+    Danmark röstade först nej till fördraget 1992 och fick undantag, bland annat från euron. Euron infördes som kontovaluta 1999 och sedlar 2002. Sverige gick med 1995 (se [EU 1995](#eu-1995)). Den stora utvidgningen 2004 tog in tio länder, mest före detta östblocksländer. EU har i dag 27 medlemmar och omkring 450 miljoner invånare, efter att Storbritannien lämnade 2020. Jämför med [FN 1945](#fn-1945) – EU är långt mer överstatligt, med lagar som går före nationell lag.
+
+eu-utvidgas-2004:
+  period: 2000
+  label: "EU utvidgas 2004"
+  title: "EU:s östutvidgning 2004"
+  wiki:
+    - "en:2004 enlargement of the European Union"
+    - "sv:Europeiska unionen"
+  text: |
+    Den 1 maj 2004 blev tio nya länder medlemmar i **Europeiska unionen**: Polen, Tjeckien, Slovakien, Ungern, Slovenien, Estland, Lettland, Litauen, Malta och Cypern. Det var den största utvidgningen i EU:s historia och ökade befolkningen med omkring 75 miljoner till cirka 450 miljoner. Bulgarien och Rumänien följde 2007, Kroatien 2013.
+
+    Åtta av länderna hade varit kommunistdiktaturer under sovjetisk kontroll fram till 1989–91, och de tre baltiska staterna hade varit delar av Sovjetunionen. För dem var medlemskapet – tillsammans med NATO-medlemskapet samma år – ett sätt att förankra sig i väst för gott. För att bli medlemmar hade de fått genomföra omfattande reformer av rättsväsende, marknad och demokrati.
+
+    De nya länderna var betydligt fattigare: Polens BNP per person var ungefär hälften av EU-snittet. Tillväxten blev sedan snabb, delvis med hjälp av EU-stöd. Fri rörlighet ledde till att miljontals människor flyttade västerut för arbete, framför allt till Storbritannien, vilket blev en viktig fråga i [Brexit-debatten](#brexit-2020). Ryssland såg utvidgningen österut som ett hot, något som anknyter till [Georgien 2008](#georgien-2008) och [Krim 2014](#krim-2014).
+
+eurokrisen:
+  period: 2000
+  label: "eurokrisen"
+  title: "Eurokrisen 2010–2015"
+  wiki:
+    - "sv:Eurokrisen"
+    - "en:Euro area crisis"
+  text: |
+    **Eurokrisen** var en skuldkris i flera av de länder som använder euron. Efter eurons införande kunde länder som Grekland, Portugal, Spanien och Irland låna nästan lika billigt som Tyskland. Pengarna gick till statliga utgifter (Grekland) eller till fastighetsbubblor (Spanien, Irland). När [finanskrisen 2008](#finanskrisen-2008) slog till sjönk skatteintäkterna och bankerna behövde räddas.
+
+    Hösten 2009 avslöjade en ny grekisk regering att budgetunderskottet var ungefär dubbelt så stort som tidigare rapporterats, över 12 % av BNP. Investerare slutade låna ut och räntorna steg. Eftersom länderna delade valuta kunde de inte devalvera för att bli mer konkurrenskraftiga. Grekland, Irland, Portugal och Cypern fick nödlån från EU och IMF – Grekland sammanlagt runt 250–290 miljarder euro – mot krav på hårda åtstramningar.
+
+    Greklands ekonomi krympte med ungefär en fjärdedel, i nivå med USA under [1930-talets depression](#depressionen), och ungdomsarbetslösheten nådde omkring 50 % i Grekland och Spanien. Krisen dämpades 2012 när ECB-chefen Mario Draghi lovade att göra "vad som än krävs" för att rädda euron. Den gav näring åt populistiska partier och spänningar mellan Nord- och Sydeuropa. Se även [Merkel](#merkel) och [Euron 2002](#euron-2002).
+
+rysslands-invasion-av-ukraina-2022:
+  period: 2020
+  label: "Rysslands invasion av Ukraina 2022"
+  title: "Rysslands fullskaliga invasion av Ukraina 2022"
+  wiki:
+    - "sv:Rysslands invasion av Ukraina 2022"
+    - "en:Russian invasion of Ukraine"
+  text: |
+    Den 24 februari 2022 inledde Ryssland en fullskalig invasion av **Ukraina**, ett land med då runt 40 miljoner invånare, med uppskattningsvis 150 000–190 000 soldater från norr, öster och söder. [Putin](#putin-2000) kallade det en "särskild militär operation" och hävdade att Ukraina skulle "avnazifieras" – i praktiken var målet att störta den valda regeringen. Det var det största anfallskriget i Europa sedan andra världskriget.
+
+    Planen att ta huvudstaden Kiev på några dagar misslyckades. President **Volodymyr Zelenskyj**, en före detta komiker, stannade kvar, och Ukraina slog tillbaka ryssarna från norr och återtog senare områden runt Charkiv och Cherson hösten 2022. Massgravar och avrättade civila i förorten Butja blev en symbol för krigsbrotten. Därefter blev kriget ett utdraget skyttegravs- och drönarkrig, med en front på över 1 000 km.
+
+    För Europa var invasionen en vändpunkt. Omkring 6 miljoner ukrainare flydde till andra europeiska länder. EU och USA införde omfattande sanktioner och gav vapen och ekonomiskt stöd i hundratals miljarder euro. Europa avvecklade större delen av sitt beroende av rysk gas, vilket gav [energikrisen 2022](#energikris). Finland och Sverige övergav sin alliansfrihet och [gick med i NATO](#finland-2023-och-sverige-2024-i-nato). Se även [Krig mot Ukraina](#krig-mot-ukraina) och [Krim 2014](#krim-2014).
+
+energikris:
+  period: 2020
+  label: "energikris"
+  title: "Energikrisen i Europa 2021–2023"
+  wiki:
+    - "en:2021–2023 global energy crisis"
+    - "en:Russia in the European energy sector"
+  text: |
+    Före 2022 kom omkring 40 % av EU:s naturgas från Ryssland, till stor del genom rörledningar. Tyskland var särskilt beroende, eftersom landet valt att avveckla kärnkraften och använde gas för både uppvärmning och industri. Redan hösten 2021 steg priserna när ekonomin återhämtade sig efter pandemin, och Ryssland minskade leveranserna.
+
+    Efter [invasionen av Ukraina](#rysslands-invasion-av-ukraina-2022) i februari 2022 strypte Ryssland gasflödet till Europa nästan helt, och i september 2022 sprängdes gasledningarna Nord Stream 1 och 2 i Östersjön, utanför Bornholm. Priset på gas i Europa var under sommaren 2022 tidvis omkring tio gånger högre än normalt. Eftersom elpriset ofta sätts av det dyraste kraftverket som behövs – ofta ett gaskraftverk – slog det igenom på elpriset; i södra Sverige kunde elpriset vintern 2022–23 vara flera kronor per kilowattimme mot normalt runt en halv krona.
+
+    Inflationen i Europa nådde över 10 % hösten 2022, den högsta sedan 1970-talets oljekriser, och centralbankerna höjde räntorna kraftigt. Europa ersatte rysk gas med flytande naturgas (LNG) som fraktas med fartyg, främst från USA och Qatar, samt med energisparande och snabb utbyggnad av sol- och vindkraft. Jämför med [oljekrisen 1973](#yom-kippur-1973-oljekris). Se även [Merkel](#merkel).

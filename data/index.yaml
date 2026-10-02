@@ -1,0 +1,29 @@
+# Tidslinjens kolumner i visningsordning. Varje kolumn har sin fil: data/<id>.yaml
+# tillagd: true markerar kolumner som inte fanns i den ursprungliga beställningen.
+perioder: {start: 1000, slut: 2020, steg: 20}
+kolumner:
+  - {id: england, name: "England / Storbritannien", tillagd: false}
+  - {id: frankrike, name: "Frankrike", tillagd: false}
+  - {id: tyskland, name: "Tyskland", tillagd: false}
+  - {id: iberien, name: "Spanien / Portugal", tillagd: false}
+  - {id: europa, name: "Europa (övriga)", tillagd: false}
+  - {id: sverige, name: "Sverige", tillagd: true}
+  - {id: norden, name: "Norden (övriga)", tillagd: true}
+  - {id: ryssland, name: "Ryssland", tillagd: false}
+  - {id: mellanostern, name: "Mellanöstern", tillagd: false}
+  - {id: orienten, name: "Orienten", tillagd: false}
+  - {id: afrika, name: "Afrika", tillagd: false}
+  - {id: indien, name: "Indien", tillagd: false}
+  - {id: kina, name: "Kina", tillagd: false}
+  - {id: japan, name: "Japan", tillagd: false}
+  - {id: sydostasien, name: "Sydostasien", tillagd: false}
+  - {id: nordamerika, name: "Nordamerika", tillagd: false}
+  - {id: latinamerika, name: "Syd-/Centralamerika", tillagd: false}
+  - {id: oceanien, name: "Australien / Oceanien", tillagd: false}
+  - {id: ovrigt, name: "Övrigt", tillagd: false}
+  - {id: globalt, name: "Globalt / vetenskap", tillagd: true}
+  - {id: fysik, name: "Fysik & astronomi", tillagd: true}
+  - {id: matematik, name: "Matematik", tillagd: true}
+  - {id: teknik, name: "Teknik & elektricitet", tillagd: true}
+  - {id: biologi, name: "Biologi & medicin", tillagd: true}
+  - {id: konst, name: "Konsthistoria", tillagd: true}

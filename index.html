@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Världstidslinje 1000–idag</title>
+<meta name="description" content="Världshistoria 1000–idag i 20-årssteg per region och tema, med förklarande artiklar bakom varje punkt.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700&family=Alegreya+Sans:wght@400;500;700&display=swap">
+<style>*,*::before,*::after{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,sans-serif}[hidden]{display:none!important}</style>
+<style>
+/* Layout: en bred tabell med fast årskolumn och fast rubrikrad; regionflikar ovanför för att visa/dölja kolumner */
+:root{
+  --bg:#f3f4f2; --panel:#ffffff; --fg:#1d2328; --muted:#5d6870; --line:#d6dad8;
+  --accent:#1f4e79; --century:#e6ebef; --hit:#fde9a6;
+  --display:"Alegreya SC", Georgia, serif;
+  --body:"Alegreya Sans", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#14181b; --panel:#1b2024; --fg:#e3e6e8; --muted:#97a2aa; --line:#2e363c;
+  --accent:#8fb8de; --century:#222b32; --hit:#5a4a12; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#14181b; --panel:#1b2024; --fg:#e3e6e8; --muted:#97a2aa; --line:#2e363c;
+  --accent:#8fb8de; --century:#222b32; --hit:#5a4a12; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:14px;padding-inline:16px;padding-block:20px 40px}
+h1{font-family:var(--display);font-weight:700;font-size:1.9rem;margin:0 0 .2rem;color:var(--accent);text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 1rem;max-width:70ch}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:12px}
+#q{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg);min-width:0;width:16rem;max-width:100%}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:inherit;font-size:12.5px;padding:3px 9px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--fg);cursor:pointer}
+.chip[aria-pressed="false"]{opacity:.45;text-decoration:line-through}
+.chip:focus-visible,#q:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{overflow:auto;max-height:80vh;border:1px solid var(--line);border-radius:6px;background:var(--panel)}
+table{border-collapse:separate;border-spacing:0;font-size:13px;line-height:1.35}
+th,td{border-right:1px solid var(--line);border-bottom:1px solid var(--line);padding:6px 8px;vertical-align:top;text-align:left}
+td{min-width:13rem;max-width:15rem}
+thead th{position:sticky;top:0;background:var(--panel);z-index:2;font-family:var(--display);font-weight:500;font-size:14px;color:var(--accent);white-space:nowrap}
+th.yr{position:sticky;left:0;z-index:1;background:var(--panel);font-family:var(--display);font-variant-numeric:tabular-nums;color:var(--accent);white-space:nowrap}
+thead th.yr{z-index:3}
+tr.c td,tr.c th.yr{background:var(--century)}
+td ul{margin:0;padding-left:1em}
+td li{margin:0 0 2px}
+td.added{font-style:normal}
+th.added::after{content:" *";color:var(--muted)}
+mark{background:var(--hit);color:inherit;border-radius:2px}
+tr.dim{opacity:.25}
+.note{color:var(--muted);font-size:12.5px;margin-top:10px;max-width:80ch}
+#pop{position:fixed;z-index:20;width:min(30rem,calc(100vw - 32px));max-height:min(70vh,36rem);overflow:auto;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,.18);padding:14px 16px 12px;font-size:14px;line-height:1.5}
+#pop h2{font-family:var(--display);font-weight:700;font-size:1.15rem;color:var(--accent);margin:0 0 .15rem;text-wrap:balance}
+#pop .meta{color:var(--muted);font-size:12px;margin-bottom:.5rem;letter-spacing:.02em}
+#pop p{margin:0 0 .6rem}
+#pop .wk{display:flex;flex-wrap:wrap;gap:6px;border-top:1px solid var(--line);padding-top:8px;margin-top:4px}
+#pop .wk a{font-size:12.5px;color:var(--accent);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:2px 9px}
+#pop .wk a:hover,#pop .wk a:focus-visible{background:var(--century);outline:none}
+#pop .pin{position:absolute;top:8px;right:10px;font-size:11px;color:var(--muted)}
+#wpv{position:fixed;z-index:21;width:min(22rem,calc(100vw - 32px));background:var(--panel);border:1px solid var(--accent);border-radius:6px;padding:10px 12px;font-size:13px;line-height:1.45;box-shadow:0 8px 24px rgba(0,0,0,.2)}
+#wpv b{display:block;color:var(--accent);margin-bottom:3px}
+#wpv .src{color:var(--muted);font-size:11.5px;margin-top:5px}
+td li.has{cursor:help;text-decoration:underline dotted var(--muted);text-underline-offset:3px}
+td li.has:hover,td li.on{color:var(--accent);text-decoration-color:var(--accent)}
+.hits{color:var(--muted);font-size:12.5px;min-height:1em}
+td li.miss{opacity:.35}
+td li.deep{border-left:2px solid var(--hit);padding-left:4px;margin-left:-6px}
+.dash{color:var(--muted)}
+#pop a.ref{color:var(--accent);text-decoration:underline dotted;text-underline-offset:3px;cursor:pointer}
+#pop a.ref:hover{text-decoration-style:solid}
+#pop .bar{display:flex;justify-content:space-between;align-items:center;min-height:0}
+#pop .bar:empty{display:none}
+#pop button.back,#pop button.goto{font:inherit;font-size:12px;background:none;border:1px solid var(--line);border-radius:999px;color:var(--accent);padding:1px 8px;cursor:pointer}
+#pop .pin{position:static}
+@keyframes fl{0%,40%{background:var(--hit)}100%{background:transparent}}
+td li.flash{animation:fl 1.6s ease-out}
+@media (prefers-reduced-motion:reduce){td li.flash{animation:none;background:var(--hit)}}
+#pop .meta a{color:var(--muted)}
+#pop .md a:not(.ref){color:var(--accent)}
+footer{margin-top:14px}
+</style>
+</head>
+<body>
+<h1>Världstidslinje 1000–idag</h1>
+<p class="sub">En rad per 20-årsperiod (raden 1340 = 1340–1359). Stödord om upptäckter, vetenskap och teknik, kolonisering, krig, sjukdomar, politik och konst. Klicka på en kolumn för att dölja eller visa den.</p>
+<div class="controls">
+  <input id="q" type="search" placeholder="Sök, t.ex. elektricitet, pest, Kalmar" aria-label="Sök">
+  <div class="chips" id="chips"></div>
+</div>
+<div class="hits" id="hits" aria-live="polite">Laddar data …</div>
+<div class="wrap"><table id="t"><thead></thead><tbody></tbody></table></div>
+<div id="pop" hidden role="dialog" aria-live="polite"></div><div id="wpv" hidden></div>
+<p class="note">Håll muspekaren över en punkt för en förklarande artikel (klicka för att låsa den, Esc stänger). Understrukna ord i artiklarna leder till andra punkter. Sökningen letar även i artiklarna och döljer perioder och kolumner utan träff; punkter med gul kant matchar bara i artikeltexten. En låst artikel får en egen adress (#id) som går att dela.</p>
+<p class="note">Kolumner markerade med * är tillägg till den ursprungliga indelningen. "Orienten" är Persien, Centralasien och stäppfolken; Mellanöstern är Levanten, Arabien, Egypten, Mesopotamien och Anatolien. Texterna är skrivna med AI och inte faktagranskade. Datat ligger som YAML och Markdown i <a href="https://github.com/larsr/tidslinje">github.com/larsr/tidslinje</a>.</p>
+
+<footer><p class="note">Senast uppdaterad: <!--UPDATED-->ej byggd<!--/UPDATED-->.</p></footer>
+
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<script>
+const REPO='https://github.com/larsr/tidslinje/blob/main/data/';
+let COLS=[], PERIODS=[], NODES={}, GRID=[];        // GRID[periodIndex][colIndex] = [nod, …]
+const HTML={}, PLAIN={}, WIKI={};
+const q=document.getElementById('q'), thead=document.querySelector('#t thead'), tbody=document.querySelector('#t tbody'),
+      chips=document.getElementById('chips'), hits=document.getElementById('hits'),
+      pop=document.getElementById('pop'), wpv=document.getElementById('wpv'), wrap=document.querySelector('.wrap');
+let hidden=new Set();
+try{hidden=new Set(JSON.parse(localStorage.getItem('tl-hidden2')||'[]'))}catch(e){}
+
+// ---------- data ----------
+async function yaml(path){const r=await fetch(path);if(!r.ok)throw new Error(path+': '+r.status);return jsyaml.load(await r.text())}
+async function load(){
+  const idx=await yaml('data/index.yaml');
+  COLS=idx.kolumner;
+  for(let y=idx.perioder.start;y<=idx.perioder.slut;y+=idx.perioder.steg)PERIODS.push(y);
+  GRID=PERIODS.map(()=>COLS.map(()=>[]));
+  const files=await Promise.all(COLS.map(c=>yaml(`data/${c.id}.yaml`)));
+  files.forEach((d,ci)=>{for(const [id,n] of Object.entries(d||{})){
+    n.id=id; n.ci=ci; NODES[id]=n;
+    const pi=PERIODS.indexOf(n.period); if(pi<0){console.warn('okänd period',id,n.period);continue}
+    GRID[pi][ci].push(n);
+  }});
+  for(const n of Object.values(NODES)) if(n.same_as&&!NODES[n.same_as]) console.warn('same_as saknas',n.id,n.same_as);
+}
+const art=n=>n&&n.same_as?NODES[n.same_as]||n:n;
+function html(n){const a=art(n);if(!(a.id in HTML))HTML[a.id]=DOMPurify.sanitize(marked.parse(a.text||''));return HTML[a.id]}
+function plain(n){const a=art(n);if(!(a.id in PLAIN))PLAIN[a.id]=((a.title||'')+' '+(a.text||'')).replace(/\]\(#[^)]*\)/g,'').replace(/[*\\[\]]/g,'').toLowerCase();return PLAIN[a.id]}
+const per=y=>`${y}–${y===PERIODS[PERIODS.length-1]?'idag':y+19}`;
+
+// ---------- tabell ----------
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function rx(t){return new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi')}
+function hl(s,t){s=esc(s);return t?s.replace(rx(t),'<mark>$1</mark>'):s}
+function hit(n,t){if(!t)return 0;const l=t.toLowerCase();return n.label.toLowerCase().includes(l)?2:(plain(n).includes(l)?1:0)}
+function render(){
+  const t=q.value.trim();
+  let cis=COLS.map((c,i)=>i).filter(i=>!hidden.has(COLS[i].id)), pis=PERIODS.map((p,i)=>i), nh=0;
+  if(t){const cs=new Set(),ps=new Set();
+    pis.forEach(pi=>cis.forEach(ci=>GRID[pi][ci].forEach(n=>{if(hit(n,t)){cs.add(ci);ps.add(pi);nh++}})));
+    cis=cis.filter(i=>cs.has(i)); pis=pis.filter(i=>ps.has(i));}
+  hits.textContent=t?(nh?`${nh} träffar i ${pis.length} perioder och ${cis.length} kolumner`:'Inga träffar'):'';
+  thead.innerHTML='<tr><th class="yr">År</th>'+cis.map(ci=>`<th class="${COLS[ci].tillagd?'added':''}">${esc(COLS[ci].name)}</th>`).join('')+'</tr>';
+  tbody.innerHTML=pis.map(pi=>{const y=PERIODS[pi];
+    return `<tr class="${y%100===0?'c':''}"><th class="yr">${per(y)}</th>`+cis.map(ci=>{const ns=GRID[pi][ci];
+      if(!ns.length)return '<td><span class="dash">–</span></td>';
+      return '<td><ul>'+ns.map(n=>{const h=hit(n,t);return `<li class="has${t&&!h?' miss':''}${h===1?' deep':''}" data-id="${n.id}" tabindex="0">${hl(n.label,t)}</li>`}).join('')+'</ul></td>'}).join('')+'</tr>'}).join('');
+  if(cur){const li=findLi(cur.dataset.id);if(li){cur=li;li.classList.add('on')}}
+}
+
+// ---------- popup ----------
+let cur=null, curId=null, pinned=false, showT=0, hideT=0, hist=[], hov=null;
+const LIVE={};
+function liveWiki(k){
+  if(k in LIVE)return LIVE[k];
+  const i=k.indexOf(':'),lang=k.slice(0,i),t=k.slice(i+1);
+  return LIVE[k]=fetch(`https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(t.replace(/ /g,'_'))}?redirect=true`)
+    .then(x=>x.ok?x.json():null).then(j=>j&&j.extract&&j.type!=='disambiguation'?(WIKI[k]={title:j.title,lang,x:j.extract}):null).catch(()=>null);
+}
+function wikiUrl(k){const i=k.indexOf(':'),lang=k.slice(0,i),t=k.slice(i+1);return `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(t.replace(/ /g,'_'))}`}
+function place(el,anchor,mode){
+  const r=anchor.getBoundingClientRect(),vw=innerWidth,vh=innerHeight;
+  el.style.left='0px';el.style.top='0px';const w=el.offsetWidth,h=el.offsetHeight,g=10;let x,y;
+  if(mode==='below'){x=Math.max(8,Math.min(vw-w-8,r.left));y=r.bottom+6;if(y+h>vh-8)y=Math.max(8,r.top-h-6)}
+  else{x=r.right+g;if(x+w>vw-8)x=r.left-w-g;if(x<8)x=Math.max(8,Math.min(vw-w-8,r.left));y=Math.max(8,Math.min(vh-h-8,r.top-8));
+    if(x<r.right&&x+w>r.left){y=r.bottom+6;if(y+h>vh-8)y=Math.max(8,r.top-h-6)}}
+  el.style.left=x+'px';el.style.top=y+'px';
+}
+function markSearch(root,t){if(!t)return;const re=rx(t),w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT),ts=[];while(w.nextNode())ts.push(w.currentNode);
+  ts.forEach(n=>{if(!re.test(n.data))return;re.lastIndex=0;const s=document.createElement('span');s.innerHTML=esc(n.data).replace(re,'<mark>$1</mark>');n.replaceWith(...s.childNodes)})}
+function fill(id){
+  const n=NODES[id],a=art(n);curId=id;
+  const links=(a.wiki||[]).map(k=>{const i=k.indexOf(':');return `<a href="${esc(wikiUrl(k))}" target="_blank" rel="noopener" data-k="${esc(k)}">${k.slice(0,i)==='sv'?'Wikipedia':'Wikipedia ('+esc(k.slice(0,i))+')'}: ${esc(k.slice(i+1))}</a>`}).join('');
+  pop.innerHTML=`<div class="bar">${hist.length?'<button type="button" class="back">← Tillbaka</button>':''}<span class="pin">${pinned?'Esc stänger':''}</span></div>
+    <h2>${esc(a.title||n.label)}</h2>
+    <div class="meta">${esc(COLS[n.ci].name)} · ${per(n.period)} · <button type="button" class="goto">Visa i tabellen</button> · <a class="src" href="${REPO}${COLS[a.ci].id}.yaml" target="_blank" rel="noopener">källa</a></div>
+    <div class="md">${html(n)}</div>${links?'<div class="wk">'+links+'</div>':''}`;
+  pop.querySelectorAll('.md a').forEach(x=>{const h=x.getAttribute('href')||'';
+    if(h.startsWith('#')&&NODES[h.slice(1)]){x.classList.add('ref');x.dataset.id=h.slice(1)} else {x.target='_blank';x.rel='noopener'}});
+  markSearch(pop.querySelector('.md'),q.value.trim());
+  pop.scrollTop=0;
+  if(pinned)history.replaceState(null,'','#'+id);
+}
+function open(li){if(cur)cur.classList.remove('on');cur=li;li.classList.add('on');hist=[];fill(li.dataset.id);pop.hidden=false;place(pop,li)}
+function close(){pop.hidden=true;wpv.hidden=true;if(pinned)history.replaceState(null,'',location.pathname+location.search);pinned=false;hist=[];if(cur){cur.classList.remove('on');cur=null}}
+function findLi(id){return tbody.querySelector(`li[data-id="${CSS.escape(id)}"]`)}
+function goto(id){
+  let li=findLi(id);
+  if(!li){q.value='';hidden.delete(COLS[NODES[id].ci].id);syncChips();render();li=findLi(id)}
+  if(!li)return;
+  li.scrollIntoView({block:'center',inline:'center',behavior:'smooth'});
+  li.classList.remove('flash');void li.offsetWidth;li.classList.add('flash');
+  if(cur)cur.classList.remove('on');cur=li;li.classList.add('on');
+  setTimeout(()=>{if(!pop.hidden)place(pop,li)},450);
+}
+tbody.addEventListener('mouseover',e=>{const li=e.target.closest('li.has');if(!li||pinned)return;clearTimeout(hideT);clearTimeout(showT);if(li===cur&&!pop.hidden)return;showT=setTimeout(()=>open(li),220)});
+tbody.addEventListener('mouseout',e=>{if(!e.target.closest('li.has'))return;clearTimeout(showT);if(!pinned)hideT=setTimeout(close,320)});
+tbody.addEventListener('click',e=>{const li=e.target.closest('li.has');if(!li)return;clearTimeout(showT);clearTimeout(hideT);if(pinned&&cur===li){close();return}pinned=true;open(li)});
+tbody.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('li.has')){e.preventDefault();pinned=true;open(e.target)}});
+pop.addEventListener('mouseenter',()=>clearTimeout(hideT));
+pop.addEventListener('mouseleave',e=>{if(!pinned&&!(e.relatedTarget&&wpv.contains(e.relatedTarget)))hideT=setTimeout(close,320)});
+wpv.addEventListener('mouseenter',()=>clearTimeout(hideT));
+document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+document.addEventListener('click',e=>{if(pinned&&!pop.contains(e.target)&&!wpv.contains(e.target)&&!e.target.closest('li.has'))close()});
+wrap.addEventListener('scroll',()=>{if(!pop.hidden&&cur)place(pop,cur)},{passive:true});
+pop.addEventListener('click',e=>{
+  const r=e.target.closest('a.ref');if(r){e.preventDefault();pinned=true;wpv.hidden=true;hist.push(curId);fill(r.dataset.id);goto(r.dataset.id);return}
+  if(e.target.closest('.back')){pinned=true;const p=hist.pop();fill(p);goto(p);return}
+  if(e.target.closest('.goto')){pinned=true;goto(curId)}
+});
+pop.addEventListener('mouseover',e=>{
+  const r=e.target.closest('a.ref'),a=e.target.closest('.wk a');
+  if(r){const n=NODES[r.dataset.id],x=art(n);const tmp=document.createElement('div');tmp.innerHTML=html(n);const first=(tmp.querySelector('p')||tmp).textContent;
+    wpv.innerHTML=`<b>${esc(x.title||n.label)}</b><div class="src" style="margin:0 0 4px">${esc(COLS[n.ci].name)} · ${per(n.period)}</div>${esc(first)}<div class="src">Klicka för att öppna och visa i tabellen</div>`;
+    wpv.hidden=false;place(wpv,r,'below');return}
+  if(a){const k=a.dataset.k;hov=a;const show=w=>{if(!w||hov!==a)return;wpv.innerHTML=`<b>${esc(w.title)}</b>${esc(w.x)}<div class="src">Inledningen ur ${w.lang}.wikipedia.org</div>`;wpv.hidden=false;place(wpv,a,'below')};
+    if(WIKI[k]){show(WIKI[k]);return}wpv.hidden=true;liveWiki(k).then(show)}
+});
+pop.addEventListener('mouseout',e=>{if(e.target.closest('a.ref,.wk a')){wpv.hidden=true;hov=null}});
+
+// ---------- kolumnknappar och sök ----------
+function syncChips(){chips.querySelectorAll('.chip').forEach(b=>b.setAttribute('aria-pressed',hidden.has(b.dataset.id)?'false':'true'))}
+let qT=0;q.addEventListener('input',()=>{clearTimeout(qT);qT=setTimeout(render,150)});
+load().then(()=>{
+  COLS.forEach(c=>{const b=document.createElement('button');b.className='chip';b.textContent=c.name;b.dataset.id=c.id;b.id='chip-'+c.id;
+    b.onclick=()=>{hidden.has(c.id)?hidden.delete(c.id):hidden.add(c.id);syncChips();try{localStorage.setItem('tl-hidden2',JSON.stringify([...hidden]))}catch(e){}render()};
+    chips.appendChild(b)});
+  syncChips();hits.textContent='';render();
+  const h=decodeURIComponent(location.hash.slice(1));
+  if(NODES[h]){goto(h);pinned=true;const li=findLi(h);if(li)setTimeout(()=>open(li),500)}
+}).catch(e=>{hits.textContent='Kunde inte läsa datat: '+e.message;console.error(e)});
+</script>
+</body>
+</html>

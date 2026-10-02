@@ -1,0 +1,776 @@
+# Syd-/Centralamerika
+# Varje nod: period (första året i 20-årsperioden), label (texten i tabellen),
+# title, wiki (språk:Artikel), text (Markdown; [text](#id) länkar till en annan nod).
+# same_as: id betyder att noden visar samma artikel som en annan nod.
+
+tolteker-i-tula:
+  period: 1000
+  label: "Tolteker i Tula"
+  title: "Toltekerna och Tula"
+  wiki:
+    - "sv:Tolteker"
+    - "en:Tula (Mesoamerican site)"
+  text: |
+    **Toltekerna** var ett folk i centrala Mexiko vars huvudstad **Tula** (Tollan) låg cirka 80 km norr om dagens Mexico City. Staden blomstrade omkring 950–1150 och kan ha haft 30 000–60 000 invånare. Den fyllde det maktvakuum som uppstått efter att den stora staden Teotihuacán fallit på 500-talet.
+
+    Mest kända är de så kallade **atlanterna** i Tula: fyra 4,6 meter höga stenstatyer av krigare med fjäderkrona och kastvapen, som bar upp taket på ett tempel. Toltekerna förknippas med en militaristisk kultur, med krigarordnar som jaguarer och örnar, och med kulten av den befjädrade ormguden **Quetzalcoatl**. Tula förstördes och övergavs omkring 1150–1200.
+
+    Toltekerna blev i efterhand en myt. [Aztekerna](#aztekerna-i-mexikodalen), som kom till makten i samma område på 1400-talet, såg dem som en guldålderns folk och ordet *toltecatl* betydde ”konstnär” eller ”mästare”. Aztekiska härskare ville gärna härleda sin släkt från toltekerna. Det är därför svårt att skilja verklig historia från senare legender. Starka likheter med [Chichén Itzá](#chichen-itza) på Yucatán tyder på nära kontakter mellan städerna.
+
+chichen-itza:
+  period: 1000
+  label: "Chichén Itzá"
+  title: "Chichén Itzá"
+  wiki:
+    - "sv:Chichén Itzá"
+  text: |
+    **Chichén Itzá** var en mayastad på norra Yucatánhalvön i Mexiko och den mäktigaste staden i mayaområdet omkring 900–1100. **Mayafolket** hade haft sin klassiska storhetstid med städer som Tikal i de södra regnskogarna 250–900, men där kollapsade samhällena under 800-talet, troligen på grund av torka, krig och överbefolkning. I norr levde dock städer vidare.
+
+    Det mest kända bygget är pyramiden **El Castillo** (tillägnad ormguden Kukulkan), 30 meter hög. Den är en stenkalender: fyra trappor med 91 steg var plus toppen ger 365. Vid vår- och höstdagjämningen bildar solljuset en skuggbild av en orm som ”kryper” nedför trappan. I staden finns också Mesoamerikas största bollplan, 168 meter lång, där man spelade ett rituellt bollspel med gummiboll, och en djup naturlig brunn, *cenote*, där människor och föremål offrades.
+
+    Arkitekturen har tydliga likheter med [Tula](#tolteker-i-tula) i centrala Mexiko, vilket tyder på kontakter eller inflytande från toltekerna. Staden förlorade sin ledande ställning kring 1200. Idag är den ett världsarv och besöks av över 2 miljoner turister per år.
+
+tiwanaku-och-wari-upploses:
+  period: 1000
+  label: "Tiwanaku och Wari upplöses"
+  title: "Tiwanaku och Wari upplöses"
+  wiki:
+    - "sv:Tiwanaku"
+    - "en:Wari culture"
+  text: |
+    I Anderna i Sydamerika fanns före inkariket två stora stater. **Tiwanaku** låg vid Titicacasjön i dagens Bolivia, på nästan 3 850 meters höjd. **Wari** låg i dagens centrala Peru. Båda fanns ungefär 500–1000 och räknas som Andernas första imperier.
+
+    Tiwanaku var ett religiöst och politiskt centrum med monumentala stenbyggnader som Solporten, och upp till uppskattningsvis 10 000–20 000 invånare i staden. Man odlade på upphöjda fält omgivna av vattenkanaler, en teknik som skyddade grödorna mot nattfrost på höghöjd. Wari byggde vägar och administrativa centra och använde troligen redan *quipu* – knutna snören för att föra räkenskaper, som inkafolket senare använde.
+
+    Wari kollapsade omkring 1000 och Tiwanaku omkring 1000–1100. Den vanligaste förklaringen är en lång period av torka, som kan avläsas i borrkärnor från Andernas glaciärer. Därefter splittrades regionen i mindre riken i flera hundra år. [Inkariket](#pachacuti-bygger-inkariket-1438), som uppstod på 1400-talet, ärvde mycket från dem: vägar, administration, quipu och mytologi – inkafolket ansåg att världen skapats vid Titicacasjön.
+
+chimu-riket-framvaxer-i-peru:
+  period: 1020
+  label: "Chimú-riket framväxer i Peru"
+  title: "Chimúriket växer fram"
+  wiki:
+    - "en:Chimú culture"
+    - "en:Chan Chan"
+  text: |
+    **Chimú** var ett rike på Perus norra kust, från cirka 900 till 1470. Kusten där är en av världens torraste öknar, korsad av floder från Anderna. Chimú byggde bevattningskanaler – en av dem cirka 80 km lång – och odlade i floddalarna.
+
+    Huvudstaden **Chan Chan** byggdes av soltorkat lertegel och täckte cirka 20 km² – världens största stad i lertegel – med uppskattningsvis 30 000–60 000 invånare. Den bestod av ett tiotal muromgärdade palatsområden, troligen ett för varje kung; när en kung dog blev hans palats hans gravplats och efterträdaren byggde ett nytt.
+
+    Varför det spelar roll: Chimú var det största riket i Anderna före inkariket, och kontrollerade cirka 1 000 km kust. [Inkaerna erövrade Chimú omkring 1470](#inka-erovrar-chimu-1470) och tog över mycket av dess hantverk, särskilt guld- och silversmide, och sättet att styra ett långsmalt rike. Se [inkariket på 1400-talet](#pachacuti-bygger-inkariket-1438).
+
+postklassisk-maya:
+  period: 1020
+  label: "postklassisk Maya"
+  title: "Postklassisk mayakultur"
+  wiki:
+    - "en:Maya civilization"
+    - "en:Postclassic Maya"
+  text: |
+    **Maya** är ett folk i södra Mexiko och Centralamerika som byggt städer sedan cirka 1000 f.Kr. Den *klassiska perioden* (cirka 250–900) var höjdpunkten, med städer som Tikal och Palenque, stora pyramidtempel, ett fullt utvecklat skriftsystem och en avancerad kalender med begreppet noll.
+
+    Kring 800–900 övergavs de flesta städerna i det södra låglandet – "den klassiska mayakollapsen" – troligen på grund av långvarig torka, krig och överbefolkning. Den *postklassiska perioden* (cirka 900–1500) är tiden därefter, när tyngdpunkten flyttade norrut till Yucatánhalvön.
+
+    Där blomstrade **[Chichén Itzá](#chichen-itza)**, med den kända pyramiden El Castillo, och senare Mayapán. Kulturen var mer inriktad på handel längs kusterna med kanoter. Mayafolket försvann inte: i dag talar uppskattningsvis 6 miljoner människor mayaspråk.
+
+chimu:
+  period: 1040
+  label: "Chimú"
+  title: "Chimúriket"
+  wiki:
+    - "en:Chimú culture"
+    - "en:Chan Chan"
+  text: |
+    **Chimú** var ett rike längs Perus norra kust (cirka 900–1470), med huvudstaden **[Chan Chan](#chimu-chan-chan)** nära nuvarande Trujillo. Kusten är ökentorr, så allt jordbruk byggde på bevattning med vatten från Andernas floder. Chimú anlade kanaler som kopplade ihop hela floddalar.
+
+    Samhället var strikt uppdelat: en kung som sågs som gudomlig, en adel, och en stor klass av hantverkare och bönder. Chimú var berömt för sin metallkonst – guld, silver och kopparlegeringar – och sina svarta, glänsande keramikkärl. Man dyrkade månen, som ansågs mäktigare än solen eftersom den syns både dag och natt.
+
+    Vid 1000-talets mitt höll riket på att expandera från sin kärna i Moche-dalen. På sin topp på 1400-talet kontrollerade det cirka 1 000 km kust. [Inkaerna erövrade Chimú omkring 1470](#inka-erovrar-chimu-1470), enligt traditionen bland annat genom att hota att stänga av vattnet, och flyttade dess hantverkare till Cusco.
+
+maya-i-yucatan:
+  period: 1040
+  label: "Maya i Yucatán"
+  title: "Mayakulturen i Yucatán"
+  wiki:
+    - "sv:Chichén Itzá"
+    - "en:Maya civilization"
+  text: |
+    **Yucatánhalvön** i sydöstra Mexiko blev mayakulturens centrum efter att städerna i södra låglandet övergivits kring 800–900 (den klassiska mayakollapsen). Halvön är platt kalkberg utan floder; vatten fanns i *cenoter* – naturliga brunnar där grottak rasat in.
+
+    Vid den här tiden dominerades halvön av **[Chichén Itzá](#chichen-itza)**, som byggts kring en stor cenote. Staden visar starka [influenser från centrala Mexiko](#tolteker-i-tula), bland annat kulten av den befjädrade ormguden Kukulkán (Quetzalcoatl). Den stora stegpyramiden El Castillo har 365 steg totalt, ett per dag i solåret, och vid vår- och höstdagjämning bildar skuggorna en orm som "kryper" nerför trappan.
+
+    Chichén Itzá försvagades efter cirka 1100, och staden Mayapán tog över som maktcentrum cirka 1200–1450. När spanjorerna kom på 1500-talet fanns ett tjugotal små mayastater. Den spanska erövringen tog lång tid; den sista självständiga mayastaden, Nojpetén i Guatemala, föll först 1697.
+
+chachapoya-kuelap:
+  period: 1060
+  label: "Chachapoya (Kuélap)"
+  title: "Chachapoya och fästningen Kuélap"
+  wiki:
+    - "en:Kuélap"
+    - "en:Chachapoya culture"
+  text: |
+    **Chachapoya** var ett folk i molnskogarna på Andernas östsluttning i norra Peru – ett regnigt, dimmigt bergsområde mellan högfjällen och Amazonas. Ibland kallas de ”molnkrigarna”. De hade inget skriftspråk som vi känner till, och det mesta vi vet kommer från arkeologi och spanska krönikor.
+
+    Deras mest kända plats är **Kuélap**, en befäst stad på en bergsrygg ca 3 000 meter över havet. Murarna är upp till omkring 19 meter höga och omsluter en yta på ungefär 600 × 110 meter, med resterna av över 400 runda stenhus, ofta dekorerade med sicksack- och rombmönster. Byggandet pågick under flera hundra år och platsen var som mest aktiv ca 900–1400. Kuélap är alltså flera hundra år äldre än inkornas [Machu Picchu (ca 1450)](#machu-picchu-byggs).
+
+    Chachapoya är också kända för sina sarkofager och gravhus placerade på svåråtkomliga klipphyllor. Omkring 1470 erövrades de av [inkariket](#inka-expanderar), och när spanjorerna kom på 1530-talet allierade sig en del av dem med spanjorerna mot inkas. Sedan decimerades befolkningen av europeiska sjukdomar.
+
+chimu-2:
+  period: 1080
+  label: "Chimú"
+  same_as: chimu
+
+chimu-chan-chan:
+  period: 1100
+  label: "Chimú: Chan Chan"
+  title: "Chimúriket och Chan Chan"
+  wiki:
+    - "en:Chimú culture"
+    - "en:Chan Chan"
+  text: |
+    **Chimú** var ett rike på Perus norra kust, i en extremt torr ökenremsa mellan Anderna och Stilla havet. [Det växte fram omkring år 900](#chimu-riket-framvaxer-i-peru) och blev under 1300-talet den största staten i Sydamerika före inkariket, med en kust på omkring 1 000 km. Jordbruket byggde helt på konstbevattning: kanaler ledde vatten från floderna som rinner ner från Anderna, en av dem nästan 80 km lång.
+
+    Huvudstaden **Chan Chan**, nära dagens Trujillo, var den största staden byggd av soltorkat lertegel (adobe) i Amerika och täckte omkring 20 km². Den hade kanske 30 000–60 000 invånare (uppskattningarna varierar). Staden bestod av ett tiotal muromgärdade palatskomplex, troligen ett för varje kung: när en kung dog blev hans palats hans gravplats och efterträdaren byggde ett nytt.
+
+    Kring 1470 [erövrades Chimú av inkariket](#inka-erovrar-chimu-1470), som flyttade dess hantverkare, särskilt guld- och silversmeder, till Cusco. Drygt 60 år senare [föll inkariket i sin tur för spanjorerna (1532)](#pizarro-tar-inkariket-1532). Chan Chan är i dag världsarv men hotas av regn och erosion, eftersom lerteglet löses upp.
+
+chimu-3:
+  period: 1120
+  label: "Chimú"
+  same_as: chimu
+
+chimu-4:
+  period: 1140
+  label: "Chimú"
+  same_as: chimu
+
+chimu-5:
+  period: 1160
+  label: "Chimú"
+  same_as: chimu
+
+chimu-6:
+  period: 1180
+  label: "Chimú"
+  same_as: chimu
+
+inka-vid-cuzco:
+  period: 1200
+  label: "Inka vid Cuzco"
+  title: "Inka vid Cuzco"
+  wiki:
+    - "sv:Inkariket"
+    - "en:Kingdom of Cusco"
+  text: |
+    Omkring år 1200 bosatte sig ett litet folk i dalen kring **Cuzco**, på cirka 3 400 meters höjd i Anderna i dagens Peru. Enligt deras egna legender leddes de av grundaren Manco Cápac. Ordet *inka* betydde ursprungligen härskaren och hans släkt, och används i dag för hela folket och riket.
+
+    Under de första 200 åren var inkafolket bara en av många små stater i området och slogs med grannarna. Större riken i regionen fanns redan, som [Chimú](#chimu) vid kusten. Inget skriftspråk fanns; information lagrades i *quipu*, knutna snören som kodade tal i ett decimalsystem – en sorts fysisk databas.
+
+    Den stora expansionen började först omkring 1438 under [Pachacuti](#pachacuti-bygger-inkariket-1438). På mindre än hundra år byggde inkafolket Amerikas största rike, från Ecuador till Chile, med uppskattningsvis 10 miljoner invånare och omkring 40 000 km vägar. Det föll för spanjoren [Francisco Pizarro 1532](#pizarro-tar-inkariket-1532), med hjälp av inbördeskrig och [smittkoppor](#smittkoppor-dodar-miljoner-i-amerika).
+
+inka:
+  period: 1220
+  label: "Inka"
+  title: "Inkafolket i början"
+  wiki:
+    - "sv:Inkariket"
+    - "en:Kingdom of Cusco"
+  text: |
+    Kring 1200 var inkafolket en liten grupp i dalen kring **Cusco**, högt i Anderna i dagens Peru (ca 3 400 m ö.h.). Enligt deras egna berättelser grundades staden av **Manco Cápac**, son till solen, som kom upp ur Titicacasjön. Det är myt; arkeologiskt var Cusco under 1200-talet ett av många småriken som stred med grannarna om mark och vatten.
+
+    Bakgrunden var att två stora andinska kulturer – [Wari och Tiwanaku](#tiwanaku-och-wari-upploses) – hade fallit sönder omkring 1000–1100, kanske delvis på grund av torka. Det lämnade ett tomrum av småstater. *Inka* betydde ursprungligen härskaren, och senare den härskande gruppen; vi använder ordet för hela folket och riket.
+
+    Den stora expansionen kom först med **Pachacútec** [från 1438](#pachacuti-bygger-inkariket-1438). På under hundra år byggde inkafolket det största riket i Amerika: uppskattningsvis 10–12 miljoner invånare längs en 4 000 km lång sträcka av Anderna, med ett vägnät på ca 40 000 km, men utan hjul för transport och utan skrift (de använde knutsnören, *quipu*, för bokföring). Riket föll för [Pizarros 168 spanjorer 1532–33](#pizarro-tar-inkariket-1532), försvagat av inbördeskrig och smittkoppor.
+
+inka-2:
+  period: 1240
+  label: "Inka"
+  same_as: inka
+
+inka-3:
+  period: 1260
+  label: "Inka"
+  same_as: inka
+
+inka-4:
+  period: 1280
+  label: "Inka"
+  same_as: inka
+
+aztekerna-i-mexikodalen:
+  period: 1300
+  label: "Aztekerna i Mexikodalen"
+  title: "Aztekerna kommer till Mexikodalen"
+  wiki:
+    - "sv:Azteker"
+    - "en:Aztecs"
+  text: |
+    **Aztekerna**, som kallade sig *mexica* (därav namnet Mexiko), var ett nahuatltalande folk som enligt sina egna berättelser vandrade söderut från ett land i norr, Aztlán. Omkring 1250–1300 kom de till **Mexikodalen**, en högslätt på 2 200 meters höjd med en grupp sjöar, där dagens Mexico City ligger.
+
+    Dalen var redan tättbefolkad av andra nahuatltalande stadsstater, som Azcapotzalco och Culhuacan, som såg på de nyanlända som barbarer. Aztekerna tjänade som legosoldater och vasaller, och fördrevs flera gånger. Enligt legenden skulle de slå sig ner där de såg en örn sittande på en kaktus med en orm i näbben – en bild som idag finns på Mexikos flagga.
+
+    De hamnade på några öar i sjön Texcoco, där de 1325 grundade Tenochtitlan ([se det](#tenochtitlan-grundas-1325)). Inom 200 år hade de gått från att vara utstötta legosoldater till att styra ett imperium med uppskattningsvis 5–6 miljoner undersåtar, som spanjorerna under [Cortés erövrade 1519–21](#cortes-landstiger-1519). [Jämför med osmanerna](#osmaner-vaxer-i-anatolien), som samtidigt gick från en liten gränsstat till ett imperium.
+
+tenochtitlan-grundas-1325:
+  period: 1320
+  label: "Tenochtitlan grundas 1325"
+  title: "Tenochtitlan grundas 1325"
+  wiki:
+    - "sv:Tenochtitlán"
+    - "en:Tenochtitlan"
+  text: |
+    **Tenochtitlan** var aztekernas huvudstad, grundad enligt traditionen 1325 på en sumpig ö i sjön Texcoco i Mexikodalen ([se Aztekerna i Mexikodalen](#aztekerna-i-mexikodalen)). Platsen valdes, enligt legenden, där man såg en örn på en kaktus – men i praktiken var det ett av få lediga ställen; marken runt sjön ägdes av mäktigare stadsstater.
+
+    Aztekerna byggde ut ön med *chinampas* – konstgjorda odlingsbäddar av lera och växtmaterial i det grunda vattnet, som gav flera skördar per år. Staden förbands med fastlandet genom flera kilometer långa vägbankar, och en akvedukt förde in färskvatten. I centrum stod Templo Mayor, den stora pyramiden för krigsguden Huitzilopochtli och regnguden Tlaloc.
+
+    När spanjorerna under [Hernán Cortés kom dit 1519](#cortes-landstiger-1519) hade staden uppskattningsvis 200 000 invånare – större än nästan alla europeiska städer då; Sevilla hade kanske 50 000 och Paris 200 000. Spanjorerna jämförde den med Venedig. De [förstörde den 1521](#aztekriket-faller-1521) och byggde Mexico City ovanpå; sjön har sedan dikats ut. Staden sjunker därför fortfarande, på vissa ställen uppskattningsvis 20–50 cm per år.
+
+aztekerna:
+  period: 1340
+  label: "Aztekerna"
+  title: "Aztekerna på 1300-talet"
+  wiki:
+    - "en:Aztecs"
+    - "en:Tenochtitlan"
+  text: |
+    **Aztekerna**, som kallade sig *mexica*, var ett folk som enligt sina egna berättelser vandrat in från norr till Mexikodalen. Där fanns redan flera mäktiga stadsstater, och nykomlingarna fick nöja sig med en sumpig ö i sjön Texcoco. Enligt traditionen grundade de staden **Tenochtitlan** [där år 1325](#tenochtitlan-grundas-1325) – på platsen där dagens Mexico City ligger.
+
+    På 1340-talet var aztekerna fortfarande en mindre makt. De tjänade som legosoldater åt och betalade tribut till tepanekerna i staden Azcapotzalco. De utvecklade samtidigt ett effektivt jordbruk med *chinampas* – konstgjorda odlingsbäddar uppbyggda av lera och växtmaterial i den grunda sjön, som kunde ge flera skördar per år.
+
+    Först 1428 bröt aztekerna sig loss och bildade [trippelalliansen](#aztekisk-trippelallians-1428) med två andra städer, vilket blev grunden till Aztekriket. När spanjorerna kom 1519 kan Tenochtitlan ha haft uppskattningsvis 200 000 invånare – större än nästan alla europeiska städer då. [Hernán Cortés erövrade staden 1521](#aztekriket-faller-1521) med hjälp av tusentals inhemska allierade och med smittkoppor, som dödade en stor del av befolkningen.
+
+inka-5:
+  period: 1360
+  label: "Inka"
+  same_as: inka
+
+aztekerna-2:
+  period: 1380
+  label: "Aztekerna"
+  same_as: aztekerna
+
+chimu-7:
+  period: 1400
+  label: "Chimú"
+  same_as: chimu
+
+aztekerna-vaxer:
+  period: 1400
+  label: "aztekerna växer"
+  title: "Aztekerna växer i Mexikodalen"
+  wiki:
+    - "en:Aztecs"
+    - "sv:Tenochtitlán"
+  text: |
+    **Aztekerna**, eller mexica som de kallade sig själva, var ett folk som invandrade till Mexikodalen norrifrån. [Omkring 1325](#tenochtitlan-grundas-1325) grundade de staden **Tenochtitlan** på en ö i sjön Texcoco – där dagens Mexico City ligger.
+
+    Runt år 1400 var de ännu inte någon stormakt. De var underlydande till **tepanekerna** i staden Azcapotzalco, betalade tribut (skatt i varor) och tjänade som legosoldater åt dem. Men de växte snabbt: de byggde ut ön med *chinampas*, konstgjorda odlingsbäddar i sjön som gav flera skördar om året, och de lärde sig krigföring och politik i tepanekernas tjänst.
+
+    Deras kungar, som Huitzilihuitl (styrde ungefär 1391–1415), gifte in sig i grannstädernas härskarsläkter för att höja sin status. 1428 vände de sig mot tepanekerna och bildade en trippelallians ([se Aztekisk trippelallians 1428](#aztekisk-trippelallians-1428)), som blev grunden för det aztekiska riket.
+
+    När spanjorerna kom 1519 hade Tenochtitlan uppskattningsvis 200 000 invånare (uppskattningarna varierar mycket) – större än någon stad i Spanien vid samma tid.
+
+aztekisk-trippelallians-1428:
+  period: 1420
+  label: "Aztekisk trippelallians 1428"
+  title: "Aztekiska trippelalliansen 1428"
+  wiki:
+    - "en:Aztec Triple Alliance"
+    - "en:Itzcoatl"
+    - "en:Nezahualcoyotl (tlatoani)"
+  text: |
+    Fram till 1428 var [aztekerna (mexica) i Tenochtitlan](#aztekerna-vaxer) underlydande till tepanekerna i Azcapotzalco, den dominerande staden i Mexikodalen. När tepanekernas kung dog 1426 uppstod en tronstrid, och mexica, under kungen **Itzcoatl**, såg sin chans.
+
+    De slöt ett förbund med två andra stadsstater: **Texcoco**, vars landsflyktige prins **Nezahualcoyotl** ville återta sin tron, och **Tlacopan**, en tepanekisk stad som bytte sida. Tillsammans besegrade de Azcapotzalco 1428. Denna **trippelallians** är det som brukar kallas aztekiska riket.
+
+    Alliansen delade upp tributen från erövrade områden – i början ungefär två femtedelar vardera till Tenochtitlan och Texcoco och en femtedel till Tlacopan – men Tenochtitlan blev med tiden helt dominerande. Riket var inte en centralstyrd stat utan ett nätverk av underkuvade städer som betalade tribut i form av majs, bomullstyg, kakao, fjädrar och fångar till offer.
+
+    Itzcoatl lät också bränna äldre böcker och skriva om historien så att mexica framstod som ett utvalt folk. Nezahualcoyotl blev känd som poet och byggare av akvedukter. Vid [Hernán Cortés ankomst 1519](#cortes-landstiger-1519) omfattade riket uppskattningsvis 5–6 miljoner människor.
+
+pachacuti-bygger-inkariket-1438:
+  period: 1420
+  label: "Pachacuti bygger Inkariket 1438"
+  title: "Pachacuti och Inkarikets början 1438"
+  wiki:
+    - "sv:Pachacútec"
+    - "sv:Inkariket"
+  text: |
+    [Inkafolket](#inka) var på 1300-talet en liten stat kring staden **Cusco** i Perus höga Anderna. 1438 anföll grannfolket chanka Cusco. Den gamle kungen och tronföljaren flydde, men en yngre son, **Cusi Yupanqui**, organiserade försvaret och vann. Han tog makten och namnet **Pachacuti**, som betyder ungefär ”den som vänder världen”.
+
+    Pachacuti (styrde cirka 1438–1471) och sonen Topa Inca förvandlade staten till ett imperium, *Tawantinsuyu* (”de fyra delarnas land”). På knappt 100 år växte det till cirka 4 000 km längs Anderna, från dagens Ecuador till Chile, med uppskattningsvis 10–12 miljoner invånare – Amerikas största rike.
+
+    Pachacuti byggde om Cusco och lät troligen anlägga **[Machu Picchu](#machu-picchu-byggs)** som ett kungligt gods. Riket hade ingen skrift och inga pengar. Istället hade man arbetsplikt (*mit'a*), förrådshus med mat, och *quipu* – knutna snören som användes för att registrera siffror, ett slags decimal datalagring.
+
+    Ett vägnät på uppskattningsvis 30 000–40 000 km med budlöpare kunde föra meddelanden runt 200 km per dag. Riket föll till [spanjoren Pizarro 1532–1533](#pizarro-tar-inkariket-1532).
+
+inka-expanderar:
+  period: 1440
+  label: "Inka expanderar"
+  title: "Inkariket expanderar"
+  wiki:
+    - "sv:Inkariket"
+    - "en:Topa Inca Yupanqui"
+  text: |
+    Efter att **Pachacuti** grundade Inkariket omkring 1438 ([se Pachacuti bygger Inkariket](#pachacuti-bygger-inkariket-1438)) följde en av historiens snabbaste expansioner. På ungefär 90 år växte riket från ett litet område kring Cusco till cirka 4 000 km längs Anderna och Stillahavskusten, med uppskattningsvis 10–12 miljoner invånare.
+
+    Pachacutis son **Topa Inca Yupanqui** ledde arméerna redan under faderns tid och var kung cirka 1471–1493. Han erövrade det rika **[Chimúriket](#inka-erovrar-chimu-1470)** på Perus nordkust omkring 1470, med huvudstaden Chan Chan, en av Amerikas största städer, och gick sedan söderut till centrala Chile.
+
+    Erövringen skedde både med våld och diplomati. Lokala härskare som underkastade sig fick behålla sin ställning. Upproriska folk tvångsförflyttades (*mitma*) till andra delar av riket, och lojala grupper flyttades in. Quechua blev gemensamt språk. Inkaväldet byggde ett vägnät, *Qhapaq Ñan*, på uppskattningsvis 30 000–40 000 km, med hängbroar av gräsrep över ravinerna och rastställen var 20–30 km.
+
+    Jämför: Inkariket var vid sin topp ungefär lika stort till befolkningen som Spanien eller England tillsammans, men [erövrades på några år av cirka 170 spanjorer](#pizarro-tar-inkariket-1532), mitt i ett inbördeskrig och efter smittkoppor.
+
+machu-picchu-byggs:
+  period: 1440
+  label: "Machu Picchu byggs"
+  title: "Machu Picchu byggs"
+  wiki:
+    - "sv:Machu Picchu"
+  text: |
+    **Machu Picchu** är en inkastad på en bergsrygg cirka 2 430 meter över havet i Anderna, ungefär 80 km nordväst om Cusco i Peru. Den byggdes troligen från omkring 1450 som ett kungligt gods, en sorts lantegendom, åt inkahärskaren **Pachacuti** ([se Pachacuti bygger Inkariket](#pachacuti-bygger-inkariket-1438)). Nyare koldateringar tyder på att platsen var i bruk redan från omkring 1420.
+
+    Staden hade cirka 200 byggnader och beboddes troligen av högst 750 personer, främst tjänare åt den kungliga familjen. Byggnaderna är gjorda med den inkatypiska tekniken *ashlar*: granitblock som huggits så exakt att de passar ihop utan murbruk. Det gör murarna jordbävningståliga – stenarna ”dansar” och faller sedan tillbaka på plats. Terrasser byggdes för odling och för att hindra jordskred, och omkring 60 % av byggarbetet ligger under markytan i form av dränering och grund.
+
+    Platsen övergavs troligen omkring tiden för den [spanska erövringen på 1530-talet](#pizarro-tar-inkariket-1532). Spanjorerna hittade den aldrig, så den förstördes inte. 1911 gjorde den amerikanske forskaren **Hiram Bingham** den känd för omvärlden, guidad av lokala bönder som redan kände till den.
+
+    I dag är den Sydamerikas mest kända turistmål, med över en miljon besökare per år.
+
+inka-erovrar-chimu-1470:
+  period: 1460
+  label: "Inka erövrar Chimú ~1470"
+  title: "Inkariket erövrar Chimú ~1470"
+  wiki:
+    - "en:Chimú culture"
+    - "en:Chan Chan"
+    - "en:Inca Empire"
+  text: |
+    **Chimú** var ett rike längs Perus norra kust, ett ökenområde som bara gick att odla tack vare avancerade bevattningskanaler från Anderna. Huvudstaden **Chan Chan** var byggd av soltorkat lertegel (adobe) och täckte omkring 20 km² – den största lerstaden i Amerika – med en befolkning som uppskattas till tiotusentals.
+
+    Omkring 1470 erövrades Chimú av **inkafolket** från Cusco i bergen, under prins Topa Inca Yupanqui. Enligt traditionen vann de genom att strypa vattentillförseln. Chimús skickliga guld- och silversmeder flyttades till Cusco.
+
+    [Inkariket växte på bara några årtionden](#inka-expanderar) från en lokal stat till Amerikas största rike: omkring 4 000 km längs Anderna, uppskattningsvis 10 miljoner invånare och ett vägnät på cirka 40 000 km med budlöpare som sprang i stafett. Det hade inget skriftspråk utan förde bok med knutna snören (*quipu*). Bara 60 år efter erövringen av Chimú föll riket till [Pizarros spanjorer 1532](#pizarro-tar-inkariket-1532).
+
+columbus-i-karibien-1492:
+  period: 1480
+  label: "Columbus i Karibien 1492"
+  title: "Columbus i Karibien 1492"
+  wiki:
+    - "en:Voyages of Christopher Columbus"
+    - "en:Taíno"
+    - "en:Hispaniola"
+  text: |
+    [Den 12 oktober 1492](#columbus-1492) gick **Columbus** i land på en ö i Bahamas som invånarna kallade Guanahani och han döpte till San Salvador. Därefter seglade han till Kuba och **Hispaniola** (dagens Haiti och Dominikanska republiken). Han trodde hela tiden att han var vid Asiens kust.
+
+    Öarna beboddes av **taínofolket**, som odlade kassava (maniok) och majs, levde i byar under hövdingar (*caciques*) och sov i hängmattor – ordet ”hängmatta” (*hamaca*) kommer från deras språk, liksom ”orkan”, ”kanot”, ”tobak” och ”grill”. Columbus noterade i sin loggbok att de var fredliga och skulle bli bra tjänare.
+
+    På juldagen gick flaggskeppet *Santa María* på grund vid Hispaniola. Av virket byggdes fortet La Navidad, där 39 man lämnades kvar – alla var döda när Columbus återvände 1493. På den andra resan kom han med 17 skepp och omkring 1 200 kolonister. Det blev starten på den europeiska koloniseringen av Amerika, med tvångsarbete i guldgruvor, sjukdomar och snabb [massdöd bland taínofolket](#tainofolket-dor-ut).
+
+tainofolket-dor-ut:
+  period: 1480
+  label: "taínofolket dör ut"
+  title: "Taínofolkets undergång"
+  wiki:
+    - "en:Taíno"
+    - "en:Taíno genocide"
+    - "en:Encomienda"
+  text: |
+    **Taínofolket** var den dominerande befolkningen på de stora karibiska öarna – Hispaniola, Kuba, Puerto Rico och Jamaica – när [Columbus kom 1492](#columbus-1492). Hur många de var är mycket omstritt: uppskattningarna för Hispaniola ensamt varierar från omkring 100 000 till flera miljoner.
+
+    Säkert är att kollapsen var extrem. Spanjorerna införde *encomienda*: kolonister fick rätt att tvinga ursprungsbefolkningen att arbeta, främst i guldgruvor och på fält, mot att de ”kristnades”. Våld, svält, sönderslagna samhällen och sjukdomar som européerna förde med sig – mot vilka taínofolket saknade immunitet – samverkade. En spansk folkräkning 1514 hittade bara omkring 26 000 på Hispaniola. [Smittkopporna 1518](#smittkoppor-i-karibien-1518) slog ut en stor del av resten.
+
+    Munken **Bartolomé de las Casas** dokumenterade övergreppen och blev en tidig förkämpe för urfolkens rättigheter. Taínos som eget folk försvann till största delen inom ett halvsekel, men genetiska studier visar att många nutida karibier har taínoanor. För att ersätta arbetskraften började spanjorerna föra hit afrikanska slavar – starten på den [transatlantiska slavhandeln](#atlantisk-slavhandel-borjar) till Amerika.
+
+cabral-i-brasilien-1500:
+  period: 1500
+  label: "Cabral i Brasilien 1500"
+  title: "Cabral når Brasilien 1500"
+  wiki:
+    - "en:Pedro Álvares Cabral"
+    - "en:Colonial Brazil"
+  text: |
+    Efter [Vasco da Gamas framgång](#vasco-da-gama-i-calicut-1498) skickade Portugal år 1500 en stor flotta till Indien: 13 skepp och omkring 1 500 man under **Pedro Álvares Cabral**. För att få bättre vindar svängde flottan långt ut i Atlanten västerut, och den 22 april såg de land – kusten av dagens **Brasilien**. Om det var en slump eller planerat är omdiskuterat.
+
+    Eftersom kusten låg öster om gränslinjen i Tordesillasfördraget ([se 1494](#tordesillas-1494)) gjorde Portugal anspråk på den. Cabral stannade drygt en vecka, mötte tupinikin-folket och skickade ett skepp hem med nyheten. Sedan fortsatte han till Indien. På vägen förliste fyra skepp vid Godahoppsudden, bland dem [Bartolomeu Dias](#dias-rundar-godahoppsudden-1488) skepp.
+
+    Landet fick namnet efter **brasilträ** (*pau-brasil*), ett rött färgträ som var den första exportvaran. Från 1530-talet koloniserades kusten, och sockerplantager med afrikanska slavar blev grunden för ekonomin. Brasilien tog emot uppskattningsvis 4–5 miljoner förslavade afrikaner, fler än något annat land, och avskaffade slaveriet sist i Amerika, 1888. I dag har landet omkring 210 miljoner invånare och är världens största portugisisktalande land.
+
+balboa-ser-stilla-havet-1513:
+  period: 1500
+  label: "Balboa ser Stilla havet 1513"
+  title: "Balboa ser Stilla havet 1513"
+  wiki:
+    - "en:Vasco Núñez de Balboa"
+    - "en:Isthmus of Panama"
+  text: |
+    **Vasco Núñez de Balboa** (ca 1475–1519) var en spansk conquistador som hade flytt från skulder på Hispaniola genom att gömma sig i en tunna på ett skepp. Han tog sedan över ledningen för kolonin Santa María la Antigua del Darién vid Panamanäsets karibiska kust – den första varaktiga spanska staden på det amerikanska fastlandet.
+
+    Lokala hövdingar berättade om ett annat hav i söder och ett rike rikt på guld. I september 1513 gav sig Balboa iväg med omkring 190 spanjorer och hundratals urfolksbärare genom regnskog och berg. Den 25 september såg han från en bergstopp, som förste europé, det hav han kallade *Mar del Sur*, ”Sydhavet”. Några dagar senare vadade han ut i vattnet och tog det i besittning för Spaniens kung.
+
+    Det bekräftade att Amerika var en egen kontinent och inte en del av Asien, och att ytterligare ett hav låg mellan. Magellan gav senare havet namnet **Stilla havet** ([se 1519](#magellan-avseglar-1519)). Balboa avrättades 1519 av sin rival, guvernören Pedrarias Dávila. Panamanäset, där han korsade på cirka 65 km, fick 400 år senare Panamakanalen (1914).
+
+cortes-landstiger-1519:
+  period: 1500
+  label: "Cortés landstiger 1519"
+  title: "Hernán Cortés landstiger i Mexiko 1519"
+  wiki:
+    - "en:Spanish conquest of the Aztec Empire"
+    - "en:Hernán Cortés"
+    - "en:Tenochtitlan"
+  text: |
+    **Hernán Cortés** (1485–1547) var en spansk conquistador på Kuba. 1519 seglade han till Mexikos östkust med 11 skepp, omkring 500–600 soldater, 16 hästar och några kanoner – mot guvernörens order.
+
+    Mexiko dominerades av **[aztekerna](#aztekerna)** (mexica), vars huvudstad **[Tenochtitlan](#tenochtitlan-grundas-1325)** låg på en ö i en sjö där Mexico City ligger i dag. Den hade uppskattningsvis 200 000 invånare – större än någon stad i Spanien. Riket tog tribut från många underkuvade folk, som hatade det. Cortés fick en ovärderlig tolk i **Malinche** (Doña Marina), en ursprungskvinna som talade både nahuatl och maya. Han sänkte sina skepp så ingen kunde vända tillbaka, och allierade sig med bland andra tlaxcalteker, aztekernas fiender, som bidrog med tiotusentals krigare.
+
+    I november 1519 tog kejsar Moctezuma II emot honom i Tenochtitlan, och Cortés tog honom som gisslan. Efter ett uppror, en blodig flykt och en [smittkoppsepidemi](#smittkoppor-dodar-miljoner-i-amerika) som härjade staden [föll Tenochtitlan i augusti 1521](#aztekriket-faller-1521) efter en lång belägring. Mexiko blev kärnan i Nya Spanien, och silvret därifrån förändrade världsekonomin.
+
+aztekriket-faller-1521:
+  period: 1520
+  label: "Aztekriket faller 1521"
+  title: "Aztekriket faller 1521"
+  wiki:
+    - "sv:Spanska erövringen av Aztekriket"
+    - "sv:Hernán Cortés"
+  text: |
+    Aztekriket var ett förbund under staden **Tenochtitlan** i Mexikodalen, som styrde stora delar av centrala Mexiko och tog tribut av underkuvade folk. Tenochtitlan, byggd på en ö i en sjö, hade uppskattningsvis 200 000 invånare – större än nästan alla europeiska städer.
+
+    Den spanske äventyraren **Hernán Cortés** [landsteg 1519](#cortes-landstiger-1519) med omkring 500 man, några hästar och kanoner. Hans avgörande tillgång var allierade: folk som hatade aztekerna, främst tlaxcalteker, bidrog med tiotusentals krigare. Efter att spanjorerna drivits ut 1520 slog en smittkoppsepidemi till mot staden (se [Smittkoppor dödar miljoner i Amerika](#smittkoppor-dodar-miljoner-i-amerika)), och kejsaren Cuitláhuac dog. Efter en belägring på ungefär tre månader föll Tenochtitlan 13 augusti 1521.
+
+    Staden förstördes och Mexico City byggdes på ruinerna. Området blev kolonin Nya Spanien, och silvret från Mexiko och senare Peru gjorde Spanien till 1500-talets stormakt. Se även [Pizarro tar Inkariket 1532](#pizarro-tar-inkariket-1532), ett liknande förlopp tio år senare.
+
+pizarro-tar-inkariket-1532:
+  period: 1520
+  label: "Pizarro tar Inkariket 1532"
+  title: "Pizarro erövrar Inkariket 1532"
+  wiki:
+    - "sv:Francisco Pizarro"
+    - "en:Spanish conquest of the Inca Empire"
+  text: |
+    Inkariket i Anderna var Amerikas största stat, med uppskattningsvis 10 miljoner invånare längs 4 000 km från Ecuador till Chile. Det hölls ihop av ett vägnät på omkring 40 000 km och saknade skrift – i stället användes knutsnören (quipu) för bokföring.
+
+    När **Francisco Pizarro** kom 1532 var riket försvagat: [smittkoppor](#smittkoppor-dodar-miljoner-i-amerika) hade dödat kejsaren och hans arvinge, och två söner, **Atahualpa** och Huáscar, hade krigat om tronen. I Cajamarca i november 1532 tog Pizarro med omkring 170 man Atahualpa till fånga i ett bakhåll, där tusentals av hans obeväpnade följe dödades. Atahualpa betalade en lösen på ett rum fyllt med guld och två med silver – men avrättades ändå 1533.
+
+    Spanjorerna intog huvudstaden Cuzco 1533, men motstånd fortsatte i bergen till 1572. Erövrarna drabbades sedan av inbördes strider; Pizarro själv mördades 1541. Det som gjorde Peru viktigt för världshistorien var silverberget Potosí, upptäckt 1545 (se [silver från Potosí 1545](#silver-fran-potosi-1545)).
+
+    Jämför med [Aztekriket faller 1521](#aztekriket-faller-1521), där ett annat imperium föll med hjälp av allierade och sjukdom.
+
+potosi-silver:
+  period: 1540
+  label: "Potosí-silver"
+  title: "Potosí-silvret och kolonialekonomin"
+  wiki:
+    - "en:Potosí"
+    - "en:Spanish dollar"
+  text: |
+    Silverberget i Potosí (upptäckt 1545, se [silver från Potosí 1545](#silver-fran-potosi-1545)) och gruvorna i Zacatecas i Mexiko (1546) blev grunden för hela Spaniens kolonialekonomi i Amerika. Kolonierna organiserades kring att producera silver och förse gruvorna med mat, arbetskraft, mulor och kvicksilver.
+
+    Från 1570-talet ökade produktionen kraftigt när vicekungen Francisco de Toledo organiserade två saker: amalgamering – att lösa ut silvret ur malmen med kvicksilver från gruvan Huancavelica i Peru – och [mita](#tvangsarbete-mita-i-gruvorna), tvångsarbete där omkring 13 000 indianska män varje år kommenderades till Potosí. Många kom aldrig tillbaka.
+
+    Silvret skeppades i stora konvojer (”silverflottorna”) till Sevilla, ett lockande mål för engelska och holländska kapare som Francis [Drake](#drake) (se Drake). Mellan 1500 och 1800 producerade spanska Amerika uppskattningsvis 80 % av världens silver. Silvermyntet ”real de a ocho” blev världens första globala valuta och förebild för den amerikanska dollarn.
+
+valdivia-i-chile:
+  period: 1540
+  label: "Valdivia i Chile"
+  title: "Pedro de Valdivia erövrar Chile"
+  wiki:
+    - "sv:Pedro de Valdivia"
+    - "en:Arauco War"
+  text: |
+    **Pedro de Valdivia** (ca 1497–1553) var en spansk officer som stridit i Italien och sedan med [Pizarro](#pizarro-tar-inkariket-1532) i Peru. 1540 ledde han en expedition med omkring 150 spanjorer och ett större antal indianska bärare söderut genom Atacamaöknen, en av världens torraste öknar.
+
+    1541 grundade han **Santiago**, Chiles nuvarande huvudstad, och senare Concepción och Valdivia. Han blev guvernör över Chile. Men söderut mötte han **mapuche**, ett folk utan central stat – till skillnad från aztekerna och inkafolket kunde de därför inte erövras genom att man tog en härskare till fånga. De lärde sig snabbt att använda hästar. 1553 besegrades Valdivia av mapucheledaren Lautaro, som tidigare varit hans stalldräng, och dödades.
+
+    Det inledde Araukankriget, som med avbrott pågick i över 300 år. Floden Biobío blev i praktiken gräns, och mapuchernas område erövrades först av Chile och Argentina på 1880-talet. Det spanska eposet *La Araucana* (1569) om kriget är en av de tidigaste stora litterära skildringarna av Amerika.
+
+tvangsarbete-mita-i-gruvorna:
+  period: 1560
+  label: "Tvångsarbete (mita) i gruvorna"
+  title: "Mita – tvångsarbete i Anderna"
+  wiki:
+    - "en:Mit'a"
+    - "sv:Potosí"
+  text: |
+    **Mita** (från quechua mit'a, ”tur”) var ursprungligen inkarikets system där byar turades om att göra arbete åt staten, till exempel bygga vägar. Spanjorerna tog över och skärpte systemet. Vicekungen **Francisco de Toledo** organiserade det på 1570-talet så att ungefär var sjunde vuxen man i stora delar av Anderna varje år måste arbeta i [silvergruvan i Potosí](#potosi-varldens-storsta-silvergruva) eller kvicksilvergruvan i Huancavelica.
+
+    Uppskattningsvis 13 000–14 000 män per år skickades till Potosí, ofta med familjer, över avstånd på upp till 1 000 km. Arbetet var livsfarligt: ras, utmattning på 4 000 meters höjd och kvicksilverförgiftning (kvicksilver användes för att utvinna silvret ur malmen). Många flydde sina byar för att undgå mitan, vilket bröt upp samhällen.
+
+    Mitan finansierade en stor del av det spanska imperiets silver och därmed indirekt Europas krig och handeln med Kina (se [Manilagaleonerna](#manilagaleonerna-till-acapulco)). Systemet avskaffades först 1812. Ekonomiska studier har visat att områden som drabbades av mitan än idag är fattigare än grannområden – ett exempel på hur koloniala institutioner påverkar i århundraden.
+
+potosi-varldens-storsta-silvergruva:
+  period: 1580
+  label: "Potosí världens största silvergruva"
+  title: "Potosí – silverberget"
+  wiki:
+    - "sv:Potosí"
+    - "en:Cerro Rico"
+    - "en:Spanish dollar"
+  text: |
+    **Potosí** ligger i dagens Bolivia, på över 4 000 meters höjd. [1545 upptäckte spanjorerna](#silver-fran-potosi-1545) att berget Cerro Rico (”det rika berget”) var fullt av silver. Från 1570-talet ökade utvinningen kraftigt tack vare två saker: **amalgamering**, en metod där krossad malm blandas med kvicksilver som binder silvret, och [mita-systemet](#tvangsarbete-mita-i-gruvorna) med tvångsarbete (se där).
+
+    Kring 1600 hade Potosí uppskattningsvis 100 000–160 000 invånare – i storlek med London eller Paris och en av världens största städer – trots att den låg på en kal högplatå. Under 1500- och 1600-talen kom en mycket stor del av världens silver härifrån; uttrycket ”vale un Potosí” (”det är värt ett Potosí”) betyder på spanska en ofantlig rikedom.
+
+    Silvret präglades bland annat till spanska ”åttor” (peso de ocho), som blev världens första globala valuta och är förfader till dollarn. Det finansierade Spaniens krig, flödde via [Manilagaleonerna](#manilagaleonerna-till-acapulco) till Kina och bidrog till en långvarig prisinflation i Europa, ”prisrevolutionen”. Priset var fruktansvärt: ett okänt men mycket stort antal indianska och afrikanska arbetare dog i gruvorna.
+
+hollandare-i-karibien:
+  period: 1600
+  label: "Holländare i Karibien"
+  title: "Holländarna i Karibien"
+  wiki:
+    - "en:Dutch West India Company"
+    - "sv:Curaçao"
+  text: |
+    Spanien hävdade sedan Columbus ensamrätt på hela Karibien, men under 1600-talet trängde konkurrenterna in, främst Nederländerna, England och Frankrike. Holländarna, i krig med Spanien ([se VOC 1602](#voc-1602)), kom först för salt till sin sillindustri från lagunerna i Venezuela och för att plundra. 1628 kapade amiralen **Piet Heyn** hela den spanska silverflottan vid Kuba – ett byte som räckte till en stor utdelning för Västindiska kompaniets aktieägare.
+
+    Nederländska Västindiska kompaniet (grundat 1621) tog flera öar: Curaçao 1634, Sint Eustatius och Sint Maarten. Öarna var inte så mycket plantager som handelsstationer – smuggelhamnar där man sålde varor och förslavade afrikaner till de spanska och engelska kolonierna. Holland erövrade också 1630 [nordöstra Brasilien](#hollandare-i-nordostra-brasilien) från Portugal och lärde sig sockerodling där.
+
+    När holländarna [förlorade Brasilien 1654](#hollandarna-drivs-ut-ur-brasilien-1654) spred de sockerplantagens teknik och kapital till de engelska och franska öarna, som Barbados. Det ledde till ”[sockerrevolutionen](#sockerplantager-och-slaveri-i-karibien)” och en enorm ökning av slavhandeln. Curaçao, Aruba och Sint Maarten är fortfarande delar av kungariket Nederländerna.
+
+hollandare-i-nordostra-brasilien:
+  period: 1620
+  label: "Holländare i nordöstra Brasilien"
+  title: "Holländska Brasilien 1630–1654"
+  wiki:
+    - "en:Dutch Brazil"
+    - "en:John Maurice, Prince of Nassau-Siegen"
+  text: |
+    Nordöstra Brasilien var på 1600-talet världens största sockerproducent. Sockret odlades på plantager av förslavade afrikaner och var Europas mest lönsamma koloniala vara. Portugal ägde Brasilien, men [1580–1640 hade Portugal och Spanien samma kung](#personalunion-med-portugal-1580), så Portugals kolonier blev mål för Spaniens fiender – främst Nederländerna, som [stred för självständighet från Spanien](#nederlandska-frihetskriget).
+
+    Det nederländska **Västindiska kompaniet** erövrade 1630 Pernambuco med staden Recife. Under guvernören **Johan Maurits av Nassau** (1637–1644) byggdes staden ut med broar och palats, och han tog med sig konstnärer och naturforskare som gjorde de första vetenskapliga beskrivningarna av Brasiliens natur. För att få arbetskraft tog holländarna också portugisiska slavhamnar i Afrika, bland annat Luanda 1641.
+
+    Kolonin hade religionsfrihet, och här grundades Amerikas första synagoga. Den föll dock efter ett uppror från de portugisiska plantageägarna ([se 1654](#hollandarna-drivs-ut-ur-brasilien-1654)).
+
+hollandarna-drivs-ut-ur-brasilien-1654:
+  period: 1640
+  label: "Holländarna drivs ut ur Brasilien 1654"
+  title: "Holländarna drivs ut ur Brasilien 1654"
+  wiki:
+    - "en:Dutch Brazil"
+    - "en:Battles of Guararapes"
+  text: |
+    Nederländerna hade sedan 1630 kontrollerat nordöstra Brasilien med sockerstaden Recife ([se 1620-talet](#hollandare-i-nordostra-brasilien)). Men de portugisiska plantageägarna, som ofta var skuldsatta till holländska kompaniet, ville inte leva under holländskt styre. Efter att [Portugal blivit fritt från Spanien 1640](#portugal-fritt-1640) fick de stöd hemifrån.
+
+    1645 började ett uppror. I två slag vid **Guararapes** (1648 och 1649) besegrade brasilianska styrkor – portugiser, afrobrasilianer och ursprungsfolk – den holländska armén. Holländarna blev instängda i Recife, och när Nederländerna var upptaget av första engelsk-nederländska kriget (1652–54) kunde inga förstärkningar skickas. I januari 1654 kapitulerade Recife. 1661 sålde Nederländerna formellt sina anspråk för 4 miljoner gulden.
+
+    Följderna blev globala. Holländare och sefardiska judar från Recife flyttade till Karibien och tog med sig kunskap om sockerodling, vilket satte igång sockerboomen på Barbados, Jamaica och andra öar – och därmed en kraftig ökning av slavhandeln ([se 1660-talet](#sockerplantager-och-slaveri-i-karibien)). Några av de judiska flyktingarna kom 1654 till [Nya Amsterdam](#nya-amsterdam-1626) och blev New Yorks första judiska församling.
+
+sockerplantager-och-slaveri-i-karibien:
+  period: 1660
+  label: "Sockerplantager och slaveri i Karibien"
+  title: "Sockerplantager och slaveri i Karibien"
+  wiki:
+    - "en:Sugar plantations in the Caribbean"
+    - "sv:Atlantiska slavhandeln"
+  text: |
+    På 1600-talet gick socker från att vara en lyxvara till att bli en vardagsvara i Europa. Det odlades på öar i Karibien som Barbados (engelsk), Jamaica (engelsk från 1655), Martinique och Saint-Domingue (franska, dagens Haiti). Sockerrör kräver hårt arbete i hetta: skörd, krossning och kokning i dygnsdrift.
+
+    Arbetskraften blev [förslavade afrikaner](#slavhandeln-okar-kraftigt). Plantageägarna fann det billigare att köpa nya slavar än att hålla de befintliga vid liv – dödligheten var så hög att befolkningen inte reproducerade sig. Av de uppskattningsvis 12,5 miljoner afrikaner som fördes över Atlanten totalt hamnade den stora majoriteten i Karibien och Brasilien; bara runt 4 % kom till Nordamerika.
+
+    Systemet kallas ofta triangelhandeln: varor från Europa till Afrika, slavar till Amerika, socker och rom tillbaka till Europa. Sockerkolonierna var under 1700-talet bland världens rikaste platser per ytenhet, och vinsterna bidrog till kapitalet i Storbritannien före [industriella revolutionen](#industriella-revolutionen-watts). Se även [Haitis slavuppror 1791](#haitiska-revolutionen-1791).
+
+guld-i-brasilien:
+  period: 1680
+  label: "Guld i Brasilien"
+  title: "Guldfynden i Brasilien 1690-talet"
+  wiki:
+    - "en:Brazilian Gold Rush"
+    - "sv:Minas Gerais"
+  text: |
+    Brasilien var en portugisisk koloni som fram till 1600-talets slut levde mest på [sockerplantager längs kusten](#sockerplantager-och-slaveri-i-karibien). Kring 1693–1695 hittade **bandeirantes** – grupper av nybyggare från São Paulo som drog in i inlandet för att fånga ursprungsbefolkning som slavar och leta mineraler – guld i bergsområdet som fick namnet **Minas Gerais** ("allmänna gruvor").
+
+    Fyndet var det största guldfyndet i världen dittills. Under 1700-talet utvanns uppskattningsvis 800–1 000 ton guld, mer än hela Spanska Amerikas guldproduktion under samma tid. Det utlöste en guldrusch (se [Guldrusch i Brasilien](#guldrusch-i-brasilien)) med tiotusentals invandrare från Portugal och ännu fler förslavade afrikaner som tvingades arbeta i gruvorna.
+
+    Guldet gjorde Portugals kung rik, men mycket av det flöt vidare till England för att betala importvaror. Kolonins tyngdpunkt flyttades söderut, och 1763 flyttades huvudstaden från Salvador till Rio de Janeiro, den hamn guldet skeppades ut från. Jämför med [Kaliforniens guldrusch 1848](#guldrusch-1849).
+
+guldrusch-i-brasilien:
+  period: 1700
+  label: "Guldrusch i Brasilien"
+  title: "Guldruschen i Brasilien"
+  wiki:
+    - "en:Brazilian Gold Rush"
+    - "sv:Ouro Preto"
+  text: |
+    Efter guldfynden i **Minas Gerais** på 1690-talet (se [Guld i Brasilien](#guld-i-brasilien)) kom världens första stora moderna guldrusch. Uppskattningsvis 300 000–600 000 portugiser utvandrade till Brasilien under 1700-talet – en stor del av Portugals befolkning på drygt 2 miljoner. Portugal försökte till och med begränsa utvandringen.
+
+    Ännu fler förslavade afrikaner fördes dit för gruvarbetet. Konflikter mellan nybyggarna från São Paulo och nykomlingarna ledde till Emboabakriget 1707–1709. Städer som Ouro Preto ("svart guld") växte fram med påkostade barockkyrkor; Ouro Preto hade kanske 40 000 invånare – fler än New York vid samma tid. Kronan tog en femtedel ("quinto") av allt guld som skatt.
+
+    Toppen kom kring 1750 med uppskattningsvis 15 ton per år. Mycket av guldet gick vidare från Lissabon till London för att betala för brittiska varor, och har föreslagits som en av kapitalkällorna för [Storbritanniens industrialisering](#industriella-revolutionen-watts). Diamanter hittades också på 1720-talet. Jämför guldruscherna i [Kalifornien 1848](#guldrusch-1849) och Klondike 1896.
+
+haitiska-revolutionen-1791:
+  period: 1780
+  label: "Haitiska revolutionen 1791"
+  title: "Haitiska revolutionen 1791–1804"
+  wiki:
+    - "sv:Haitiska revolutionen"
+    - "sv:Toussaint Louverture"
+  text: |
+    Den franska kolonin **Saint-Domingue**, västra delen av ön Hispaniola i Karibien, var världens rikaste koloni. Den producerade omkring 40 procent av Europas socker och mer än hälften av dess kaffe. Arbetet utfördes av uppskattningsvis 500 000 förslavade afrikaner under extremt brutala förhållanden – dödligheten var så hög att nya slavar ständigt importerades. De var tio gånger fler än de vita.
+
+    I augusti 1791, inspirerade av [franska revolutionens](#franska-revolutionen-1789) tal om frihet och jämlikhet, reste sig slavarna i norr. Ledaren **Toussaint Louverture**, en frigiven f.d. slav, byggde upp en disciplinerad armé och slog brittiska och spanska invasionsstyrkor. Frankrike avskaffade slaveriet 1794. Men 1802 skickade [Napoleon](#napoleon) en armé för att återinföra det; uppskattningsvis tiotusentals franska soldater dog, många av gula febern. Toussaint tillfångatogs och dog i fängelse i Frankrike.
+
+    1804 utropade Jean-Jacques Dessalines **[Haiti](#haiti-fritt-1804)** som självständigt – det enda framgångsrika slavupproret i historien och den första svarta republiken. Frankrikes förlust fick Napoleon att [sälja Louisiana till USA 1803](#louisianakopet-1803). Haiti tvingades senare betala Frankrike enorma skadestånd, en skuld som förlamade landet i över hundra år.
+
+tupac-amaru-ii-1780:
+  period: 1780
+  label: "Túpac Amaru II 1780"
+  title: "Túpac Amaru II:s uppror 1780–1781"
+  wiki:
+    - "sv:Túpac Amaru II"
+    - "en:Rebellion of Túpac Amaru II"
+  text: |
+    I Peru, som var en del av Spaniens imperium, levde ursprungsbefolkningen under hårt tryck: tvångsarbete i silvergruvor som [Potosí](#potosi-varldens-storsta-silvergruva) (systemet kallades *[mita](#tvangsarbete-mita-i-gruvorna)*), tvångsköp av varor till överpriser och höjda skatter efter Karl III:s reformer.
+
+    **José Gabriel Condorcanqui** var en förmögen mestis-kazik (lokal ledare) som härstammade från den siste inkahärskaren Túpac Amaru, avrättad av spanjorerna 1572. I november 1780 tog han namnet Túpac Amaru II, grep och avrättade en spansk guvernör och startade ett uppror som spred sig över södra Peru och Bolivia. Han samlade tiotusentals anhängare. Hans hustru **Micaela Bastidas** var en av de ledande strategerna.
+
+    Upproret slogs ned. 1781 avrättades han i Cuzco efter att ha tvingats se sin familj dödas; man försökte slita sönder honom med fyra hästar. Kampen fortsatte ett tag till, och totalt dog uppskattningsvis omkring 100 000 människor. Han inspirerade senare självständighetsrörelser, och på 1900-talet tog både en peruansk gerilla och en uruguayansk (Tupamaros) hans namn. Rapparen Tupac Shakur var också uppkallad efter honom.
+
+haiti-fritt-1804:
+  period: 1800
+  label: "Haiti fritt 1804"
+  title: "Haitis självständighet 1804"
+  wiki:
+    - "sv:Haitiska revolutionen"
+  text: |
+    Den franska kolonin **Saint-Domingue** (västra delen av ön Hispaniola) var 1700-talets rikaste koloni i världen och producerade en stor del av Europas socker och kaffe. Där arbetade omkring 500 000 förslavade afrikaner under extremt brutala förhållanden, styrda av cirka 40 000 vita.
+
+    1791 utbröt ett slavuppror som utvecklades till den **[haitiska revolutionen](#haitiska-revolutionen-1791)**, ledd bland annat av den tidigare slaven **Toussaint Louverture**. Frankrike avskaffade slaveriet 1794, men Napoleon skickade 1802 en armé på uppskattningsvis 30 000–40 000 man för att återta kontrollen och återinföra slaveriet. Den förlorade större delen av sina soldater i strider och gula febern. Den 1 januari 1804 utropade **Jean-Jacques Dessalines** republiken Haiti.
+
+    Haiti blev det andra självständiga landet i Amerika (efter USA) och den första stat som grundats av före detta slavar. Nederlaget fick Napoleon att [sälja Louisiana till USA](#louisianakopet-1803). Men Haiti isolerades: Frankrike tvingade 1825 landet att betala en skadeersättning för förlorad ”egendom” (de frigivna slavarna) på 150 miljoner franc, en skuld som tyngde ekonomin i över ett sekel.
+
+bolivar:
+  period: 1800
+  label: "Bolívar"
+  title: "Simón Bolívar – Sydamerikas befriare"
+  wiki:
+    - "sv:Simón Bolívar"
+    - "en:Spanish American wars of independence"
+  text: |
+    **Simón Bolívar** (1783–1830) var en rik kreol (person av spansk härkomst född i Amerika) från Caracas i Venezuela som ledde självständighetskrigen mot Spanien i norra Sydamerika. Han inspirerades av upplysningsfilosofin och den franska revolutionen.
+
+    Tillfället kom när [Napoleon 1808 ockuperade Spanien](#napoleon-i-spanien-1808) och avsatte kungen, vilket lämnade kolonierna utan legitim ledning. Bolívar förde krig i nästan 15 år, med flera nederlag och perioder i exil. Hans kanske mest kända bedrift var 1819, när han ledde en armé på ett par tusen man över Anderna och besegrade spanjorerna vid Boyacá. Han befriade det som idag är Venezuela, Colombia, Ecuador, Peru, Panama och Bolivia (uppkallat efter honom). I söder ledde **José de San Martín** befrielsen av Argentina och Chile.
+
+    Bolívars dröm var en stor förenad stat, **Storcolombia**, men den föll sönder 1830 samma år som han dog. Den spanskspråkiga delen av Amerika splittrades i ett tjugotal stater, ofta styrda av militära ledare (caudillos) – en kontrast mot hur [de brittiska kolonierna i Nordamerika](#sjalvstandighetsforklaringen-1776) förblev en enhet.
+
+mexiko-brasilien-peru-fria:
+  period: 1820
+  label: "Mexiko, Brasilien, Peru fria"
+  title: "Mexiko, Brasilien och Peru blir självständiga 1821–1824"
+  wiki:
+    - "sv:Mexikanska självständighetskriget"
+    - "en:Independence of Brazil"
+    - "en:Peruvian War of Independence"
+  text: |
+    [Napoleons ockupation av Spanien och Portugal 1808](#napoleon-i-spanien-1808) utlöste självständighetsrörelser i hela Latinamerika. Runt 1820 fullbordades de i de tre största kolonierna.
+
+    **Mexiko**: ett bondeuppror 1810 ledd av prästen Miguel Hidalgo krossades, men 1821 bytte den konservative officeren Agustín de Iturbide sida och utropade självständighet; han gjorde sig kortvarigt till kejsare. Mexiko omfattade då också dagens Kalifornien, Texas och sydvästra USA – mer än hälften av landet förlorades sedan till USA (se [Mexikanska kriget 1846](#mexikanska-kriget-1846)). **Brasilien**: den portugisiska kungafamiljen hade flytt till Rio de Janeiro 1808. När kungen återvände till Lissabon utropade kronprinsen **Pedro I** 1822 Brasilien till självständigt kejsardöme – en förhållandevis fredlig övergång som höll ihop det enorma landet. Slaveriet bestod till 1888. **Peru**, centrum för spansk makt i Sydamerika, befriades av José de San Martín (1821) och [Simón Bolívar](#bolivar); den sista spanska armén besegrades vid Ayacucho 1824.
+
+    Resultatet var att två miljoner kvadratkilometer bytte herrar, men samhällsstrukturen – en vit elit som ägde jorden och en fattig ursprungs- eller slavbefolkning – bestod i stort sett.
+
+paraguaykriget:
+  period: 1860
+  label: "Paraguaykriget"
+  title: "Paraguaykriget 1864–1870"
+  wiki:
+    - "sv:Paraguaykriget"
+    - "en:Paraguayan War"
+  text: |
+    **Paraguaykriget** (även Trippelalliansens krig) var det blodigaste kriget i Latinamerikas historia. Paraguay, en liten inlandsstat styrd av diktatorn **Francisco Solano López**, hamnade i konflikt med grannarna om inflytande över Uruguay och flodtrafiken. López angrep, och mot honom ställde sig en allians av Brasilien, Argentina och Uruguay.
+
+    Paraguay hade ungefär 400 000–500 000 invånare; motståndarna sammanlagt över 10 miljoner. López vägrade ge upp och kriget drog ut i sex år tills han dödades 1870. Uppskattningarna varierar kraftigt, men Paraguay förlorade troligen mellan en fjärdedel och över hälften av sin befolkning, och en mycket stor del av de vuxna männen. Mest dödade sjukdom och svält.
+
+    Paraguay förlorade också ca 40 % av sitt territorium och återhämtade sig ekonomiskt mycket långsamt. För jämförelse: ingen europeisk stat förlorade i något krig en så stor andel av befolkningen under 1800-talet.
+
+    Jämför med [Inbördeskriget 1861–65](#inbordeskriget-186165).
+
+brasilien-avskaffar-slaveriet-1888:
+  period: 1880
+  label: "Brasilien avskaffar slaveriet 1888"
+  title: "Brasilien avskaffar slaveriet 1888"
+  wiki:
+    - "en:Lei Áurea"
+    - "en:Slavery in Brazil"
+  text: |
+    Brasilien tog emot fler förslavade afrikaner än något annat land: uppskattningsvis 4–5 miljoner av de drygt 10 miljoner som överlevde överfarten över Atlanten. De arbetade på socker-, guld- och senare kaffeplantager. Brasilien var vid den här tiden ett kejsardöme, styrt av kejsar Pedro II.
+
+    Avskaffandet skedde stegvis: slavimporten förbjöds 1850, barn till slavar förklarades fria 1871 (”fria livmoderns lag”) och slavar över 60 år 1885. Den 13 maj 1888 skrev prinsessan-regenten **Isabel** under **Lei Áurea** (”den gyllene lagen”), som befriade de ca 700 000 som fortfarande var slavar – utan ersättning till ägarna.
+
+    Brasilien blev därmed det sista landet i Amerika att avskaffa slaveriet. Plantageägarna vände sig mot monarkin, och redan 1889 störtades kejsaren och republik utropades. De befriade fick varken mark eller utbildning; ojämlikhet efter hudfärg präglar Brasilien än idag. Jämför: [USA 1865](#slaveriet-avskaffas), Kuba 1886.
+
+mexikanska-revolutionen-1910:
+  period: 1900
+  label: "Mexikanska revolutionen 1910"
+  title: "Mexikanska revolutionen 1910–1920"
+  wiki:
+    - "sv:Mexikanska revolutionen"
+  text: |
+    Mexiko styrdes 1876–1911 av diktatorn **Porfirio Díaz**. Under honom byggdes järnvägar och utländskt kapital strömmade in, men marken samlades hos ett litet antal storgodsägare medan de flesta bönder var jordlösa.
+
+    1910 utmanade den liberale godsägaren **Francisco Madero** Díaz i valet, och när valet riggades utbröt uppror. Díaz flydde 1911. Därefter följde ett decennium av inbördeskrig mellan olika fraktioner. Mest kända är **Emiliano Zapata**, som i söder krävde jord åt bönderna (”Land och frihet”), och **Pancho Villa**, ledare för en armé i norr. Madero mördades 1913, och både Zapata och Villa mördades senare.
+
+    Uppskattningsvis 1–2 miljoner människor dog, av omkring 15 miljoner invånare. Revolutionen gav Mexiko 1917 års grundlag med jordreform och arbetarrättigheter, och partiet som växte fram (senare PRI) styrde landet utan avbrott i 71 år, till år 2000. Det var 1900-talets första stora sociala revolution, sju år före [den ryska](#revolutionerna-1917).
+
+panamakanalen-1914:
+  period: 1900
+  label: "Panamakanalen 1914"
+  title: "Panamakanalen 1914"
+  wiki:
+    - "sv:Panamakanalen"
+  text: |
+    Panamakanalen är en 82 km lång kanal genom Panamanäset som förbinder Atlanten med Stilla havet. Innan den fanns måste fartyg runda Sydamerikas sydspets. En resa New York–San Francisco kortades från omkring 22 500 km till cirka 9 500 km.
+
+    Fransmännen, under Ferdinand de Lesseps som byggt [Suezkanalen](#suezkanalen-1869), försökte först på 1880-talet men gav upp efter att uppskattningsvis över 20 000 arbetare dött, främst av malaria och gula febern. 1903 stödde USA Panamas utbrytning från Colombia och fick i gengäld kontroll över en kanalzon. USA byggde 1904–1914 med slussar i stället för en kanal i havsnivå, och lyckades genom att bekämpa myggorna som spred sjukdomarna. Omkring 5 600 arbetare dog under den amerikanska perioden.
+
+    Kanalen öppnade 15 augusti 1914, två veckor efter att [första världskriget](#forsta-varldskriget) börjat. Den gjorde USA till sjömakt i båda haven. Panama fick full kontroll över kanalen först 1999. Idag passerar omkring 5 % av världens sjöhandel där.
+
+kubanska-revolutionen-1959:
+  period: 1940
+  label: "Kubanska revolutionen 1959"
+  title: "Kubanska revolutionen 1959"
+  wiki:
+    - "sv:Kubanska revolutionen"
+    - "sv:Fidel Castro"
+  text: |
+    Kuba, en ö med drygt 6 miljoner invånare 15 mil från Florida, styrdes på 1950-talet av diktatorn **Fulgencio Batista**. Amerikanska företag ägde mycket av sockerindustrin, och Havanna var känt för kasinon och maffia.
+
+    I december 1956 landsteg advokaten **Fidel Castro**, den argentinske läkaren **Che Guevara** och 80 andra från båten Granma. De flesta dödades direkt, men en liten grupp överlevde i bergen och byggde upp en gerillaarmé. Batistas armé föll samman, och den 1 januari 1959 flydde han.
+
+    Castro förstatligade jordbruksmark och amerikanska företag. USA svarade med ett handelsembargo som i stort sett fortfarande gäller, och Kuba närmade sig Sovjetunionen. 1961 misslyckades en CIA-stödd invasion av omkring 1 400 kubanska exiler i Grisbukten, och 1962 placerade Sovjet kärnvapenmissiler på ön – se [Kubakrisen 1962](#kubakrisen-1962). Castro styrde till 2008. Revolutionen inspirerade gerillarörelser i hela Latinamerika, och rädslan för ”ett nytt Kuba” fick USA att stödja militärkupper, till exempel i [Chile 1973](#chilekuppen-1973) (se det).
+
+chilekuppen-1973:
+  period: 1960
+  label: "Chilekuppen 1973"
+  title: "Militärkuppen i Chile 1973"
+  wiki:
+    - "en:1973 Chilean coup d'état"
+    - "sv:Augusto Pinochet"
+  text: |
+    1970 valdes socialisten **Salvador Allende** till Chiles president, med bara 36 procent av rösterna i ett splittrat val. Han var den förste marxist som valts i ett fritt val i Latinamerika. Han förstatligade kopparindustrin, som till stor del ägdes av amerikanska bolag, liksom banker, och genomförde jordreform. Inflationen skenade (flera hundra procent 1973), varubrister och strejker följde, och landet polariserades.
+
+    USA under Nixon, rädd för ”ett nytt Kuba” (se [Kubanska revolutionen 1959](#kubanska-revolutionen-1959)), försökte på olika sätt destabilisera Allende ekonomiskt och finansierade oppositionen via CIA. Den 11 september 1973 gjorde militären under general **Augusto Pinochet** en kupp. Presidentpalatset bombades från luften och Allende tog sitt liv där.
+
+    Pinochet styrde som diktator till 1990. Omkring 3 000 dödades eller ”försvann” och tiotusentals torterades. Sverige tog emot många chilenska flyktingar; ambassadören Harald Edelstam räddade hundratals. Ekonomiskt införde regimen radikal marknadsliberalism med ekonomer från Chicago, ett tidigt exempel på politik som senare fördes av Thatcher och Reagan (se [Thatcher](#thatcher)). Pinochet förlorade en folkomröstning 1988 och lämnade makten fredligt.
+
+demokratisering:
+  period: 1980
+  label: "Demokratisering"
+  title: "Latinamerikas demokratisering på 1980-talet"
+  wiki:
+    - "en:Third Wave of Democracy"
+    - "en:Latin American debt crisis"
+    - "sv:Augusto Pinochet"
+  text: |
+    På 1970-talet styrdes större delen av Syd- och Centralamerika av militärdiktaturer, ofta med stöd från USA som en del av kalla kriget mot kommunismen. I Chile störtade general **Augusto Pinochet** 1973 [den valda presidenten Salvador Allende](#chilekuppen-1973); i Argentina mördade juntan uppskattningsvis 10 000–30 000 människor under det smutsiga kriget 1976–83, många som försvunna (desaparecidos).
+
+    Under 1980-talet föll diktaturerna en efter en. Argentinas junta förlorade [Falklandskriget](#falklandskriget-1982) mot Storbritannien 1982 och lämnade över makten 1983. Uruguay och Brasilien (militärstyre sedan 1964) följde 1985. I Chile röstade folket nej till Pinochet i en folkomröstning 1988 och demokrati återinfördes 1990. Orsakerna var bland annat ekonomisk kris – skuldkrisen 1982, då flera länder inte kunde betala sina utlandslån och inflationen ibland översteg 1 000 % per år – och att USA mot slutet av kalla kriget slutade stödja diktaturer på samma sätt.
+
+    Jämför med [Sydeuropa (Portugal, Spanien, Grekland) på 1970-talet](#demokrati-eg-1986) och [Östeuropa 1989](#murens-fall-1989). Statsvetare kallar detta den tredje demokratiseringsvågen. Se även [Vänstervåg](#vanstervag) efter 2000.
+
+vanstervag:
+  period: 2000
+  label: "Vänstervåg"
+  title: "Den rosa vågen i Latinamerika"
+  wiki:
+    - "sv:Rosa vågen"
+    - "en:Pink tide"
+  text: |
+    Kring år 2000 valdes vänsterledare till makten i land efter land i Latinamerika, en utveckling som kallats **den rosa vågen** (rosa eftersom de flesta var mildare än kommunistiskt röda). Bakgrunden var missnöje med 1990-talets marknadsreformer – privatiseringar och nedskärningar som IMF och USA förespråkat, ofta kallade Washingtonkonsensus – som inte minskat regionens extrema ojämlikhet. Argentina gick i statsbankrutt 2001.
+
+    Ledarna var olika. I Venezuela styrde den förre fallskärmsofficeren **Hugo Chávez** (1999–2013) med radikal och alltmer auktoritär "bolivariansk socialism", finansierad av olja. I Brasilien var den förre fackföreningsledaren **Luiz Inácio Lula da Silva** (2003–10) mer pragmatisk; hans bidragsprogram Bolsa Família betalade små summor till fattiga familjer mot att barnen gick i skolan och vaccinerades. Bolivia fick sin första ursprungsfolkspresident, Evo Morales (2006).
+
+    Höga råvarupriser, driven av Kinas efterfrågan, finansierade sociala program och fattigdomen minskade kraftigt. När priserna föll efter 2014 kom kriser och korruptionsskandaler. Venezuela kollapsade ekonomiskt under Chávez efterträdare Nicolás Maduro; omkring 7–8 miljoner människor har lämnat landet. Se även [Demokratisering](#demokratisering) på 1980-talet.

@@ -1,0 +1,1252 @@
+# Fysik & astronomi
+# Varje nod: period (första året i 20-årsperioden), label (texten i tabellen),
+# title, wiki (språk:Artikel), text (Markdown; [text](#id) länkar till en annan nod).
+# same_as: id betyder att noden visar samma artikel som en annan nod.
+
+ibn-al-haytham-experimentell-optik:
+  period: 1000
+  label: "Ibn al-Haytham: experimentell optik, camera obscura"
+  title: "Ibn al-Haytham och experimentell optik"
+  wiki:
+    - "en:Ibn al-Haytham"
+    - "en:Book of Optics"
+    - "sv:Camera obscura"
+  text: |
+    **Ibn al-Haytham** (ca 965–1040, latiniserat Alhazen) var en arabisk matematiker och fysiker från Basra som verkade i Kairo. I *Optikens bok* (skriven ca 1011–1021) avgjorde han en gammal tvist: grekerna Euklides och Ptolemaios hade trott att ögat skickar ut strålar mot föremålen. Ibn al-Haytham visade att seendet fungerar tvärtom – ljus från varje punkt på ett föremål går i raka linjer in i ögat.
+
+    Ett av hans redskap var **camera obscura** (”mörkt rum”): ett mörkt rum eller låda med ett litet hål i ena väggen. Ljus genom hålet ger en upp- och nedvänd bild av omvärlden på motsatta väggen. Han använde den för att visa att ljusstrålar går rakt och inte blandas när de korsar varandra. Samma princip finns i varje kamera i dag – linsen ersätter hålet.
+
+    Det nya var metoden: han ställde upp kontrollerade försök med lampor, skärmar och hål och lät resultaten avgöra, inte auktoriteter. Boken översattes till latin omkring 1200 och påverkade [Grosseteste](#grosseteste-optik-och-experimentell), [Roger Bacon](#roger-bacon-experiment-linser) och [Witelo](#witelo-optik-perspectiva), och via dem senare Kepler. Den lade grunden för förståelsen av linser och därmed för [glasögonen](#glasogon-uppfinns-1286-2).
+
+al-biruni-mater-jordens-radie:
+  period: 1000
+  label: "al-Biruni mäter jordens radie"
+  title: "al-Biruni mäter jorden från ett berg"
+  wiki:
+    - "en:Al-Biruni"
+    - "en:Earth radius"
+  text: |
+    **al-Biruni** (973–ca 1050) var en persisk-centralasiatisk lärd från Khwarezm (vid Aralsjön) som verkade vid hovet hos [Mahmud av Ghazni](#mahmud-av-ghazni) och följde med på dennes fälttåg till Indien. Han skrev om astronomi, matematik, geografi och indisk kultur.
+
+    Hans metod för att mäta jordens radie behövde bara ett berg och ett vinkelinstrument. Först mätte han bergets höjd *h* med trianglar från slätten. Sedan mätte han från toppen hur mycket horisonten ligger under vågrät linje, vinkeln *α*. Synlinjen till horisonten tangerar jordklotet, så en rätvinklig triangel ger cos *α* = *R*/(*R*+*h*), alltså *R* = *h*·cos *α*/(1 − cos *α*).
+
+    Mätningen gjordes vid Nandana i nuvarande Pakistan, och resultatet motsvarar ungefär 6 340 km – nära dagens medelvärde, ca 6 371 km. Exaktheten var delvis tur, eftersom vinkeln är mycket liten och ljusets brytning i luften stör. Äldre metoder krävde två orter långt ifrån varandra: grekern Eratosthenes (ca 240 f.Kr.) jämförde solskuggor i två egyptiska städer. al-Birunis metod kunde göras av en person på en plats. Han funderade också på [om jorden roterar](#al-biruni-kan-jorden-rotera).
+
+ibn-sina-rorelse-och-impuls-mayl:
+  period: 1020
+  label: "Ibn Sina: rörelse och impuls (mayl)"
+  title: "Ibn Sina och kastade föremål"
+  wiki:
+    - "en:Theory of impetus"
+    - "en:Avicenna"
+  text: |
+    **Ibn Sina** (980–1037, latiniserat Avicenna) var en persisk läkare och filosof, mest känd för [Medicinens kanon](#ibn-sina-medicinens-kanon-1025). Han skrev också om fysik och tog sig an ett problem i Aristoteles lära.
+
+    Den grekiske filosofen Aristoteles (300-talet f.Kr.) menade att ett föremål bara rör sig så länge något skjuter på det. Men vad driver en kastad sten efter att den lämnat handen? Aristoteles svar var att luften runt stenen fortsätter att knuffa den – en förklaring som många redan i antiken tyckte var konstlad.
+
+    Ibn Sina föreslog att kastaren ger stenen en inre egenskap, **mayl** (arabiska ungefär ”böjelse”), som sedan bär rörelsen. Mayl tar inte slut av sig själv utan förbrukas av luftens motstånd; i ett vakuum skulle rörelsen, menade han, fortsätta oavbrutet. Det liknar tröghetslagen – att ett föremål behåller sin rörelse om ingen kraft verkar – men hos Ibn Sina var mayl fortfarande en orsak som höll rörelsen igång, inte rörelsen själv.
+
+    Idén levde vidare i den latinska [impetusteorin](#buridan-impetusteorin) hos Jean Buridan på 1300-talet, och Galilei började sin bana inom den traditionen. Det slutgiltiga steget, där rörelse inte behöver någon orsak alls, kom med Newtons första lag i [Principia 1687](#newton-principia-1687).
+
+al-biruni-kan-jorden-rotera:
+  period: 1020
+  label: "al-Biruni: kan jorden rotera?"
+  title: "al-Biruni: snurrar jorden?"
+  wiki:
+    - "en:Al-Biruni"
+    - "en:Earth's rotation"
+  text: |
+    Varje dygn verkar hela stjärnhimlen vrida sig ett varv runt jorden. Det kan förklaras på två sätt: antingen roterar himlen, eller så står himlen still och jorden snurrar runt sin axel. Den indiske astronomen Aryabhata hade redan år 499 föreslagit det senare, men de flesta, med Aristoteles och Ptolemaios, avfärdade det: om jorden snurrade borde fåglar och moln blåsa bort västerut. Vid ekvatorn skulle ytan röra sig med ungefär 1 670 km/h.
+
+    [al-Biruni](#al-biruni-mater-jordens-radie) (973–ca 1050), som kände indisk astronomi väl, diskuterade frågan omkring 1030, bland annat i en brevväxling med Ibn Sina och i sitt stora astronomiska verk. Hans slutsats var nykter: astronomiska observationer kan inte avgöra saken, eftersom båda modellerna förutsäger exakt samma rörelser på himlen. Frågan måste avgöras av fysiken, och där lämnade han den öppen.
+
+    Poängen är att han skiljde mellan vad matematiken kan visa och vad fysiken måste visa – en distinktion som återkom när [Nicole Oresme 1377](#oresme-jordens-rotation-mojlig-1377) visade att argumenten mot rotation inte håller. [Kopernikus](#kopernikus-de-revolutionibus-1543) gjorde rotationen till en del av sin modell 1543, men ett direkt fysiskt bevis kom först med Foucaults pendel 1851.
+
+supernovan-1054-dokumenteras-i-kina:
+  period: 1040
+  label: "Supernovan 1054 dokumenteras i Kina"
+  title: "Supernovan 1054"
+  wiki:
+    - "en:SN 1054"
+    - "en:Crab Nebula"
+  text: |
+    Den 4 juli 1054 noterade astronomerna vid Songdynastins hov en ”gäststjärna” i stjärnbilden Oxen. Den var så ljus att den syntes på dagen i 23 dagar och på natthimlen i nästan två år. Kinesiska hovastronomer förde noggranna loggar eftersom himlafenomen tolkades som tecken om kejsarens styre.
+
+    I dag vet vi att det var en **supernova**: en stjärna med många gånger solens massa som brände slut på sitt bränsle, varpå kärnan kollapsade och de yttre lagren slungades ut i en explosion som tillfälligt lyste som miljarder solar. Resterna syns i dag som **Krabbnebulosan**, ett gasmoln cirka 6 500 ljusår bort som fortfarande expanderar. Mitt i den finns en pulsar, en neutronstjärna – den kollapsade kärnan, ungefär 20 km i diameter – som roterar cirka 30 varv per sekund. Genom att räkna bakåt från nebulosans expansion har man kunnat bekräfta att den uppstod ungefär vid 1050-talet.
+
+    Märkligt nog finns nästan inga europeiska noteringar. En förklaring är att den aristoteliska läran sade att himlen ovanför månen är evigt oföränderlig. Den föreställningen bröts först när [Tycho Brahe](#tycho-pa-ven) mätte en ny supernova 1572 och visade att den låg långt bortom månen. De kinesiska loggarna är i dag värdefulla data för astrofysiker.
+
+shen-kuo-magnetisk-deklination:
+  period: 1060
+  label: "Shen Kuo: magnetisk deklination"
+  title: "Shen Kuo upptäcker deklinationen"
+  wiki:
+    - "en:Shen Kuo"
+    - "en:Magnetic declination"
+  text: |
+    **Shen Kuo** (1031–1095) var en kinesisk ämbetsman och universalgeni under Songdynastin: astronom, ingenjör, diplomat och general. I sina anteckningar *Mengxi bitan* (”Drömbäckens uppsatser”, 1088) beskrev han allt från fossil och geologi till [Bi Shengs lösa typer](#bi-sheng-losa-typer-1040) och kompassen.
+
+    Han beskrev hur en järnnål gnids mot magnetit (en naturligt magnetisk sten) och sedan hängs i en silkestråd, så att den kan vrida sig fritt och pekar i nord–sydlig riktning. Det är den första tydliga beskrivningen av en magnetisk kompassnål. Han noterade dessutom att nålen inte pekar exakt mot söder utan något åt öster.
+
+    Detta är **magnetisk deklination**: vinkeln mellan riktningen mot den magnetiska polen och mot den geografiska. Den beror på att jordens magnetfält, som uppstår av strömmar i det flytande järnet i jordens kärna, inte är riktat exakt längs rotationsaxeln. Deklinationen varierar mellan platser och ändras över tid; för långa sjöresor måste navigatörer korrigera för den. Européer upptäckte fenomenet först på 1400-talet. Shen Kuos beskrivning kom strax före den första kända användningen av [kompass till sjöss](#magnetkompass-for-navigation-kina-1090); i Europa nämns kompassen först av [Neckam ~1190](#neckam-beskriver-magnetkompassen-1190), och jordens magnetism förklarades av [William Gilbert 1600](#gilbert-de-magnete-1600-ordet).
+
+omar-khayyams-kalender-2:
+  period: 1060
+  label: "Omar Khayyams kalender"
+  same_as: omar-khayyams-kalender
+
+su-songs-astronomiska-klocktorn-1092-2:
+  period: 1080
+  label: "Su Songs astronomiska klocktorn 1092"
+  same_as: su-songs-astronomiska-klocktorn-1092
+
+adelard-av-bath-fornuft-fore-auktoritet:
+  period: 1100
+  label: "Adelard av Bath: förnuft före auktoritet"
+  title: "Adelard av Bath: förnuft före auktoritet"
+  wiki:
+    - "en:Adelard of Bath"
+  text: |
+    **Adelard av Bath** (ca 1080–ca 1152) var en engelsk lärd som reste i Frankrike, södra Italien, Sicilien och troligen Syrien för att lära sig arabisk vetenskap. Han är känd för att [översätta Euklides från arabiska](#adelard-av-bath-oversatter-euklides-fran) och [al-Khwarizmis astronomiska tabeller](#adelard-oversatter-al-khwarizmis) till latin.
+
+    I *Quaestiones naturales* (”Naturvetenskapliga frågor”, ca 1110–1130), skriven som en dialog mellan honom och hans brorson, ställde han 76 frågor om naturen: varför växter växer, hur jorden hålls uppe, varför havet är salt. Hans grundhållning var att naturen ska förklaras med naturliga orsaker, och att man inte ska svara ”Gud gjorde det” när det går att hitta en förklaring. Han skrev att den som följer en auktoritet utan att pröva den är som ett djur som leds i grimma, och han ställde förnuftet (latin *ratio*) över auktoriteten.
+
+    Han presenterade sina idéer som lärdom från ”araberna”, delvis för att nya tankar mottogs bättre om de tillskrevs utländska mästare. Hållningen var tidstypisk: samtidigt utmanade [Abélard i Paris](#abelard-undervisar-i-paris) auktoriteterna med logik. Den ledde vidare till [Grossetestes](#grosseteste-optik-och-experimentell) och Roger Bacons betoning av erfarenhet, och är en tidig rot till vetenskapens krav på att påståenden ska kunna prövas.
+
+arabisk-astronomi-oversatts-i-toledo:
+  period: 1120
+  label: "Arabisk astronomi översätts i Toledo"
+  title: "Toledo: arabisk astronomi blir latinsk"
+  wiki:
+    - "en:Toledo School of Translators"
+    - "en:Tables of Toledo"
+  text: |
+    Toledo i centrala Spanien hade varit en muslimsk stad i nästan 400 år när den [erövrades av kungen av Kastilien 1085](#toledo-erovras-1085). Där fanns stora bibliotek med arabiska vetenskapliga verk och en befolkning av muslimer, judar och kristna som kunde arabiska. Under 1100-talet kom lärda från hela Europa dit för att översätta, ofta i par: en arabisktalande jude eller mozarab (arabiserad kristen) översatte muntligt till spanska och en latinkunnig lärd skrev ned på latin.
+
+    Astronomi var ett huvudområde. Bland det som översattes fanns **Toledotabellerna**, som astronomen al-Zarqali (Arzachel) med flera sammanställt i Toledo på 1000-talet: tabeller för att beräkna solens, månens och planeternas lägen vid vilken tidpunkt som helst. Där fanns också beskrivningar av astrolabiet, ett instrument för att mäta stjärnors höjd och räkna ut tiden, samt [Ptolemaios Almagest](#gerhard-av-cremona-oversatter-ptolemaios), den grekiska standardmodellen av planetrörelserna.
+
+    Dessa texter gav Europa den matematiska astronomi som de saknat sedan antiken, och arabiska ord som zenit, azimut och stjärnnamn som Aldebaran och Betelgeuse kommer härifrån. På 1200-talet lät Kastiliens kung göra de förbättrade [Alfonsinska tabellerna](#alfonsinska-tabellerna), som användes ända till Kopernikus tid.
+
+averroes-kommenterar-aristoteles:
+  period: 1140
+  label: "Averroës kommenterar Aristoteles"
+  title: "Averroës, Aristoteles kommentator"
+  wiki:
+    - "sv:Averroës"
+    - "en:Averroes"
+  text: |
+    **Ibn Rushd** (1126–1198, latiniserat Averroës) var en domare, läkare och filosof från Córdoba i det muslimska Spanien. På uppdrag av den almohadiske kalifen skrev han kommentarer till nästan alla bevarade verk av **Aristoteles** (384–322 f.Kr.), den grekiske filosof vars logik, fysik och biologi dominerade lärt tänkande i både den islamiska och kristna världen.
+
+    Han ville skala bort de nyplatonska tolkningar som tidigare kommentatorer lagt till och få fram vad Aristoteles egentligen menade. Inom fysiken innebar det bland annat att himlakropparna rör sig i perfekta cirklar kring jordens centrum. Han kritiserade därför Ptolemaios planetmodell med dess epicykler (små cirklar som åker på större cirklar) och excentriska banor: de ger bra förutsägelser, men kan inte vara fysiskt verkliga. Det väckte frågan om en astronomisk modell ska vara fysiskt sann eller bara räkna rätt.
+
+    Han hävdade också att filosofiskt förnuft och religiös uppenbarelse inte kan motsäga varandra. I den latinska världen blev han så central att han helt enkelt kallades ”Kommentatorn”. Hans texter översattes på 1200-talet och väckte stor debatt vid universitetet i Paris, där vissa ”averroistiska” idéer fördömdes, och [Thomas av Aquino](#thomas-av-aquino) skrev mot dem. Han skrev också en [medicinsk encyklopedi](#averroes-medicinsk-encyklopedi).
+
+al-idrisis-varldskarta-1154:
+  period: 1140
+  label: "al-Idrisis världskarta 1154"
+  title: "al-Idrisis världskarta"
+  wiki:
+    - "en:Tabula Rogeriana"
+    - "en:Muhammad al-Idrisi"
+  text: |
+    **al-Idrisi** (1100–ca 1165) var en arabisk geograf och kartograf född i Ceuta i Nordafrika, utbildad i Córdoba. Han blev knuten till hovet hos den normandiske kungen [Roger II av Sicilien](#roger-ii-normandiska-kungariket-sicilien), vars rike var en smältdegel av latinsk, grekisk och arabisk kultur.
+
+    På Rogers uppdrag arbetade han i cirka 15 år och samlade uppgifter från äldre geografer som Ptolemaios, från resenärer, köpmän och sändebud som förhördes på plats i Palermo. Resultatet blev 1154 *Tabula Rogeriana*: en bok med beskrivningar av länder, städer, avstånd och handelsvägar, och en världskarta indelad i sju klimatzoner (bälten från ekvatorn norrut) och 70 delkartor. Kartan har söder uppåt, vilket var vanligt i arabisk kartografi. Han lät enligt uppgift också gjuta en stor silverskiva med kartan.
+
+    Kartan täcker Europa, Asien och Nordafrika ned till Sahel och var långt mer detaljerad än samtida europeiska kartor, som ofta var schematiska och religiösa i sin uppbyggnad. Även Skandinavien finns med. Den användes i flera hundra år, men Europas kartografi förändrades i grunden först när de stora oceanresorna gav ny data och [Mercatorprojektionen](#mercatorprojektionen-1569) gav ett sätt att rita sjökort där kompasskurser blir raka linjer.
+
+gerhard-av-cremona-oversatter-ptolemaios:
+  period: 1160
+  label: "Gerhard av Cremona översätter Ptolemaios Almagest ~1175"
+  title: "Almagest blir latinsk"
+  wiki:
+    - "en:Gerard of Cremona"
+    - "sv:Almagest"
+  text: |
+    **Gerhard av Cremona** (ca 1114–1187) var en italiensk lärd som reste till [Toledo](#oversattarskolan-i-toledo) för att hitta Ptolemaios *Almagest*, som inte fanns på latin. Han stannade resten av livet och översatte runt 70–80 verk från arabiska, bland annat [Ibn Sinas Kanon](#ibn-sina-medicinens-kanon-1025), al-Zahrawis kirurgi och Euklides. Han är kanske den mest produktiva översättaren under medeltiden.
+
+    **Klaudios Ptolemaios** var en grekisk astronom i Alexandria på 100-talet e.Kr. Hans *Almagest* (arabiskt namn, ”det största”) beskriver ett universum med jorden i centrum. För att förklara att planeterna ibland verkar gå baklänges på himlen låter han varje planet gå i en liten cirkel, en **epicykel**, vars mittpunkt rör sig längs en större cirkel kring jorden. Med ytterligare knep, som att den stora cirkeln inte är centrerad på jorden, gav modellen förutsägelser som oftast stämde inom någon grad – tillräckligt för kalendrar och horoskop.
+
+    Gerhards översättning, färdig omkring 1175, blev grunden för all europeisk astronomiundervisning i nästan 400 år; en grekisk-latinsk översättning från Sicilien hade gjorts något tidigare men fick mindre spridning. Modellen kritiserades av [Averroës](#averroes-kommenterar-aristoteles) och förbättrades av [astronomerna i Maragha](#maragha-observatoriet-tusi-paret), men ersattes först av [Kopernikus solcentrerade modell 1543](#kopernikus-de-revolutionibus-1543).
+
+neckam-beskriver-magnetkompassen-1190:
+  period: 1180
+  label: "Neckam beskriver magnetkompassen ~1190"
+  title: "Kompassen dyker upp i Europa"
+  wiki:
+    - "en:Alexander Neckam"
+    - "en:History of the compass"
+  text: |
+    **Alexander Neckam** (1157–1217) var en engelsk lärd och senare abbot som skrev encyklopediska verk om naturen och vardagliga föremål. Omkring 1190 nämner han att sjömän, när solen är dold av moln, låter en nål som berörts av magnetsten visa vägen mot norr. Det är det äldsta kända europeiska skriftliga belägget för en **magnetkompass**.
+
+    Principen: magnetit (magnetsten) är ett naturligt magnetiskt järnmineral. En järnnål som strukits mot den blir själv magnetisk, och om den får röra sig fritt – till exempel flytande på ett strå i en vattenskål – ställer den in sig efter jordens magnetfält, ungefär i nord–sydlig riktning.
+
+    Kina var först. [Shen Kuo](#shen-kuo-magnetisk-deklination) beskrev magnetnålen på 1080-talet, inklusive att den inte pekar exakt mot geografisk nord, och kinesiska källor från strax efter 1100 visar att den användes i sjöfart ([Kina ~1090](#magnetkompass-for-navigation-kina-1090)). Om Europa fick idén från Kina via den arabiska världen eller kom på den själv är fortfarande oklart.
+
+    Kompassen gjorde det möjligt att hålla kurs i mulet väder och vintertid, vilket förlängde seglingssäsongen på Medelhavet. Den systematiska studien av magneter började med [Petrus Peregrinus 1269](#petrus-peregrinus-om-magneter-1269) och ledde via Gilbert år 1600 till elektromagnetismen.
+
+grosseteste-optik-och-experimentell:
+  period: 1200
+  label: "Grosseteste: optik och experimentell metod"
+  title: "Grosseteste: ljus, optik och metod"
+  wiki:
+    - "en:Robert Grosseteste"
+  text: |
+    **Robert Grosseteste** (ca 1170–1253) var en engelsk lärd, troligen den förste ledaren för universitetet i Oxford och från 1235 biskop av Lincoln. Han var en av de första i Västeuropa att använda de nyöversatta grekiska och arabiska naturvetenskapliga texterna.
+
+    Ljuset stod i centrum för hans tänkande. Han såg ljus som det grundläggande ämne ur vilket världen utvecklats, och därför studerade han optik – på medeltidslatin kallad *perspectiva*, läran om seende och ljus. Han skrev om **brytning** (refraktion), alltså att ljus byter riktning när det går från ett ämne till ett annat, och försökte förklara regnbågen som brytning i moln. Hans regel för brytningsvinkeln var fel, men frågan blev ett forskningsprogram som ledde till [Theodorics regnbågsförklaring](#theodoric-av-freiberg-forklarar) och så småningom [Snells brytningslag](#snells-brytningslag). Han noterade också att genomskinliga kroppar kan få små föremål att se stora ut.
+
+    Lika viktigt var metoden. Grosseteste beskrev hur man bryter ner ett fenomen i dess orsaker, drar slutsatser och sedan kontrollerar dem mot erfarenheten – och förkastar en förklaring som motsägs av iakttagelser. Det var inte modern experimentvetenskap, men en tidig formulering av idén. Hans elev [Roger Bacon](#roger-bacon-experiment-linser) drev tanken vidare.
+
+jordanus-de-nemore-havstang-och-statik:
+  period: 1220
+  label: "Jordanus de Nemore: hävstång och statik"
+  title: "Jordanus de Nemore och läran om vikter"
+  wiki:
+    - "en:Jordanus de Nemore"
+    - "en:Virtual work"
+  text: |
+    **Jordanus de Nemore** var en europeisk matematiker verksam i början av 1200-talet, troligen i Paris; om hans liv vet man nästan ingenting. Han skrev om aritmetik och geometri men är mest känd för texter om **statik** – läran om krafter i jämvikt, till exempel på en våg eller en hävstång.
+
+    **Hävstångslagen** säger att en hävstång är i jämvikt när vikt gånger avstånd till stödpunkten är lika på båda sidor: W₁·d₁ = W₂·d₂. Arkimedes hade bevisat den omkring 250 f.Kr. med geometriska resonemang. Jordanus härledde den på ett nytt sätt: om en vikt W kan lyftas höjden h, kan samma kraft lyfta vikten W/k höjden k·h. Lagen följer av att man jämför hur långt vikterna skulle röra sig om hävstången vreds en liten bit. Den idén kallas i dag principen om *virtuella förskjutningar*, och den blev en grundsten i [Lagranges analytiska mekanik](#lagrange-mekanik) på 1700-talet.
+
+    Han införde också begreppet ”lägestyngd”: en vikt verkar tyngre ju mer lodrätt den tvingas röra sig. I en text i hans tradition används detta för att korrekt räkna ut vilken kraft som krävs för att hålla en vikt på ett lutande plan – ett resultat som Simon Stevin i Nederländerna gjorde känt igen på 1580-talet. Jordanus visar att den medeltida europeiska fysiken inte bara upprepade antika texter utan också löste nya problem.
+
+roger-bacon-experiment-linser:
+  period: 1240
+  label: "Roger Bacon: experiment, linser"
+  title: "Roger Bacon och erfarenhetens vetenskap"
+  wiki:
+    - "en:Roger Bacon"
+    - "en:Opus Majus"
+  text: |
+    **Roger Bacon** (ca 1219–ca 1292) var en engelsk franciskanermunk som undervisade i Oxford och Paris. Han var influerad av [Grosseteste](#grosseteste-optik-och-experimentell) och förespråkade det han kallade *scientia experimentalis*, erfarenhetsvetenskap: påståenden om naturen ska prövas mot erfarenheten, inte bara härledas från auktoriteter. I praktiken betydde ”experiment” hos honom ofta noggrann iakttagelse snarare än kontrollerade försök i modern mening.
+
+    På påven Clemens IV:s begäran skrev han 1267 *Opus majus*, ett stort program för vetenskaplig reform. En stor del handlar om optik. Han byggde på [Ibn al-Haytham](#ibn-al-haytham-experimentell-optik), den arabiske fysiker som visat att seendet beror på ljus som går från föremålet in i ögat. Bacon beskrev hur en glasbit formad som ett kulsegment, lagd över en text, får bokstäverna att se större ut och kan hjälpa äldre med svag syn – en idé som pekar mot [glasögonen](#glasogon-uppfinns-1286-2) några decennier senare.
+
+    I samma verk finns en av Europas tidigaste beskrivningar av krut (se [Bacons krutrecept](#krutrecept-i-europa-bacon-1267)). Bacon har senare gjorts till en ensam föregångare till den moderna vetenskapen och påstås ha förutsagt flygmaskiner och bilar; det är överdrivet, men hans krav på matematik och erfarenhet som vetenskapens grund var verkligt.
+
+al-tusi:
+  period: 1240
+  label: "al-Tusi"
+  title: "Nasir al-Din al-Tusi"
+  wiki:
+    - "en:Nasir al-Din al-Tusi"
+    - "en:Maragheh observatory"
+  text: |
+    **Nasir al-Din al-Tusi** (1201–1274) var en persisk matematiker, astronom och filosof. Han verkade först hos ismailiterna i bergsfästningen Alamut och gick sedan över till mongolerna. Han följde mongolhärskaren Hülegü när denne [förstörde Bagdad 1258](#mongoler-forstor-bagdad-1258), och övertygade honom att finansiera ett stort observatorium i Maragha i nordvästra Iran.
+
+    Inom matematiken skrev al-Tusi det första verket som behandlar **trigonometri** som ett eget ämne, skilt från astronomin. Det innehåller sinussatsen för plana trianglar: i en triangel med sidorna a, b, c och motstående vinklar A, B, C gäller a/sin A = b/sin B = c/sin C. Han skrev också om Euklides parallellaxiom, i likhet med [Omar Khayyam](#omar-khayyam-om-parallellaxiomet) före honom.
+
+    Inom astronomin kritiserade han Ptolemaios, den grekiske astronom vars modell från 100-talet dominerade. Ptolemaios hade infört en hjälppunkt, *ekvanten*, där planeternas rörelse ser jämn ut, vilket bröt mot principen att himlarörelser ska vara sammansatta av jämna cirkelrörelser. Al-Tusis lösning var [Tusi-paret](#maragha-observatoriet-tusi-paret), som senare dyker upp hos Kopernikus. Han ledde också arbetet med nya astronomiska tabeller, *Zij-i Ilkhani*, färdiga 1272.
+
+maragha-observatoriet-tusi-paret:
+  period: 1260
+  label: "Maragha-observatoriet: Tusi-paret"
+  title: "Maragha och Tusi-paret"
+  wiki:
+    - "en:Tusi couple"
+    - "en:Maragheh observatory"
+  text: |
+    Observatoriet i Maragha i nordvästra Iran grundades 1259 av mongolhärskaren Hülegü på initiativ av [Nasir al-Din al-Tusi](#al-tusi). Det hade stora mätinstrument, ett bibliotek som sades rymma tiotusentals volymer, och samlade astronomer från hela den islamiska världen och även Kina. Det var en tidig forskningsinstitution med fast personal och långsiktiga observationsprogram.
+
+    Den mest kända idén därifrån är **Tusi-paret**. Problemet: Ptolemaios planetmodell från 100-talet behövde en rätlinjig fram-och-tillbaka-rörelse men kunde bara bygga med cirklar, och tog därför till en hjälppunkt (ekvanten) som bröt mot principen om jämna cirkelrörelser. Al-Tusis lösning: låt en liten cirkel rulla på insidan av en dubbelt så stor cirkel. En punkt på den lilla cirkelns rand rör sig då exakt längs en rät linje, en diameter i den stora cirkeln. Därmed kan en linjär svängning skapas ur två jämna cirkelrörelser.
+
+    Samma konstruktion, med nästan identiska diagram och bokstavsbeteckningar, finns hos [Kopernikus 1543](#kopernikus-de-revolutionibus-1543). Många historiker tror att den nådde honom via arabiska eller bysantinska manuskript, men någon direkt överföringsväg har inte kunnat beläggas. Maragha-traditionen fortsatte i Damaskus med Ibn al-Shatir och i Samarkand med [Ulugh Beg](#ulugh-beg-grundar-madrasa-i-samarkand).
+
+petrus-peregrinus-om-magneter-1269:
+  period: 1260
+  label: "Petrus Peregrinus om magneter 1269"
+  title: "Petrus Peregrinus: det första magnetismverket"
+  wiki:
+    - "en:Petrus Peregrinus de Maricourt"
+  text: |
+    **Petrus Peregrinus** (Pierre de Maricourt) var en fransk lärd och militäringenjör. År 1269 deltog han i Karl av Anjous belägring av Lucera i södra Italien och skrev där ett brev, *Epistola de magnete*, till en vän. Det är den första kända avhandlingen om magnetism grundad på experiment.
+
+    Han slipade en magnetsten (magnetit, ett naturligt magnetiskt järnmineral) till ett klot och kartlade hur en järnnål ställde in sig på olika ställen på ytan. Linjerna längs nålens riktning möttes i två punkter, som han kallade **poler** – ordet används än i dag. Han visade att olika poler drar till sig varandra och lika poler stöter bort varandra, och att man får två nya magneter med var sin nord- och sydpol om man delar en magnet: det går inte att isolera en ensam pol. Brevet beskriver också förbättrade kompasser: en flytande och en med nålen på en spets och en gradskala.
+
+    Peregrinus försökte även konstruera en evighetsmaskin driven av magnetism, vilket visar att lagen om energins bevarande ännu var okänd. Brevet kopierades flitigt och trycktes 1558. William Gilbert byggde på hans metod med ett magnetiskt klot och drog slutsatsen att jorden själv är en magnet, i [De Magnete 1600](#gilbert-de-magnete-1600-ordet). Bakgrunden var [kompassens](#neckam-beskriver-magnetkompassen-1190) spridning i Europa.
+
+witelo-optik-perspectiva:
+  period: 1280
+  label: "Witelo: optik (Perspectiva)"
+  title: "Witelos Perspectiva"
+  wiki:
+    - "en:Witelo"
+  text: |
+    **Witelo** (ca 1230–efter 1280) var en präst och naturfilosof från Schlesien, med polsk-tysk bakgrund. Han studerade i Paris och Padua och arbetade vid påvehovet i Viterbo, där han omkring 1270–1278 skrev *Perspectiva* – ”perspektiv” betydde då läran om ljus och seende, alltså optik.
+
+    Verket i tio böcker var en omfattande sammanställning av [Ibn al-Haythams](#ibn-al-haytham-experimentell-optik) optik, som hade översatts från arabiska omkring 1200. Ibn al-Haytham hade visat att seende sker när ljusstrålar från föremålet når ögat, inte genom att ögat sänder ut strålar, som många antika tänkare trott. Witelo behandlade ljusets rakliniga utbredning, reflektion i plana och böjda speglar, brytning (refraktion) när ljus passerar mellan luft, vatten och glas, och optiska illusioner. Han gjorde egna mätningar av brytningsvinklar, även om hans tabeller delvis var beräknade snarare än uppmätta.
+
+    Tillsammans med [Roger Bacon](#roger-bacon-experiment-linser) och John Pecham gjorde Witelo optiken till ett eget universitetsämne. *Perspectiva* trycktes 1535 och 1572 och var standardverket ända till [Kepler](#kepler-1609), som 1604 gav ut sin egen optik med titeln ”Tillägg till Witelo” och där för första gången förklarade hur linsen i ögat skapar en bild på näthinnan.
+
+theodoric-av-freiberg-forklarar:
+  period: 1300
+  label: "Theodoric av Freiberg förklarar regnbågen ~1304"
+  title: "Theodoric förklarar regnbågen"
+  wiki:
+    - "en:Theodoric of Freiberg"
+    - "en:Rainbow"
+  text: |
+    **Theodoric av Freiberg** (ca 1250–ca 1310) var en tysk dominikanermunk och teolog som undervisade i Paris. Omkring 1304–1310 skrev han *De iride* (”Om regnbågen”), som gav den första i huvudsak korrekta förklaringen av fenomenet.
+
+    Hans avgörande grepp var experimentellt: i stället för att resonera om hela moln använde han stora glasklot och glasflaskor fyllda med vatten som modell för en enskild regndroppe, och följde ljusets väg genom dem. Han visade att den vanliga (primära) regnbågen uppstår när solljus **bryts** när det går in i droppen, **reflekteras** en gång mot droppens baksida och bryts igen när det går ut. Den svagare sekundära bågen utanför uppstår genom två inre reflektioner, vilket förklarar att färgordningen där är omvänd. Han insåg också att varje färg vi ser kommer från olika droppar, som befinner sig i olika vinkel från betraktaren.
+
+    Samma förklaring gavs nästan samtidigt och oberoende av den persiske fysikern Kamal al-Din al-Farisi, som byggde på [Ibn al-Haythams optik](#ibn-al-haytham-optikens-bok). Theodoric byggde på arbetet av [Grosseteste](#grosseteste-optik-och-experimentell) och [Witelo](#witelo-optik-perspectiva). Det som saknades var en kvantitativ brytningslag. Med [Snells lag](#snells-brytningslag) kunde Descartes 1637 räkna ut regnbågens vinkel, ungefär 42°, och Newton förklarade färgerna med att olika färger bryts olika mycket.
+
+mertonskolan-medelhastighetssatsen:
+  period: 1320
+  label: "Mertonskolan: medelhastighetssatsen"
+  title: "Mertonskolan och medelhastighetssatsen"
+  wiki:
+    - "en:Mean speed theorem"
+    - "en:Oxford Calculators"
+  text: |
+    Vid Merton College i Oxford verkade på 1320–1350-talen en grupp logiker och matematiker, de så kallade **Oxford-kalkylatorerna**: bland andra [Thomas Bradwardine](#bradwardine-proportioner-och-hastighet), William Heytesbury, Richard Swineshead och John Dumbleton. De gjorde något nytt: de behandlade egenskaper som hastighet, värme och till och med dygd som kvantiteter som kan öka och minska i grad och därför räknas på.
+
+    De skilde mellan **likformig rörelse** (konstant hastighet) och **likformigt accelererad rörelse** (hastigheten ökar lika mycket under varje lika lång tidsperiod), och definierade begreppet momentan hastighet. Deras viktigaste resultat var **medelhastighetssatsen**: en kropp som accelererar likformigt från hastigheten v₀ till v₁ under tiden t tillryggalägger samma sträcka som en kropp som rör sig med konstant hastighet (v₀ + v₁)/2 under samma tid. I modern form: s(t) = v₀·t + a·t²/2, där a är accelerationen.
+
+    Satsen bevisades först i ord och med logik. Kort därefter gav [Nicole Oresme](#oresme-grafer-harmoniska-serien) i Paris ett geometriskt bevis med en graf: arean under hastighetskurvan är sträckan. Det som saknades var kopplingen till verkliga fall: ingen hävdade att fallande kroppar faktiskt accelererar likformigt. Det gjorde [Galilei](#galilei-pendel-och-fallrorelse) omkring 1600, och hans härledning av fallagen följer samma resonemang.
+
+buridan-impetusteorin:
+  period: 1340
+  label: "Buridan: impetusteorin"
+  title: "Buridan och impetus"
+  wiki:
+    - "en:Jean Buridan"
+    - "en:Theory of impetus"
+  text: |
+    **Jean Buridan** (ca 1300–ca 1360) var filosof vid universitetet i Paris och var dess rektor två gånger. Han var ovanlig genom att stanna som lärare vid konstfakulteten hela livet i stället för att gå vidare till teologin, och han skrev inflytelserika kommentarer till Aristoteles.
+
+    Problemet var detta: varför fortsätter en kastad sten att röra sig när den lämnat handen? Aristoteles hade sagt att allt som rör sig måste drivas av något som hela tiden verkar på det, och att luften bakom stenen trycker den framåt. Buridan påpekade att det inte stämmer – en snurrande kvarnsten fortsätter att snurra fast ingen luft kan trycka på den. Hans förklaring var **impetus**: när kastaren sätter stenen i rörelse ger han den en inre drivkraft, proportionell mot kroppens mängd materia och dess hastighet. Impetus avtar bara på grund av luftmotstånd och tyngd; utan dessa skulle rörelsen fortsätta. Han tillämpade idén även på himlakroppar, som kunde ha fått sin impetus av Gud och sedan fortsatt utan änglar som skjuter på.
+
+    Impetus liknar det moderna begreppet rörelsemängd (massa gånger hastighet), men Buridan tänkte sig den som en orsak som håller rörelse igång – inte som Newtons *tröghet*, där rörelse fortsätter av sig själv. Idén hade en föregångare i [Ibn Sinas mayl](#ibn-sina-rorelse-och-impuls-mayl) och leder via hans elev [Oresme](#oresme-jordens-rotation-mojlig-1377) till den unge [Galilei](#galilei-pendel-och-fallrorelse), som började som impetusteoretiker.
+
+oresme-jordens-rotation-mojlig-1377:
+  period: 1360
+  label: "Oresme: jordens rotation möjlig (1377)"
+  title: "Oresme: ingen observation avgör om jorden roterar"
+  wiki:
+    - "sv:Nicole Oresme"
+    - "en:Nicole Oresme"
+  text: |
+    Nicole Oresme (ca 1320–1382) var en fransk lärd vid universitetet i Paris och senare biskop av Lisieux. På uppdrag av kung Karl V översatte och kommenterade han Aristoteles verk om himlen till franska, *Le livre du ciel et du monde* (1377). Där prövade han frågan om det är himlen som vrider sig runt jorden en gång per dygn, eller jorden som roterar kring sin axel.
+
+    Hans huvudargument handlar om relativ rörelse: en person på ett fartyg som glider jämnt fram kan inte avgöra om det är fartyget eller stranden som rör sig. På samma sätt ser vi bara att himlen och jorden rör sig i förhållande till varandra. Han bemötte också invändningen att en pil som skjuts rakt upp borde landa väster om skytten om jorden roterade: pilen följer med i jordens rörelse. Han visade alltså att ingen observation eller förnuftsgrund kunde avgöra saken – men valde till sist ändå den traditionella åsikten att jorden står still, med hänvisning till Bibeln.
+
+    Liknande frågor hade redan [al-Biruni](#al-biruni-kan-jorden-rotera) ställt. Oresmes resonemang om relativ rörelse föregriper argument som [Kopernikus](#kopernikus-de-revolutionibus-1543) och Galilei använde 150–250 år senare. Samme Oresme ritade också tidiga grafer över hur en storhet varierar ([Oresme: grafer](#oresme-grafer-harmoniska-serien)).
+
+chaucer-traktat-om-astrolabium-1391:
+  period: 1380
+  label: "Chaucer: traktat om astrolabium 1391"
+  title: "Chaucers handbok om astrolabiet"
+  wiki:
+    - "en:A Treatise on the Astrolabe"
+    - "sv:Astrolabium"
+  text: |
+    Geoffrey Chaucer (ca 1343–1400) är mest känd som den engelske poeten bakom *Canterburysägner*. Han var också ämbetsman och intresserad av vetenskap. Omkring 1391 skrev han *A Treatise on the Astrolabe*, en bruksanvisning till ett astrolabium, enligt förordet till sin tioårige son Lewis.
+
+    Ett astrolabium är en platt mässingsskiva som fungerar som en analog räknemodell av himlen. På en fast skiva är koordinatlinjer för en viss latitud ingraverade; över den ligger en roterbar genombruten skiva (spindeln) med pekare för ljusa stjärnor och solens bana. Man mäter höjden över horisonten för solen eller en stjärna med ett sikte på baksidan, vrider spindeln så att den stämmer, och kan då läsa av klockslag, väderstreck eller tidpunkt för soluppgång. Instrumentet var känt från antiken och utvecklades vidare i den islamiska världen.
+
+    Det ovanliga med Chaucers text är språket: den skrevs på engelska i stället för latin, för en ung läsare, och räknas som en av de äldsta tekniska manualerna på engelska. En förenklad variant av instrumentet blev ett avgörande navigationsverktyg för de portugisiska upptäcktsresorna ([karavellen och astrolabium på havet](#karavellen-och-astrolabium-pa-havet)).
+
+ulugh-beg-grundar-madrasa-i-samarkand:
+  period: 1400
+  label: "Ulugh Beg grundar madrasa i Samarkand 1417"
+  title: "Ulugh Beg: astronomen på tronen"
+  wiki:
+    - "sv:Ulugh Beg"
+    - "en:Ulugh Beg Observatory"
+  text: |
+    Ulugh Beg (1394–1449) var sonson till erövraren [Timur Lenk](#timur-lenk-i-samarkand-1370) och styrde Samarkand i dagens Uzbekistan. Han var mer vetenskapsman än krigare. 1417 lät han bygga en madrasa – en högre skola för islamisk lärdom – vid Registantorget, som stod klar 1420 och där också matematik och astronomi undervisades.
+
+    Kort därefter byggde han ett observatorium med ett enormt murat instrument, en meridianbåge med en radie på uppemot 40 meter, inbyggd i en kulle. Ju större instrumentet var, desto finare vinkelgradering gick att få, och därmed noggrannare positioner för sol och stjärnor. Här verkade bland andra matematikern [al-Kashi](#al-kashi-med-16-decimaler-1424).
+
+    Resultatet blev *Zij-i Sultani*, en tabell med positionerna för ungefär 1 000 stjärnor ([Ulugh Begs stjärnkatalog](#ulugh-begs-stjarnkatalog)), den första stora nya stjärnkatalogen sedan Ptolemaios på 100-talet. Den var den noggrannaste fram till [Tycho Brahe](#tycho-pa-ven) 150 år senare. Ulugh Beg mördades 1449 på order av sin son, och observatoriet förföll.
+
+ulugh-begs-stjarnkatalog-2:
+  period: 1420
+  label: "Ulugh Begs stjärnkatalog"
+  same_as: ulugh-begs-stjarnkatalog
+
+nicolaus-cusanus-oandligt-universum:
+  period: 1440
+  label: "Nicolaus Cusanus: oändligt universum"
+  title: "Cusanus: ett universum utan centrum"
+  wiki:
+    - "sv:Nicolaus Cusanus"
+    - "en:De Docta Ignorantia"
+  text: |
+    Nicolaus Cusanus (Nikolaus av Kues, 1401–1464) var en tysk kardinal, kyrkodiplomat och filosof. I boken *De docta ignorantia* ("Om den lärda okunnigheten", 1440) hävdade han att människan aldrig exakt kan förstå Gud eller världen, bara närma sig sanningen – ungefär som en månghörning närmar sig en cirkel utan att bli en.
+
+    Ur detta drog han djärva slutsatser om kosmos. Den rådande bilden, från Aristoteles och Ptolemaios, var ett ändligt universum av kristallsfärer med den orörliga jorden i centrum. Cusanus menade att universum saknar gräns och därför inget har ett verkligt centrum; jorden är inte i vila utan rör sig, och är en "ädel stjärna" bland andra. Det fanns ingen absolut stillastående punkt att mäta rörelse från – en tanke besläktad med [Oresmes](#oresme-jordens-rotation-mojlig-1377) resonemang om relativ rörelse.
+
+    Detta var filosofi och teologi, inte astronomi med mätningar eller beräkningar. Men det banade väg för att tänka sig en rörlig jord, före [Kopernikus](#kopernikus-de-revolutionibus-1543), och Giordano Bruno byggde senare på Cusanus när han föreställde sig oändligt många världar. Cusanus använde samma resonemang i matematiken ([Cusanus om oändligheten](#cusanus-om-oandligheten)).
+
+regiomontanus-observerar-planeterna:
+  period: 1460
+  label: "Regiomontanus observerar planeterna"
+  title: "Regiomontanus: noggrannare himmel och trigonometri"
+  wiki:
+    - "sv:Regiomontanus"
+    - "en:Regiomontanus"
+  text: |
+    Regiomontanus (Johannes Müller från Königsberg i Franken, 1436–1476) var en tysk astronom och matematiker, verksam i Wien, Italien, Ungern och Nürnberg. Med sin lärare Georg Peuerbach skrev han en förkortad, förbättrad version av Ptolemaios *Almagest*, den grekiska huvudtexten om planetrörelser från 100-talet, som blev standardlärobok i Europa.
+
+    När han själv observerade märkte han att planeterna inte stod där de gamla tabellerna – främst de kastilianska [Alfonsinska tabellerna](#alfonsinska-tabellerna) – förutsade; felen kunde vara flera grader. Han drog slutsatsen att astronomin behövde nya, systematiska observationer. I Nürnberg byggde han omkring 1471 ett observatorium och ett eget tryckeri för att ge ut exakta tabeller. Hans *Ephemerides* (1474), tabeller över himlakropparnas positioner dag för dag, användes av sjöfarare; Columbus sägs ha använt dem för att förutsäga en månförmörkelse på Jamaica 1504.
+
+    Hans *De triangulis* (skriven ca 1464, tryckt 1533) var den första europeiska boken som behandlade trigonometri – läran om samband mellan vinklar och sidor i trianglar – som ett eget ämne, oberoende av astronomin ([Regiomontanus: trigonometri](#regiomontanus-trigonometri)). Hans kritik av tabellerna var en drivkraft för [Kopernikus](#kopernikus-forsta-utkastet-1514) en generation senare.
+
+leonardo-flygmaskiner-mekanik:
+  period: 1480
+  label: "Leonardo: flygmaskiner, mekanik"
+  title: "Leonardo da Vinci: ingenjören med anteckningsböckerna"
+  wiki:
+    - "sv:Leonardo da Vinci"
+    - "en:Science and inventions of Leonardo da Vinci"
+  text: |
+    Leonardo da Vinci (1452–1519) är mest känd som målare (Mona Lisa, Nattvarden), men han arbetade lika mycket som ingenjör åt furstar i Milano och Florens. Han lämnade efter sig uppskattningsvis 7 000 sidor anteckningar fyllda med skisser, skrivna med spegelvänd handstil.
+
+    Från 1480-talet studerade han fåglars flykt och ritade flygmaskiner: ornitoptrar med vingar som skulle flaxa med människokraft, en skruvformad "luftskruv" som ofta kallas en föregångare till helikoptern, och en fallskärm. Ingen av dem kunde flyga – en människas muskler är för svaga i förhållande till kroppsvikten för att flaxa sig upp. Hans mekaniska studier var mer framsynta: han analyserade kugghjul, lager, friktion och hävstänger och ritade maskiner som kranar, vapen och kanalslussar.
+
+    Leonardo publicerade inget, och anteckningsböckerna spreds över Europa efter hans död. Hans idéer fick därför nästan inget inflytande på teknikens utveckling; vi känner dem främst för att de återupptäcktes senare. Bemannad flygning lyckades först med ballong 1783 och med motorflygplan av [bröderna Wright 1903](#broderna-wright-1903). Samme Leonardo gjorde också banbrytande [anatomiska teckningar](#leonardos-anatomiska-teckningar).
+
+kopernikus-forsta-utkastet-1514:
+  period: 1500
+  label: "Kopernikus: första utkastet ~1514"
+  title: "Commentariolus: solen i mitten"
+  wiki:
+    - "sv:Nicolaus Copernicus"
+    - "en:Commentariolus"
+  text: |
+    Nicolaus Copernicus (Mikołaj Kopernik, 1473–1543) var en polsk kanik (präst med administrativt ansvar vid domkyrkan) i Frombork i Ermland, utbildad i Kraków och Italien i astronomi, juridik och medicin. Omkring 1514 skrev han ett kort handskrivet utkast, senare kallat *Commentariolus* ("liten kommentar"), som han bara lät cirkulera bland bekanta.
+
+    I utkastet listade han sju grundantaganden, bland annat: jorden är inte universums centrum; solen är nära centrum och planeterna, inklusive jorden, kretsar runt den; jorden roterar runt sin egen axel en gång per dygn, vilket förklarar att himlen tycks vrida sig; och planeternas skenbara baklängesrörelse på himlen beror på att vi själva rör oss. Det sistnämnda var den stora förenklingen: i Ptolemaios jordcentrerade modell behövdes extra cirklar (epicykler) för att förklara att Mars ibland tycks backa, medan det i Kopernikus modell blir en självklar följd av att jorden kör om Mars.
+
+    Idén att jorden går runt solen hade föreslagits av greken Aristarchos redan på 200-talet f.Kr. och resonemang om jordens rotation fanns hos [Oresme](#oresme-jordens-rotation-mojlig-1377). Det nya var att Kopernikus började bygga en fullständig matematisk modell. Det arbetet tog 30 år till ([Kopernikus arbetar på heliocentrismen](#kopernikus-arbetar-pa-heliocentrismen)).
+
+kopernikus-arbetar-pa-heliocentrismen:
+  period: 1520
+  label: "Kopernikus arbetar på heliocentrismen"
+  title: "Kopernikus 30 år av räknande"
+  wiki:
+    - "sv:Heliocentrism"
+    - "en:Copernican heliocentrism"
+  text: |
+    Efter sitt [första utkast ~1514](#kopernikus-forsta-utkastet-1514) arbetade Nicolaus Copernicus (1473–1543), polsk kanik i Frombork, i decennier med att göra den solcentrerade idén till en fullständig modell. **Heliocentrism** betyder att solen (grekiska *helios*) står i centrum, till skillnad från geocentrism där jorden gör det.
+
+    Han behövde visa att modellen kunde förutsäga planetpositioner minst lika bra som Ptolemaios. Det var svårt, eftersom han behöll antagandet att himlakroppar rör sig i perfekta cirklar med jämn hastighet. Verkliga banor är ellipser, så Kopernikus behövde ändå små extra cirklar (epicykler) för att få siffrorna att stämma, och hans modell blev inte mycket enklare eller noggrannare än den gamla. Han gjorde egna observationer men byggde mycket på äldre data. Samtidigt hade han ett administrativt arbete: han förvaltade kyrkans gods, försvarade Allenstein mot den Tyska orden 1521 och skrev en avhandling om myntväsen.
+
+    Han tvekade länge att publicera, troligen av rädsla för att bli förlöjligad snarare än av rädsla för kyrkan, som då inte hade fördömt idén. Först när den unge matematikern Rheticus besökte honom 1539 och övertalade honom gick manuskriptet i tryck: [De revolutionibus 1543](#kopernikus-de-revolutionibus-1543). Det krävdes sedan [Keplers](#kepler-1609) ellipser för att modellen verkligen skulle bli enklare och bättre.
+
+kopernikus-de-revolutionibus-1543:
+  period: 1540
+  label: "Kopernikus: De revolutionibus 1543"
+  title: "De revolutionibus: jorden flyttar ut ur centrum"
+  wiki:
+    - "sv:De revolutionibus orbium coelestium"
+    - "en:De revolutionibus orbium coelestium"
+  text: |
+    År 1543 trycktes i Nürnberg *De revolutionibus orbium coelestium* ("Om himlasfärernas kretslopp") av den polske kaniken Nicolaus Copernicus (1473–1543). Enligt traditionen fick han ett tryckt exemplar på dödsbädden. Boken beskrev i sex delar en fullständig matematisk modell där solen står nära centrum och jorden är en planet som roterar kring sin axel och kretsar kring solen på ett år.
+
+    Modellen gav en naturlig förklaring till varför planeterna ibland tycks gå baklänges och varför Merkurius och Venus alltid syns nära solen, och den gjorde det möjligt att beräkna planeternas relativa avstånd till solen. Ett förord, insmuget utan Kopernikus vetskap av teologen Andreas Osiander, påstod att modellen bara var ett räknehjälpmedel, inte en beskrivning av verkligheten – något som dämpade reaktionerna.
+
+    I flera decennier lästes boken mest av astronomer som använde dess tabeller utan att acceptera rörelsen. Invändningarna var starka: om jorden rörde sig borde stjärnorna skifta position under året (parallax), vilket inte syntes – stjärnorna var helt enkelt mycket längre bort än man trodde, och parallaxen mättes först 1838. Det var [Galileis teleskop](#galileis-teleskop) och [Keplers planetlagar](#kepler-planetlagarna-1609) som avgjorde saken, och boken sattes på kyrkans index över förbjudna böcker 1616. Samma år som [Vesalius anatomi](#vesalius-de-humani-corporis-fabrica-1543) räknas den som starten för den vetenskapliga revolutionen.
+
+tycho-brahes-supernova-1572-2:
+  period: 1560
+  label: "Tycho Brahes supernova 1572"
+  same_as: tycho-brahes-supernova-1572
+
+tycho-pa-ven:
+  period: 1580
+  label: "Tycho på Ven"
+  title: "Tycho Brahe på Ven"
+  wiki:
+    - "sv:Tycho Brahe"
+    - "sv:Uraniborg"
+  text: |
+    **Tycho Brahe** (1546–1601) var en dansk adelsman och astronom. Efter att ha visat att [den nya stjärnan 1572](#tycho-brahes-supernova-1572) låg långt bortom månen, och alltså att stjärnhimlen inte var oföränderlig som Aristoteles lärt, fick han av kung Fredrik II ön Ven i Öresund. Ön var då dansk; den blev svensk genom [Roskildefreden 1658](#roskildefreden-1658-skane-svenskt).
+
+    Där byggde han från 1576 slottet Uraniborg och det delvis nedgrävda observatoriet Stjerneborg, med verkstäder, tryckeri och pappersbruk. Det var en forskningsanläggning med assistenter, ungefär som ett modernt laboratorium. Med stora mässingsinstrument (kvadranter och armillarsfärer), utan teleskop, mätte han stjärnors och planeters positioner under drygt tjugo år med en noggrannhet på omkring en bågminut, ungefär en trettiondel av månens diameter. Det var flera gånger bättre än tidigare mätningar.
+
+    Tycho föreslog en egen världsmodell där planeterna kretsar kring solen men solen kring en orörlig jord, en kompromiss mellan Ptolemaios och [Kopernikus](#kopernikus-de-revolutionibus-1543). Efter en konflikt med den nye kungen lämnade han Ven 1597 och kom 1599 till Prag. Hans assistent där, Johannes Kepler, använde mätningarna av Mars bana för att härleda [planetlagarna](#kepler-1609).
+
+galilei-pendel-och-fallrorelse:
+  period: 1580
+  label: "Galilei: pendel och fallrörelse"
+  title: "Galilei: pendeln och fallet"
+  wiki:
+    - "sv:Galileo Galilei"
+    - "en:Two New Sciences"
+  text: |
+    **Galileo Galilei** (1564–1642) var en italiensk matematiker och fysiker, verksam i Pisa och Padua. Under 1580- och 1590-talen studerade han två vardagliga rörelser och gjorde dem till matematik.
+
+    **Pendeln:** enligt en berättelse såg han en lampa svänga i katedralen i Pisa och tog tid med sin puls. Han fann att svängningstiden i stort sett inte beror på hur stort utslaget är (det gäller för små utslag) och att den växer med kvadratroten ur pendelns längd: fyra gånger längre pendel ger dubbelt så lång period. En pendel blir alltså en taktgivare, vilket [Huygens pendelur](#huygens-pendelur) utnyttjade 1656.
+
+    **Fallet:** Aristoteles hade lärt att tunga föremål faller snabbare än lätta. Galilei hävdade att alla kroppar faller lika fort om man bortser från luftmotståndet, och att fallsträckan växer med kvadraten på tiden (s = ½gt², där g ≈ 9,8 m/s²). Eftersom fritt fall är för snabbt att mäta lät han kulor rulla nedför lutande plan. Om han verkligen släppte kulor från lutande tornet i Pisa är osäkert. Resultaten publicerades först 1638 i *Discorsi*. De blev en grundsten för [Newtons mekanik och gravitationsteori](#newton-gravitation-och-prisman-1666).
+
+gilbert-de-magnete-1600-ordet:
+  period: 1600
+  label: "Gilbert: De Magnete 1600, ordet elektricitet"
+  title: "Gilbert: jorden är en magnet"
+  wiki:
+    - "en:De Magnete"
+    - "en:William Gilbert (physicist)"
+  text: |
+    **William Gilbert** (1544–1603) var läkare åt drottning Elisabet I av England. I *De Magnete* (1600) redovisade han många års experiment med magneter, och boken räknas som ett av de första verken byggda konsekvent på experiment snarare än på antika auktoriteter.
+
+    Hans huvudidé var att jorden själv är en stor magnet. Han slipade en magnetsten till ett klot, en "terrella" (liten jord), och visade att en liten kompassnål runt klotet betedde sig som kompasser på jorden: den pekar mot polerna och lutar nedåt mer ju närmare polen den kommer. Det förklarade varför kompassen fungerar, i stället för den äldre tron att nålen drogs mot polstjärnan eller mot magnetiska berg.
+
+    Gilbert skilde också magnetism från den kraft som gnidet bärnsten utövar på lätta föremål. Han kallade de ämnen som betedde sig så *electrica*, av grekiskans *elektron* för bärnsten, och visade att många, som glas och svavel, beter sig likadant. Substantivet "electricity" kom på engelska 1646. Gilbert byggde också ett enkelt instrument, en vridbar nål, för att påvisa elektrisk laddning. Sambandet mellan elektricitet och magnetism, som han höll isär, upptäcktes först 1820, se [Ørsted](#orsted-strom-ger-magnetism-1820), och förenades i [Maxwells ekvationer](#maxwells-ekvationer-1865).
+
+kepler-1609:
+  period: 1600
+  label: "Kepler 1609"
+  title: "Kepler: planeterna går i ellipser"
+  wiki:
+    - "sv:Johannes Kepler"
+    - "sv:Keplers lagar"
+  text: |
+    **Johannes Kepler** (1571–1630) var en tysk matematiker och astronom, assistent och sedan efterträdare till [Tycho Brahe](#tycho-pa-ven) som kejserlig matematiker i Prag. Med Tychos noggranna mätningar av planeten Mars försökte han i åratal passa in banan i cirklar, som alla astronomer gjort sedan antiken, även [Kopernikus](#kopernikus-de-revolutionibus-1543). Den bästa cirkelmodellen missade med ungefär åtta bågminuter, mer än Tychos mätfel, och Kepler drog slutsatsen att cirklar var fel.
+
+    I *Astronomia nova* (1609) publicerade han två lagar: (1) varje planet rör sig i en ellips, en tillplattad cirkel, med solen i den ena brännpunkten; (2) linjen mellan sol och planet sveper över lika stora ytor på lika långa tider, vilket betyder att planeten går snabbare nära solen. År 1619 kom den tredje: kvadraten på omloppstiden är proportionell mot kuben på medelavståndet till solen (T² ∝ a³). Jorden har 1 år och avstånd 1; Jupiter har avstånd ca 5,2, alltså omloppstid √(5,2³) ≈ 11,9 år.
+
+    Lagarna beskrev hur planeterna rör sig men inte varför. Det förklarade [Newtons gravitationslag](#gravitationslagen) 1687, som visade att alla tre följer ur en kraft som avtar med kvadraten på avståndet. Kepler skrev även om optik och teleskop, efter [Galileis](#galileis-teleskop) upptäckter.
+
+galileis-teleskop:
+  period: 1600
+  label: "Galileis teleskop"
+  title: "Galilei riktar teleskopet mot himlen"
+  wiki:
+    - "sv:Galileo Galilei"
+    - "en:Sidereus Nuncius"
+  text: |
+    När [Galileo Galilei](#galilei-pendel-och-fallrorelse), då professor i Padua, 1609 hörde om det nederländska [teleskopet](#teleskopet-1608), byggde han själv bättre versioner genom att slipa egna linser. De första förstorade omkring 3 gånger, de bästa omkring 20–30 gånger. Han riktade dem mot himlen, och i *Sidereus nuncius* ("Stjärnbudbäraren", mars 1610) beskrev han vad han såg.
+
+    Månen hade berg och kratrar, inte en perfekt slät yta som Aristoteles lärt. Vintergatan bestod av otaliga enskilda stjärnor. Fyra månar kretsade kring Jupiter (i dag kallade de galileiska månarna). Senare såg han att Venus visar faser som månen, från full till skära, vilket bara går ihop om Venus kretsar kring solen, samt fläckar på solen.
+
+    Inget av detta bevisade direkt att jorden rör sig, men det undergrävde den gamla bilden. Jupiters månar visade att allt inte kretsar kring jorden, och Venus faser uteslöt Ptolemaios modell (fast inte Tycho Brahes kompromissmodell). Galilei blev berömd och fick en tjänst hos storhertigen av Toscana. Hans öppna försvar av [Kopernikus](#kopernikus-de-revolutionibus-1543) ledde till konflikten med kyrkan och [processen 1633](#galileis-dialog-1632-processen-1633).
+
+galileis-dialog-1632-processen-1633:
+  period: 1620
+  label: "Galileis Dialog 1632, processen 1633"
+  title: "Galileis Dialog och processen"
+  wiki:
+    - "en:Dialogue Concerning the Two Chief World Systems"
+    - "en:Galileo affair"
+  text: |
+    År 1616 förklarade katolska kyrkans myndigheter att påståendet att solen står still och jorden rör sig var felaktigt och stred mot Bibeln, och Galilei förmanades att inte försvara det. Kopernikus bok sattes på listan över förbjudna böcker i väntan på rättelser. Detta var under [motreformationen](#motreformation), när kyrkan var mån om att hålla fast vid läran mot protestanterna.
+
+    År 1632 gav Galilei, med kyrkans tryckgodkännande, ut *Dialog om de två största världssystemen*, skriven på italienska för en bred publik. Tre personer diskuterar [Kopernikus](#kopernikus-de-revolutionibus-1543) system mot Ptolemaios, där jorden står still. Försvararen av den gamla synen hette Simplicio, och påven Urban VIII:s egna argument lades i hans mun. Galileis huvudargument för jordens rörelse, att den förklarade tidvattnet, var dessutom fel.
+
+    Inkvisitionen, kyrkans domstol mot kätteri, ställde honom inför rätta i Rom 1633. Han tvingades ta avstånd från läran och dömdes till husarrest på livstid; han var då nästan sjuttio. I husarresten skrev han *Discorsi* (1638) om mekanik. Processen blev en symbol för konflikten mellan vetenskap och religiös auktoritet. Påven Johannes Paulus II erkände officiellt att kyrkan gjort fel först 1992. Galilei accepterade för övrigt aldrig [Keplers](#kepler-1609) ellipsformade banor.
+
+snells-brytningslag:
+  period: 1620
+  label: "Snells brytningslag"
+  title: "Snells brytningslag"
+  wiki:
+    - "sv:Snells lag"
+    - "en:Willebrord Snellius"
+  text: |
+    När ljus går från ett ämne till ett annat, till exempel från luft till vatten, ändrar det riktning; det kallas brytning. Det är därför en pinne ser knäckt ut i vattnet. Brytningslagen säger att n₁ · sin θ₁ = n₂ · sin θ₂, där θ är vinkeln mot ytans normal (en linje vinkelrät mot ytan) och n är ett tal som är typiskt för varje ämne, brytningsindex: ungefär 1,0 för luft, 1,33 för vatten och 1,5 för glas.
+
+    Lagen har fått namn efter **Willebrord Snellius** (1580–1626), nederländsk matematiker i Leiden, som fann den 1621 men aldrig publicerade den. [Descartes](#descartes-analytisk-geometri-1637) publicerade den 1637 med en egen härledning, och därför kallas den i Frankrike Descartes lag. Långt tidigare, omkring år 984, hade den persiske matematikern Ibn Sahl i Bagdad beskrivit samma samband i ett verk om brännspeglar och linser, vilket blev känt först på 1990-talet. Ptolemaios hade redan på 100-talet mätt brytningsvinklar men hittade ingen exakt lag.
+
+    Lagen gjorde det möjligt att räkna ut hur linser ska formas, i stället för att pröva sig fram, vilket behövdes för [teleskopet](#teleskopet-1608) och mikroskopet. [Fermat](#fermat) visade senare att lagen följer om ljuset tar den snabbaste vägen, och [Huygens](#huygens) härledde den ur en vågteori för ljus.
+
+torricelli-barometer:
+  period: 1640
+  label: "Torricelli: barometer"
+  title: "Torricelli: barometern och vakuumet"
+  wiki:
+    - "en:Evangelista Torricelli"
+    - "sv:Barometer"
+  text: |
+    **Evangelista Torricelli** (1608–1647) var en italiensk fysiker och matematiker, under en kort tid Galileis assistent och sedan hans efterträdare som hovmatematiker i Florens. Ett praktiskt problem var känt: sugpumpar kunde inte lyfta vatten högre än ungefär tio meter. Galilei hade funderat över varför.
+
+    År 1643 fyllde Torricelli och hans kollega Viviani ett glasrör, ungefär en meter långt och stängt i ena änden, med kvicksilver och vände det upp och ned i en skål med kvicksilver. Kvicksilverpelaren sjönk tills den stod omkring 76 cm över ytan i skålen, och ovanför den blev ett tomrum. Torricellis förklaring var att luften har tyngd och trycker på ytan i skålen; pelaren hålls uppe av lufttrycket, inte av att naturen skyr tomrum, som man trott sedan Aristoteles. Kvicksilver är 13,6 gånger tyngre än vatten, och 13,6 · 0,76 m ≈ 10,3 m stämmer med vattenpumparnas gräns.
+
+    Han märkte också att höjden varierade lite från dag till dag; röret blev en barometer, ett instrument för att mäta lufttrycket, som senare användes för att förutsäga väder. Måttenheten torr (1/760 av normalt lufttryck) är uppkallad efter honom. Idén prövades snart av [Pascal](#pascal-lufttryck), som visade att trycket minskar med höjden, och tomrummet studerades vidare med [Guerickes luftpump](#guerickes-vakuum).
+
+pascal-lufttryck:
+  period: 1640
+  label: "Pascal: lufttryck"
+  title: "Pascal: lufttrycket minskar med höjden"
+  wiki:
+    - "sv:Blaise Pascal"
+    - "sv:Pascals princip"
+  text: |
+    **Blaise Pascal** (1623–1662) var en fransk matematiker, fysiker och religiös filosof. När han hörde om [Torricellis](#torricelli-barometer) experiment ville han pröva tolkningen att det är luftens tyngd som håller uppe kvicksilverpelaren. Om det stämmer borde pelaren bli kortare högre upp, där det finns mindre luft ovanför.
+
+    År 1648 bad han sin svåger Florin Périer att bära en barometer upp på berget Puy de Dôme i Auvergne, omkring 1 000 meter högre än staden Clermont nedanför. En referensbarometer stod kvar nere. På toppen var pelaren drygt 8 cm kortare. Försöket var tidigt i att ha en kontroll: en jämförelse som utesluter att skillnaden beror på något annat än höjden. Det avgjorde frågan för de flesta.
+
+    Pascal formulerade också det som kallas Pascals princip: ett tryck på en innesluten vätska fortplantar sig lika i alla riktningar. Det är grunden för hydrauliska system, där en liten kraft på en liten kolv ger en stor kraft på en stor kolv, som i bilbromsar och domkrafter. SI-enheten för tryck, pascal (Pa = newton per kvadratmeter), är uppkallad efter honom; normalt lufttryck är ungefär 101 000 Pa. Han byggde även [en räknemaskin](#pascals-raknemaskin-1642) och grundade [sannolikhetsläran](#pascal-och-fermat-sannolikhetslara-1654) med Fermat.
+
+guerickes-vakuum:
+  period: 1640
+  label: "Guerickes vakuum"
+  title: "Guericke och Magdeburgs halvklot"
+  wiki:
+    - "en:Otto von Guericke"
+    - "en:Magdeburg hemispheres"
+  text: |
+    **Otto von Guericke** (1602–1686) var ingenjör och borgmästare i Magdeburg i Tyskland, en stad som förstörts 1631 under [trettioåriga kriget](#trettioariga-kriget-1618). Omkring 1650 byggde han den första [luftpumpen](#luftpump), som kunde suga ut luften ur ett slutet kärl och skapa ett (ofullständigt) vakuum, ett tomrum.
+
+    Hans mest kända demonstration, beskriven till 1654 och 1657, gjordes med två kopparhalvklot, cirka 50 cm i diameter, som passade tätt mot varandra. När luften pumpats ut kunde två spann om åtta hästar vardera inte dra isär dem; när luften släpptes in föll de isär av sig själva. Förklaringen är att lufttrycket utanför trycker samman kloten med ungefär 10 ton per kvadratmeter. På en tvärsnittsyta om ungefär 0,2 kvadratmeter blir det omkring 2 ton.
+
+    Guericke visade också att ljud inte går igenom vakuum (en ringande klocka tystnar) och att ett ljus slocknar. Experimenten bekräftade på ett dramatiskt sätt [Torricellis](#torricelli-barometer) och [Pascals](#pascal-lufttryck) slutsatser om lufttrycket. Han byggde även en tidig elektrisk maskin, ett roterande svavelklot som laddades upp när man gned det. Robert Hooke och Robert Boyle förbättrade luftpumpen, vilket ledde till [Boyles lag](#boyles-lag-1662).
+
+newton-gravitation-och-prisman-1666:
+  period: 1660
+  label: "Newton: gravitation och prisman 1666"
+  title: "Newtons underbara år"
+  wiki:
+    - "sv:Isaac Newton"
+    - "en:Newton's law of universal gravitation"
+  text: |
+    **Isaac Newton** (1643–1727) var en engelsk matematiker och fysiker, senare professor i Cambridge. När universitetet stängdes på grund av [pesten 1665](#pesten-i-london-1665-branden-1666) åkte han hem till gården Woolsthorpe. Under ett och ett halvt år där, ofta kallat hans "underbara år", lade han grunden till tre stora arbeten: [differentialkalkylen](#newton-fluxioner-1665), gravitationen och ljusets färger.
+
+    **Gravitationen:** enligt hans egen sena berättelse fick ett fallande äpple honom att undra om samma kraft som drar äpplet når ända upp till månen. Om kraften avtar med kvadraten på avståndet borde den vid månen, ungefär 60 jordradier bort, vara 60² = 3 600 gånger svagare. Han räknade och fann att det ungefär stämde med månens bana. Den fulla teorin, att varje massa drar varje annan med kraften F = G · m₁ · m₂ / r², publicerades först 1687 i [Principia](#newton-principia-1687), där han också härledde [Keplers lagar](#kepler-1609).
+
+    **Prisman:** man trodde att vitt ljus var rent och att prismor färgade det. Newton lät ett solljusknippe gå genom ett prisma så att det delades upp i ett spektrum, och sedan en enskild färg genom ett andra prisma, som inte ändrade den. Slutsatsen: vitt ljus är en blandning av färger som bryts olika mycket. Det förklarade linsernas färgkanter och fick honom att bygga ett spegelteleskop 1668. Ljusläran samlades i [Opticks](#newton-opticks-1704).
+
+boyles-lag-1662:
+  period: 1660
+  label: "Boyles lag 1662"
+  title: "Boyles lag: tryck gånger volym är konstant"
+  wiki:
+    - "sv:Boyles lag"
+    - "en:Robert Boyle"
+  text: |
+    **Robert Boyle** (1627–1691) var en irländsk adelsman och naturforskare i Oxford och London, en av grundarna av [Royal Society](#royal-society). Han kritiserade alkemins vaga begrepp och argumenterade för att materia består av små partiklar, vilket gör honom till en föregångare till modern kemi.
+
+    Boyles lag säger att för en given mängd gas vid konstant temperatur är tryck gånger volym konstant: p · V = konstant. Halverar man volymen fördubblas trycket. Boyle visade det 1662 med ett J-format glasrör, stängt i den korta änden, där luft stängdes in av kvicksilver. När han hällde i mer kvicksilver i den långa änden pressades luften ihop, och han mätte både volymen och trycket (höjden på kvicksilverpelaren plus lufttrycket). Mätserien gav ett tydligt omvänt samband. Medarbetare var [Robert Hooke](#hooke-celler-1665) och Richard Towneley; i Frankrike fann Edme Mariotte samma lag oberoende 1676, och där kallas den Mariottes lag.
+
+    Lagen var ett av de första exemplen på en naturlag uttryckt som en matematisk formel ur mätdata. Den kombinerades senare med temperaturberoendet till den allmänna gaslagen pV = nRT och förklarades på 1800-talet av den kinetiska gasteorin: tryck är molekyler som stöter mot väggarna. Den bygger på [Torricellis](#torricelli-barometer) upptäckt av lufttrycket och [luftpumpen](#luftpump).
+
+huygens:
+  period: 1660
+  label: "Huygens"
+  title: "Huygens: pendelur, Saturnus ringar och ljusvågor"
+  wiki:
+    - "sv:Christiaan Huygens"
+    - "en:Huygens–Fresnel principle"
+  text: |
+    **Christiaan Huygens** (1629–1695) var en nederländsk fysiker, matematiker och astronom, son till en diplomat i Haag. Han arbetade länge i Paris, vid den nya franska vetenskapsakademien, och räknas som en av de främsta forskarna mellan Galilei och Newton.
+
+    År 1656 byggde han det första [pendeluret](#huygens-pendelur), som utnyttjade [Galileis](#galilei-pendel-och-fallrorelse) upptäckt att en pendel har jämn takt. Felet sjönk från omkring en kvart per dygn till omkring en minut eller mindre. Han slipade egna linser och upptäckte 1655 Saturnus största måne Titan, och förklarade att planetens märkliga "öron" var en tunn, platt ring. Han skrev 1657 den första tryckta boken om sannolikhet och formulerade lagar för stötar och för centrifugalkraft.
+
+    Viktigast på längre sikt var hans **vågteori för ljus** (*Traité de la lumière*, 1690): ljus är vågor, och varje punkt på en vågfront fungerar som källa till nya små vågor, vars sammanlagda front blir nästa vågfront. Ur detta härledde han [brytningslagen](#snells-brytningslag). Newton förespråkade i stället att ljus består av partiklar, och hans auktoritet gjorde att vågteorin sköts undan i över ett sekel, tills [Youngs experiment](#young-ljus-ar-vagor) omkring 1800. Kvantfysiken visade senare att ljus har båda egenskaperna.
+
+newton-principia-1687-2:
+  period: 1680
+  label: "Newton: Principia 1687"
+  same_as: newton-principia-1687
+
+halley:
+  period: 1680
+  label: "Halley"
+  title: "Edmond Halley – kometen som kom tillbaka"
+  wiki:
+    - "sv:Edmond Halley"
+    - "sv:Halleys komet"
+  text: |
+    **Edmond Halley** (1656–1742) var en engelsk astronom och en av de mest mångsidiga forskarna kring Royal Society, det brittiska vetenskapssamfund som grundats 1660. Det var Halley som övertalade Isaac Newton att skriva ner sin gravitationsteori och som själv betalade tryckningen av [Principia 1687](#newton-principia-1687).
+
+    Hans mest kända insats var att använda Newtons [gravitationslag](#gravitationslagen) på kometer, som dittills setts som oförutsägbara omen. 1705 visade han att kometerna 1531, 1607 och 1682 hade nästan samma bana och alltså borde vara samma objekt, som återkom med cirka 76 års mellanrum. Han förutsade återkomst 1758. Halley dog 1742, men kometen syntes på juldagen 1758 – det första stora beviset för att Newtons fysik kunde förutsäga himlakroppars rörelser decennier framåt. Den heter sedan dess Halleys komet.
+
+    Halley gjorde mycket mer: en stjärnkatalog över södra himlen från ön S:t Helena (1678), magnetiska kartor för sjöfarten, och 1693 en av de första dödlighetstabellerna, byggd på födelse- och dödsregister från staden Breslau. Den användes för att räkna ut rimliga priser på livräntor – en tidig grund för försäkringsmatematik.
+
+newton-opticks-1704:
+  period: 1700
+  label: "Newton: Opticks 1704"
+  title: "Newtons Opticks (1704)"
+  wiki:
+    - "en:Opticks"
+    - "en:Isaac Newton"
+  text: |
+    **Isaac Newton** (1643–1727), engelsk fysiker och matematiker, hade gjort sina ljusexperiment redan på 1660-talet ([prisman 1666](#newton-gravitation-och-prisman-1666)), men publicerade boken Opticks först 1704 – på engelska, inte latin, och strax efter att hans bittre kritiker Robert Hooke dött.
+
+    Kärnan är experiment med prismor. Vitt solljus som går genom ett prisma delas upp i ett spektrum. Om man sedan skickar en enda färg, t.ex. rött, genom ett andra prisma ändras den inte. Slutsatsen: vitt ljus är inte "rent" utan en blandning av färger, och varje färg bryts olika mycket i glas. Det förklarade också varför linsteleskop ger färgade kanter, och varför Newton byggt ett spegelteleskop.
+
+    Newton menade att ljus består av små partiklar. Den konkurrerande vågteorin hade framförts av [Huygens](#huygens) 1690. Tack vare Newtons auktoritet dominerade partikelteorin i hundra år, tills [Thomas Young](#young-ljus-ar-vagor) kring 1801 visade interferens – vågor som förstärker och släcker ut varandra. 1905 visade [Einstein](#einstein-1905-och-1915) att ljus också kommer i kvanta, så båda sidor hade delvis rätt.
+
+hauksbees-elektriska-glod:
+  period: 1700
+  label: "Hauksbees elektriska glöd"
+  title: "Hauksbee får vakuum att lysa (ca 1705)"
+  wiki:
+    - "en:Francis Hauksbee"
+    - "en:Electrostatic generator"
+  text: |
+    **Francis Hauksbee** (ca 1660–1713) var instrumentmakare och "experimentator" i Royal Society i London när Isaac Newton var dess ordförande. Hans uppgift var att visa upp nya experiment på mötena.
+
+    Omkring 1705 pumpade han ur det mesta av luften ur ett glasklot med en luftpump (en teknik från [Guericke](#guerickes-vakuum)), satte klotet i snabb rotation med en vev och gned det med handen. Då lyste klotet inifrån med ett blåaktigt sken, starkt nog att läsa vid. Han hade upptäckt att elektrisk laddning i en gas med lågt tryck får gasen att glöda – en **gasurladdning**. Hans roterande klot blev också en förbättrad **friktionselektricitetsmaskin**, som laddar upp föremål genom gnidning, långt effektivare än att gnida en bärnstensbit (jfr [Gilbert 1600](#gilbert-de-magnete-1600-ordet)).
+
+    Ingen förstod mekanismen då: elektroner som slits loss och får gasatomer att avge ljus. Men linjen leder rakt till 1800-talets urladdningsrör, neonskyltar och lysrör, och till katodstrålerören där [elektronen upptäcktes 1897](#elektronen-1897). Hauksbees maskiner gav också nästa generation, som [Stephen Gray](#gray-elektrisk-ledning-1729), ett verktyg för elektriska försök.
+
+gray-elektrisk-ledning-1729:
+  period: 1720
+  label: "Gray: elektrisk ledning 1729"
+  title: "Gray upptäcker elektrisk ledning (1729)"
+  wiki:
+    - "en:Stephen Gray (scientist)"
+    - "en:Electrical conductor"
+  text: |
+    **Stephen Gray** (1666–1736) var en engelsk färgare och amatörforskare som på äldre dagar bodde på ett välgörenhetshem i London. Ändå gjorde han en av elektricitetslärans viktigaste upptäckter.
+
+    1729 märkte han att en kork i änden av ett glasrör blev elektrisk när han gned röret: laddningen hade alltså vandrat över. Han band sedan ett snöre till röret och en elfenbenskula i andra änden, och kulan kunde attrahera små pappersbitar trots att den var långt borta. Med vänners hjälp förlängde han ledningen till över hundra meter. Det fungerade om snöret hängde i **sidentrådar**, men inte om han hängde det i mässingstråd – då "läckte" laddningen bort. Han hade upptäckt skillnaden mellan **ledare** och **isolatorer**. 1730 visade han att en pojke som hängde i sidensnören kunde laddas upp så att småsaker drogs mot honom.
+
+    Före Gray sågs elektricitet som en egenskap hos gnidna föremål. Nu var den något som kunde förflyttas längs en tråd – grundidén bakom varje kabel. Fransmannen Du Fay visade strax därefter att det finns två slags laddning (vi säger positiv och negativ). Gray byggde på [Hauksbees](#hauksbees-elektriska-glod) experiment, och vägen gick vidare till [Leidenflaskan](#leidenflaskan-1745) och så småningom [telegrafen](#telegrafen-morse-1837).
+
+bradley-ljusets-aberration:
+  period: 1720
+  label: "Bradley: ljusets aberration"
+  title: "Bradley och ljusets aberration (1728)"
+  wiki:
+    - "en:Aberration (astronomy)"
+    - "en:James Bradley"
+  text: |
+    **James Bradley** (1693–1762) var en engelsk astronom, senare Astronomer Royal (kunglig astronom). 1725 försökte han mäta **parallax**: att en närliggande stjärna borde förskjutas lite mot bakgrunden när jorden flyttar sig runt solen. Det skulle bevisa att jorden rör sig.
+
+    Han fann att stjärnan Gamma Draconis faktiskt svängde fram och tillbaka cirka 20 bågsekunder (en bågsekund är 1/3600 grad) under ett år – men i fel takt för parallax. 1728 förstod han varför: **aberration**. Ljus har en ändlig hastighet, och jorden rör sig med cirka 30 km/s i sin bana. Liksom regn som faller rakt ner verkar komma snett framifrån när man springer, måste teleskopet lutas lite i färdriktningen. Vinkeln är ungefär hastighetskvoten v/c ≈ 1/10 000 radian ≈ 20 bågsekunder.
+
+    Det var det första direkta beviset för att jorden rör sig runt solen, och gav ett nytt värde på ljushastigheten: ljuset tar ungefär 8 minuter från solen, nära dagens värde och bättre än [Rømers mätning 1676](#ljusets-hastighet-romer-1676). Själva parallaxen var så liten att den mättes först 1838. Frågan om hur ljus beter sig i en rörlig jord ledde långt senare till [Michelson–Morley-experimentet](#michelsonmorley-1887) och [Einsteins relativitetsteori](#einstein-1905-och-1915).
+
+leidenflaskan-1745:
+  period: 1740
+  label: "Leidenflaskan 1745"
+  title: "Leidenflaskan – den första kondensatorn (1745)"
+  wiki:
+    - "sv:Leidenflaska"
+    - "en:Leyden jar"
+  text: |
+    På 1740-talet kunde man skapa elektrisk laddning med friktionsmaskiner (jfr [Hauksbee](#hauksbees-elektriska-glod)), men inte lagra den. 1745 upptäckte den tyske prästen **Ewald von Kleist**, och oberoende 1746 **Pieter van Musschenbroek**, professor i Leiden i Nederländerna, att en glasflaska med vatten som laddats via en metalltråd kunde hålla kvar en stor laddning. Musschenbroeks assistent fick en stöt när han höll flaskan i ena handen och rörde tråden med den andra – så kraftig att Musschenbroek skrev att han inte skulle utsätta sig för det igen ens för hela Frankrikes krona.
+
+    Leidenflaskan är en **kondensator**: två ledare (vattnet eller en metallbeläggning inuti, handen eller en metallfolie utanpå) som skiljs åt av en isolator (glaset). Laddning på insidan drar till sig motsatt laddning på utsidan, och glaset hindrar dem från att mötas. Ju tunnare glas och större yta, desto mer laddning ryms. Samma princip används i varje kondensator i dagens elektronik, och i DRAM-minnen där varje bit lagras som laddning i en liten kondensator.
+
+    Flaskan gjorde elektriciteten till folknöje: i Frankrike lät abbé Nollet 180 soldater hålla varandra i händerna och hoppa samtidigt av stöten. Den gav också forskare starka urladdningar att studera, och [Franklin](#franklins-drake-1752) använde den för att samla laddning från ett åskmoln.
+
+franklins-drake-1752:
+  period: 1740
+  label: "Franklins drake 1752"
+  title: "Franklins drake: blixten är elektricitet (1752)"
+  wiki:
+    - "en:Kite experiment"
+    - "sv:Benjamin Franklin"
+  text: |
+    **Benjamin Franklin** (1706–1790) var boktryckare och tidningsman i Philadelphia i de brittiska kolonierna i Nordamerika, senare en av USA:s grundare. På 1740-talet började han experimentera med elektricitet och föreslog att elektricitet är en enda "vätska" som kan finnas i överskott (positiv laddning) eller underskott (negativ) – det är därifrån våra tecken + och − kommer.
+
+    Han misstänkte att blixten är samma sak som gnistorna från en [Leidenflaska](#leidenflaskan-1745), bara mycket större, och föreslog 1750 ett experiment med en hög metallstång. Det utfördes först i Frankrike i maj 1752 och lyckades. Franklin gjorde enligt egen senare beskrivning sitt drakexperiment i juni 1752: en sidendrake med en spetsig tråd flögs i ett åskväder; i snörets nedre ände satt en metallnyckel. När snöret blev blött och ledande kunde han dra gnistor från nyckeln och ladda en Leidenflaska. Det var inget blixtnedslag – ett sådant hade troligen dödat honom, vilket hände den tyskbaltiske fysikern Georg Richmann i S:t Petersburg 1753.
+
+    Experimentet visade att blixten är en elektrisk urladdning, en naturkraft som kan förstås och mätas, inte ett gudomligt straff. Den direkta praktiska följden blev [åskledaren](#askledaren). Franklin blev världsberömd, vilket hjälpte honom senare som de amerikanska koloniernas sändebud i Paris.
+
+celsius:
+  period: 1740
+  label: "Celsius"
+  title: "Anders Celsius och temperaturskalan"
+  wiki:
+    - "sv:Anders Celsius"
+    - "sv:Celsius"
+  text: |
+    **Anders Celsius** (1701–1744) var professor i astronomi i Uppsala. På 1730-talet deltog han i den franska expeditionen till Tornedalen som mätte jordens form; den visade att jorden är tillplattad vid polerna, som Newtons teori förutsagt. Han byggde också Uppsalas observatorium och noterade, tillsammans med sin assistent, att norrsken hänger ihop med störningar i jordmagnetismen.
+
+    1742 föreslog han en **temperaturskala** med 100 grader mellan två fasta punkter: vattnets fryspunkt och kokpunkt vid normalt lufttryck. Hans viktiga insats var att noggrant visa att fryspunkten inte beror på lufttryck eller latitud, medan kokpunkten beror på lufttrycket, som därför måste anges. Ursprungligen var skalan omvänd: kokpunkten var 0 och fryspunkten 100. Kort efter Celsius död 1744 vändes den, troligen på initiativ av bl.a. [Carl von Linné](#linne-systema-naturae).
+
+    Konkurrenten var [Fahrenheits skala](#fahrenheit-termometern) från 1720-talet, där vatten fryser vid 32 och kokar vid 212 grader. Celsiusskalan blev standard i metersystemets länder (se [metersystemet](#metersystemet-1795)), medan Fahrenheit lever kvar i USA. Den absoluta skalan, kelvin, har samma gradsteg som Celsius men börjar vid absoluta nollpunkten, −273,15 °C (se [Kelvin](#kelvin)).
+
+black-latent-varme:
+  period: 1760
+  label: "Black: latent värme"
+  title: "Black och latent värme (ca 1761)"
+  wiki:
+    - "en:Joseph Black"
+    - "en:Latent heat"
+  text: |
+    **Joseph Black** (1728–1799) var skotsk läkare och kemist, professor i Glasgow och Edinburgh. Han hade redan upptäckt koldioxid ("fixerad luft") på 1750-talet. Omkring 1761 gjorde han en upptäckt som skilde två begrepp som dittills blandats ihop: **temperatur** och **värme**.
+
+    Han märkte att is som smälter håller 0 °C hela tiden, trots att den tar upp värme från omgivningen. Värmen försvinner alltså inte – den går åt till att ändra tillståndet från fast till flytande. Black kallade den **latent värme** ("dold" värme). Samma sak gäller när vatten kokar: det krävs mycket värme att förånga vatten vid 100 °C, i dag vet vi ungefär fem gånger mer än att värma samma mängd vatten från 0 till 100 °C. Han införde också **specifik värme**: olika ämnen kräver olika mycket värme för att höjas en grad.
+
+    Upptäckten fick snabbt praktisk betydelse. Instrumentmakaren James Watt, som arbetade vid universitetet i Glasgow, förstod med Blacks begrepp varför [Newcomens ångmaskin](#newcomens-angmaskin-1712) slösade så mycket bränsle: cylindern kyldes ner varje slag, och all förångningsvärme gick förlorad. Lösningen blev [Watts separata kondensor](#watts-angmaskin-1769). Black trodde att värme var ett ämne, "värmestoff"; att värme är en form av energi slogs fast först med [energiprincipen på 1840-talet](#energiprincipen-joule-helmholtz-1847).
+
+cavendish:
+  period: 1760
+  label: "Cavendish"
+  title: "Henry Cavendish – vätgas och jordens vikt"
+  wiki:
+    - "en:Henry Cavendish"
+    - "en:Cavendish experiment"
+  text: |
+    **Henry Cavendish** (1731–1810) var en ytterst rik och extremt skygg engelsk aristokrat som ägnade sitt liv åt experiment i sitt hem i London. Han publicerade lite, och mycket av hans arbete blev känt först efter hans död.
+
+    1766 beskrev han "brännbar luft" – **vätgas** – som bildas när metaller som zink löses i syra, och mätte att den är mycket lättare än luft (en egenskap som snart användes i [ballonger](#montgolfiers-ballong-1783)). 1781–84 visade han att när vätgas brinner bildas rent vatten. Vatten är alltså inte ett grundämne, som man trott sedan antiken, utan en förening. [Lavoisier](#lavoisier-syre-kemins-revolution) tolkade resultatet rätt: vatten är väte plus syre.
+
+    1797–98 gjorde han det kända **Cavendishexperimentet**: en vridvåg med två små blykulor på en stav, hängd i en tunn tråd, nära två stora blykulor. Den svaga gravitationsattraktionen mellan kulorna vred tråden en aning, och av vridningen kunde han beräkna kraften. Därmed kunde han bestämma jordens medeltäthet till omkring 5,4 gånger vattnets (dagens värde 5,5) och därmed jordens massa. I efterhand ger det gravitationskonstanten G i [Newtons gravitationslag](#gravitationslagen). Han mätte också elektriska krafter och förutsåg i opublicerade anteckningar resultat som senare tillskrevs [Coulomb](#coulombs-lag-1785) och Ohm.
+
+coulombs-lag-1785:
+  period: 1780
+  label: "Coulombs lag 1785"
+  title: "Coulombs lag (1785)"
+  wiki:
+    - "sv:Coulombs lag"
+    - "en:Charles-Augustin de Coulomb"
+  text: |
+    **Charles-Augustin de Coulomb** (1736–1806) var en fransk militäringenjör som byggt befästningar på Martinique i Karibien innan han ägnade sig åt fysik i Paris. 1785 mätte han kraften mellan elektriskt laddade kulor med en **torsionsvåg**: en lätt stav hängd i en tunn tråd, som vrids när en laddad kula på staven stöts bort av en annan. Vridningsvinkeln är proportionell mot kraften, så mycket små krafter kunde mätas.
+
+    Resultatet, **Coulombs lag**: kraften F mellan två laddningar q₁ och q₂ på avståndet r är F = k·q₁·q₂ / r², där k är en konstant. Lika laddningar stöter bort varandra, olika drar till sig. Halveras avståndet blir kraften fyra gånger större. Det är samma form som [Newtons gravitationslag](#gravitationslagen), men den elektriska kraften är ofantligt mycket starkare: mellan två elektroner ungefär 10⁴² gånger starkare än gravitationen. Coulomb visade samma avståndslag för magnetpoler.
+
+    Lagen gjorde elektriciteten till en exakt, matematisk vetenskap och är grunden för elektrostatiken. Enheten för laddning, coulomb, är uppkallad efter honom. [Henry Cavendish](#cavendish) hade kommit fram till samma lag tidigare men inte publicerat. Tillsammans med senare upptäckter om strömmar och magnetism ([Ørsted 1820](#orsted-strom-ger-magnetism-1820)) samlades den till slut i [Maxwells ekvationer](#maxwells-ekvationer-1865).
+
+galvanis-grodlar:
+  period: 1780
+  label: "Galvanis grodlår"
+  title: "Galvanis grodlår (1780–1791)"
+  wiki:
+    - "en:Luigi Galvani"
+    - "en:Galvanism"
+  text: |
+    **Luigi Galvani** (1737–1798) var läkare och anatomiprofessor i Bologna i Italien. Under 1780-talet experimenterade han med dissekerade grodor och märkte att grodlåren ryckte när en nerv berördes av en metallskalpell medan en elektricitetsmaskin gnistrade i närheten. Senare såg han att låren ryckte även utan maskin, när nerven och muskeln förbands med en båge av två olika metaller, t.ex. koppar och järn.
+
+    Galvani publicerade 1791 att djur har en egen **"djurelektricitet"** som produceras i kroppen och lagras i musklerna, och att metallbågen bara ger den en väg att urladdas. Hans landsman **Alessandro Volta**, fysikprofessor i Pavia, var skeptisk. Volta menade att elektriciteten uppstod i kontakten mellan de två olika metallerna i en fuktig miljö, och att grodlåret bara var en känslig detektor. Striden blev en av tidens stora vetenskapliga debatter.
+
+    Båda hade delvis rätt. Volta bevisade sin tes genom att stapla zink- och kopparskivor med saltvattenindränkt papp emellan: [Voltas batteri 1800](#voltas-batteri-1800), den första källan till jämn elektrisk ström – grunden för all senare elektroteknik. Men nerver och muskler fungerar faktiskt med elektriska signaler, vilket mättes noggrant på 1840-talet; neurofysiologi, EKG och pacemakers bygger på det. Galvanis namn lever i ord som galvanisering (zinkbeläggning genom elektrisk ström) och galvanometer. Experimenten inspirerade också Mary Shelleys roman Frankenstein (1818).
+
+herschel-upptacker-uranus-1781:
+  period: 1780
+  label: "Herschel upptäcker Uranus 1781"
+  title: "Herschel upptäcker Uranus (1781)"
+  wiki:
+    - "en:William Herschel"
+    - "sv:Uranus"
+  text: |
+    Sedan förhistorisk tid kände man till fem planeter utöver jorden: Merkurius, Venus, Mars, Jupiter och Saturnus, alla synliga för blotta ögat. Ingen hade upptäckt en ny planet i nedtecknad historia.
+
+    **William Herschel** (1738–1822) var en tyskfödd musiker och organist i Bath i England som på fritiden slipade egna spegelteleskop, bättre än de flesta samtida. Med sin syster **Caroline Herschel**, som blev en framstående astronom i egen rätt, sökte han systematiskt av himlen. Den 13 mars 1781 såg han ett objekt som inte var en punkt som stjärnorna utan en liten skiva, och som rörde sig. Han trodde först att det var en komet, men banberäkningar visade en nästan cirkulär bana ungefär dubbelt så långt bort som Saturnus. Det var en ny planet. Solsystemets kända storlek fördubblades i ett slag. Planeten fick senare namnet Uranus.
+
+    Herschel blev kunglig astronom åt Georg III och upptäckte bl.a. Uranus månar och, år 1800, infraröd strålning – värme bortom det röda i solspektrumet. Han kartlade också stjärnornas fördelning för att förstå Vintergatans form. Uranus bana stämde sedan inte helt med beräkningarna; avvikelserna ledde 1846 till upptäckten av Neptunus genom ren beräkning med Newtons [gravitationslag](#gravitationslagen) – en triumf jämförbar med [Halleys kometförutsägelse](#halley).
+
+voltas-batteri-1800-2:
+  period: 1800
+  label: "Voltas batteri 1800"
+  same_as: voltas-batteri-1800
+
+young-ljus-ar-vagor:
+  period: 1800
+  label: "Young: ljus är vågor"
+  title: "Dubbelspalten: ljus interfererar"
+  wiki:
+    - "en:Young's interference experiment"
+    - "sv:Thomas Young"
+  text: |
+    **Thomas Young** (1773–1829) var en engelsk läkare och fysiker med extremt bred begåvning – han bidrog också till att tolka egyptiska hieroglyfer. Omkring 1801–1803 visade han att ljus beter sig som vågor.
+
+    Under 1700-talet dominerade [Newtons](#newton-opticks-1704) uppfattning att ljus består av små partiklar, medan [Huygens](#huygens) hade föreslagit vågor. Youngs avgörande försök var *dubbelspalten*: ljus från en källa får passera två smala, närliggande springor och träffa en skärm. Om ljus vore partiklar borde man se två ljusa streck. I stället syns ett mönster av många ljusa och mörka ränder. Förklaringen är *interferens*: där vågtoppar från de två springorna möts förstärker de varandra (ljust), där en topp möter en dal tar de ut varandra (mörkt). Det är samma fenomen som när två stenar kastas i en damm. Ur randavståndet kunde Young räkna ut ljusets våglängd: ungefär 0,4 mikrometer för violett och 0,7 för rött.
+
+    Young möttes först av skepsis, men fransmannen Augustin Fresnel byggde på 1810-talet en matematisk vågteori som vann. [Maxwell](#maxwells-ekvationer-1865) visade sedan vad som svänger: elektriska och magnetiska fält. Historien fick en twist när [Einstein 1905](#einstein-1905-och-1915) visade att ljus också kommer i partikelliknande paket, fotoner. Dubbelspalten blev därför ett standardexempel i kvantmekaniken.
+
+goethes-farglara-1810:
+  period: 1800
+  label: "Goethes färglära 1810"
+  title: "Diktaren som utmanade Newton"
+  wiki:
+    - "en:Theory of Colours"
+    - "sv:Johann Wolfgang von Goethe"
+  text: |
+    **Johann Wolfgang von Goethe** (1749–1832) var Tysklands mest berömde diktare, känd för bland annat *Faust* (se [Goethe](#goethe)). Han ägnade också decennier åt naturvetenskap och ansåg själv att hans färglära, *Zur Farbenlehre* (1810, omkring 1 400 sidor), var hans viktigaste verk.
+
+    Goethe angrep [Newtons prismaförsök](#newton-gravitation-och-prisman-1666). Newton hade visat att vitt ljus är en blandning av färger som ett prisma delar upp. Goethe tyckte att det var orimligt att det rena vita skulle bestå av färger. Han menade i stället att färger uppstår i mötet mellan ljus och mörker och pekade på att färgade kanter syns just där ljusa och mörka ytor möts när man tittar genom ett prisma.
+
+    Som fysik var Goethes teori fel; Newtons förklaring höll, och [Young](#young-ljus-ar-vagor) visade samtidigt att färg motsvarar ljusets våglängd. Men Goethes noggranna iakttagelser av hur vi *upplever* färg – efterbilder, färgade skuggor, att en grå yta ser olika ut beroende på omgivningen – var värdefulla. De påverkade målare som William Turner och blev en tidig del av perceptionspsykologin. Dagens bild förenar båda: färg är både fysik (våglängder) och hjärnans tolkning av signaler från ögats tre sorters tappar, en idé som Young också föreslog.
+
+orsted-strom-ger-magnetism-1820:
+  period: 1820
+  label: "Ørsted: ström ger magnetism 1820"
+  title: "Elektricitet och magnetism hänger ihop"
+  wiki:
+    - "sv:Hans Christian Ørsted"
+    - "en:Electromagnetism"
+  text: |
+    **Hans Christian Ørsted** (1777–1851) var en dansk fysiker och kemist i Köpenhamn. Våren 1820 lade han märke till att en kompassnål slog ut när han slöt en strömkrets i närheten. Elektrisk ström hade bara varit möjlig att få ut jämnt och länge sedan Alessandro Volta byggde det första batteriet år 1800, efter [Galvanis försök](#galvanis-grodlar) med grodlår.
+
+    Det märkliga var riktningen. Nålen pekade inte mot tråden utan ställde sig vinkelrätt mot den: strömmen omges av ett magnetfält som går i cirklar runt ledaren. Elektricitet och magnetism hade dittills betraktats som två helt olika krafter, även om många, Ørsted själv inräknad, hade anat ett samband. Nu fanns ett enkelt, upprepbart försök.
+
+    Nyheten spreds på veckor. I Paris formulerade André-Marie Ampère samma höst lagar för kraften mellan strömförande ledare (strömmens enhet ampere är uppkallad efter honom), och elektromagneten – en järnkärna lindad med tråd som blir magnetisk när ström flyter – uppfanns 1824. I London vände [Michael Faraday](#faraday-motor-1821-induktion-1831) på frågan: om ström ger magnetism, kan magnetism ge ström? Elektromagneten blev hjärtat i [telegrafen](#telegrafen-morse-1837), och kedjan ledde till [Maxwells](#maxwells-ekvationer-1865) förening av elektricitet, magnetism och ljus. Enheten för magnetisk fältstyrka i det äldre cgs-systemet heter oersted.
+
+faraday-motor-1821-induktion-1831:
+  period: 1820
+  label: "Faraday: motor 1821, induktion 1831"
+  title: "Rörelse blir ström, ström blir rörelse"
+  wiki:
+    - "sv:Michael Faraday"
+    - "sv:Elektromagnetisk induktion"
+  text: |
+    **Michael Faraday** (1791–1867) var en engelsk fysiker och kemist, son till en smed, som saknade formell utbildning och började som bokbindarlärling. Han blev ändå en av historiens största experimentatorer, vid Royal Institution i London.
+
+    1821, året efter [Ørsteds upptäckt](#orsted-strom-ger-magnetism-1820), byggde han den första elmotorn: en strömförande tråd som hängde ned i en skål med kvicksilver roterade kontinuerligt runt en stavmagnet. Elektrisk energi omvandlades till ihållande rörelse. 1831 kom den större upptäckten, *elektromagnetisk induktion*: när magnetfältet genom en ledarslinga *ändras*, till exempel för att en magnet förs in i en spole, uppstår en spänning i slingan. Ett konstant fält ger ingenting; det är förändringen som räknas. Den inducerade spänningen är proportionell mot hur snabbt det magnetiska flödet genom slingan ändras.
+
+    Induktionen är principen bakom generatorn, där mekanisk rörelse ger ström, och bakom transformatorn, som höjer eller sänker växelspänning. Det gjorde det möjligt att producera el i stor skala, se [Siemens dynamo](#siemens-dynamo-1866) och [de första kraftstationerna](#edisons-kraftstation-1882). Faraday tänkte sig också att rummet runt magneter och laddningar är fyllt av "kraftlinjer" – begreppet fält. Han kunde knappt någon matematik, men [Maxwell](#maxwells-ekvationer-1865) översatte hans bild till ekvationer. Kapacitansens enhet farad är uppkallad efter honom.
+
+carnot-1824:
+  period: 1820
+  label: "Carnot 1824"
+  title: "Hur mycket arbete kan värme ge?"
+  wiki:
+    - "en:Nicolas Léonard Sadi Carnot"
+    - "en:Carnot cycle"
+  text: |
+    **Sadi Carnot** (1796–1832) var en fransk militäringenjör, son till en av revolutionens ledande politiker. Han såg att Storbritanniens ångmaskiner gav landet ett industriellt och militärt försprång och frågade något nytt: finns det en övre gräns för hur effektiv en värmemotor kan bli? En värmemotor är varje maskin som får mekaniskt arbete ur värme, som [ångmaskinen](#watts-angmaskin-1769). 1824 gav han ut den tunna boken *Réflexions sur la puissance motrice du feu* ("Betraktelser över eldens drivkraft").
+
+    Carnots svar: arbetet kommer av att värme flödar från något varmt till något kallt, ungefär som vatten som faller genom ett vattenhjul. Hur mycket arbete man kan få ut beror bara på temperaturskillnaden, inte på om man använder ånga, luft eller något annat. I modern form är den högsta möjliga verkningsgraden 1 − Tkall/Tvarm, där temperaturerna mäts i kelvin. En maskin med ånga på 200 °C (473 K) som kyls mot 20 °C (293 K) kan alltså som bäst omvandla omkring 38 % av värmen till arbete. Därför byggs kraftverk för så höga temperaturer som möjligt.
+
+    Carnot dog i kolera 36 år gammal och boken ignorerades i nästan tjugo år. Han trodde dessutom att värme var ett ämne som bevaras. När [Kelvin](#kelvin) och [Clausius](#clausius-entropi) omkring 1850 förenade hans resonemang med [energiprincipen](#energiprincipen-joule-helmholtz-1847) blev det termodynamikens andra huvudsats.
+
+energiprincipen-joule-helmholtz-1847:
+  period: 1840
+  label: "Energiprincipen (Joule, Helmholtz 1847)"
+  title: "Energi kan bara byta form"
+  wiki:
+    - "sv:Energiprincipen"
+    - "sv:James Prescott Joule"
+  text: |
+    **Energiprincipen**, i dag termodynamikens första huvudsats, säger att energi aldrig skapas eller förstörs utan bara omvandlas mellan former: rörelse, värme, kemisk, elektrisk energi och så vidare. Den totala mängden i ett slutet system är konstant. Det låter självklart nu, men omkring 1840 sågs värme ofta som ett eget viktlöst ämne, "värmeämne", som flödade men inte omvandlades.
+
+    **James Prescott Joule** (1818–1889), en engelsk bryggarson och amatörforskare, mätte på 1840-talet hur mycket värme ett givet mekaniskt arbete ger. I hans mest kända försök drev ett fallande lod en skovel som rörde om vatten, och vattnet blev mätbart varmare. Han fann att ungefär 4,2 joule arbete (i dagens enheter) värmer ett gram vatten en grad – den "mekaniska värmeekvivalenten". Energienheten joule är uppkallad efter honom. Den tyske läkaren Julius Robert Mayer hade kommit fram till samma princip 1842, och **Hermann von Helmholtz** (1821–1894), tysk läkare och fysiker, gav den 1847 en allmän matematisk form som omfattade mekanik, värme, elektricitet och levande varelser.
+
+    Principen förenade fysiken och gav ett bokföringsverktyg för allt från ångmaskiner till ämnesomsättning (jämför [Lavoisiers](#lavoisier-andning-ar-forbranning) syn på andning). Tillsammans med [Carnots](#carnot-1824) arbete ledde den till termodynamikens andra huvudsats, formulerad av [Kelvin](#kelvin) och [Clausius](#clausius-entropi): energin bevaras, men den blir allt mindre användbar.
+
+kelvin:
+  period: 1840
+  label: "Kelvin"
+  title: "Kelvin: absoluta nollpunkten och kabeln"
+  wiki:
+    - "en:Lord Kelvin"
+    - "sv:Kelvin"
+  text: |
+    **William Thomson** (1824–1907), adlad som **Lord Kelvin** 1892, var en brittisk fysiker och ingenjör verksam vid universitetet i Glasgow i över 50 år. Han var 1800-talets typiske vetenskapsman-entreprenör: lika delar teoretiker och uppfinnare med många patent.
+
+    1848 föreslog han en *absolut temperaturskala*, byggd på [Carnots](#carnot-1824) teori om värmemotorer i stället för på hur ett visst ämne, som kvicksilver, utvidgas. Skalan har en naturlig nollpunkt, den *absoluta nollpunkten*, där ingen mer värme kan tas ut ur ett ämne: −273,15 °C. Enheten kelvin (K) har samma stegstorlek som en grad [Celsius](#celsius), så vatten fryser vid 273,15 K. Omkring 1850–1851 formulerade han, parallellt med [Clausius](#clausius-entropi), termodynamikens andra huvudsats: det går inte att bygga en maskin som bara omvandlar värme från en enda temperatur till arbete.
+
+    Kelvin var också den vetenskapliga rådgivaren bakom [Atlantkabeln](#atlantkabeln-1858). Han räknade ut hur signaler förvrängs i långa kablar, uppfann en mycket känslig mottagare (spegelgalvanometern) och blev rik och adlad på det. Han tog också miste ibland: hans uppskattning av jordens ålder till högst omkring 100 miljoner år, byggd på hur fort jorden svalnar, var för kort för Darwins evolution. Han kände inte till radioaktivitetens värme, som upptäcktes först kring 1900; i dag vet vi att jorden är omkring 4,5 miljarder år.
+
+maxwells-ekvationer-1865:
+  period: 1860
+  label: "Maxwells ekvationer 1865"
+  title: "Ljus är elektromagnetiska vågor"
+  wiki:
+    - "sv:Maxwells ekvationer"
+    - "sv:James Clerk Maxwell"
+  text: |
+    **James Clerk Maxwell** (1831–1879) var en skotsk fysiker. 1865 publicerade han en teori som samlade allt man visste om elektricitet och magnetism i ett fåtal ekvationer. Han byggde på [Faradays](#faraday-motor-1821-induktion-1831) idé om *fält*: att varje punkt i rummet har ett elektriskt fält E och ett magnetiskt fält B, båda vektorer som varierar med plats och tid.
+
+    Ekvationerna säger i ord, i den kompakta form som Oliver Heaviside gav dem omkring 1884: (1) elektriska laddningar ger upphov till ett elektriskt fält; (2) det finns inga magnetiska laddningar – fältlinjerna är slutna; (3) ett magnetfält som ändras ger ett elektriskt fält som cirkulerar (Faradays induktion); (4) elektrisk ström och ett elektriskt fält som ändras ger ett magnetfält som cirkulerar ([Ørsteds](#orsted-strom-ger-magnetism-1820) effekt plus Maxwells eget tillägg). Tillägget i (4) var avgörande: tillsammans med (3) betyder det att ett ändrat E-fält ger ett B-fält som ger ett E-fält och så vidare – en våg som fortplantar sig själv genom tomma rummet.
+
+    Maxwell räknade ut vågens hastighet ur två uppmätta elektriska konstanter och fick omkring 300 000 km/s – ljusets hastighet. Slutsatsen: ljus är en elektromagnetisk våg. [Heinrich Hertz](#hertz-radiovagor-1887) skapade 1887 sådana vågor med gnistor och bekräftade teorin, vilket ledde till radio, radar, mobilnät och wifi. Att ekvationerna ger samma ljushastighet för alla observatörer var en motsägelse mot Newtons mekanik som [Einsteins relativitetsteori](#einstein-1905-och-1915) löste.
+
+clausius-entropi:
+  period: 1860
+  label: "Clausius: entropi"
+  title: "Entropi: varför värme bara går en väg"
+  wiki:
+    - "sv:Entropi"
+    - "sv:Rudolf Clausius"
+  text: |
+    **Rudolf Clausius** (1822–1888) var en tysk fysiker. 1850 förenade han [Carnots](#carnot-1824) teori om värmemotorer med [energiprincipen](#energiprincipen-joule-helmholtz-1847) och formulerade termodynamikens andra huvudsats: värme går aldrig av sig självt från en kall kropp till en varm. Ett kylskåp kan flytta värme åt "fel" håll, men bara genom att förbruka arbete.
+
+    1865 gav han lagen en storhet att räkna med, och ett namn: *entropi*, betecknad S, från grekiskans ord för förvandling. Förändringen i entropi definieras som tillförd värme delad med den absoluta temperatur (i kelvin) vid vilken den tillförs, ΔS = Q/T. När värmemängden Q går från varmt till kallt minskar entropin lite i den varma kroppen (stort T) och ökar mer i den kalla (litet T), så totalen växer. Andra huvudsatsen blir: i ett isolerat system kan entropin aldrig minska. Clausius sammanfattade: "Universums energi är konstant. Universums entropi strävar mot ett maximum."
+
+    Det förklarar varför processer i naturen har en riktning – varför ett glas som går sönder inte lagar sig självt – och varför ingen maskin kan omvandla all värme till arbete. Österrikaren Ludwig Boltzmann gav på 1870-talet entropin en statistisk tolkning: den mäter hur många mikroskopiska tillstånd som ger samma makroskopiska tillstånd, S = k·log W, där W är antalet tillstånd och k en naturkonstant. [Shannon](#shannon-informationsteori-1948) använde 1948 en formel av samma form för informationsmängd och kallade den också entropi.
+
+hertz-radiovagor-1887:
+  period: 1880
+  label: "Hertz: radiovågor 1887"
+  title: "Hertz visar att radiovågor finns"
+  wiki:
+    - "sv:Heinrich Hertz"
+    - "en:Electromagnetic radiation"
+  text: |
+    **Heinrich Hertz** (1857–1894) var en tysk fysiker. År 1887 visade han experimentellt något som skotten James Clerk Maxwell hade förutsagt matematiskt drygt tjugo år tidigare i [sina ekvationer för elektricitet och magnetism](#maxwells-ekvationer-1865): att ett elektriskt fält som svänger skapar ett magnetiskt fält som svänger, och vice versa, så att störningen fortplantar sig genom rummet som en våg – en elektromagnetisk våg.
+
+    Hertz sändare var ett gnistgap: två metallkulor med hög spänning emellan, där varje gnista fick ström att svänga fram och tillbaka mycket snabbt. Mottagaren var en enkel metallslinga med ett litet gap, där en svag gnista syntes när vågen träffade. Han mätte våglängder i storleksordningen en meter, och visade att vågorna kunde reflekteras, brytas och polariseras precis som ljus, och att de rörde sig med ljusets hastighet. Därmed var det visat att ljus och dessa nya vågor är samma fenomen, bara med olika våglängd.
+
+    Hertz själv såg ingen praktisk användning. Men bara några år senare byggde [Guglielmo Marconi](#marconi) trådlös telegrafi på exakt samma princip. Enheten för frekvens, hertz (Hz, svängningar per sekund), är uppkallad efter honom – en 5 GHz wifi-signal är samma slags våg som hans gnistor, fast med en våglängd på ungefär sex centimeter.
+
+michelsonmorley-1887:
+  period: 1880
+  label: "Michelson–Morley 1887"
+  title: "Experimentet som inte hittade etern"
+  wiki:
+    - "en:Michelson–Morley experiment"
+    - "en:Luminiferous aether"
+  text: |
+    På 1800-talet trodde fysiker att ljusvågor, liksom ljudvågor, måste röra sig i något medium. Det tänkta mediet kallades *etern* och skulle fylla hela rymden. Om jorden rör sig genom etern (runt solen i ungefär 30 km/s) borde ljus färdas olika snabbt i olika riktningar relativt oss, ungefär som motvind och medvind.
+
+    De amerikanska fysikerna **Albert Michelson** och **Edward Morley** testade detta 1887 i Cleveland med en *interferometer*: en ljusstråle delas i två som går i vinkelräta armar, studsar mot speglar och förenas igen. Om den ena strålen fördröjs en aning förskjuts mönstret av ljusa och mörka band (interferensmönstret). Apparaten låg på en stenplatta som flöt på kvicksilver så att den kunde vridas. Förväntad förskjutning var ungefär 0,4 band; de såg högst en liten bråkdel av det – i praktiken ingenting.
+
+    Resultatet var en gåta i nästan tjugo år. Fysiker som Hendrik Lorentz föreslog att föremål krymper i rörelseriktningen precis så mycket att effekten döljs. Den radikala lösningen kom med [Einsteins speciella relativitetsteori 1905](#einstein-1905-och-1915): ljusets hastighet är densamma för alla observatörer, och etern behövs inte. Interferometern lever kvar – [gravitationsvågsdetektorn LIGO](#gravitationsvagor-2015) bygger på samma princip med fyra kilometer långa armar.
+
+rontgen-1895-2:
+  period: 1880
+  label: "Röntgen 1895"
+  same_as: rontgen-1895
+
+elektronen-1897-2:
+  period: 1880
+  label: "elektronen 1897"
+  same_as: elektronen-1897
+
+planck-1900:
+  period: 1900
+  label: "Planck 1900"
+  title: "Planck och energins kvanta"
+  wiki:
+    - "sv:Max Planck"
+    - "en:Planck's law"
+  text: |
+    **Max Planck** (1858–1947) var en tysk fysiker i Berlin. Han arbetade med *svartkroppsstrålning*: det ljus (inklusive infrarött) som ett varmt föremål sänder ut, där färgfördelningen bara beror på temperaturen – en glödande järnbit går från rött till vitt när den hettas upp. Den klassiska fysiken förutsade att ett varmt föremål skulle stråla ut oändligt mycket energi vid korta våglängder, vilket uppenbart är fel (senare kallat "ultravioletta katastrofen").
+
+    I december 1900 lade Planck fram en formel som passade mätningarna perfekt. För att härleda den fick han anta att energi bara kan utbytas i små paket, *kvanta*, med storleken E = h·f, där f är frekvensen och h en ny naturkonstant, ungefär 6,626·10⁻³⁴ joulesekunder. Konstanten är så liten att kvantiseringen märks bara i atomär skala. Planck såg det själv mest som ett matematiskt knep.
+
+    Det var [Einstein 1905](#einstein-1905-och-1915) som tog idén på allvar och föreslog att ljuset självt består av kvanta, senare kallade fotoner. Sedan använde [Bohr 1913](#bohr-1913) kvanttanken för atomen, och 1925–26 kom den fullständiga [kvantmekaniken](#kvantmekaniken-192526). Planck fick Nobelpriset 1918. Sedan 2019 definieras kilogrammet genom att fixera värdet på Plancks konstant.
+
+einstein-1905-och-1915:
+  period: 1900
+  label: "Einstein 1905 och 1915"
+  title: "Einstein: relativitet och ljuskvanta"
+  wiki:
+    - "sv:Albert Einstein"
+    - "sv:Relativitetsteori"
+  text: |
+    **Albert Einstein** (1879–1955), tyskfödd fysiker, var 1905 tjänsteman vid patentverket i Bern. Det året publicerade han fyra banbrytande artiklar. En förklarade den fotoelektriska effekten (att ljus kan slå loss elektroner ur metall) med att ljus består av energipaket, fotoner – en vidareutveckling av [Plancks kvanta](#planck-1900). En annan förklarade [brownsk rörelse](#brownsk-rorelse-1827) med att molekyler knuffar på små partiklar, vilket övertygade de sista tvivlarna om att atomer finns.
+
+    Den mest kända är den *speciella relativitetsteorin*. Den utgår från två antaganden: fysikens lagar är desamma för alla som rör sig med konstant hastighet, och ljusets hastighet c (cirka 300 000 km/s) är densamma för alla observatörer – det som [Michelson–Morley](#michelsonmorley-1887) hade antytt. Följderna: klockor i rörelse går långsammare, avstånd krymper i rörelseriktningen, och massa m är en form av energi E, enligt E = mc². Eftersom c² är enormt motsvarar ett gram massa ungefär 9·10¹³ joule, i storleksordningen energin i Hiroshimabomben.
+
+    1915 kom den *allmänna relativitetsteorin*, en ny teori för gravitation: massa och energi kröker rumtiden, och fritt fallande föremål följer de "rakaste" banorna i den krökta geometrin. Den förklarade en avvikelse i Merkurius bana och förutsade att ljus böjs av solen, vilket bekräftades 1919. Den ligger bakom svarta hål, [det expanderande universum](#hubble-universum-expanderar) och [gravitationsvågor](#gravitationsvagor-2015). GPS-satelliternas klockor måste korrigeras för båda teorierna, sammanlagt cirka 38 mikrosekunder per dygn; annars skulle positionen driva iväg i storleksordningen tio kilometer per dygn.
+
+rutherford-atomkarnan-1911:
+  period: 1900
+  label: "Rutherford: atomkärnan 1911"
+  title: "Rutherford hittar atomkärnan"
+  wiki:
+    - "sv:Ernest Rutherford"
+    - "en:Geiger–Marsden experiments"
+  text: |
+    **Ernest Rutherford** (1871–1937) var en fysiker från Nya Zeeland som arbetade i Kanada och England. Han hade redan fått Nobelpriset i kemi 1908 för att ha visat att [radioaktivitet](#radioaktivitet) innebär att ett grundämne förvandlas till ett annat.
+
+    Den rådande atommodellen var J.J. Thomsons "russinkaka": atomen som en jämnt utspridd positiv massa med [elektronerna](#elektronen-1897) insprängda. I Manchester sköt Rutherfords medarbetare Hans Geiger och Ernest Marsden alfapartiklar (positivt laddade, tunga partiklar från radioaktiva ämnen) mot en extremt tunn guldfolie. De flesta gick rakt igenom, men ungefär en på flera tusen studsade tillbaka i stor vinkel. Rutherford sa att det var lika otroligt som om en granat studsade mot silkespapper.
+
+    Hans tolkning 1911: nästan all massa och all positiv laddning sitter i en pytteliten *kärna*, och resten av atomen är nästan tomt rum med elektroner runt. Kärnan är ungefär 100 000 gånger mindre än atomen i diameter – som en ärta mitt i en fotbollsarena. Men modellen hade ett problem: enligt klassisk fysik borde kretsande elektroner stråla bort sin energi och falla in i kärnan på en bråkdel av en sekund. Det löste [Bohr 1913](#bohr-1913). Rutherford påvisade senare protonen och var med och grundlade kärnfysiken som ledde till [kärnklyvningen](#karnklyvning-1938).
+
+bohr-1913:
+  period: 1900
+  label: "Bohr 1913"
+  title: "Bohrs atommodell"
+  wiki:
+    - "sv:Niels Bohr"
+    - "en:Bohr model"
+  text: |
+    **Niels Bohr** (1885–1962) var en dansk fysiker som arbetade en tid hos Rutherford i Manchester. [Rutherfords atom](#rutherford-atomkarnan-1911), med elektroner runt en kärna, var enligt klassisk fysik instabil. Dessutom fanns en gammal gåta: upphettade gaser sänder ut ljus bara vid vissa bestämda våglängder (spektrallinjer), och för väte hade man en empirisk formel för dem utan att veta varför.
+
+    Bohr gjorde 1913 ett djärvt antagande: elektronen kan bara röra sig i vissa tillåtna banor med bestämda energier, och i dem strålar den inte. Ljus sänds ut eller tas upp bara när elektronen hoppar mellan två banor, och fotonens energi är skillnaden mellan banornas energier, enligt [Plancks](#planck-1900) E = h·f. Med detta räknade han fram väteatomens spektrallinjer ur naturkonstanter, med god precision.
+
+    Modellen var en hybrid av gammalt och nytt, och fungerade dåligt för atomer med fler elektroner. Den ersattes 1925–26 av den fullständiga [kvantmekaniken](#kvantmekaniken-192526), där elektronen inte har någon bestämd bana alls utan beskrivs av en sannolikhetsvåg. Men idén om diskreta energinivåer och kvantsprång består; den förklarar varför grundämnen har bestämda kemiska egenskaper och ligger bakom t.ex. lasrar och lysdioder. Bohrs institut i Köpenhamn blev 1920-talets centrum för kvantfysiken, och han fick Nobelpriset 1922.
+
+kvantmekaniken-192526:
+  period: 1920
+  label: "Kvantmekaniken 1925–26"
+  title: "Kvantmekaniken formuleras"
+  wiki:
+    - "sv:Kvantmekanik"
+    - "en:Schrödinger equation"
+  text: |
+    Under åren 1900–1924 hade fysiken samlat på sig en lapptäcksteori: [Plancks kvanta](#planck-1900), Einsteins fotoner och [Bohrs atommodell](#bohr-1913) fungerade men byggde på godtyckliga regler. Fransmannen Louis de Broglie föreslog 1924 att även partiklar som elektroner har vågegenskaper. På drygt ett år 1925–26 kom en sammanhängande teori, i två formuleringar.
+
+    Tysken **Werner Heisenberg** (23 år gammal) skapade 1925 *matrismekaniken*, där mätbara storheter representeras av matriser – tabeller av tal där multiplikationsordningen spelar roll, AB ≠ BA. Österrikaren **Erwin Schrödinger** publicerade 1926 en vågekvation: en partikel beskrivs av en *vågfunktion* ψ(x, t), och ekvationen anger hur den utvecklas över tid. Schrödinger och andra visade snart att formuleringarna är matematiskt likvärdiga. Max Born föreslog 1926 tolkningen att |ψ(x, t)|² är *sannolikheten* att hitta partikeln vid platsen x vid tiden t. Heisenbergs osäkerhetsrelation (1927) säger att läge och rörelsemängd inte samtidigt kan ha exakta värden.
+
+    Teorin förklarar det periodiska systemet, kemiska bindningar och hur halvledare leder ström. Utan den inga [transistorer](#transistorn-1947), [lasrar](#lasern-1960) eller MRI. Den är det mest exakt testade i fysiken, men hur tolkningen ska förstås – vad som "händer" vid en mätning – är fortfarande omdebatterat; Einstein accepterade aldrig slumpen i den. Kombinerad med relativitetsteorin ledde den till [kvantelektrodynamiken](#feynman-qed).
+
+hubble:
+  period: 1920
+  label: "Hubble"
+  title: "Hubble: galaxer och ett expanderande universum"
+  wiki:
+    - "sv:Edwin Hubble"
+    - "en:Hubble's law"
+  text: |
+    **Edwin Hubble** (1889–1953) var en amerikansk astronom vid Mount Wilson-observatoriet i Kalifornien, som då hade världens största teleskop med en 2,5 meters spegel. I början av 1920-talet var det omstritt om de suddiga "spiralnebulosorna" var gasmoln i vår egen Vintergata eller egna stjärnsystem långt borta.
+
+    År 1923–24 hittade Hubble *cepheider* i Andromedanebulosan. Det är stjärnor som pulserar, och den amerikanska astronomen Henrietta Leavitt hade 1912 visat att deras period avslöjar hur ljusstarka de verkligen är; jämför man med hur ljusa de ser ut kan man räkna ut avståndet. Det blev nära en miljon ljusår (i dag vet vi ungefär 2,5 miljoner), långt utanför Vintergatan. Universum bestod alltså av otaliga galaxer.
+
+    1929 jämförde han avstånd med galaxernas *rödförskjutning* – ljuset förskjuts mot längre våglängder när källan rör sig bort, uppmätt bland annat av Vesto Slipher. Ju längre bort, desto snabbare rör de sig bort: hastighet = H₀ · avstånd. Det tolkades som att universum expanderar, vilket redan hade förutsagts ur [allmänna relativitetsteorin](#einstein-1905-och-1915) av Aleksandr Friedmann och Georges Lemaître. Tänker man baklänges var allt en gång samlat – idén om big bang, som fick stöd av [bakgrundsstrålningen 1965](#bakgrundsstralningen-1965). Hubbles första värde var cirka sju gånger för högt; i dag ligger H₀ runt 70 km/s per megaparsek, och 1998 fann man att expansionen accelererar ([mörk energi](#mork-energi-1998)).
+
+karnklyvning-1938-2:
+  period: 1920
+  label: "kärnklyvning 1938"
+  same_as: karnklyvning-1938
+
+atombomben-1945:
+  period: 1940
+  label: "Atombomben 1945"
+  title: "Atombomben"
+  wiki:
+    - "sv:Atombomberna över Hiroshima och Nagasaki"
+    - "sv:Manhattanprojektet"
+  text: |
+    Grunden lades 1938 när tyska kemister upptäckte att uranatomer kan klyvas, se [kärnklyvning](#karnklyvning-1938). När en urankärna (isotopen uran-235) träffas av en neutron delar den sig, frigör energi enligt Einsteins E = mc², och släpper ut två–tre nya neutroner som kan klyva fler kärnor – en *kedjereaktion*. Klyvning av ett kilo uran-235 ger ungefär lika mycket energi som 17 000 ton trotyl, miljontals gånger mer än kemisk förbränning per kilo.
+
+    Av rädsla för att Nazityskland skulle hinna först startade USA [Manhattanprojektet](#manhattanprojektet) 1942, med fysikern J. Robert Oppenheimer som vetenskaplig ledare och runt 130 000 anställda totalt. Problemet var materialet: naturligt uran innehåller bara cirka 0,7 procent uran-235, så enorma anläggningar byggdes för anrikning, och kärnreaktorer för att framställa plutonium. Den första bomben testades i New Mexico den 16 juli 1945.
+
+    Den 6 augusti 1945 fälldes en uranbomb över Hiroshima och den 9 augusti en plutoniumbomb över Nagasaki ([Hiroshima, Nagasaki](#hiroshima-nagasaki-1945)), vardera motsvarande ungefär 15–21 tusen ton trotyl. Uppskattningsvis 110 000–210 000 människor dog till slutet av 1945. Japan kapitulerade. Sovjetunionen sprängde sin första bomb 1949 ([atombomb 1949](#atombomb-1949)), och kärnvapenkapprustningen präglade kalla kriget. Samma fysik gav [kärnkraften](#karnkraft-1954).
+
+transistorn-1947-2:
+  period: 1940
+  label: "transistorn 1947"
+  same_as: transistorn-1947
+
+feynman-qed:
+  period: 1940
+  label: "Feynman: QED"
+  title: "Kvantelektrodynamiken"
+  wiki:
+    - "sv:Kvantelektrodynamik"
+    - "sv:Richard Feynman"
+  text: |
+    *Kvantelektrodynamik* (QED) är teorin för hur ljus och elektriskt laddade partiklar, som elektroner, växelverkar. Den förenar [kvantmekaniken](#kvantmekaniken-192526) med den speciella relativitetsteorin och [Maxwells elektromagnetism](#maxwells-ekvationer-1865). Den grundläggande bilden: laddade partiklar påverkar varandra genom att utbyta fotoner (ljuskvanta).
+
+    Problemet på 1930-talet var att beräkningarna gav oändliga svar så snart man försökte gå bortom första approximationen. Efter kriget löste tre personer oberoende av varandra problemet, med en teknik som kallas *renormering*: oändligheterna kan samlas i elektronens massa och laddning, som man ersätter med de uppmätta värdena. Amerikanerna **Richard Feynman** (1918–1988) och Julian Schwinger samt japanen Shin'ichirō Tomonaga fick Nobelpriset 1965; Freeman Dyson visade att metoderna var likvärdiga.
+
+    Feynmans bidrag var särskilt praktiskt: *Feynmandiagram*, enkla streckgubbsbilder där varje linje och korsning motsvarar en term i en beräkning. De gjorde komplicerade räkningar hanterbara och används i hela partikelfysiken. QED är kanske den mest exakt testade teorin som finns: elektronens magnetiska moment stämmer med experiment på ungefär tolv värdesiffror. Den blev mallen för resten av standardmodellen, inklusive teorin om [kvarkar](#kvarkar-1964) och den svaga kraften med [W- och Z-bosonerna](#w-och-z-bosonerna-1983). Feynman var även med i Manhattanprojektet och känd som pedagog.
+
+lasern-1960:
+  period: 1960
+  label: "Lasern 1960"
+  title: "Lasern"
+  wiki:
+    - "sv:Laser"
+    - "en:Theodore Maiman"
+  text: |
+    Den 16 maj 1960 fick den amerikanske fysikern Theodore Maiman vid Hughes Research Laboratories en rubinkristall att sända ut en tunn röd stråle av ljus där alla vågor hade samma våglängd och svängde i takt. Det var den första lasern – ordet är en förkortning av engelskans *Light Amplification by Stimulated Emission of Radiation*, ljusförstärkning genom stimulerad emission.
+
+    Principen förutsades av [Einstein](#einstein-1905-och-1915) redan 1917: en atom i ett exciterat (energirikt) tillstånd kan, när en foton med rätt energi passerar, sända ut en identisk foton. Om fler atomer är exciterade än inte (”populationsinversion”) och ljuset studsar fram och tillbaka mellan två speglar, förstärks det lavinartat. Charles Townes hade 1954 byggt samma sak för mikrovågor, masern. Förklaringen av atomernas energinivåer kommer från [kvantmekaniken](#kvantmekaniken-192526).
+
+    Lasern kallades först ”en lösning som söker ett problem”. I dag finns den överallt: optiska fibrer som bär internettrafik, streckkodsläsare, CD- och DVD-spelare, ögonkirurgi, svetsning och skärning, och litografin som tillverkar mikrochip. Den extrema precisionen gjorde också mätningar möjliga som [detektorerna för gravitationsvågor](#gravitationsvagor-2015), som med laserljus mäter längdändringar mindre än en protons diameter.
+
+kvarkar-1964:
+  period: 1960
+  label: "kvarkar 1964"
+  title: "Kvarkar – protonens beståndsdelar"
+  wiki:
+    - "sv:Kvark"
+    - "en:Quark model"
+  text: |
+    Efter [Rutherfords upptäckt av atomkärnan](#rutherford-atomkarnan-1911) trodde man att protoner och neutroner var odelbara. Men på 1950-talet hittade acceleratorerna hundratals nya kortlivade partiklar, en ”partikelzoo” utan ordning. 1964 föreslog Murray Gell-Mann (Caltech) och oberoende George Zweig (vid CERN) att alla dessa var sammansatta av ett fåtal mindre byggstenar, som Gell-Mann kallade kvarkar.
+
+    Det märkliga var laddningen: kvarkar har en eller två tredjedels elementarladdning. En proton består av två upp-kvarkar (+2/3 vardera) och en ned-kvark (−1/3), summa +1; en neutron av en upp och två ned, summa 0. Med tre sorters kvarkar (upp, ned, sär) kunde partikelzoon ordnas i mönster, ungefär som grundämnena i periodiska systemet.
+
+    Många såg först kvarkar som räknetrick, eftersom ingen fri kvark någonsin setts. Men experiment vid Stanford (SLAC) 1968 sköt elektroner mot protoner och såg att de studsade mot punktformiga delar inuti. Teorin för kraften som binder kvarkarna (kvantkromodynamik) förklarar varför de aldrig kan slitas loss. I dag känner man sex kvarkar; den tyngsta, toppkvarken, hittades 1995. Kvarkarna är en hörnsten i standardmodellen, liksom [W- och Z-bosonerna](#w-och-z-bosonerna-1983) och [Higgsbosonen](#higgsbosonen-2012).
+
+bakgrundsstralningen-1965:
+  period: 1960
+  label: "bakgrundsstrålningen 1965"
+  title: "Ekot från Big Bang"
+  wiki:
+    - "en:Cosmic microwave background"
+    - "en:Discovery of cosmic microwave background radiation"
+  text: |
+    1965 försökte Arno Penzias och Robert Wilson vid Bell Labs i New Jersey bli av med ett envist brus i en stor hornantenn för mikrovågor. Bruset kom lika starkt från alla riktningar, dag som natt, och motsvarade strålning från något med temperaturen cirka 3 grader över absoluta nollpunkten. De rengjorde till och med antennen från duvspillning – bruset kvarstod.
+
+    En forskargrupp vid Princeton hade just förutsagt detta. Om universum expanderar, som [Hubble visat](#hubble-universum-expanderar), var det tidigare tätt och hett. Ungefär 380 000 år efter början svalnade det så att atomer bildades och ljuset kunde färdas fritt. Det ljuset finns kvar överallt, men expansionen har sträckt ut våglängden från synligt och infrarött ljus till mikrovågor. Uppmätt i dag är temperaturen 2,725 K.
+
+    Upptäckten avgjorde striden mot steady state-teorin (bland andra Fred Hoyles), som sa att universum alltid sett likadant ut. Satelliterna COBE (1989), WMAP och Planck kartlade senare små temperaturskillnader på någon hundratusendel – frön till galaxerna. Mätningarna är grunden för dagens kosmologi, inklusive slutsatsen om [mörk energi](#mork-energi-1998). Penzias och Wilson fick Nobelpriset 1978.
+
+w-och-z-bosonerna-1983:
+  period: 1980
+  label: "W- och Z-bosonerna 1983"
+  title: "W- och Z-bosonerna"
+  wiki:
+    - "en:W and Z bosons"
+    - "en:Electroweak interaction"
+  text: |
+    Den svaga kraften är den som orsakar radioaktivt betasönderfall, där en neutron blir en proton och sänder ut en elektron. På 1960-talet förenade Sheldon Glashow, Abdus Salam och Steven Weinberg den svaga kraften med elektromagnetismen i en gemensam teori, den elektrosvaga. Den förutsade att den svaga kraften förmedlas av tre tunga partiklar, W⁺, W⁻ och Z⁰, ungefär som ljusets fotoner förmedlar den elektromagnetiska kraften – men med massor nära 86 respektive 97 gånger protonens.
+
+    För att skapa så tunga partiklar krävs mycket energi (E = mc²). Vid CERN utanför Genève byggde man om en accelerator så att protoner och antiprotoner kolliderade frontalt. Nyckeln var Simon van der Meers metod ”stokastisk kylning” som samlade antiprotonerna i en tät stråle. 1983 hittade experimenten UA1 och UA2, med Carlo Rubbia i spetsen för UA1, först W och sedan Z, med de förutsagda massorna. Rubbia och van der Meer fick Nobelpriset 1984.
+
+    Upptäckten bekräftade standardmodellen, teorin om materiens minsta byggstenar (bl.a. [kvarkarna](#kvarkar-1964)) och krafterna mellan dem. Den förstärkte också Europas ställning i partikelfysiken, som tidigare dominerats av USA. Men teorin krävde ytterligare en partikel för att förklara varför W och Z har massa – sökandet efter den slutade med [Higgsbosonen](#higgsbosonen-2012).
+
+hubbleteleskopet-1990-2:
+  period: 1980
+  label: "Hubbleteleskopet 1990"
+  same_as: hubbleteleskopet-1990
+
+mork-energi-1998:
+  period: 1980
+  label: "mörk energi 1998"
+  title: "Mörk energi – universums accelererande expansion"
+  wiki:
+    - "sv:Mörk energi"
+    - "en:Accelerating expansion of the universe"
+  text: |
+    Sedan [Hubble](#hubble-universum-expanderar) visste man att universum expanderar, och man väntade sig att gravitationen bromsade expansionen. Två grupper – Supernova Cosmology Project under Saul Perlmutter och High-Z Supernova Search Team under Brian Schmidt och Adam Riess – försökte mäta inbromsningen. De använde supernovor av typ Ia: exploderande vita dvärgstjärnor som lyser nästan lika starkt varje gång, så att deras skenbara ljusstyrka anger avståndet.
+
+    1998 kom båda till samma oväntade resultat: avlägsna supernovor var svagare än väntat, alltså längre bort. Expansionen har inte bromsats under de senaste ungefär fem miljarderna åren utan accelererat. Något fungerar som en frånstötande kraft på stor skala. Det fick namnet mörk energi – ett namn på det okända snarare än en förklaring.
+
+    Den enklaste modellen är Einsteins kosmologiska konstant, en energi som varje kubikmeter tomrum har. Tillsammans med [bakgrundsstrålningen](#bakgrundsstralningen-1965) ger mätningarna att mörk energi utgör omkring 70 % av universums energiinnehåll, mörk materia omkring 25 % och vanlig materia bara cirka 5 %. Varför mörk energin har det värde den har är en av fysikens största olösta frågor; en naiv uppskattning från kvantfysiken blir fel med en faktor i storleksordningen 10¹²⁰. Perlmutter, Schmidt och Riess fick Nobelpriset 2011.
+
+higgsbosonen-2012:
+  period: 2000
+  label: "Higgsbosonen 2012"
+  title: "Higgsbosonen hittas"
+  wiki:
+    - "sv:Higgsboson"
+    - "en:Higgs boson"
+  text: |
+    Standardmodellen, partikelfysikens teori om materiens byggstenar och krafterna mellan dem, hade ett problem: dess ekvationer fungerar bara om partiklarna saknar massa – men elektroner, kvarkar och [W- och Z-bosonerna](#w-och-z-bosonerna-1983) har massa. 1964 föreslog flera grupper, bland dem britten Peter Higgs och belgarna François Englert och Robert Brout, en lösning: hela rymden genomsyras av ett fält, Higgsfältet. Partiklar som växelverkar med det får därmed massa, ju starkare koppling desto tyngre. Fältet borde också visa sig som en partikel, Higgsbosonen.
+
+    Bosonen var svår att hitta eftersom dess massa var okänd och den sönderfaller nästan direkt. CERN byggde Large Hadron Collider (LHC), en 27 km lång ring under gränsen mellan Schweiz och Frankrike där protoner kolliderar med mycket hög energi. Den 4 juli 2012 meddelade experimenten ATLAS och CMS att de sett en ny partikel med massan omkring 125 GeV (ungefär 133 protonmassor). Analysen krävde enorma datamängder och ett globalt datornätverk.
+
+    Higgs och Englert fick Nobelpriset 2013 (Brout hade dött 2011). Upptäckten fullbordade standardmodellen, som inleddes med bl.a. [kvarkarna](#kvarkar-1964). Men den förklarar inte mörk materia, [mörk energi](#mork-energi-1998) eller gravitationen, och LHC har hittills inte sett några nya partiklar bortom modellen.
+
+gravitationsvagor-2015:
+  period: 2000
+  label: "gravitationsvågor 2015"
+  title: "Gravitationsvågor upptäcks"
+  wiki:
+    - "sv:Gravitationsvåg"
+    - "en:First observation of gravitational waves"
+    - "en:LIGO"
+  text: |
+    [Einsteins allmänna relativitetsteori](#einstein-1905-och-1915) (1915) beskriver gravitation som krökning av rumtiden. 1916 förutsade han att accelererande massor sänder ut krusningar i rumtiden som färdas med ljusets hastighet: gravitationsvågor. Han trodde själv att de var för svaga för att någonsin mätas.
+
+    Den 14 september 2015 registrerade de två LIGO-detektorerna i USA (Louisiana och delstaten Washington) en signal som varade ungefär en femtedels sekund. Den kom från två svarta hål, omkring 29 och 36 solmassor, som spiralerat in mot varandra och smält samman ungefär 1,3 miljarder år tidigare. Energi motsvarande cirka tre solmassor strålade ut som gravitationsvågor. Detektorerna är L-formade interferometrar med [laser](#lasern-1960) och 4 km långa armar: en våg förlänger ena armen och förkortar den andra med ungefär en tusendel av en protons diameter, vilket syns som ändrad interferens i laserljuset.
+
+    Rainer Weiss, Kip Thorne och Barry Barish fick Nobelpriset 2017. Det var den första direkta observationen av svarta hål som slås ihop och öppnade ett nytt sätt att observera universum, utöver ljus. 2017 sågs två neutronstjärnor kollidera i både gravitationsvågor och vanliga teleskop; det visade bl.a. att guld och andra tunga grundämnen bildas vid sådana kollisioner. I dag registreras hundratals händelser med LIGO och detektorerna Virgo i Italien och KAGRA i Japan.
+
+james-webb-teleskopet:
+  period: 2020
+  label: "James Webb-teleskopet"
+  title: "James Webb-teleskopet"
+  wiki:
+    - "sv:James Webb-teleskopet"
+    - "en:James Webb Space Telescope"
+  text: |
+    James Webb Space Telescope (JWST) är ett rymdteleskop byggt av amerikanska NASA tillsammans med europeiska ESA och kanadensiska CSA. Det sköts upp på juldagen 2021 med en europeisk Ariane 5-raket och tog sina första publicerade bilder i juli 2022. Kostnaden blev ungefär 10 miljarder dollar, långt över ursprungliga planer. Namnet kommer från James Webb, som ledde NASA under 1960-talets Apolloprogram.
+
+    Huvudspegeln är 6,5 meter i diameter, byggd av 18 sexkantiga guldbelagda segment som vecklades ut i rymden – jämfört med 2,4 meter för [Hubbleteleskopet](#hubbleteleskopet-1990). Webb ser främst infrarött ljus, alltså värmestrålning med längre våglängd än synligt ljus. Det behövs för att se de första galaxerna: ljus från dem har på vägen sträckts ut av universums expansion till infrarött. För att inte störas av egen värme kyls instrumenten till omkring −230 °C bakom en solskärm stor som en tennisbana, och teleskopet befinner sig 1,5 miljoner km från jorden, i en punkt (L2) där det alltid har jorden och solen på samma sida.
+
+    Webb har sett galaxer som fanns några hundra miljoner år efter Big Bang, fler och ljusstarkare än många modeller förutsagt. Det analyserar också atmosfärer hos planeter kring andra stjärnor genom att se vilka våglängder som absorberas när planeten passerar framför sin stjärna. Det kompletterar mätningar av [bakgrundsstrålningen](#bakgrundsstralningen-1965) när man rekonstruerar universums tidiga historia.
+
+kvantdatorer:
+  period: 2020
+  label: "kvantdatorer"
+  title: "Kvantdatorer"
+  wiki:
+    - "sv:Kvantdator"
+    - "en:Quantum computing"
+    - "en:Shor's algorithm"
+  text: |
+    En vanlig dator räknar med bitar som är 0 eller 1. En kvantdator använder kvantbitar (qubits), fysiska system som följer [kvantmekaniken](#kvantmekaniken-192526): en qubit kan vara i en superposition, en kombination av 0 och 1 med komplexa vikter, och flera qubits kan vara sammanflätade så att deras tillstånd bara kan beskrivas tillsammans. n qubits beskrivs av 2ⁿ sådana vikter. En algoritm manipulerar vikterna så att fel svar tar ut varandra och rätt svar förstärks när man till sist mäter.
+
+    Idén kom från fysikern Richard Feynman 1981–82: kvantsystem är för svåra att simulera på vanliga datorer, så bygg datorer av kvantsystem. 1994 visade Peter Shor att en kvantdator kan faktorisera stora tal snabbt, vilket skulle knäcka [RSA](#rsa-1977). Det gjorde området strategiskt. Men qubits är extremt känsliga: värme och vibrationer förstör superpositionen på bråkdelar av en sekund, så de flesta byggs av supraledande kretsar kylda nära absoluta nollpunkten, eller av fångade joner eller atomer.
+
+    2019 hävdade Google ”kvantöverlägsenhet”: en uppgift utan praktisk nytta löst snabbare än med klassiska superdatorer. Under 2020-talet har maskiner med hundratals till över tusen qubits byggts, och felkorrigering, där många fysiska qubits tillsammans bildar en pålitlig logisk qubit, har börjat fungera i experiment. Att knäcka RSA kräver uppskattningsvis hundratusentals till miljontals fysiska qubits, så nyttiga kvantdatorer ligger troligen år bort. Förväntad första nytta är simulering av molekyler och material.

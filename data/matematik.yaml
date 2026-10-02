@@ -1,0 +1,1166 @@
+# Matematik
+# Varje nod: period (första året i 20-årsperioden), label (texten i tabellen),
+# title, wiki (språk:Artikel), text (Markdown; [text](#id) länkar till en annan nod).
+# same_as: id betyder att noden visar samma artikel som en annan nod.
+
+al-karaji-algebra-med-polynom:
+  period: 1000
+  label: "al-Karaji: algebra med polynom"
+  title: "al-Karaji räknar med polynom"
+  wiki:
+    - "en:Al-Karaji"
+    - "en:Polynomial"
+  text: |
+    **al-Karaji** (ca 953–1029) var en persisk matematiker i Bagdad. Han byggde vidare på al-Khwarizmi, som omkring 820 skrivit den första algebraboken (se [al-Khwarizmis algebra](#al-khwarizmis-algebra-pa-latin-1145)), men där al-Khwarizmi tänkte geometriskt – kvadrater och rektanglar – behandlade al-Karaji algebran som ren aritmetik.
+
+    Ett **polynom** är ett uttryck som 3*x*³ + 2*x* − 5: en summa av potenser av en obekant med talkoefficienter. al-Karaji visade hur man adderar, subtraherar och multiplicerar sådana uttryck ungefär som man räknar med flersiffriga tal, och han införde systematiskt potenserna *x*, *x*², *x*³, … och deras inverser 1/*x*, 1/*x*², med regeln att exponenterna adderas vid multiplikation. Allt uttrycktes i ord, inte symboler.
+
+    Han gav också en tidig form av **induktionsbevis** – visa att en formel gäller för 1 och att den förs vidare från *n* till *n*+1 – bland annat för summan av kuber, och han kände tabellen över binomialkoefficienter, samma som [Jia Xians triangel](#jia-xian-binomialtriangeln-pascals) i Kina. Hans efterföljare, som al-Samaw'al, utvecklade polynomdivision. Idén att ett uttryck kan behandlas som ett objekt man räknar med är grunden för den symboliska algebra som Europa fick först med [Viète](#viete-bokstaver-for-tal) kring 1590.
+
+gerbert-abakus-i-europa:
+  period: 1000
+  label: "Gerbert: abakus i Europa"
+  title: "Gerbert och kolumnabakusen"
+  wiki:
+    - "en:Pope Sylvester II"
+    - "en:Abacus"
+  text: |
+    **Gerbert av Aurillac** (ca 946–1003) var en fransk munk och lärare som blev påve år 999 under namnet Sylvester II. Som ung studerade han i Katalonien, nära det muslimska Spanien (al-Andalus), där han kom i kontakt med arabisk matematik och astronomi.
+
+    Hans viktigaste bidrag var en **abakus** – en räknetavla – med kolumner för ental, tiotal, hundratal osv. I kolumnerna lade man markörer märkta med de hindu-arabiska siffrorna 1–9 i stället för högar av stenar. Talet 304 blev en markör ”3” i hundratalskolumnen, en tom tiotalskolumn och en ”4” i entalskolumnen. Det var alltså positionssystem, men nollan var en tom ruta, inte en siffra.
+
+    Jämfört med romerska siffror, där multiplikation av till exempel CCCIV med XXVII är mycket krånglig, blev räkningen långt enklare. Men metoden förblev en angelägenhet för ett fåtal lärda vid kloster- och katedralskolor. Det verkliga genombrottet för arabiska siffror med nolla, och skriftlig räkning med penna i stället för räknetavla, kom först med [Fibonaccis Liber Abaci 1202](#fibonacci-liber-abaci-1202-arabiska), och därefter tog det flera hundra år innan de slog igenom i handeln.
+
+al-biruni-sfarisk-trigonometri:
+  period: 1020
+  label: "al-Biruni: sfärisk trigonometri"
+  title: "Trigonometri på en sfär"
+  wiki:
+    - "en:Spherical trigonometry"
+    - "en:Al-Biruni"
+  text: |
+    Astronomer beskriver stjärnors och planeters lägen som vinklar på en tänkt himmelssfär. Avstånd mellan städer på jorden är också bågar på en sfär. Men på en sfär gäller inte vanlig plan geometri: en ”rak linje” är en storcirkelbåge (som ekvatorn), och vinkelsumman i en triangel är alltid större än 180°.
+
+    **Sfärisk trigonometri** är reglerna för sådana trianglar. Den centrala satsen, sinussatsen för sfäriska trianglar, säger att för en triangel med sidorna *a*, *b*, *c* (mätta som vinklar från klotets centrum) och motstående vinklar *A*, *B*, *C* gäller sin *a*/sin *A* = sin *b*/sin *B* = sin *c*/sin *C*. Den formulerades kring år 1000 av flera matematiker i den persiska världen, och [al-Biruni](#al-biruni-mater-jordens-radie) sammanställde och använde den i flera skrifter.
+
+    Ett praktiskt problem var **qibla**: riktningen mot Mecka, som moskéer ska vara orienterade efter och som muslimer vänder sig mot i bön. al-Biruni beräknade den från longitud och latitud, samt bönetider ur solens läge. [Nasir al-Din al-Tusi](#al-tusi) gjorde på 1200-talet trigonometri till en egen disciplin, oberoende av astronomin, och [Regiomontanus](#regiomontanus-observerar-planeterna) förde den till Europa på 1400-talet. Samma matematik används i dag för navigation, flygrutter och GPS.
+
+ibn-al-haytham-summor-av-potenser:
+  period: 1020
+  label: "Ibn al-Haytham: summor av potenser"
+  title: "Ibn al-Haytham summerar potenser"
+  wiki:
+    - "en:Ibn al-Haytham"
+    - "en:Faulhaber's formula"
+  text: |
+    [Ibn al-Haytham](#ibn-al-haytham-experimentell-optik) (ca 965–1040), mest känd för sin optik, löste också ett matematiskt problem: att räkna ut summan av fjärdepotenser, 1⁴ + 2⁴ + … + *n*⁴. Hans resultat motsvarar formeln *n*⁵/5 + *n*⁴/2 + *n*³/3 − *n*/30. Summorna av tal, kvadrater och kuber var kända sedan tidigare; hans metod gick att generalisera till högre potenser och liknar ett induktionsbevis.
+
+    Varför ville han veta det? Han ville beräkna volymen av en kropp som uppstår när en parabel roteras kring en linje. Han delade kroppen i tunna skivor, uttryckte varje skivas volym som en potens och lät summan av alla skivor approximera volymen. När antalet skivor växer domineras summan av den högsta termen, *n*⁵/5 – samma sak som säger att integralen av *x*⁴ är *x*⁵/5.
+
+    Det är alltså i praktiken en integralberäkning, cirka 650 år före [Newton](#newton-fluxioner-1665) och [Leibniz](#leibniz-kalkyl-1675). Det som saknades var en allmän teori och en notation; varje kropp krävde sitt eget knep. Liknande summeringstekniker utvecklades oberoende senare i Indien av [Keralaskolan](#madhava-oandliga-serier-for-och-sinus) och i Europa av Fermat och andra på 1600-talet.
+
+jia-xian-binomialtriangeln-pascals:
+  period: 1040
+  label: "Jia Xian: binomialtriangeln (Pascals triangel) ~1050"
+  title: "Jia Xians binomialtriangel"
+  wiki:
+    - "en:Pascal's triangle"
+    - "en:Jia Xian"
+  text: |
+    **Jia Xian** (verksam ca 1050) var en kinesisk matematiker under Songdynastin. Hans bok är förlorad, men hans triangel finns bevarad genom [Yang Hui 1261](#yang-hui-binomialtriangeln-1261), som citerade den.
+
+    Triangeln byggs upp rad för rad: varje tal är summan av de två talen snett ovanför. Raderna blir 1; 1 1; 1 2 1; 1 3 3 1; 1 4 6 4 1 … Rad *n* ger koefficienterna när man utvecklar (*a*+*b*)*n*; till exempel är (*a*+*b*)³ = *a*³ + 3*a*²*b* + 3*ab*² + *b*³. Talen anger också hur många sätt man kan välja *k* saker bland *n*, vilket gör dem centrala i kombinatorik och sannolikhetslära.
+
+    Jia Xian använde triangeln för att dra kvadrat-, kub- och högre rötter ur tal siffra för siffra, en metod som kinesiska matematiker sedan utvidgade till att lösa polynomekvationer numeriskt (se [Zhu Shijie](#zhu-shijie-jadespegeln-1303)). Ungefär samtidigt kände [al-Karaji](#al-karaji-algebra-med-polynom) i Bagdad samma tabell, och den förekommer i Indien och Persien. I Europa fick den namnet Pascals triangel efter Blaise Pascals avhandling från 1654, skriven i samband med [hans och Fermats sannolikhetslära](#pascal-och-fermat-sannolikhetslara-1654) – sex sekler efter Jia Xian.
+
+omar-khayyam-tredjegradsekvationer-loses:
+  period: 1060
+  label: "Omar Khayyam: tredjegradsekvationer löses geometriskt"
+  title: "Omar Khayyam och tredjegradsekvationen"
+  wiki:
+    - "en:Omar Khayyam"
+    - "en:Cubic equation"
+  text: |
+    **Omar Khayyam** (1048–1131) var en persisk matematiker och astronom, i Västerlandet mest känd som poet (*Rubaiyat*). Han ledde också arbetet med en ny persisk solkalender, ofta beskriven som mer exakt än den gregorianska.
+
+    Omkring 1070 skrev han en bok om **tredjegradsekvationer**, ekvationer där den obekanta förekommer i kubik, som *x*³ + *a*²*x* = *a*²*b*. Eftersom negativa tal ännu inte godtogs måste varje kombination av termer på ena eller andra sidan behandlas för sig; han delade in dem i 14 typer. Varje typ löste han genom att skära två kägelsnitt – parabler, cirklar eller hyperbler. För exemplet ovan ritar man parabeln *x*² = *ay* och cirkeln med diametern *b* längs *x*-axeln; där de skär varandra är *x*-koordinaten lösningen.
+
+    Han beklagade själv att han inte hittat en ren räkneformel, som för andragradsekvationen, och hoppades att efterkommande skulle lyckas. Det dröjde över 400 år: [del Ferro](#del-ferro-loser-tredjegradsekvationen) hittade en formel i Bologna och [Cardano publicerade den 1545](#cardano-ars-magna-1545). Khayyams idé att para ihop algebra och kurvor föregrep också [Descartes analytiska geometri](#descartes-analytisk-geometri-1637), där kurvor beskrivs med ekvationer.
+
+omar-khayyam-om-parallellaxiomet:
+  period: 1080
+  label: "Omar Khayyam om parallellaxiomet"
+  title: "Omar Khayyam och parallellaxiomet"
+  wiki:
+    - "en:Parallel postulate"
+    - "en:Omar Khayyam"
+  text: |
+    Grekern Euklides byggde omkring 300 f.Kr. upp hela geometrin från fem grundantaganden, **axiom**. Det femte, **parallellaxiomet**, kan formuleras så här: genom en punkt utanför en linje går exakt en linje som aldrig skär den. Det kändes mindre självklart än de andra, och matematiker försökte i 2 000 år bevisa det ur de fyra första.
+
+    [Omar Khayyam](#omar-khayyam-tredjegradsekvationer-loses) (1048–1131) tog sig an problemet i en kommentar till Euklides 1077. Han studerade en fyrhörning med två lika långa sidor vinkelräta mot basen och frågade vilka de två övre vinklarna kan vara: räta, trubbiga eller spetsiga. Han visade att om de är räta följer parallellaxiomet, och försökte utesluta de andra fallen. Hans bevis hade, som alla sådana försök, ett dolt antagande som är likvärdigt med det han ville bevisa.
+
+    Men hans tre fall motsvarar precis de tre geometrierna vi känner i dag: den euklidiska (räta vinklar), den sfäriska (trubbiga) och den hyperboliska (spetsiga). [Nasir al-Din al-Tusi](#al-tusi) fortsatte arbetet, och italienaren Saccheri gjorde 1733 samma konstruktion. Först på 1820-talet förstod man att de alternativa fallen ger fullt konsistenta geometrier – [icke-euklidisk geometri](#icke-euklidisk-geometri) – som senare blev grunden för Einsteins beskrivning av krökt rumtid.
+
+abraham-bar-hiyya-for-arabisk-geometri:
+  period: 1100
+  label: "Abraham bar Hiyya för arabisk geometri till Europa"
+  title: "Abraham bar Hiyya"
+  wiki:
+    - "en:Abraham bar Hiyya"
+  text: |
+    **Abraham bar Hiyya** (ca 1070–ca 1136), även kallad Savasorda, var en judisk matematiker, astronom och filosof i Barcelona. Han var bland de första som skrev vetenskap på hebreiska, i stället för arabiska som var de spanska judarnas lärdomsspråk, och han samarbetade med kristna översättare.
+
+    Hans viktigaste verk var en handbok i praktisk geometri, som översattes till latin 1145 av Platon av Tivoli under titeln *Liber embadorum* (”Boken om ytor”). Den lärde ut hur man mäter och delar upp åkrar och tomter, beräknar areor av trianglar, cirklar och andra figurer, och använder algebra för att lösa sådana problem. Den räknas som den första latinska text som gav den fullständiga lösningen av andragradsekvationen, till exempel *x*² − *ax* + *b* = 0, med de metoder som utvecklats i den arabiska världen.
+
+    Boken var praktiskt inriktad och kom ut samma år som [al-Khwarizmis algebra](#al-khwarizmis-algebra-pa-latin-1145) översattes. [Fibonacci](#fibonacci-liber-abaci-1202-arabiska) använde den när han skrev sin geometribok *Practica geometriae* 1220. Abraham bar Hiyya är ett exempel på judiska lärdes roll som brobyggare mellan arabisk och latinsk kultur i Spanien, som även syns i [översättarskolan i Toledo](#oversattarskolan-i-toledo).
+
+adelard-oversatter-al-khwarizmis:
+  period: 1120
+  label: "Adelard översätter al-Khwarizmis tabeller 1126"
+  title: "al-Khwarizmis tabeller på latin"
+  wiki:
+    - "en:Al-Khwarizmi"
+    - "en:Zij al-Sindhind"
+  text: |
+    **al-Khwarizmi** (ca 780–ca 850) var en persisk matematiker och astronom i Bagdad, verksam vid kalifens lärdomscentrum ”Visdomens hus”. Han skrev den första algebraboken och en bok om räkning med de indiska siffrorna; ordet *algoritm* kommer från en latinisering av hans namn. Han skrev också en **zij**, en samling astronomiska tabeller med regler för att beräkna himlakropparnas lägen.
+
+    År 1126 översatte [Adelard av Bath](#adelard-av-bath-fornuft-fore-auktoritet) en version av denna zij till latin. Det var en bearbetning gjord i Córdoba omkring år 1000. Tabellerna innehöll också sinustabeller, och med dem kom trigonometri med sinusfunktionen – en indisk uppfinning – till Europa; grekerna hade räknat med kordor (sträckan mellan två punkter på en cirkel) i stället.
+
+    Översättningen var en av de första som gav latinska lärda en fullständig matematisk astronomi med räkneregler, och med den följde kunskap om positionssystemet och de arabiska siffrorna. Kort därefter kom även [al-Khwarizmis algebra](#al-khwarizmis-algebra-pa-latin-1145), och med [Fibonacci](#fibonacci-liber-abaci-1202-arabiska) spreds siffrorna till handeln. Al-Khwarizmis namn lever kvar i varje programmerares vokabulär genom ordet algoritm.
+
+al-khwarizmis-algebra-pa-latin-1145:
+  period: 1140
+  label: "al-Khwarizmis algebra på latin 1145"
+  title: "Algebran kommer till Europa"
+  wiki:
+    - "en:Al-Jabr"
+    - "en:Al-Khwarizmi"
+  text: |
+    **al-Khwarizmi** (ca 780–ca 850), verksam i Bagdad, skrev omkring 820 *al-Kitab al-mukhtasar fi hisab al-jabr wa'l-muqabala*, ungefär ”Kortfattad bok om räkning genom återställande och utjämning”. Ordet *al-jabr* (återställande) gav namnet **algebra**. Det betyder att flytta en negativ term till andra sidan: *x*² = 40*x* − 4*x*² blir 5*x*² = 40*x*. *al-muqabala* (utjämning) betyder att stryka lika termer på båda sidor.
+
+    Boken visade hur man systematiskt löser första- och andragradsekvationer. Eftersom negativa tal och noll inte godtogs som koefficienter delades andragradsekvationerna in i sex typer, till exempel ”kvadrater och rötter lika med tal” (*x*² + 10*x* = 39). Varje lösning gavs som en räkneregel och bevisades med en geometrisk figur där man ”kompletterar kvadraten”. Allt skrevs i ord, utan symboler. Andra halvan av boken tillämpade metoderna på arvsskiften och handel.
+
+    År 1145 översatte engelsmannen Robert av Chester boken till latin i Segovia, och Gerhard av Cremona gjorde en ny version i [Toledo](#oversattarskolan-i-toledo). Därmed fick Europa algebran som disciplin. Den vidareutvecklades av [Fibonacci](#fibonacci-liber-abaci-1202-arabiska), och när [Viète](#viete-bokstaver-for-tal) på 1590-talet började beteckna obekanta och koefficienter med bokstäver tog den formen vi känner i dag.
+
+bhaskara-ii-lilavati-1150:
+  period: 1140
+  label: "Bhaskara II: Lilavati 1150"
+  title: "Bhaskara II och Lilavati"
+  wiki:
+    - "en:Bhāskara II"
+    - "en:Lilavati"
+  text: |
+    **Bhaskara II** (1114–1185) var en indisk matematiker och astronom, föreståndare för observatoriet i Ujjain i centrala Indien, som länge varit ett centrum för indisk astronomi. Han skrev 1150 det stora verket *Siddhanta Shiromani*; **Lilavati**, en lärobok i aritmetik och geometri, räknas ofta som dess första del.
+
+    Boken är skriven på vers, som det var brukligt i sanskrittexter, och många uppgifter är formulerade som gåtor riktade till en ung flicka, ”Lilavati” – enligt en senare legend hans dotter. Den lär ut räkning i det decimala positionssystemet med nolla (en indisk uppfinning), räkning med bråk, räntor, kombinatorik (antal sätt att välja och ordna saker), areor och volymer, och Pythagoras sats. På andra ställen diskuterade han division med noll och beskrev resultatet som en oändlig storhet.
+
+    Lilavati användes som lärobok i Indien i flera hundra år och översattes till persiska 1587 på uppdrag av mogulkejsaren Akbar. Den visar hur långt indisk matematik hade kommit i en tid då Europa först började ta till sig de arabiska siffrorna, som själva härstammar från Indien. Bhaskaras algebradel innehåller hans lösning av [Pells ekvation](#bhaskara-ii-pells-ekvation-cykliska), och traditionen fortsatte i södra Indien med [Keralaskolans oändliga serier](#madhava-oandliga-serier-for-och-sinus).
+
+bhaskara-ii-pells-ekvation-cykliska:
+  period: 1160
+  label: "Bhaskara II: Pells ekvation (cykliska metoden)"
+  title: "Bhaskara II löser Pells ekvation"
+  wiki:
+    - "en:Chakravala method"
+    - "en:Pell's equation"
+    - "en:Bhāskara II"
+  text: |
+    **Bhaskara II** (1114–ca 1185) var en indisk matematiker och astronom som ledde observatoriet i Ujjain. Han är känd för läroboken [Lilavati](#bhaskara-ii-lilavati-1150) och för att ha gett en fullständig metod för en klassisk talteoretisk uppgift: att hitta heltal x och y som uppfyller *x² − N·y² = 1*, där N är ett givet heltal som inte är en kvadrat. I Europa kallas den i dag Pells ekvation, efter ett missförstånd av Euler – engelsmannen John Pell hade inget med den att göra.
+
+    Lösningarna kan vara enorma. För N = 61, ett exempel Bhaskara själv räknade, är den minsta lösningen x = 1 766 319 049 och y = 226 153 980. Att gissa sig fram är alltså hopplöst. Den **cykliska metoden** (sanskrit *chakravala*) är en algoritm: man börjar med en nästan-lösning a² − N·b² = k, kombinerar den med en hjälpekvation enligt en regel som Brahmagupta beskrivit redan på 600-talet, och väljer parametrar så att k krymper. Efter ett ändligt antal steg i en cykel når man k = 1.
+
+    Lösningarna ger också mycket bra bråkapproximationer av √N, eftersom x/y ligger nära √N. I Europa ställde [Fermat](#fermat) just N = 61 som utmaning 1657, och först [Lagrange](#lagrange) bevisade 1768 att en lösning alltid finns – med kedjebråk, en metod nära besläktad med den indiska.
+
+fibonacci-lar-sig-arabiska-siffror-i:
+  period: 1180
+  label: "Fibonacci lär sig arabiska siffror i Nordafrika"
+  title: "Fibonacci möter positionssystemet"
+  wiki:
+    - "en:Fibonacci"
+    - "en:Hindu–Arabic numeral system"
+  text: |
+    **Leonardo av Pisa** (ca 1170–ca 1250), senare kallad Fibonacci, var son till en handelsman från Pisa, då en av Italiens stora handelsstäder. Fadern arbetade som tull- och handelsrepresentant i Bugia (dagens Béjaïa i Algeriet), och där fick sonen lära sig räkna av arabiska lärare. Han reste sedan i Egypten, Syrien, Grekland och på Sicilien och studerade de räknemetoder han mötte.
+
+    Det han lärde sig var det **indisk-arabiska talsystemet**: tio siffror, 0–9, där en siffras värde beror på dess position. I 307 betyder 3 tre hundratal och nollan markerar en tom plats. Europa använde romerska siffror (CCCVII), där själva räknandet sköttes på räknebräde eller [abakus](#gerbert-abakus-i-europa) och siffrorna bara användes för att skriva ner resultatet. Med positionssystemet kan man i stället räkna direkt på papper med fasta algoritmer för multiplikation och division – samma metoder som lärs ut i skolan i dag.
+
+    Systemet hade utvecklats i Indien under första årtusendet; nollan som egen siffra finns belagd senast på 600-talet. Den persiske matematikern al-Khwarizmi i Bagdad beskrev det omkring 825, och hans verk hade redan börjat [översättas till latin](#adelard-oversatter-al-khwarizmis). Men det var Fibonaccis lärobok [Liber Abaci 1202](#fibonacci-liber-abaci-1202-arabiska) som gjorde det praktiskt användbart för europeiska köpmän.
+
+fibonacci-liber-abaci-1202-arabiska:
+  period: 1200
+  label: "Fibonacci: Liber Abaci 1202, arabiska siffror"
+  title: "Liber Abaci – räkneboken som bytte siffror"
+  wiki:
+    - "en:Liber Abaci"
+    - "en:Fibonacci sequence"
+  text: |
+    *Liber Abaci* (”Boken om räknandet”) gavs ut 1202 av Leonardo av Pisa, Fibonacci, som [lärt sig indisk-arabiska siffror i Nordafrika](#fibonacci-lar-sig-arabiska-siffror-i). Boken förklarar hur man skriver tal med siffrorna 0–9 i positionssystem och räknar med dem: de fyra räknesätten, bråk, kvadratrötter och ekvationslösning efter al-Khwarizmis algebra. Den är full av praktiska köpmannaproblem: valutaväxling, vikter och mått, vinstdelning mellan kompanjoner och ränta.
+
+    Ett av övningsproblemen gjorde Fibonacci odödlig: hur många kaninpar finns efter ett år om varje par från andra månaden föder ett nytt par varje månad? Svaret ges av talföljden 1, 1, 2, 3, 5, 8, 13 … där varje tal är summan av de två föregående: F(n) = F(n−1) + F(n−2). Kvoten mellan två på varandra följande tal närmar sig gyllene snittet, ungefär 1,618. Indiska matematiker kände följden tidigare genom versmått.
+
+    Spridningen gick långsamt. Italienska ”abakusskolor” lärde ut den nya räknekonsten till köpmän, men misstron var stor; Florens bankirgille ska 1299 ha förbjudit siffrorna i officiella räkenskaper eftersom de var lätta att förfalska. Det romerska systemet försvann i praktiken först under 1500-talet, med boktryckarkonsten och senare [Stevins decimalbråk](#stevin-decimalbrak-1585).
+
+fibonacci-liber-quadratorum-1225:
+  period: 1220
+  label: "Fibonacci: Liber quadratorum 1225"
+  title: "Liber quadratorum – Fibonacci som talteoretiker"
+  wiki:
+    - "en:Fibonacci"
+    - "en:Congruent number"
+  text: |
+    År 1225 besökte kejsar [Fredrik II](#fredrik-ii-studier-av-faglar), en ovanligt vetenskapsintresserad härskare, staden Pisa. Hans hovmatematiker Johannes av Palermo utmanade Fibonacci med problem, och Fibonacci svarade med flera skrifter, bland dem *Liber quadratorum* (”Boken om kvadrater”), tillägnad kejsaren.
+
+    Boken handlar om **diofantiska ekvationer**: ekvationer där man söker heltals- eller bråklösningar, namngivna efter den grekiske matematikern Diofantos (200-talet). Ett av hovets problem var att hitta ett rationellt tal x så att både x² + 5 och x² − 5 är kvadrater av rationella tal. Fibonacci fann x = 41/12: då blir x² + 5 = (49/12)² och x² − 5 = (31/12)². Han visade också hur man systematiskt konstruerar sådana lösningar och bevisade satser som att summan av de n första udda talen är n².
+
+    Problemet hör till frågan om så kallade **kongruenta tal** – tal som kan vara arean av en rätvinklig triangel med rationella sidor. Den frågan är fortfarande inte helt löst; den hänger i dag ihop med elliptiska kurvor, samma teori som användes när [Wiles bevisade Fermats stora sats](#wiles-bevisar-fermats-stora-sats-1994). Fibonaccis bok räknas som det främsta talteoretiska arbetet i Europa mellan Diofantos och [Fermat](#fermat) på 1600-talet.
+
+qin-jiushu-kinesiska-restsatsen-1247:
+  period: 1240
+  label: "Qin Jiushu: kinesiska restsatsen 1247"
+  title: "Qin Jiushu och kinesiska restsatsen"
+  wiki:
+    - "en:Qin Jiushao"
+    - "en:Chinese remainder theorem"
+  text: |
+    **Qin Jiushu** (ca 1202–1261) var en kinesisk ämbetsman och matematiker under södra Songdynastin. År 1247 gav han ut *Shushu Jiuzhang* (”Matematisk avhandling i nio avdelningar”) med 81 problem om bland annat kalenderberäkning, skatter, byggnader och militär logistik.
+
+    Mest berömd är hans allmänna metod för det som i dag heter **kinesiska restsatsen**. Problemet: finn ett heltal x som ger givna rester vid division med flera tal. Det klassiska exemplet från Sunzi (ca 400-talet): ett tal ger rest 2 vid division med 3, rest 3 vid division med 5 och rest 2 vid division med 7 – vilket är det? Svaret är 23 (plus multiplar av 105). Satsen säger att om divisorerna är parvis relativt prima (saknar gemensamma faktorer) finns alltid en entydig lösning modulo deras produkt. Qins metod, ”den stora expansionen”, löste det allmänna fallet med en algoritm som i grunden är Euklides algoritm baklänges – samma uträkning som i dag kallas utökade Euklides algoritm. Han hanterade också fallet där divisorerna inte är relativt prima.
+
+    Användningen var kalendrar: att hitta en tidpunkt då flera astronomiska cykler sammanfaller. I Europa återupptäcktes satsen av [Gauss 1801](#gauss-disquisitiones-1801). I dag används den i datorer för snabb aritmetik med stora tal, till exempel för att snabba upp dekryptering i [RSA](#rsa-1977).
+
+yang-hui-binomialtriangeln-1261:
+  period: 1260
+  label: "Yang Hui: binomialtriangeln 1261"
+  title: "Yang Hui och binomialtriangeln"
+  wiki:
+    - "en:Yang Hui"
+    - "en:Pascal's triangle"
+  text: |
+    **Yang Hui** (ca 1238–1298) var en kinesisk matematiker under södra Songdynastin. I ett verk från 1261 avbildade han en taltriangel och tillskrev den matematikern [Jia Xian](#jia-xian-binomialtriangeln-pascals), som verkat omkring 1050. I Kina kallas den Yang Huis triangel; i Europa Pascals triangel, efter Blaise Pascal som skrev om den 1654.
+
+    Triangeln byggs så: varje rad börjar och slutar med 1, och varje inre tal är summan av de två talen snett ovanför. Raderna blir 1; 1 1; 1 2 1; 1 3 3 1; 1 4 6 4 1 … Rad n ger koefficienterna när man utvecklar (a + b)ⁿ; till exempel är (a + b)³ = a³ + 3a²b + 3ab² + b³. Talen anger också hur många sätt man kan välja k saker av n på, vilket gör triangeln central i kombinatorik och sannolikhetslära.
+
+    I Kina användes den främst för att dra kvadrat- och högre rötter ur tal och för att lösa polynomekvationer numeriskt, vilket ledde vidare till [Zhu Shijies Jadespegel](#zhu-shijie-jadespegeln-1303). Samma triangel var känd självständigt i Indien (för versmått), i Persien hos [Omar Khayyam](#omar-khayyam-tredjegradsekvationer-loses) och i Europa från 1500-talet. Pascal använde den i grundläggandet av [sannolikhetsläran](#pascal-och-fermat-sannolikhetslara-1654). Yang Hui är också känd för studier av magiska kvadrater.
+
+ramon-llull-logik-med-kombinatoriska:
+  period: 1280
+  label: "Ramon Llull: logik med kombinatoriska diagram"
+  title: "Ramon Llull och tänkandets maskin"
+  wiki:
+    - "en:Ramon Llull"
+    - "en:Ars Magna (Ramon Llull)"
+  text: |
+    **Ramon Llull** (ca 1232–1316) var en katalansk filosof och missionär från Mallorca, en ö där kristna, muslimer och judar levde sida vid sida. Hans mål var att övertyga muslimer och judar om kristendomens sanning med förnuftsargument som alla kunde godta, och för det utvecklade han sin *Ars magna*, ”den stora konsten”, från 1270-talet.
+
+    Idén var mekanisk. Llull valde ut ett litet antal grundbegrepp, till exempel godhet, storhet, evighet, makt, visdom, vilja, dygd, sanning och härlighet, och betecknade dem med bokstäver. Han ritade dem på koncentriska pappersskivor som kunde vridas mot varandra, så att alla kombinationer av begrepp systematiskt dök upp. Varje kombination skulle sedan motsvara ett påstående att pröva. Med nio begrepp ger par av begrepp 36 kombinationer och tripletter 84.
+
+    Som teologisk bevismetod fungerade det inte, men tanken att resonerande kan ske genom att systematiskt kombinera symboler fick ett långt efterliv. [Leibniz](#leibniz-kalkyl-1675) inspirerades av Llull i sin dröm om ett universellt symbolspråk och en *calculus ratiocinator*, en räknemetod för logiskt tänkande, där tvister kunde avgöras genom att räkna. Den drömmen gick vidare via [Booles algebra](#boole-boolesk-algebra-1854) och Frege till [Turingmaskinen](#turingmaskinen-1936), och Llull nämns därför ofta som en avlägsen förfader till datavetenskapen.
+
+zhu-shijie-jadespegeln-1303:
+  period: 1300
+  label: "Zhu Shijie: Jadespegeln 1303"
+  title: "Zhu Shijies Jadespegel"
+  wiki:
+    - "en:Zhu Shijie"
+    - "en:Jade Mirror of the Four Unknowns"
+  text: |
+    **Zhu Shijie** (ca 1249–1314) var en kinesisk matematiker som under Yuandynastin, när mongolerna styrde Kina, reste runt i omkring tjugo år som lärare. År 1303 gav han ut *Siyuan yujian*, ”Jadespegeln över de fyra obekanta”, kinesisk algebras höjdpunkt.
+
+    Kinesiska matematiker räknade på ett räknebräde med räknestickor. Zhu utvecklade en metod där fyra obekanta – kallade himmel, jord, människa och materia – kunde ingå i samma polynomekvationer. Koefficienterna placerades i ett tvådimensionellt rutnät kring en mittpunkt, där positionen åt varje håll angav potensen av en viss obekant – en sorts matrisnotation. Genom att systematiskt eliminera obekanta en i taget reducerades ett system till en ekvation i en obekant, som sedan löstes numeriskt med en metod i stil med den som i Europa kallas Horners metod (1819). Han behandlade ekvationer upp till fjortonde graden.
+
+    Boken innehåller också [binomialtriangeln](#yang-hui-binomialtriangeln-1261) upp till åttonde potensen och formler för summor av talserier. Efter Yuandynastin föll traditionen i glömska; under Mingdynastin förstod man knappt metoderna, och boken återupptäcktes först på 1800-talet. Europa nådde motsvarande eliminationsteori för polynomsystem först på 1700- och 1800-talet; i dag lever idén vidare i datoralgebra.
+
+bradwardine-proportioner-och-hastighet:
+  period: 1320
+  label: "Bradwardine: proportioner och hastighet"
+  title: "Bradwardines rörelselag"
+  wiki:
+    - "en:Thomas Bradwardine"
+    - "en:Oxford Calculators"
+  text: |
+    **Thomas Bradwardine** (ca 1300–1349) var en engelsk matematiker och teolog vid Merton College i Oxford, en av de så kallade Oxford-kalkylatorerna. Han blev ärkebiskop av Canterbury 1349 och dog i [digerdöden](#digerdoden-1348) bara några veckor senare.
+
+    I *Tractatus de proportionibus* (1328) angrep han ett problem i Aristoteles rörelselära. Aristoteles hade sagt att hastigheten är proportionell mot drivkraften delad med motståndet: v ∝ F/R. Men då får en kropp en hastighet även när kraften är mindre än motståndet, vilket är orimligt – en person som skjuter på ett hus borde flytta det, om än sakta. Bradwardine föreslog i stället att hastigheten ökar *aritmetiskt* när förhållandet F/R ökar *geometriskt*: för att fördubbla hastigheten måste man kvadrera förhållandet F/R, för att tredubbla den måste man upphöja det i tre. I modern notation: v = k·log(F/R). Då blir hastigheten noll precis när F = R.
+
+    Lagen är fel – rätt beskrivning gavs av Newton på 1600-talet – men den var viktig av två skäl. Den var ett av de första försöken att uttrycka en fysikalisk lag som en matematisk funktion, och den tvingade fram en teori om exponenter och proportioner som kom före logaritmerna. Den inspirerade det kvantitativa arbetet i [Mertonskolan](#mertonskolan-medelhastighetssatsen) och hos [Oresme](#oresme-grafer-harmoniska-serien).
+
+oresme-grafer-harmoniska-serien:
+  period: 1340
+  label: "Oresme: grafer, harmoniska serien divergerar"
+  title: "Oresme: grafer och oändliga serier"
+  wiki:
+    - "en:Nicole Oresme"
+    - "en:Harmonic series (mathematics)"
+  text: |
+    **Nicole Oresme** (ca 1320–1382) var en fransk filosof, matematiker och ekonom, elev till [Buridan](#buridan-impetusteorin) i Paris och senare biskop av Lisieux. Han översatte Aristoteles till franska på uppdrag av kung Karl V och skrev även om penningvärde och myntförsämring.
+
+    Omkring 1350 införde han ett sätt att **rita** hur en storhet varierar: längs en vågrät linje (”longitud”) markerade han tid eller läge, och lodräta streck (”latitud”) visade storhetens intensitet, till exempel hastigheten, i varje punkt. Konstant hastighet ger en rektangel, likformig acceleration en triangel eller rätvinklig trapets. Med den bilden bevisade han [medelhastighetssatsen](#mertonskolan-medelhastighetssatsen) geometriskt: sträckan motsvarar arean, och trapetsens area är lika med rektangelns vars höjd är medelhastigheten. Det är grundtanken bakom en hastighets–tid-graf, och en föregångare till [Descartes koordinatsystem](#descartes-analytisk-geometri-1637).
+
+    Han visade också att den **harmoniska serien** 1 + 1/2 + 1/3 + 1/4 + … växer obegränsat (divergerar), fast termerna går mot noll. Beviset är fortfarande det som lärs ut: gruppera termerna som 1/2, (1/3 + 1/4), (1/5 + … + 1/8), …; varje grupp är minst 1/2, och oändligt många halvor blir oändligt mycket. Summan växer ändå mycket långsamt, ungefär som den naturliga logaritmen av antalet termer – efter en miljon termer har den bara nått cirka 14,4. Seriernas teori utvecklades vidare i Indien av [Madhava](#madhava-oandliga-serier-for-och-sinus).
+
+madhava-oandliga-serier-for-och-sinus:
+  period: 1360
+  label: "Madhava: oändliga serier för π och sinus (Kerala)"
+  title: "Madhava: oändliga serier 300 år före Europa"
+  wiki:
+    - "sv:Madhava"
+    - "en:Madhava series"
+    - "en:Kerala school of astronomy and mathematics"
+  text: |
+    Madhava från Sangamagrama (ca 1340–1425) var en matematiker och astronom i Kerala i sydvästra Indien. Han grundade en skola av matematiker ([Keralaskolan](#keralaskolan-fortsatter-parameshvara)) som var verksam i ett par hundra år. Hans egna texter är till stor del förlorade; vi känner hans resultat genom elevernas verk, särskilt *Yuktibhasa* (ca 1530).
+
+    Madhava uttryckte storheter som **oändliga serier**, alltså summor med oändligt många termer som närmar sig ett exakt värde. Ett exempel: π/4 = 1 − 1/3 + 1/5 − 1/7 + … . På samma sätt gav han serier för sinus och cosinus, i dag skrivna sin(x) = x − x³/3! + x⁵/5! − …, och för arcus tangens. Eftersom π-serien konvergerar mycket långsamt utvecklade han korrektionstermer för att avbryta summan tidigt; så fick han π med ungefär 11 korrekta decimaler.
+
+    Serierna behövdes för astronomiska beräkningar, där man ville räkna fram sinustabeller med hög precision. I Europa hittades samma serier först på 1660–70-talen av James Gregory, [Newton](#newton-fluxioner-1665) och [Leibniz](#leibniz-kalkyl-1675), och π-serien kallas ofta Leibniz serie. Om Keralaskolans kunskap nådde Europa är omstritt; de flesta historiker tror att upptäckterna gjordes oberoende.
+
+keralaskolan-fortsatter-parameshvara:
+  period: 1380
+  label: "Keralaskolan fortsätter (Parameshvara)"
+  title: "Parameshvara: observationer i 55 år"
+  wiki:
+    - "en:Parameshvara"
+    - "en:Kerala school of astronomy and mathematics"
+  text: |
+    Parameshvara (ca 1360–1455) var en astronom och matematiker i Kerala, Indien, och elev till [Madhava](#madhava-oandliga-serier-for-och-sinus). Han tillhörde alltså den så kallade Keralaskolan, en följd av lärare och elever, ofta i samma brahminfamiljer, som under ca 1350–1650 förde vidare och utvecklade Madhavas matematik.
+
+    Parameshvara är känd för sin noggranna observation: enligt egen uppgift observerade han förmörkelser och planetpositioner under omkring 55 år. Han märkte att de gamla indiska tabellerna gav fel tider och tog 1431 fram ett reviderat system, *drgganita* ("beräkning enligt observation") – principen att teorin ska justeras efter mätningar. Han gav också en formel för radien till den cirkel som går genom hörnen på en fyrhörning inskriven i en cirkel, något som i Europa publicerades först 1782.
+
+    Skolan visar att matematisk forskning med seriemetoder och interpolationsformler pågick i Indien under samma tid som Europa ännu mest studerade översatt grekisk och arabisk lärdom. Arbetet fortsatte med Nilakantha och Jyesthadeva ([Keralaskolan](#keralaskolan)).
+
+keralaskolan:
+  period: 1400
+  label: "Keralaskolan"
+  title: "Keralaskolan: Nilakantha och de första bevisen"
+  wiki:
+    - "en:Kerala school of astronomy and mathematics"
+    - "en:Nilakantha Somayaji"
+  text: |
+    Keralaskolan var en följd av matematiker och astronomer i Kerala i sydvästra Indien, grundad av [Madhava](#madhava-oandliga-serier-for-och-sinus) på 1300-talet och verksam till ca 1600-talet. Kunskapen fördes vidare från lärare till elev och skrevs på sanskrit i versform.
+
+    En av de främsta var Nilakantha Somayaji (1444–1544). I sitt verk *Tantrasangraha* (1501) förbättrade han modellen för planeterna Merkurius och Venus. I hans modell kretsar planeterna kring solen, som i sin tur kretsar kring jorden – en struktur som liknar den som [Tycho Brahe](#tycho-pa-ven) föreslog i Europa på 1580-talet. Hans elevs elev Jyesthadeva skrev omkring 1530 *Yuktibhasa* på det lokala språket malayalam; boken ger härledningar och bevisliknande argument för de oändliga serierna, något ovanligt i indisk matematik där resultat oftast bara angavs.
+
+    Keralaskolans serier för π och trigonometriska funktioner föregick Europas [differentialkalkyl](#leibniz-kalkyl-1675) med ca 250 år, men ledde inte vidare till en generell kalkyl, och arbetet var länge okänt utanför Kerala. Västerländska forskare uppmärksammade det först på 1830-talet.
+
+al-kashi-med-16-decimaler-1424:
+  period: 1420
+  label: "al-Kashi: π med 16 decimaler 1424"
+  title: "al-Kashi räknar ut π med 16 decimaler"
+  wiki:
+    - "sv:Jamshid al-Kashi"
+    - "en:Jamshīd al-Kāshī"
+  text: |
+    Jamshid al-Kashi (ca 1380–1429) var en persisk matematiker och astronom som arbetade vid [Ulugh Begs](#ulugh-beg-grundar-madrasa-i-samarkand) skola och observatorium i Samarkand. 1424 skrev han en avhandling om cirkelns omkrets.
+
+    Metoden var Arkimedes: rita regelbundna månghörningar inuti och utanför en cirkel; omkretsen ligger mellan deras omkretsar. Genom att upprepade gånger fördubbla antalet sidor kom al-Kashi till en månghörning med 3 · 2^28, alltså ca 805 miljoner sidor. Han räknade först ut vilken precision han behövde (så att felet i omkretsen av en cirkel stor som universum, enligt tidens uppfattning, skulle bli mindre än ett hårstrå) och genomförde sedan alla rotutdragningar för hand. Resultatet: 2π med 16 korrekta decimaler.
+
+    Detta var världsrekord i omkring 170 år, tills Ludolph van Ceulen i Nederländerna fick 20 decimaler 1596. Al-Kashi använde också decimalbråk systematiskt, långt före [Stevin 1585](#stevin-decimalbrak-1585), och i Frankrike kallas cosinussatsen än i dag "al-Kashis sats". Indiska [Madhava](#madhava-oandliga-serier-for-och-sinus) nådde ungefär samtidigt 11 decimaler med en helt annan metod, oändliga serier, som till slut skulle visa sig överlägsen.
+
+cusanus-om-oandligheten:
+  period: 1440
+  label: "Cusanus om oändligheten"
+  title: "Cusanus: cirkeln som oändlig månghörning"
+  wiki:
+    - "sv:Nicolaus Cusanus"
+    - "en:Nicholas of Cusa"
+  text: |
+    Nicolaus Cusanus (1401–1464), tysk kardinal och filosof, använde matematiken som verktyg för att tänka om det oändliga – för honom ytterst Gud. Han ansåg att ändliga saker bara kan jämföras med varandra genom proportioner, och att det oändliga därför inte går att nå med vanlig mätning.
+
+    Hans mest kända bild: en regelbunden månghörning inskriven i en cirkel kommer närmare cirkeln ju fler sidor den får, men blir aldrig cirkeln. Bara "i det oändliga" sammanfaller de. På samma sätt sammanfaller en oändligt stor cirkel med en rät linje, eftersom krökningen försvinner. Han kallade det *coincidentia oppositorum*, att motsatser sammanfaller i det oändliga. Det är en intuitiv föregångare till begreppet **gränsvärde**, det centrala begreppet i analysen: värdet en följd närmar sig godtyckligt nära.
+
+    Cusanus försökte också kvadrera cirkeln – konstruera en kvadrat med samma yta – med passare och linjal, och misslyckades; astronomen Regiomontanus påvisade felen. (Att det är omöjligt bevisades först 1882.) Hans idéer var oprecisa, men inspirerade senare tänkare: att räkna med oändligt små delar blev kärnan i [Leibniz kalkyl](#leibniz-kalkyl-1675), och en stringent teori för oändligheter kom med [Cantors mängdlära](#cantor-mangdlara-1874).
+
+regiomontanus-trigonometri-2:
+  period: 1460
+  label: "Regiomontanus: trigonometri"
+  same_as: regiomontanus-trigonometri
+
+pacioli-summa-1494-dubbel-bokforing:
+  period: 1480
+  label: "Pacioli: Summa 1494, dubbel bokföring"
+  title: "Pacioli och dubbel bokföring"
+  wiki:
+    - "sv:Luca Pacioli"
+    - "en:Double-entry bookkeeping"
+  text: |
+    Luca Pacioli (ca 1447–1517) var en italiensk franciskanermunk och matematiklärare, vän till Leonardo da Vinci. 1494 gav han i Venedig ut *Summa de arithmetica, geometria, proportioni et proportionalita*, ett tryckt sammandrag av all praktisk matematik han kände till, skriven på italienska snarare än latin så att köpmän kunde läsa den.
+
+    Mest berömd är ett kapitel om **dubbel bokföring**, den första tryckta beskrivningen av metoden. Principen: varje affärshändelse bokförs på två konton, en gång som debet och en gång som kredit, med samma belopp. Säljer man varor för 100 dukater kontant ökar kassakontot med 100 och varulagret minskar med 100. Summan av alla debiteringar måste därför alltid vara lika med summan av alla krediteringar; stämmer de inte finns ett fel. Det är en enkel invariant som gör räkenskaperna kontrollerbara.
+
+    Pacioli uppfann inte metoden: den hade använts av köpmän i Genua, Florens och Venedig sedan 1300-talet. Men tack vare trycket ([tryckerier i 250 städer](#tryckerier-i-250-stader-ar-1500)) spreds den över Europa och är i princip samma system som alla företag använder i dag. Boken använde också förkortningar som p och m för plus och minus – före [tecknen + och −](#tecknen-och) – och de arabiska siffror som [Fibonacci](#fibonacci-liber-abaci-1202-arabiska) infört.
+
+tecknen-och:
+  period: 1480
+  label: "tecknen + och −"
+  title: "Plus- och minustecknen föds"
+  wiki:
+    - "en:Plus and minus signs"
+    - "sv:Plustecken"
+  text: |
+    Under medeltiden skrevs matematik mest i ord: "3 plus 5" eller "8 minus 2", eller med förkortningar som p̄ och m̄ (p och m med streck över) i Italien, till exempel hos [Pacioli](#pacioli-summa-1494-dubbel-bokforing). Tecknen + och − dyker upp i tryck första gången i Johannes Widmanns räknebok *Behende und hübsche Rechenung auff allen Kauffmannschafft*, Leipzig 1489.
+
+    Widmann använde dem dock inte som räknesätt utan i handelssammanhang, för överskott och underskott, till exempel att en vara vägde mer eller mindre än angivet. Ursprunget är inte säkert: + tros komma av en förkortning av latinets *et* ("och"), och − kanske av ett streck som markerade något som saknades. Det tog ungefär hundra år innan tecknen var allmänt etablerade som operationer i algebra.
+
+    Symbolerna var del av en större förändring: från retorisk matematik (i ord) till symbolisk. Fler steg följde med [likhetstecknet 1557](#likhetstecknet-1557) och [Viètes bokstäver för okända tal](#viete-bokstaver-for-tal). Bra notation gör det möjligt att manipulera uttryck mekaniskt, och utan den hade varken algebra, kalkyl eller i förlängningen programmeringsspråk sett ut som de gör.
+
+del-ferro-loser-tredjegradsekvationen:
+  period: 1500
+  label: "del Ferro löser tredjegradsekvationen ~1515"
+  title: "del Ferro: den hemliga lösningen"
+  wiki:
+    - "en:Scipione del Ferro"
+    - "sv:Tredjegradsekvation"
+  text: |
+    En **tredjegradsekvation** har formen x³ + ax² + bx + c = 0. Andragradsekvationer hade lösts sedan babylonierna, men för tredje graden fanns ingen allmän formel; [Omar Khayyam](#omar-khayyam-tredjegradsekvationer-loses) hade bara visat hur man konstruerar lösningar geometriskt, och Pacioli skrev 1494 att en algebraisk lösning kanske var omöjlig.
+
+    Scipione del Ferro (1465–1526), matematikprofessor i Bologna, hittade omkring 1515 en lösning för fallet x³ + px = q (med positiva p och q; negativa tal accepterades ännu inte, så olika teckenkombinationer behandlades som skilda problem). Idén är att ansätta x = u − v med u³ − v³ = q och uv = p/3; då kan u³ och v³ beräknas med en andragradsekvation, och x uttryckas med kubik- och kvadratrötter. Varje allmän tredjegradsekvation kan dessutom förenklas till denna form med en substitution.
+
+    Del Ferro publicerade aldrig. Under renässansen tävlade matematiker offentligt om tjänster och prestige genom att ge varandra problem, och en hemlig metod var ett vapen. Han berättade den bara för sin elev Antonio Fior, och historien fortsatte med ett berömt gräl ([Tartaglia och Cardano](#tartaglia-och-cardano)) innan lösningen publicerades i [Ars Magna 1545](#cardano-ars-magna-1545).
+
+tartaglia-och-cardano:
+  period: 1520
+  label: "Tartaglia och Cardano: tredjegradsekvationen"
+  title: "Tartaglia, Cardano och ett löfte som bröts"
+  wiki:
+    - "sv:Niccolò Tartaglia"
+    - "en:Cubic equation"
+  text: |
+    År 1535 utmanade Antonio Fior, som fått [del Ferros hemliga metod](#del-ferro-loser-tredjegradsekvationen), Niccolò Fontana Tartaglia (ca 1500–1557) till en matematisk tävling. Tartaglia, "stammaren" (han hade fått ett sabelhugg i ansiktet som barn), var en självlärd matematiklärare i Venedig. Kvällen före tävlingen hittade han själv lösningen till tredjegradsekvationer av typen x³ + px = q och vann överlägset: han löste alla Fiors 30 problem.
+
+    Gerolamo Cardano (1501–1576) var läkare, matematiker, astrolog och ivrig spelare i Milano. Han övertalade Tartaglia att avslöja metoden 1539, och Tartaglia gav den i form av en dikt, mot löftet att Cardano aldrig skulle publicera den. Cardano och hans elev Lodovico Ferrari utvidgade sedan metoden till alla typer av tredjegradsekvationer, och Ferrari löste även fjärdegradsekvationen (x⁴ + …). När de fick se del Ferros anteckningar och insåg att Tartaglia inte varit först ansåg Cardano sig fri från löftet.
+
+    Lösningen publicerades i [Ars Magna 1545](#cardano-ars-magna-1545) med erkännande av både del Ferro och Tartaglia, men formeln kallas än i dag Cardanos formel. Tartaglia blev rasande, och ett bittert gräl följde. Detta liknar den senare [prioritetsstriden mellan Newton och Leibniz](#prioritetsstriden-newtonleibniz) – vem som var först var lika viktigt då som nu.
+
+cardano-ars-magna-1545:
+  period: 1540
+  label: "Cardano: Ars Magna 1545"
+  title: "Ars Magna: algebrans stora genombrott"
+  wiki:
+    - "en:Ars Magna (Cardano book)"
+    - "sv:Gerolamo Cardano"
+  text: |
+    Gerolamo Cardano (1501–1576) var en italiensk läkare och matematiker i Milano och Pavia. Hans bok *Ars Magna* ("Den stora konsten", 1545) publicerade för första gången de allmänna lösningarna till tredje- och fjärdegradsekvationer, upptäckta av [del Ferro](#del-ferro-loser-tredjegradsekvationen), Tartaglia och Cardanos elev Ferrari ([Tartaglia och Cardano](#tartaglia-och-cardano)). Det var första gången på cirka 2 500 år som algebran gick tydligt förbi vad babylonierna och grekerna kunnat.
+
+    Formeln för x³ + px = q ger x som summan av två kubikrötter, där det under rottecknen står en kvadratrot av (q/2)² + (p/3)³. Här stötte Cardano på något märkligt. För ekvationer som x³ = 15x + 4, som har den uppenbara lösningen x = 4, ger formeln kvadratroten ur −121 – ett negativt tal under rottecknet, vilket då ansågs meningslöst. Cardano räknade också i ett annat problem formellt med uttryck som 5 + √−15, men kallade det "lika subtilt som det är oanvändbart".
+
+    Detta blev upptakten till de komplexa talen: Rafael Bombelli visade 1572 att man kan räkna med sådana rötter enligt fasta regler och få ut de verkliga lösningarna ([Bombelli: komplexa tal](#bombelli-komplexa-tal-1572)). Frågan om ekvationer av femte graden också har en sådan formel löstes negativt först av [Abel och Galois](#galois-och-abel-femtegradsekvationen) på 1820-talet. Cardano skrev också en av de första analyserna av tärningsspel, föregångare till [sannolikhetsläran](#pascal-och-fermat-sannolikhetslara-1654).
+
+likhetstecknet-1557:
+  period: 1540
+  label: "likhetstecknet 1557"
+  title: "Likhetstecknet ="
+  wiki:
+    - "en:Equals sign"
+    - "en:Robert Recorde"
+  text: |
+    Tecknet = infördes 1557 av **Robert Recorde** (ca 1512–1558), en walesisk läkare och matematiker som skrev läroböcker i räkning på engelska i stället för latin. I boken *The Whetstone of Witte* förklarade han valet: två parallella linjer av samma längd, eftersom inga två saker kan vara mer lika.
+
+    Före detta skrev man ut likheter i ord, till exempel latinets *aequales* ("är lika med"). En ekvation var alltså en mening, inte en formel. Recordes tecken var först ett av flera konkurrerande; i Frankrike och Nederländerna användes länge andra symboler, och = blev allmänt först under 1600-talet, bland annat genom Newton och Leibniz.
+
+    Likhetstecknet ingår i en längre process där matematiken gick från prosa till symboler: [tecknen + och −](#tecknen-och) kom några decennier tidigare, och [Viète införde bokstäver för tal](#viete-bokstaver-for-tal) kring 1590. Tillsammans gjorde de det möjligt att skriva och räkna med allmänna formler, vilket i sin tur behövdes för [Descartes analytiska geometri](#descartes-analytisk-geometri-1637). Att programmeringsspråk senare valde = för tilldelning och == för jämförelse är en sen följd av samma symbol.
+
+bombelli-komplexa-tal-1572:
+  period: 1560
+  label: "Bombelli: komplexa tal 1572"
+  title: "Bombelli: räkneregler för komplexa tal"
+  wiki:
+    - "en:Rafael Bombelli"
+    - "sv:Komplexa tal"
+  text: |
+    **Rafael Bombelli** (1526–1572) var en italiensk ingenjör från Bologna som arbetade med att torrlägga träsk. Vid sidan av det skrev han *L'Algebra* (1572), där han för första gången gav konsekventa räkneregler för det vi kallar komplexa tal, alltså tal av formen a + bi där i² = −1.
+
+    Bakgrunden var [Cardanos formel för tredjegradsekvationen](#cardano-ars-magna-1545). För ekvationen x³ = 15x + 4 ger formeln x = ∛(2 + √−121) + ∛(2 − √−121), alltså kvadratroten ur ett negativt tal, trots att ekvationen har den helt vanliga lösningen x = 4. Cardano betraktade sådana uttryck som meningslösa. Bombelli räknade helt enkelt vidare med √−1 som en ny sorts tal och fann att (2 + √−1)³ = 2 + 11√−1 = 2 + √−121. Kubikrötterna är alltså 2 + √−1 och 2 − √−1, och deras summa blir 4. Det "omöjliga" mellansteget gav rätt svar.
+
+    Det tog ytterligare två sekler innan komplexa tal accepterades: [Euler](#euler-introductio-1748-e-i-1) införde beteckningen i och sambandet med exponentialfunktionen, och Gauss tolkade dem som punkter i ett plan omkring 1800. I dag är de oumbärliga i elektroteknik (växelström), signalbehandling (Fouriertransformen) och kvantmekanik.
+
+viete-bokstaver-for-tal:
+  period: 1580
+  label: "Viète: bokstäver för tal"
+  title: "Viète: bokstäver som variabler"
+  wiki:
+    - "en:François Viète"
+    - "en:Elementary algebra"
+  text: |
+    **François Viète** (1540–1603) var en fransk jurist och rådgivare åt kungarna Henrik III och Henrik IV. Vid sidan av ämbetet var han matematiker, och han knäckte dessutom spanska chiffer åt den franska kronan. I *In artem analyticem isagoge* (1591) införde han idén att låta bokstäver stå för tal: vokaler för okända storheter och konsonanter för kända men godtyckliga storheter (parametrar).
+
+    Före Viète löste algebraiker problem med konkreta siffror och beskrev metoden i ord, som ett recept: "ta hälften av talet, kvadrera det ...". En lösning gällde formellt bara exemplet. Med bokstäver för både okända och kända tal kunde man skriva en enda formel som gäller alla fall, till exempel lösningen till alla andragradsekvationer samtidigt. Det är samma steg som från ett specifikt räkneexempel till en funktion med parametrar i ett program.
+
+    Viètes notation var fortfarande klumpig; han skrev till exempel "A quadratum" i stället för A². Den moderna konventionen, x, y, z för okända och a, b, c för kända, kom med [Descartes 1637](#descartes-analytisk-geometri-1637). Tillsammans med [likhetstecknet](#likhetstecknet-1557) och de lösta [tredjegradsekvationerna](#cardano-ars-magna-1545) skapade detta den symboliska algebra som all senare matematik bygger på.
+
+stevin-decimalbrak-1585:
+  period: 1580
+  label: "Stevin: decimalbråk 1585"
+  title: "Stevin: decimaler för alla"
+  wiki:
+    - "en:Simon Stevin"
+    - "en:Decimal"
+  text: |
+    **Simon Stevin** (1548–1620) var en flamländsk ingenjör och matematiker som arbetade i den nya nederländska republiken, bland annat med befästningar, slussar och väderkvarnar åt prins Moritz av Oranien. År 1585 gav han ut *De Thiende* ("Tiondelen"), en kort skrift på ett trettiotal sidor som förklarade hur man räknar med decimalbråk.
+
+    Före detta skrev man delar som vanliga bråk (3 47/100) eller i sexagesimalsystemet med bas 60, arvet från Babylon som vi fortfarande har i minuter och sekunder. Stevins poäng var att om alla delar uttrycks i tiondelar, hundradelar och så vidare kan man addera och multiplicera precis som med heltal. Han föreslog också att mått, vikter och mynt skulle delas decimalt. Hans notation var otymplig, med inringade siffror som angav varje siffras position; decimaltecknet blev vanligt först något senare, bland annat genom Napiers logaritmtabeller.
+
+    Decimalbråk var inte nya: den persiske matematikern al-Kashi använde dem redan på 1400-talet, se [al-Kashis beräkning av π](#al-kashi-med-16-decimaler-1424). Men Stevin gjorde dem till ett praktiskt verktyg för köpmän och ingenjörer i Europa. Hans förslag om decimala mått förverkligades två sekler senare i [metersystemet](#metersystemet-1795).
+
+napier-logaritmer-1614:
+  period: 1600
+  label: "Napier: logaritmer 1614"
+  title: "Napier: logaritmer gör multiplikation till addition"
+  wiki:
+    - "sv:Logaritm"
+    - "en:John Napier"
+  text: |
+    **John Napier** (1550–1617) var en skotsk godsägare som ägnade decennier åt att förenkla räknearbete. År 1614 publicerade han *Mirifici logarithmorum canonis descriptio* med tabeller över det han kallade logaritmer, av grekiskans *logos* (förhållande) och *arithmos* (tal).
+
+    Idén: varje positivt tal kan skrivas som en fast bas upphöjd till en exponent, och logaritmen är exponenten. Eftersom 10ᵃ · 10ᵇ = 10ᵃ⁺ᵇ gäller log(x · y) = log x + log y. För att multiplicera två sjusiffriga tal slår man upp deras logaritmer i en tabell, adderar och slår upp svaret baklänges. Division blir subtraktion och kvadratrötter blir halvering. Napiers egen version hade en krånglig bas; Henry Briggs i London räknade 1617–1624 fram de praktiska tiobaslogaritmerna. Schweizaren Jost Bürgi hade oberoende gjort liknande tabeller men publicerade dem först 1620.
+
+    För astronomer, navigatörer och ingenjörer sparade detta enorma mängder arbete; Laplace sade senare att logaritmerna fördubblade astronomernas livslängd. Kepler använde dem genast. De ledde direkt till [räknestickan](#raknestickan-1622), som var ingenjörens räknedosa ända till 1970-talet. Napier uppfann också "Napiers stavar", räknestavar som inspirerade [Schickards räknemaskin](#schickards-raknemaskin-1623).
+
+descartes-analytisk-geometri-1637:
+  period: 1620
+  label: "Descartes: analytisk geometri 1637"
+  title: "Descartes: geometri med koordinater"
+  wiki:
+    - "sv:René Descartes"
+    - "en:Analytic geometry"
+    - "en:La Géométrie"
+  text: |
+    **René Descartes** (1596–1650) var en fransk filosof och matematiker, mest känd för satsen "jag tänker, alltså finns jag". Han bodde länge i Nederländerna och dog i Stockholm, dit han bjudits in av [drottning Kristina](#kristina). År 1637 gav han ut [Discours de la méthode](#descartes-discours-1637) med en bilaga, *La Géométrie*.
+
+    Där förenade han geometri och algebra. Varje punkt i planet kan beskrivas med två tal, avstånden längs två axlar (x, y), och en kurva blir då en ekvation mellan x och y. Ekvationen y = 2x + 1 är en rät linje, x² + y² = 25 är en cirkel med radien 5. Ett geometriskt problem, som var två kurvor skär varandra, blir ett algebraiskt: lös ekvationssystemet. Omvänt kan man rita en ekvation och se hur den beter sig. Descartes införde även konventionen att x, y, z betecknar okända och a, b, c kända storheter, och skrivsättet x² för potenser, vidare utvecklingar av [Viètes](#viete-bokstaver-for-tal) notation.
+
+    [Fermat](#fermat) kom fram till samma idé oberoende, ungefär samtidigt men utan att publicera. Koordinatsystemet, som kallas kartesiskt efter Descartes latinska namn Cartesius, var en förutsättning för [differential- och integralkalkylen](#newton-fluxioner-1665), där man behandlar kurvor som funktioner. I dag finns det i allt från diagram och kartor till datorgrafik, där varje pixel har koordinater.
+
+fermat:
+  period: 1620
+  label: "Fermat"
+  title: "Fermat: amatören som grundade talteorin"
+  wiki:
+    - "sv:Pierre de Fermat"
+    - "sv:Fermats stora sats"
+  text: |
+    **Pierre de Fermat** (1601–1665) var jurist och domare i Toulouse i Frankrike. Matematiken var en fritidssysselsättning; han publicerade nästan inget och spred sina resultat i brev till andra matematiker, ofta utan bevis.
+
+    Han bidrog ändå till flera grundläggande områden. Han utvecklade [analytisk geometri](#descartes-analytisk-geometri-1637) samtidigt med Descartes. Han hittade en metod för att bestämma största och minsta värden och tangenter till kurvor, i praktiken en förelöpare till derivatan i [differentialkalkylen](#newton-fluxioner-1665). Han formulerade principen att ljus tar den väg som går snabbast, ur vilken [brytningslagen](#snells-brytningslag) följer. Tillsammans med Pascal lade han grunden för [sannolikhetsläran](#pascal-och-fermat-sannolikhetslara-1654).
+
+    Mest känd är han för talteori, läran om heltalens egenskaper. Fermats lilla sats säger att om p är ett primtal så är aᵖ − a delbart med p för varje heltal a; den används i dag i RSA-kryptering och primtalstester. I marginalen i sitt exemplar av en antik bok skrev han att ekvationen xⁿ + yⁿ = zⁿ saknar lösningar i positiva heltal för n större än 2, och att han hade ett underbart bevis som inte fick plats. Detta, Fermats stora sats, förblev obevisat i över 350 år tills [Andrew Wiles bevisade den 1994](#wiles-bevisar-fermats-stora-sats-1994) med metoder Fermat inte kan ha haft.
+
+raknestickan-1622:
+  period: 1620
+  label: "räknestickan 1622"
+  title: "Räknestickan"
+  wiki:
+    - "sv:Räknesticka"
+    - "en:William Oughtred"
+  text: |
+    Räknestickan är ett analogt räknehjälpmedel: två linjaler med logaritmiska skalor som glider mot varandra. Den uppfanns av **William Oughtred** (1574–1660), engelsk präst och matematiklärare, omkring 1622 (först i en cirkelformad variant), med utgångspunkt i Edmund Gunters logaritmiska skala från 1620.
+
+    Principen bygger på [logaritmerna](#napier-logaritmer-1614): log(a · b) = log a + log b. På en logaritmisk skala är avståndet från 1 till ett tal proportionellt mot talets logaritm. Om man lägger två sådana skalor intill varandra och flyttar den ena så att dess 1:a hamnar mitt för a, står b på den rörliga skalan mitt för a · b på den fasta. Multiplikation blir att addera två längder. Noggrannheten är omkring tre siffror, vilket räcker för det mesta ingenjörsarbete, och man får själv hålla reda på tiopotensen. Oughtred införde också tecknet × för multiplikation.
+
+    Räknestickan blev ingenjörernas och fysikernas verktyg i 350 år: ångmaskiner, broar, flygplan och Apolloprogrammet räknades fram med den. Den försvann på några få år under 1970-talet när elektroniska fickräknare blev billiga. Parallellt utvecklades mekaniska räknemaskiner, som [Schickards](#schickards-raknemaskin-1623) och [Pascals](#pascals-raknemaskin-1642), som räknar exakt med siffror i stället för approximativt med längder: skillnaden mellan analog och digital beräkning.
+
+pascal-och-fermat-sannolikhetslara-1654:
+  period: 1640
+  label: "Pascal och Fermat: sannolikhetslära 1654"
+  title: "Pascal och Fermat: sannolikhetsläran"
+  wiki:
+    - "en:Problem of points"
+    - "sv:Sannolikhetsteori"
+  text: |
+    Sommaren 1654 brevväxlade [Blaise Pascal](#pascal-lufttryck) i Paris och [Pierre de Fermat](#fermat) i Toulouse om ett problem som en spelglad adelsman, Chevalier de Méré, ställt. Breven räknas som början på den matematiska sannolikhetsläran.
+
+    Huvudfrågan var "poängproblemet": två spelare satsar lika mycket och den som först vinner till exempel tre omgångar tar potten. Spelet avbryts när den ena leder med 2–1. Hur ska potten delas rättvist? Svaret var att räkna upp alla sätt spelet kunde ha fortsatt. Ledaren vinner om hon vinner nästa omgång (chans 1/2) eller förlorar den men vinner den därpå (1/2 · 1/2 = 1/4), totalt 3/4. Potten ska alltså delas 3:1. Insikten är begreppet **väntevärde**: värdet av en osäker framtid är summan av utfallen viktade med sina sannolikheter. Pascal använde i sammanhanget också den talttriangel som bär hans namn, där varje tal är summan av de två ovanför, för att räkna kombinationer; den var känd långt tidigare i Kina, se [Jia Xian](#jia-xian-binomialtriangeln-pascals).
+
+    Cardano hade skrivit om tärningsspel redan på 1500-talet, men hans text trycktes först 1663. Huygens skrev 1657 den första tryckta läroboken i ämnet. Idéerna utvecklades till [stora talens lag](#bernoulli-stora-talens-lag-1713) och [normalfördelningen](#de-moivre-normalfordelningen) och ligger i dag bakom försäkringar, statistik, kvantfysik och maskininlärning.
+
+newton-fluxioner-1665:
+  period: 1660
+  label: "Newton: fluxioner 1665"
+  title: "Newton: fluxionskalkylen"
+  wiki:
+    - "en:Method of Fluxions"
+    - "sv:Infinitesimalkalkyl"
+  text: |
+    Under peståren 1665–66 utvecklade [Isaac Newton](#newton-gravitation-och-prisman-1666) det han kallade fluxionsmetoden, i dag kallad differential- och integralkalkyl (infinitesimalkalkyl). Han tänkte sig storheter som "flyter" med tiden; en flytande storhet x kallade han en fluent och dess förändringshastighet en fluxion, skriven med en prick över bokstaven, ẋ. Fluxionen är det vi kallar derivatan: lutningen på en kurva i en punkt, eller hastigheten hos något som rör sig.
+
+    Två huvudproblem löstes med samma verktyg. Givet en sträcka som funktion av tiden, hitta hastigheten i varje ögonblick (derivering). Givet hastigheten, hitta tillryggalagd sträcka eller ytan under en kurva (integrering). Newton insåg att de två är varandras omvändningar, det som i dag kallas analysens fundamentalsats. Han kombinerade det med oändliga serier, till exempel binomialserien. Delar fanns redan hos föregångare: [Fermats](#fermat) metod för tangenter och hans lärare Isaac Barrows geometriska resultat.
+
+    Newton publicerade nästan inget av detta förrän långt senare; ett kort manuskript cirkulerade 1669 och huvudverket trycktes först 1736. [Leibniz](#leibniz-kalkyl-1675) utvecklade kalkylen oberoende och publicerade först, vilket ledde till [prioritetsstriden](#prioritetsstriden-newtonleibniz). Kalkylen blev språket för all fysik: rörelselagar, elektromagnetism och värmeledning skrivs som differentialekvationer, ekvationer som beskriver hur något förändras.
+
+leibniz-kalkyl-1675:
+  period: 1660
+  label: "Leibniz: kalkyl 1675"
+  title: "Leibniz: dx, dy och ∫"
+  wiki:
+    - "sv:Gottfried Wilhelm Leibniz"
+    - "en:Leibniz's notation"
+  text: |
+    **Gottfried Wilhelm Leibniz** (1646–1716) var en tysk filosof, matematiker, jurist och diplomat, en av de sista universalgenierna. Under en vistelse i Paris 1672–76, där han lärde sig modern matematik av [Huygens](#huygens), utvecklade han oberoende av Newton differential- och integralkalkylen. Den 29 oktober 1675 skrev han för första gången integraltecknet ∫, ett utdraget S för latinets *summa*.
+
+    Leibniz tänkte geometriskt: en kurva består av oändligt många, oändligt små steg. En liten ändring i x kallade han dx och motsvarande ändring i y för dy; derivatan är kvoten dy/dx och integralen ∫ y dx är summan av oändligt många tunna remsor med höjden y och bredden dx. Notationen är så välvald att den nästan räknar själv: kedjeregeln ser ut som en förkortning av bråk, dy/dx = dy/du · du/dx. Newtons prick-notation var kortare men svårare att generalisera.
+
+    Leibniz publicerade kalkylen [1684](#leibniz-publicerar-kalkylen-1684), två decennier före Newton, och hans beteckningar tog över på kontinenten, där [bröderna Bernoulli](#broderna-bernoulli) och senare Euler drev utvecklingen. England höll fast vid Newtons notation efter [prioritetsstriden](#prioritetsstriden-newtonleibniz) och halkade efter i ett sekel. Leibniz var också tidig med det binära talsystemet och byggde [en räknemaskin](#leibniz-raknemaskin).
+
+leibniz-publicerar-kalkylen-1684:
+  period: 1680
+  label: "Leibniz publicerar kalkylen 1684"
+  title: "Leibniz publicerar differentialkalkylen (1684)"
+  wiki:
+    - "en:Gottfried Wilhelm Leibniz"
+    - "en:History of calculus"
+  text: |
+    **Gottfried Wilhelm Leibniz** (1646–1716) var en tysk filosof, matematiker och diplomat i hertigarnas tjänst i Hannover. 1684 publicerade han en kort artikel, "Nova Methodus pro Maximis et Minimis" (ny metod för maxima och minima), i den vetenskapliga tidskriften Acta Eruditorum i Leipzig. Det var den första tryckta framställningen av **differentialkalkylen**, alltså räknandet med förändringshastigheter.
+
+    Idén: om y beror av x betecknar dx och dy oändligt små ändringar av dem, och kvoten dy/dx är kurvans lutning i en punkt. Leibniz gav räkneregler som d(xy) = x·dy + y·dx, så att man kunde derivera mekaniskt i stället för att lösa varje problem geometriskt. Ett maximum hittas där dy/dx = 0. 1686 följde integralen, med tecknet ∫ – ett utdraget S för "summa" av oändligt många små bitar.
+
+    Newton hade kommit fram till samma sak redan 1665–66 ([fluxioner](#newton-fluxioner-1665)) och Leibniz själv 1675, men ingen av dem hade publicerat. Leibniz notation var så smidig att den fortfarande används och lockade elever som [bröderna Bernoulli](#broderna-bernoulli). Att Leibniz publicerade först ledde senare till den bittra [prioritetsstriden med Newton](#prioritetsstriden-newtonleibniz).
+
+broderna-bernoulli:
+  period: 1680
+  label: "bröderna Bernoulli"
+  title: "Bröderna Bernoulli sprider kalkylen"
+  wiki:
+    - "en:Bernoulli family"
+    - "en:Brachistochrone curve"
+  text: |
+    **Jakob Bernoulli** (1655–1705) och hans yngre bror **Johann Bernoulli** (1667–1748) kom från en köpmannasläkt i Basel i Schweiz. De lärde sig själva [Leibniz nya kalkyl](#leibniz-publicerar-kalkylen-1684) ur hans korta, svårlästa artiklar och blev de som verkligen fick den att fungera och spridas i Europa.
+
+    1696 ställde Johann **brakistokronproblemet**: vilken kurva mellan två punkter ger snabbast färd för en kula som rullar under tyngdkraftens inverkan? Svaret är inte en rät linje utan en cykloid – kurvan som en punkt på ett rullande hjul ritar. Problemet, som även Newton, Leibniz och Jakob löste, blev starten för **variationskalkylen**: att söka den funktion (inte det tal) som minimerar något. Samma år kom den första läroboken i kalkyl, av den franske markisen de l'Hôpital, men innehållet var till stor del köpt från Johann.
+
+    Bröderna var bittra rivaler. Jakob arbetade med serier och sannolikhet – hans [stora talens lag](#bernoulli-stora-talens-lag-1713) trycktes efter hans död. Johann blev lärare åt den unge Leonhard Euler, som skulle bli århundradets störste matematiker (se [Königsbergs broar](#euler-konigsbergs-broar-1736)). Johanns son Daniel formulerade 1738 Bernoullis princip om tryck i strömmande vätskor, grunden för att förstå bl.a. flygplansvingar.
+
+prioritetsstriden-newtonleibniz:
+  period: 1700
+  label: "Prioritetsstriden Newton–Leibniz"
+  title: "Vem uppfann kalkylen? Striden Newton–Leibniz"
+  wiki:
+    - "en:Leibniz–Newton calculus controversy"
+  text: |
+    Både Isaac Newton i England och Gottfried Wilhelm Leibniz i Tyskland hade utvecklat differential- och integralkalkylen. Newton först, 1665–66 ([fluxioner](#newton-fluxioner-1665)), men han publicerade inte. Leibniz kom fram till sin version 1675 och [publicerade 1684](#leibniz-publicerar-kalkylen-1684). Leibniz hade 1676 besökt London och brevväxlat med Newton, vilket gav utrymme för misstankar.
+
+    Runt 1700 började Newtons anhängare anklaga Leibniz för stöld. 1711 bad Leibniz Royal Society att rentvå honom. Sällskapet tillsatte en kommitté som 1712 slog fast att Newton var först och antydde plagiat. Rapporten var i själva verket till stor del skriven av Newton själv, som var sällskapets ordförande. Striden pågick till Leibniz död 1716 och blev en nationell prestigefråga.
+
+    Dagens historiker är eniga om att de kom fram till kalkylen oberoende av varandra. Striden fick dock en konkret följd: brittiska matematiker höll fast vid Newtons klumpigare punktnotation och avskärmade sig från kontinentens arbete, där Leibniz notation dy/dx och ∫ användes av [Bernoulli](#broderna-bernoulli), Euler och Lagrange. Storbritannien halkade efter i ungefär ett sekel tills studenter i Cambridge, bland dem [Charles Babbage](#babbages-differensmaskin-1822), 1812 bildade ett sällskap för att införa den kontinentala notationen.
+
+bernoulli-stora-talens-lag-1713:
+  period: 1700
+  label: "Bernoulli: stora talens lag 1713"
+  title: "Stora talens lag (1713)"
+  wiki:
+    - "en:Law of large numbers"
+    - "en:Ars Conjectandi"
+  text: |
+    **Jakob Bernoulli** (1655–1705), schweizisk matematiker i Basel (se [bröderna Bernoulli](#broderna-bernoulli)), arbetade i 20 år på boken Ars Conjectandi ("Konsten att gissa"). Den trycktes postumt 1713 och är sannolikhetsteorins första stora verk efter [Pascal och Fermats brev 1654](#pascal-och-fermat-sannolikhetslara-1654).
+
+    Huvudresultatet är det vi kallar **stora talens lag**. Gör man samma försök många gånger oberoende av varandra, där utfallet "lyckas" har sannolikheten p, så kommer andelen lyckade försök att närma sig p. Mer exakt: för varje liten felmarginal ε går sannolikheten att andelen avviker mer än ε från p mot noll när antalet försök n växer. Det motiverar att man kan uppskatta en okänd sannolikhet – t.ex. dödsrisken i en viss ålder – genom att räkna frekvenser i stora datamängder.
+
+    Bernoulli försökte också beräkna hur många försök som behövs för "moralisk visshet" och fick fram tal på tiotusentals, för stora för praktiskt bruk. [De Moivre](#de-moivre-normalfordelningen) gav 1733 en mycket bättre uppskattning med normalfördelningen. Lagen är grunden för statistik, försäkring, opinionsmätningar och simuleringsmetoder där man räknar ut ett väntevärde genom att slumpa många gånger.
+
+euler-konigsbergs-broar-1736:
+  period: 1720
+  label: "Euler: Königsbergs broar 1736"
+  title: "Königsbergs sju broar – grafteorins födelse (1736)"
+  wiki:
+    - "sv:Königsbergs sju broar"
+    - "sv:Grafteori"
+    - "sv:Leonhard Euler"
+  text: |
+    **Leonhard Euler** (1707–1783) var en schweizisk matematiker, elev till Johann Bernoulli, som arbetade vid vetenskapsakademierna i S:t Petersburg och Berlin. Han räknas som 1700-talets störste matematiker och en av de mest produktiva genom tiderna.
+
+    Staden Königsberg i Preussen (nu Kaliningrad i Ryssland) låg vid floden Pregel, med två öar förbundna med stränderna genom sju broar. Invånarna undrade om man kunde ta en promenad som korsar varje bro exakt en gång. Euler visade 1736 att det är omöjligt, och hur man avgör det i allmänhet. Han bortsåg från allt utom vilka landområden som är förbundna med vilka broar – det vi i dag kallar en **graf**: noder (landområden) och kanter (broar). Varje gång man går igenom en nod använder man två kanter, en in och en ut. En sådan promenad (en **eulerväg**) finns därför bara om högst två noder har ett udda antal kanter. I Königsberg hade alla fyra noderna udda antal (5, 3, 3, 3).
+
+    Detta räknas som början på **grafteorin** och topologin – matematik där bara sammankopplingen räknas, inte avstånd och former. Grafteorin är i dag vardagsmat för datavetare: nätverk, routning, beroendegrafer, kompilatorer och sökmotorer. Euler fortsatte med bl.a. [Introductio 1748](#euler-introductio-1748-e-i-1) och arbetade vidare även när han blev [blind](#euler-blind-men-produktiv).
+
+de-moivre-normalfordelningen:
+  period: 1720
+  label: "de Moivre: normalfördelningen"
+  title: "De Moivre och normalfördelningen (1733)"
+  wiki:
+    - "en:Abraham de Moivre"
+    - "sv:Normalfördelning"
+    - "en:De Moivre–Laplace theorem"
+  text: |
+    **Abraham de Moivre** (1667–1754) var en fransk protestant (hugenott) som flydde till London efter förföljelserna 1685. Han fick aldrig någon fast tjänst, utan försörjde sig på att undervisa och på att räkna sannolikheter åt spelare och försäkringsgivare på kaffehuset Slaughter's. Han var vän med Newton.
+
+    1733 löste han ett praktiskt problem: hur stor är sannolikheten att få till exempel mellan 4 900 och 5 100 krona på 10 000 slantsingningar? Exakt uträkning kräver enorma binomialkoefficienter. De Moivre visade att för stora antal n närmar sig fördelningen en jämn klockformad kurva, proportionell mot e^(−x²/2), där x mäter avståndet från medelvärdet i enheter av spridningen √n/2. Detta är den **normalfördelning** vi använder i dag, och resultatet är det första specialfallet av **centrala gränsvärdessatsen**: summan av många oberoende slumpbidrag blir ungefär normalfördelad, oavsett hur bidragen ser ut.
+
+    Det skärpte [Bernoullis stora talens lag](#bernoulli-stora-talens-lag-1713): inte bara att andelen närmar sig p, utan hur stora avvikelserna typiskt är. Kurvan fick sitt genomslag först när Laplace och [Gauss](#gauss-disquisitiones-1801) runt 1800 använde den för mätfel – därav namnet gaussisk fördelning. I dag ligger den bakom felmarginaler, kvalitetskontroll och mycket av maskininlärningens statistik.
+
+euler-introductio-1748-e-i-1:
+  period: 1740
+  label: "Euler: Introductio 1748, e^iπ = −1"
+  title: "Eulers Introductio och e^iπ = −1 (1748)"
+  wiki:
+    - "sv:Eulers formel"
+    - "en:Introductio in analysin infinitorum"
+    - "en:Euler's identity"
+  text: |
+    **Leonhard Euler** (1707–1783), den schweiziske matematikern i Berlin och S:t Petersburg (se [Königsbergs broar](#euler-konigsbergs-broar-1736)), gav 1748 ut Introductio in analysin infinitorum ("Introduktion till analys av det oändliga"). Den gjorde **funktionen** – en regel som ger ett värde y för varje x – till matematikens centrala begrepp, i stället för kurvor och geometriska figurer.
+
+    Boken definierade talet **e** ≈ 2,71828 som gränsvärdet av (1 + 1/n)ⁿ när n växer, och behandlade exponentialfunktionen, logaritmen och sinus/cosinus som oändliga serier, t.ex. eˣ = 1 + x + x²/2! + x³/3! + … Genom att sätta in ett imaginärt tal ix (där i² = −1) fick Euler **Eulers formel**: e^(ix) = cos x + i·sin x. Den kopplar ihop exponentialfunktionen med vinklar och rotation. Med x = π (halva varvet) blir det e^(iπ) = −1, ofta kallad matematikens vackraste identitet eftersom den knyter ihop e, i, π, 1 och 0.
+
+    Formeln gjorde komplexa tal till ett praktiskt verktyg. Den är grunden för [Fourieranalys](#fourierserier), för hur ingenjörer räknar med växelström och vågor, för signalbehandling (FFT) och för kvantmekanikens vågfunktioner. Eulers beteckningar e, i, π och f(x) är de vi fortfarande använder.
+
+lagrange:
+  period: 1760
+  label: "Lagrange"
+  title: "Lagrange – variationskalkyl och talteori"
+  wiki:
+    - "en:Joseph-Louis Lagrange"
+    - "sv:Lagrangepunkt"
+  text: |
+    **Joseph-Louis Lagrange** (1736–1813) föddes i Turin i Italien och var professor där redan som tonåring. 1766 efterträdde han Euler vid vetenskapsakademien i Berlin, på inbjudan av kung Fredrik den store, och flyttade 1787 till Paris. Han räknas, med Euler, som 1700-talets främste matematiker.
+
+    Som 19-åring skickade han till Euler en ny, rent analytisk metod för **variationskalkyl** – att hitta den funktion som gör en storhet minimal, som i [Bernoullis brakistokronproblem](#broderna-bernoulli). Euler gav den namnet och bidrog själv; resultatet kallas Euler–Lagranges ekvation. Under Berlinåren (1766–87) arbetade han med talteori – han bevisade bl.a. att varje positivt heltal är summan av fyra kvadrater, t.ex. 7 = 4 + 1 + 1 + 1 – och med ekvationslösning. Hans undersökning av varför det finns lösningsformler för tredje- och fjärdegradsekvationer, genom att studera hur rötterna kan permuteras, ledde vidare till [Abel och Galois](#galois-och-abel-femtegradsekvationen) och därmed gruppteorin.
+
+    Han arbetade också på himmelsmekanik: tre kroppar som påverkar varandra med gravitation, där han fann de jämviktspunkter som i dag kallas **Lagrangepunkter**. Där placeras rymdteleskop som James Webb. Hans stora sammanfattning kom 1788 i [Mécanique analytique](#lagrange-mekanik).
+
+euler-blind-men-produktiv:
+  period: 1760
+  label: "Euler blind men produktiv"
+  title: "Euler – blind men lika produktiv"
+  wiki:
+    - "sv:Leonhard Euler"
+  text: |
+    **Leonhard Euler** (1707–1783), schweizisk matematiker (se [Königsbergs broar](#euler-konigsbergs-broar-1736) och [Introductio](#euler-introductio-1748-e-i-1)), förlorade synen på höger öga redan på 1730-talet. 1766 lämnade han Berlin, där han inte trivdes med Fredrik den store, och återvände till Katarina den storas S:t Petersburg. Där blev han nästan helt blind på det andra ögat runt 1771, troligen av grå starr.
+
+    Det påverkade knappt hans produktion. Han hade ett enastående minne och räknade i huvudet; han dikterade för sina söner och assistenter. Ungefär hälften av hans verk skrevs under de blinda åren – ibland anges en artikel i veckan. Bland dem finns en lärobok i algebra (1770) för nybörjare, dikterad till en betjänt utan matematisk utbildning, och arbeten om månens bana som förbättrade navigationstabellerna (jfr [longitudproblemet](#harrisons-h4-loser-longitudproblemet)).
+
+    Hans samlade verk, Opera Omnia, har givits ut sedan 1911 och omfattar över 80 band – han står för en mycket stor andel av all matematik som publicerades under 1700-talet. Mycket av den notation vi använder kommer från honom: f(x) för funktioner, e, i, π och Σ för summor. Han dog 1783, enligt traditionen mitt under en beräkning av ballongers stigning efter nyheten om [Montgolfiers flygning](#montgolfiers-ballong-1783) samma år.
+
+metersystemet-1795:
+  period: 1780
+  label: "Metersystemet 1795"
+  title: "Metersystemet (1795)"
+  wiki:
+    - "sv:Metersystemet"
+    - "en:History of the metre"
+  text: |
+    Före franska revolutionen fanns i Frankrike enligt vissa uppskattningar hundratals olika måttenheter, ofta med samma namn men olika värden från stad till stad (siffran är ungefärlig). En "aln" eller ett "pund" var inte detsamma i Paris och Lyon. Det gynnade lokala makthavare och försvårade handel, skatteuppbörd och vetenskap. Sverige hade på samma sätt sina egna alnar, famnar och skålpund.
+
+    Efter [revolutionen 1789](#franska-revolutionen-1789) ville man skapa mått "för alla folk, för alla tider", grundade i naturen. Vetenskapsakademien, med bl.a. [Lagrange](#lagrange-mekanik), Laplace och Lavoisier, föreslog 1791 att en **meter** skulle vara en tiomiljondel av avståndet från nordpolen till ekvatorn längs meridianen genom Paris. Lagen om metersystemet kom 1795. Astronomerna Delambre och Méchain mätte meridianbågen mellan Dunkerque och Barcelona 1792–98, och 1799 tillverkades en platinastav som standardmeter. Massenheten **gram** definierades som vikten av en kubikcentimeter vatten. Allt delades decimalt: kilo- = 1 000, centi- = 1/100, milli- = 1/1 000.
+
+    Det decimala systemet gjorde räkning med mått lika enkelt som med vanliga tal. Det spreds med Napoleons erövringar; Sverige införde det 1878–89. Meterkonventionen 1875 gjorde det internationellt, och dagens SI-system bygger på det, numera med enheterna definierade via naturkonstanter (metern via ljusets hastighet sedan 1983). Revolutionens decimala klocka och kalender misslyckades däremot.
+
+gauss-sjuttonhorningen-1796:
+  period: 1780
+  label: "Gauss: sjuttonhörningen 1796"
+  title: "Gauss konstruerar sjuttonhörningen (1796)"
+  wiki:
+    - "en:Heptadecagon"
+    - "sv:Carl Friedrich Gauss"
+  text: |
+    **Carl Friedrich Gauss** (1777–1855) var son till en arbetare i Braunschweig i Tyskland. Hans begåvning upptäcktes tidigt och hertigen av Braunschweig bekostade hans studier. Han räknas ofta som en av de största matematikerna genom tiderna, kallad "matematikernas furste".
+
+    Sedan antikens Grekland visste man hur man med bara **passare och linjal** (utan skalmarkeringar) kan konstruera regelbundna månghörningar med 3, 4, 5 och 15 sidor, och fördubblingar av dessa. I över 2 000 år hade ingen hittat fler. Den 30 mars 1796, som 18-åring, visade Gauss att en regelbunden **17-hörning** kan konstrueras. Idén var algebraisk: hörnen motsvarar lösningarna till ekvationen z¹⁷ = 1 bland de komplexa talen, och han visade att cos(2π/17) kan uttryckas med bara de fyra räknesätten och kvadratrötter – precis det passare och linjal kan åstadkomma. Han visade mer allmänt att en n-hörning går att konstruera om n:s udda primfaktorer är olika **Fermatprimtal**, primtal av formen 2^(2^k) + 1: 3, 5, 17, 257, 65 537. Att villkoret också är nödvändigt bevisades 1837 av fransmannen Pierre Wantzel.
+
+    Upptäckten fick Gauss att välja matematik framför språkvetenskap. Den var början på hans dagbok med upptäckter och hans stora talteoriverk, [Disquisitiones Arithmeticae 1801](#gauss-disquisitiones-1801). Metoden – att översätta en geometrisk fråga till algebra och studera ekvationers struktur – pekar mot [Galois teori](#galois-och-abel-femtegradsekvationen). Gauss önskade enligt traditionen en 17-hörning på sin gravsten.
+
+lagrange-mekanik:
+  period: 1780
+  label: "Lagrange: mekanik"
+  title: "Lagranges analytiska mekanik (1788)"
+  wiki:
+    - "en:Mécanique analytique"
+    - "en:Lagrangian mechanics"
+  text: |
+    **Joseph-Louis Lagrange** (1736–1813), italiensk-fransk matematiker (se [Lagrange](#lagrange)), gav 1788 ut Mécanique analytique, en omformulering av Newtons mekanik. Han skröt i förordet med att boken inte innehöll en enda figur: allt var ren algebra och analys.
+
+    Newton beskriver rörelse med krafter, vektorer som måste ritas ut och delas upp för varje del av ett system. Lagrange utgick i stället från **energi**. För ett system väljer man några **generaliserade koordinater** q(t) som fullständigt beskriver läget – till exempel bara vinkeln för en pendel, i stället för x och y plus en kraft som håller snöret spänt. Sedan bildar man skillnaden mellan rörelseenergi och lägesenergi, L = T − V, och rörelsen följer av en standardekvation (Euler–Lagranges ekvation), samma för alla system. Bakom den ligger principen att naturen väljer den väg som gör en viss summa (verkan) stationär – en idé från variationskalkylen.
+
+    Metoden gör komplicerade problem med tvång, som robotarmar eller planetsystem, mycket enklare. Den vidareutvecklades av irländaren William Rowan Hamilton på 1830-talet, och Lagrange- och Hamiltonformuleringen blev det språk som [kvantmekaniken](#kvantmekaniken-192526) och modern fältteori skrevs i. Den används även i dag i robotik och fysiksimulering. Lagrange satt senare i kommittén som skapade [metersystemet](#metersystemet-1795).
+
+gauss-disquisitiones-1801:
+  period: 1800
+  label: "Gauss: Disquisitiones 1801"
+  title: "Talteorin får sitt språk"
+  wiki:
+    - "en:Disquisitiones Arithmeticae"
+    - "sv:Carl Friedrich Gauss"
+    - "en:Modular arithmetic"
+  text: |
+    **Carl Friedrich Gauss** (1777–1855) var en tysk matematiker, ofta kallad "matematikens furste". Redan som 19-åring visade han hur en regelbunden sjuttonhörning kan konstrueras med passare och linjal ([sjuttonhörningen](#gauss-sjuttonhorningen-1796)). 1801, vid 24 års ålder, gav han ut *Disquisitiones Arithmeticae* ("Aritmetiska undersökningar"), som gjorde talteorin – läran om heltalens egenskaper – till en systematisk disciplin.
+
+    Bokens mest bestående bidrag är *kongruensräkning*, det vi i dag kallar modulär aritmetik. Gauss införde skrivsättet a ≡ b (mod n), som betyder att heltalen a och b ger samma rest vid division med heltalet n. Exempelvis är 17 ≡ 5 (mod 12) – samma sak som att klockan 17 är klockan 5. Med detta språk kunde han räkna med rester nästan som med vanliga tal. Han bevisade också den *kvadratiska reciprocitetslagen*, ett djupt samband som avgör när ekvationen x² ≡ p (mod q) har lösningar för två primtal p och q; [Euler](#euler-introductio-1748-e-i-1) och andra hade bara anat den.
+
+    Samma år blev Gauss berömd även utanför matematiken genom att räkna ut banan för den nyupptäckta dvärgplaneten Ceres, med en metod som ledde till minsta-kvadratmetoden. För en datavetare är arvet påtagligt: modulär aritmetik är grunden för hashfunktioner, kontrollsummor och kryptering som [RSA](#rsa-1977), där all räkning sker modulo ett stort tal.
+
+fourierserier:
+  period: 1800
+  label: "Fourierserier"
+  title: "Varje kurva är en summa av sinusvågor"
+  wiki:
+    - "sv:Fourierserie"
+    - "sv:Joseph Fourier"
+  text: |
+    **Joseph Fourier** (1768–1830) var en fransk matematiker och fysiker som följde med [Napoleon till Egypten](#napoleon-i-egypten-1798) och sedan blev ämbetsman i Grenoble. Där studerade han hur värme sprids i fasta kroppar och lade 1807 fram en uppseendeväckande idé, publicerad i sin helhet 1822.
+
+    Idén: en periodisk funktion f(t), där t är en reell variabel (till exempel tid) och f upprepar sig med perioden 2π, kan skrivas som en oändlig summa av sinus- och cosinusvågor med allt högre frekvens: f(t) = a₀/2 + a₁·cos(t) + b₁·sin(t) + a₂·cos(2t) + b₂·sin(2t) + … Talen aₙ och bₙ (koefficienterna) anger hur mycket av varje frekvens n som finns i f(t), och de beräknas med integraler. Det överraskande var att det gäller även för kurvor med hörn och språng, som en fyrkantsvåg. Fourier använde det för att lösa värmeledningsekvationen: varje sinusvåg avtar för sig, på ett enkelt sätt.
+
+    Samtida som Lagrange tvivlade, och frågan om när summan verkligen konvergerar tvingade fram en stringent analys. [Riemanns](#riemann) integralbegrepp och [Cantors mängdlära](#cantor-mangdlara-1874) växte båda ur frågor om Fourierserier. I dag finns idén överallt: den snabba Fouriertransformen (FFT, 1965) räknar ut frekvensinnehållet i en signal, JPEG och MP3 komprimerar genom att slänga oviktiga frekvenser, och radio, bildbehandling och kvantmekanik bygger på samma sätt att dela upp en signal i frekvenser.
+
+galois-och-abel-femtegradsekvationen:
+  period: 1820
+  label: "Galois och Abel: femtegradsekvationen"
+  title: "Ekvationen som inte har någon formel"
+  wiki:
+    - "en:Abel–Ruffini theorem"
+    - "en:Galois theory"
+    - "sv:Niels Henrik Abel"
+  text: |
+    Andragradsekvationer löses med den välkända formeln med kvadratrot. Italienska matematiker hade på 1500-talet hittat liknande, men mycket krångligare, formler för tredje- och fjärdegradsekvationer, uttryckta med de fyra räknesätten och rotutdragningar. I nästan 300 år letade man förgäves efter en formel för femte graden, alltså ekvationer som x⁵ − x − 1 = 0.
+
+    **Niels Henrik Abel** (1802–1829), en norsk matematiker, bevisade 1824 att någon sådan allmän formel inte kan finnas, byggande på ett ofullständigt bevis av italienaren Paolo Ruffini (1799). Ekvationerna har lösningar, men de kan i allmänhet inte uttryckas med rötter. **Évariste Galois** (1811–1832), en fransk student och revolutionär republikan, gick längre: han gav ett kriterium för exakt *vilka* ekvationer som kan lösas med rötter. Till varje ekvation knöt han en mängd permutationer av lösningarna, som respekterar alla algebraiska samband mellan dem, och studerade hur dessa permutationer kan kombineras. Ekvationen är lösbar precis när denna struktur har en viss enkel uppbyggnad. Galois dog 20 år gammal efter en duell; hans arbeten förstods först när de publicerades 1846. Abel dog i tuberkulos vid 26.
+
+    Strukturen Galois studerade fick namnet *grupp*: en mängd med en operation som går att sätta ihop och vända på. Gruppbegreppet blev ett av den moderna matematikens grundbegrepp och används i dag för symmetrier i kristaller och partikelfysik, i felrättande koder och i elliptisk-kurv-kryptografi. Det var ett tidigt exempel på att matematiken började studera strukturer i sig, en linje som fortsatte med [Dedekind](#dedekind) och [Hilbert](#hilbert). Abelpriset i matematik, instiftat av Norge 2002, bär Abels namn.
+
+icke-euklidisk-geometri:
+  period: 1820
+  label: "icke-euklidisk geometri"
+  title: "Parallellaxiomet faller"
+  wiki:
+    - "sv:Icke-euklidisk geometri"
+    - "en:Parallel postulate"
+  text: |
+    I drygt 2 000 år var den grekiske matematikern Euklides *Elementa* (ca 300 f.Kr.) mönstret för säker kunskap: några få grundantaganden, axiom, och allt annat strikt härlett ur dem. Ett axiom störde dock: *parallellaxiomet*, som säger att genom en punkt utanför en linje går exakt en linje som aldrig skär den. Det var mindre självklart än de andra, och många försökte bevisa det ur resten.
+
+    Omkring 1830 visade tre personer oberoende av varandra att det inte går. **Nikolaj Lobatjevskij** (1792–1856) i ryska Kazan publicerade 1829 och ungraren **János Bolyai** (1802–1860) 1832 en geometri där genom punkten går *oändligt många* parallella linjer. [Gauss](#gauss-disquisitiones-1801) hade kommit till samma slutsats men vågade inte publicera. Den nya geometrin är lika logiskt konsistent som Euklides, men i den är vinkelsumman i en triangel *mindre* än 180°, och mindre ju större triangeln är. Den kallas *hyperbolisk*. På en sfär gäller det omvända: där finns inga parallella linjer och triangelns vinkelsumma är större än 180°.
+
+    Det var en kunskapsteoretisk chock: axiom är inte självklara sanningar om rummet, utan val, och vilken geometri den fysiska världen har är en empirisk fråga. [Riemann](#riemann) gav 1854 en allmän teori för krökta rum i godtyckligt antal dimensioner, och den blev matematiken bakom [Einsteins allmänna relativitetsteori](#einstein-1905-och-1915), där gravitation är rumtidens krökning. Hyperbolisk geometri används i dag även för att bädda in hierarkiska data, som träd och grafer, i maskininlärning.
+
+boole-boolesk-algebra-1854:
+  period: 1840
+  label: "Boole: boolesk algebra 1854"
+  title: "Logik blir algebra"
+  wiki:
+    - "sv:Boolesk algebra"
+    - "sv:George Boole"
+  text: |
+    **George Boole** (1815–1864) var en engelsk matematiker, son till en skomakare och till stor del självlärd, som blev professor i Cork på Irland. I *The Laws of Thought* (1854), och redan i en kortare skrift 1847, visade han att logiskt resonerande kan skrivas som räkning.
+
+    Idén: låt variabler som x och y stå för påståenden (eller klasser av saker) som kan ha värdet 1 (sant) eller 0 (falskt). Då kan "x och y" skrivas x·y, "inte x" som 1 − x, och "x eller y" (med uteslutning av båda samtidigt hos Boole) som x + y. Lagar som vanlig algebra gäller, plus en ny: x·x = x, eftersom "x och x" är detsamma som x. Ekvationen x(1 − x) = 0 säger då att något inte kan vara både sant och falskt. Logik som sedan Aristoteles på 300-talet f.Kr. hade varit ord och syllogismer blev en kalkyl med symboler.
+
+    Booles algebra förbättrades av efterföljare och blev grunden för den formella logiken hos [Frege](#frege-logik) och andra. Det verkliga genombrottet kom 1937, när den amerikanske studenten Claude Shannon i sin masteruppsats visade att reläkretsar i telefonväxlar kan beskrivas och konstrueras med boolesk algebra – samma Shannon som skrev [informationsteorin](#shannon-informationsteori-1948). Sedan dess är varje logisk grind i en processor (AND, OR, NOT) ett stycke boolesk algebra, och datatypen *boolean* i programspråk bär hans namn.
+
+ada-lovelace-1843:
+  period: 1840
+  label: "Ada Lovelace 1843"
+  title: "Det första publicerade programmet"
+  wiki:
+    - "sv:Ada Lovelace"
+    - "en:Analytical engine"
+  text: |
+    **Ada Lovelace** (1815–1852), född Byron, var dotter till poeten Lord Byron och fick på moderns önskan en ovanligt grundlig matematisk utbildning för en kvinna på hennes tid. Hon blev vän med [Charles Babbage](#babbages-differensmaskin-1822) och fascinerades av hans planerade *analytiska maskin*: en mekanisk, allmänt programmerbar räknemaskin med ett minne ("store"), en räkneenhet ("mill") och program på hålkort som i [Jacquardvävstolen](#jacquardvavstolen-med-halkort-1804).
+
+    1843 översatte hon en artikel om maskinen av den italienske ingenjören Luigi Menabrea och lade till egna "noter" som blev ungefär tre gånger så långa som originalet. I not G beskrev hon steg för steg hur maskinen skulle räkna ut *Bernoullital*, en talföljd som används inom analysen, med variabler, upprepade slingor och mellanresultat. Det brukar räknas som det första publicerade datorprogrammet. Hur stor hennes egen andel var, jämfört med Babbages, diskuteras av historiker.
+
+    Hennes mest framsynta tanke var att maskinen kunde hantera mer än tal: den kunde bearbeta vilka symboler som helst, till exempel musik, om man bara kodade dem lämpligt. Samtidigt skrev hon att maskinen inte kan "skapa" något, bara utföra det vi vet hur vi ska beordra den – ett argument som [Alan Turing](#turingmaskinen-1936) diskuterade 1950 som "Lady Lovelaces invändning". Maskinen byggdes aldrig. Programspråket Ada (1980) är uppkallat efter henne.
+
+riemann:
+  period: 1840
+  label: "Riemann"
+  title: "Riemann: krökta rum och primtalens gåta"
+  wiki:
+    - "sv:Bernhard Riemann"
+    - "sv:Riemannhypotesen"
+  text: |
+    **Bernhard Riemann** (1826–1866) var en tysk matematiker, elev till [Gauss](#gauss-disquisitiones-1801) i Göttingen. Han dog i tuberkulos vid 39 års ålder och publicerade relativt lite, men nästan varje arbete öppnade ett nytt fält.
+
+    I sin provföreläsning 1854 lade han grunden till *Riemanngeometri*: en allmän teori för rum med godtyckligt antal dimensioner som kan vara krökta, och där avstånd mäts lokalt med en formel som kan variera från punkt till punkt (en *metrik*). Den plana euklidiska geometrin och [de icke-euklidiska geometrierna](#icke-euklidisk-geometri) blev specialfall. Riemann gav också en exakt definition av integralen, den *Riemannintegral* som undervisas i varje analyskurs, motiverad av frågor kring [Fourierserier](#fourierserier).
+
+    1859 skrev han en enda artikel om talteori, om hur primtalen är fördelade. Han kopplade antalet primtal under ett tal till nollställena för en funktion av komplexa tal, *zetafunktionen* ζ(s), och förmodade att alla dess "intressanta" nollställen ligger på en viss rät linje. Det är *Riemannhypotesen*, i dag kanske matematikens mest kända olösta problem; den fanns med bland [Hilberts 23 problem](#hilberts-23-problem-1900) och har ett pris på en miljon dollar. Hans geometri blev 60 år senare språket för [Einsteins allmänna relativitetsteori](#einstein-1905-och-1915).
+
+cantor-mangdlara-1874:
+  period: 1860
+  label: "Cantor: mängdlära 1874"
+  title: "Oändligheter av olika storlek"
+  wiki:
+    - "sv:Mängdlära"
+    - "sv:Georg Cantor"
+    - "en:Cantor's diagonal argument"
+  text: |
+    **Georg Cantor** (1845–1918) var en tysk matematiker, född i Sankt Petersburg och verksam i Halle. Han kom till mängdläran via frågor om [Fourierserier](#fourierserier): på vilka mängder av punkter får en serie bete sig konstigt? Det ledde honom att studera mängder, samlingar av objekt, som självständiga matematiska föremål.
+
+    1874 visade han något häpnadsväckande: det finns olika stora oändligheter. Två mängder är lika stora om deras element kan paras ihop ett mot ett. De naturliga talen 1, 2, 3, … och de jämna talen 2, 4, 6, … är lika stora (para n med 2n), och även bråktalen kan räknas upp i en lista. Men de reella talen kan inte det. Hans mest kända bevis, *diagonalargumentet* från 1891, går så här: anta att alla reella tal mellan 0 och 1 står i en lista. Bilda ett nytt tal vars n:te decimal skiljer sig från n:te decimalen i det n:te talet i listan. Det talet finns inte i listan – motsägelse. Alltså finns det "fler" reella tal än naturliga tal.
+
+    Många samtida, särskilt Leopold Kronecker, avvisade idéerna, men mängdläran blev grunden för nästan all modern matematik. Den ledde också till kris: [Russells paradox](#russells-paradox) visade att naiv mängdlära är motsägelsefull. Diagonalargumentet återkommer hos [Gödel](#godels-ofullstandighetssats-1931) och i [Turings](#turingmaskinen-1936) bevis att stopproblemet inte kan lösas – att inget program kan avgöra om ett godtyckligt program någonsin stannar.
+
+dedekind:
+  period: 1860
+  label: "Dedekind"
+  title: "Dedekind: vad är ett reellt tal?"
+  wiki:
+    - "sv:Richard Dedekind"
+    - "en:Dedekind cut"
+  text: |
+    **Richard Dedekind** (1831–1916) var en tysk matematiker, den siste doktoranden hos [Gauss](#gauss-disquisitiones-1801) och nära vän till [Riemann](#riemann) och [Cantor](#cantor-mangdlara-1874). Han var under nästan 50 år lärare vid tekniska högskolan i Braunschweig och sökte aldrig de prestigefyllda universitetstjänsterna.
+
+    Hans mest kända bidrag (publicerat 1872) besvarade en fråga som verkar banal: vad *är* ett reellt tal som √2? Grekerna visste att √2 inte kan skrivas som ett bråk, och matematiker hade räknat med reella tal i 200 år utan definition. Dedekind byggde dem ur de rationella talen (bråken) med ett *snitt*: dela upp alla bråk i två mängder A och B så att varje tal i A är mindre än varje tal i B. Varje sådan uppdelning definierar ett reellt tal. √2 är snittet där A innehåller alla bråk vars kvadrat är mindre än 2 (och alla negativa), och B resten. Då kan man bevisa att talen saknar "hål", något analysen kräver.
+
+    1888 gav han en axiomatisk beskrivning av de naturliga talen, som Giuseppe Peano strax därefter formulerade i den form som kallas Peanos axiom: en nolla, en efterföljarfunktion och induktion. Det är exakt hur naturliga tal definieras i dagens bevisassistenter. Han införde också begrepp som *ideal* och lade grunden till abstrakt algebra, en linje som gick vidare till [Hilbert](#hilbert) och Emmy Noether.
+
+poincare-kaos-i-trekropparsproblemet:
+  period: 1880
+  label: "Poincaré: kaos i trekropparsproblemet"
+  title: "Poincaré upptäcker kaos"
+  wiki:
+    - "sv:Henri Poincaré"
+    - "en:Three-body problem"
+  text: |
+    **Henri Poincaré** (1854–1912) var en fransk matematiker, en av de sista som behärskade nästan hela matematiken. År 1885 utlyste den svenske kungen Oscar II, på initiativ av matematikern Gösta Mittag-Leffler, en pristävling där en av frågorna gällde solsystemets stabilitet: kommer planeterna att fortsätta i sina banor för evigt?
+
+    Kärnan är *trekropparsproblemet*: hur rör sig tre kroppar som drar i varandra med gravitation? Två kroppar går att lösa exakt – de rör sig i ellipser, som Kepler och Newton visade. Med tre finns ingen allmän formel. Poincaré vann priset 1889, men ett allvarligt fel upptäcktes i arbetet (efter frågor från svensken Edvard Phragmén). När Poincaré rättade det fann han något häpnadsväckande: vissa banor trasslar in sig så invecklat att en ytterst liten skillnad i startläget växer till en helt annan bana. Systemet är deterministiskt – framtiden är bestämd av nuet – men i praktiken oförutsägbart på lång sikt.
+
+    Detta är det vi i dag kallar *kaos*. Poincaré utvecklade också geometriska och topologiska metoder för att studera rörelse kvalitativt i stället för att räkna fram exakta formler. Idén glömdes delvis tills datorsimuleringar gjorde den synlig: [Edward Lorenz väderexperiment 1963](#lorenz-kaos-1963). Poincarés namn lever också i den topologiska förmodan som [Perelman bevisade 2003](#perelman-poincareformodan-2003).
+
+hilbert:
+  period: 1880
+  label: "Hilbert"
+  title: "David Hilbert och axiomatisk matematik"
+  wiki:
+    - "sv:David Hilbert"
+    - "en:Hilbert's program"
+  text: |
+    **David Hilbert** (1862–1943) var en tysk matematiker i Göttingen, som under hans tid blev världens ledande matematiska centrum. Han är känd för att göra matematiken mer abstrakt och mer formellt stringent.
+
+    Ett tidigt exempel är hans sats från 1888 om invarianter (storheter som inte ändras när man byter koordinater): han bevisade att en viss ändlig bas *måste* finnas utan att visa hur man konstruerar den. Sådana icke-konstruktiva existensbevis var kontroversiella. År 1899 gav han ut *Grundlagen der Geometrie*, där han skrev om Euklides geometri som ett fullständigt axiomsystem: alla slutsatser ska följa logiskt ur axiomen, oavsett vad orden betyder. Han ska ha sagt att man lika gärna kunde säga "bord, stolar och ölsejdlar" i stället för "punkter, linjer och plan".
+
+    Hilbert gav år 1900 matematiken en forskningsagenda med [sina 23 problem](#hilberts-23-problem-1900). På 1920-talet formulerade han sitt program: all matematik ska skrivas som ett formellt system, och man ska med enkla, ändliga metoder bevisa att systemet aldrig leder till motsägelse. [Gödel visade 1931](#godels-ofullstandighetssats-1931) att det målet inte går att nå. Hilberts abstrakta funktionsrum, Hilbertrummen, blev samtidigt det matematiska språket för [kvantmekaniken](#kvantmekaniken-192526). Hans tanke om matematik som formell symbolmanipulation lever vidare i dagens bevisassistenter.
+
+frege-logik:
+  period: 1880
+  label: "Frege: logik"
+  title: "Frege skapar den moderna logiken"
+  wiki:
+    - "sv:Gottlob Frege"
+    - "en:Begriffsschrift"
+  text: |
+    **Gottlob Frege** (1848–1925) var en tysk matematiker i Jena, föga uppmärksammad under sin livstid. I boken *Begriffsschrift* (1879) skapade han det första formella språket för det vi i dag kallar *predikatlogik*: logik med variabler, funktioner och kvantorer, alltså "för alla x" (∀x) och "det finns ett x" (∃x).
+
+    Den logik som dominerat sedan Aristoteles kunde bara hantera enkla slutledningar av typen "alla människor är dödliga, Sokrates är en människa, alltså är Sokrates dödlig". Den kunde inte uttrycka nästlade påståenden som "för varje tal finns ett större tal" (∀x ∃y: y > x). Inte heller [Booles algebra](#boole-boolesk-algebra-1854) klarade det. Frege gjorde det möjligt att skriva matematiska bevis så exakt att varje steg kan kontrolleras mekaniskt.
+
+    Hans mål var *logicismen*: att visa att aritmetiken går att härleda ur ren logik. I *Grundgesetze der Arithmetik* (1893–1903) försökte han, men 1902 fick han ett brev från Bertrand Russell som visade att ett av hans axiom ledde till en motsägelse – [Russells paradox](#russells-paradox). Projektet föll, men språket överlevde. Freges logik är grunden för [Gödels](#godels-ofullstandighetssats-1931) och Turings arbeten, för databasfrågespråk och för dagens bevisassistenter.
+
+hilberts-23-problem-1900:
+  period: 1900
+  label: "Hilberts 23 problem 1900"
+  title: "Hilberts lista över olösta problem"
+  wiki:
+    - "sv:Hilberts problem"
+    - "en:Hilbert's problems"
+  text: |
+    Vid den internationella matematikerkongressen i Paris i augusti 1900 höll den tyske matematikern [David Hilbert](#hilbert) ett föredrag om vad det nya seklet borde lösa. Han presenterade 23 problem (tio i själva talet, alla i den tryckta versionen). Listan blev en sorts forskningsagenda för 1900-talets matematik.
+
+    Några exempel: Problem 1 är *kontinuumhypotesen* från [Cantors mängdlära](#cantor-mangdlara-1874) – finns det en oändlighet som är större än de hela talens men mindre än de reella talens? Gödel (1940) och Paul Cohen (1963) visade att frågan varken kan bevisas eller motbevisas med de vanliga axiomen. Problem 2 var att bevisa att aritmetiken är motsägelsefri, vilket [Gödels ofullständighetssats](#godels-ofullstandighetssats-1931) visade inte går med aritmetikens egna medel. Problem 8 innehåller *Riemannhypotesen* om primtalens fördelning, fortfarande olöst. Problem 10 frågade efter en algoritm som avgör om en polynomekvation med heltalskoefficienter har heltalslösningar; 1970 visade Jurij Matijasevitj att någon sådan algoritm inte kan finnas.
+
+    Problemen var av mycket olika karaktär, och några var så vagt formulerade att de saknar entydigt svar. Ungefär hälften räknas i dag som lösta. Listan inspirerade år 2000 Clayinstitutets sju "millennieproblem" med en miljon dollar i pris vardera, varav bara ett är löst – [Poincaréförmodan](#perelman-poincareformodan-2003).
+
+russells-paradox:
+  period: 1900
+  label: "Russells paradox"
+  title: "Russells paradox"
+  wiki:
+    - "sv:Russells paradox"
+    - "en:Type theory"
+  text: |
+    **Bertrand Russell** (1872–1970) var en brittisk filosof och logiker, senare även känd som fredsaktivist. År 1901 hittade han en motsägelse i den "naiva" mängdläran, där varje beskrivning anses definiera en mängd (se [Cantors mängdlära](#cantor-mangdlara-1874)).
+
+    Paradoxen: vissa mängder innehåller sig själva (t.ex. mängden av alla mängder med fler än tre element), de flesta gör det inte. Bilda nu R = mängden av alla mängder som *inte* innehåller sig själva. Innehåller R sig själv? Om ja, uppfyller R inte villkoret och ska inte vara med. Om nej, uppfyller R villkoret och ska vara med. Båda svaren leder till motsägelse. En vardagsversion är barberaren som rakar alla som inte rakar sig själva.
+
+    Russell skrev 1902 till [Gottlob Frege](#frege-logik), vars stora verk om aritmetikens grund var på väg till trycket, och visade att Freges system föll på just detta. Krisen ledde till två huvudlösningar. Ernst Zermelo (1908) begränsade med axiom vilka mängder man får bilda, vilket blev dagens standardgrund ZFC. Russell själv utvecklade *typteorin*: varje objekt har en typ, och en mängd kan bara innehålla objekt av lägre typ, så frågan "innehåller R sig själv" går inte ens att ställa. Med Alfred North Whitehead byggde han matematiken på den grunden i *Principia Mathematica* (1910–13). Typteorin är förfader till typsystemen i programspråk och till moderna bevisassistenter.
+
+ramanujan:
+  period: 1900
+  label: "Ramanujan"
+  title: "Ramanujan, självlärt geni"
+  wiki:
+    - "sv:Srinivasa Ramanujan"
+    - "en:Partition function (number theory)"
+  text: |
+    **Srinivasa Ramanujan** (1887–1920) var en indisk matematiker från dagens Tamil Nadu i södra Indien, då en del av Brittiska Indien. Han hade nästan ingen formell utbildning i högre matematik, men lärde sig själv ur en gammal formelsamling och fyllde anteckningsböcker med tusentals egna resultat, ofta utan bevis. Han arbetade som kontorist i Madras.
+
+    År 1913 skrev han till den ledande engelske talteoretikern **G.H. Hardy** i Cambridge och bifogade ett hundratal formler. Hardy insåg att några måste vara sanna eftersom ingen skulle kunna hitta på dem, och tog honom till Cambridge 1914. Tillsammans arbetade de bland annat med *partitioner*: på hur många sätt kan ett heltal skrivas som summa av positiva heltal? (Talet 4 kan skrivas på 5 sätt: 4, 3+1, 2+2, 2+1+1, 1+1+1+1; talet 200 på nästan 4·10¹² sätt.) De fann en formel som ger svaret förvånansvärt exakt för stora tal.
+
+    Han blev 1918 en av de första indierna i Royal Society, men blev sjuk, återvände hem och dog 32 år gammal. Hans formler, bland annat snabbt konvergerande serier för π (som senare användes i datorprogram som räknar fram miljontals decimaler), studeras fortfarande; en "förlorad anteckningsbok" hittades 1976. Mest känd är anekdoten om taxinummer 1729, det minsta talet som kan skrivas som summa av två kuber på två sätt (1³+12³ = 9³+10³). Hans bana speglar också kolonialtidens Indien, några år före [Gandhis återkomst](#gandhi-tillbaka-1915).
+
+godels-ofullstandighetssats-1931:
+  period: 1920
+  label: "Gödels ofullständighetssats 1931"
+  title: "Gödel: matematikens inbyggda gräns"
+  wiki:
+    - "sv:Gödels ofullständighetssatser"
+    - "sv:Kurt Gödel"
+  text: |
+    **Kurt Gödel** (1906–1978) var en österrikisk logiker, 25 år gammal i Wien när han 1931 publicerade sina två ofullständighetssatser. De gäller *formella system*: en fast uppsättning axiom plus mekaniska slutledningsregler, där man kan kontrollera varje bevis steg för steg. [David Hilbert](#hilbert) hoppades att ett sådant system skulle kunna bevisa alla sanna matematiska påståenden och visa sin egen motsägelsefrihet.
+
+    Första satsen: varje motsägelsefritt formellt system som är starkt nog att uttrycka vanlig heltalsaritmetik innehåller påståenden som är sanna men som systemet inte kan bevisa. Tricket är *gödelnumrering*: varje formel och varje bevis kodas som ett heltal, så att påståenden om bevis blir påståenden om tal. Då kan man konstruera en mening G som i princip säger "G går inte att bevisa i detta system". Om systemet bevisade G vore det motsägelsefullt; alltså är G obevisbar – och därmed sann. Andra satsen: ett sådant system kan inte bevisa sin egen motsägelsefrihet.
+
+    Detta krossade [Hilberts andra problem](#hilberts-23-problem-1900) i dess ursprungliga form. Idén att koda program och data som tal, och låta ett system resonera om sig självt, ledde direkt till [Turings](#turingmaskinen-1936) bevis 1936 att vissa problem inte kan lösas av någon algoritm, till exempel att avgöra om ett godtyckligt program stannar. Satserna säger inte att matematiken är godtycklig; i praktiken går nästan all vardaglig matematik att bevisa i standardsystemen.
+
+turingmaskinen-1936:
+  period: 1920
+  label: "Turingmaskinen 1936"
+  title: "Turingmaskinen: vad en algoritm är"
+  wiki:
+    - "sv:Turingmaskin"
+    - "sv:Alan Turing"
+  text: |
+    **Alan Turing** (1912–1954) var en brittisk matematiker. 1936, 24 år gammal, besvarade han Hilberts *Entscheidungsproblem*: finns det en mekanisk metod som för varje logiskt påstående avgör om det är bevisbart? För att svara måste han först definiera exakt vad "mekanisk metod" betyder.
+
+    Hans modell, *turingmaskinen*, är en tänkt apparat med ett oändligt band uppdelat i rutor med symboler, ett läs- och skrivhuvud och ett ändligt antal tillstånd. En tabell anger för varje kombination av tillstånd och läst symbol: vad som ska skrivas, om huvudet ska flytta ett steg åt vänster eller höger, och vilket nytt tillstånd maskinen går till. Trots denna enkelhet kan den beräkna allt som en dator kan. Turing visade också att det finns en *universell* maskin som läser in beskrivningen av en annan maskin på bandet och kör den – idén om ett lagrat program. Med ett argument i [Gödels](#godels-ofullstandighetssats-1931) anda bevisade han sedan att inget program kan avgöra om ett godtyckligt program stannar (stopproblemet), och därmed att Entscheidungsproblemet saknar lösning.
+
+    Amerikanen Alonzo Church kom samtidigt fram till samma svar med en annan formalism, lambdakalkylen, grunden för funktionell programmering; de två visade sig vara likvärdiga. Under kriget var Turing central i Bletchley Park där tyska Enigmameddelanden knäcktes, och efter kriget konstruerade han datorer och föreslog Turingtestet för maskinintelligens. Hans begrepp ligger bakom [von Neumanns](#von-neumann) datorarkitektur och dagens komplexitetsteori som [NP-fullständighet](#np-fullstandighet-1971).
+
+shannon-informationsteori-1948:
+  period: 1940
+  label: "Shannon: informationsteori 1948"
+  title: "Shannon grundar informationsteorin"
+  wiki:
+    - "sv:Claude Shannon"
+    - "en:A Mathematical Theory of Communication"
+  text: |
+    **Claude Shannon** (1916–2001) var en amerikansk matematiker och ingenjör vid Bell Labs, telefonbolaget AT&T:s forskningslaboratorium. Redan i sin magisteruppsats 1937 hade han visat att reläkretsar kan beskrivas med [boolesk algebra](#boole-boolesk-algebra-1854), vilket blev grunden för digital kretsdesign. 1948 publicerade han "A Mathematical Theory of Communication".
+
+    Där definierade han information matematiskt, oberoende av betydelse. Enheten är *biten*: informationen i svaret på en ja/nej-fråga där båda svaren är lika sannolika. *Entropin* H för en källa är det genomsnittliga antalet bitar per symbol som behövs; för symboler med sannolikheter p₁, …, pₙ är H = −Σ pᵢ·log₂(pᵢ). Engelsk text har låg entropi eftersom den är förutsägbar, därför kan den komprimeras. Hans andra huvudresultat: varje brusig kanal har en *kapacitet* C, ett maximalt antal bitar per sekund. Under C kan man med tillräckligt smart kodning få felsannolikheten godtyckligt liten; över C går det inte.
+
+    Shannon visade att gränsen finns, inte hur man når den. Jakten på koder som kommer nära tog decennier – Hammingkoder, Reed–Solomon (cd-skivor, QR-koder), turbokoder och LDPC-koder i dagens 4G/5G och wifi ligger nära Shannongränsen. Komprimering som zip och mp3, kryptografi (han analyserade krypton med samma verktyg) och hela digitaltekniken vilar på hans ramverk, och även maskininlärningens förlustfunktioner bygger på entropi.
+
+von-neumann:
+  period: 1940
+  label: "von Neumann"
+  title: "John von Neumann"
+  wiki:
+    - "sv:John von Neumann"
+    - "en:Von Neumann architecture"
+  text: |
+    **John von Neumann** (1903–1957) var en ungersk-amerikansk matematiker, från 1933 vid Institute for Advanced Study i Princeton. Han var ovanligt bred: han gav [kvantmekaniken](#kvantmekaniken-192526) en stringent matematisk form 1932, grundade spelteorin (matematiken för strategiska beslut mellan flera parter; se [Nash](#nash)) och arbetade med Manhattanprojektet på implosionstekniken för plutoniumbomben.
+
+    Hans mest kända avtryck för en datavetare är *von Neumann-arkitekturen*. 1945 skrev han en rapport om EDVAC, efterföljaren till [ENIAC](#eniac-1945). Där beskrivs en dator med en processor (räkneenhet och styrenhet), ett minne som lagrar både program och data, samt in- och utmatning. Att programmet ligger i samma minne som data, och därmed kan laddas, ändras och till och med behandlas som data, var avgörande: ENIAC programmerades genom att man kopplade om kablar. Idén vilar på [Turings universella maskin](#turingmaskinen-1936), och ingenjörerna J. Presper Eckert och John Mauchly hade liknande tankar – rapporten bar bara von Neumanns namn, vilket skapade bitterhet.
+
+    Han byggde senare IAS-datorn i Princeton (klar 1951), vars konstruktion kopierades i många länder, även av svenska BESK 1953. Han startade numeriska väderprognoser på dator, uppfann Monte Carlo-metoden tillsammans med Stanisław Ulam (att räkna ut något genom många slumpförsök) och studerade självreproducerande automater. Flaskhalsen mellan processor och minne kallas än i dag "von Neumann-flaskhalsen".
+
+nash:
+  period: 1940
+  label: "Nash"
+  title: "Nash och jämvikten i spel"
+  wiki:
+    - "sv:John Forbes Nash"
+    - "sv:Nashjämvikt"
+  text: |
+    **John Nash** (1928–2015) var en amerikansk matematiker. Han byggde vidare på *spelteorin*, som [John von Neumann](#von-neumann) och ekonomen Oskar Morgenstern grundade i boken *Theory of Games and Economic Behavior* (1944). Ett "spel" i den meningen är varje situation där flera aktörer väljer strategier och var och ens utfall beror på allas val – schack, prissättning, förhandlingar, kapprustning. Von Neumann hade främst löst nollsummespel för två, där den enes vinst är den andres förlust.
+
+    I sin avhandling i Princeton 1950, 21 år gammal, definierade Nash det som nu kallas *Nashjämvikt*: ett val av strategier, en för varje spelare, där ingen kan vinna på att ändra sin egen strategi om de andra behåller sina. Han bevisade, med en fixpunktssats från topologin, att varje spel med ändligt många spelare och val har minst en sådan jämvikt om man tillåter slumpade strategier. Det gäller även spel som inte är nollsumma.
+
+    Ett känt exempel är *fångarnas dilemma*: två misstänkta förhörs separat; tiger båda får de korta straff, men var och en vinner på att ange den andre, så jämvikten blir att båda anger – sämre för dem båda. Det visar att individuellt rationella val inte behöver ge det kollektivt bästa, ett centralt tema för ekonomi, kalla krigets kärnvapenstrategi och evolutionsbiologi. Nash drabbades av schizofreni från slutet av 1950-talet men återhämtade sig gradvis, och fick ekonomipriset till Nobels minne 1994 och Abelpriset 2015. Hans liv skildrades i filmen *A Beautiful Mind*.
+
+lorenz-kaos-1963:
+  period: 1960
+  label: "Lorenz: kaos 1963"
+  title: "Lorenz och fjärilseffekten"
+  wiki:
+    - "en:Lorenz system"
+    - "en:Butterfly effect"
+  text: |
+    Edward Lorenz var meteorolog vid MIT och körde väderprognoser på en tidig dator. 1961 ville han upprepa en körning och skrev in ett mellanvärde avrundat till tre decimaler (0,506 i stället för 0,506127). Efter några simulerade veckor var resultatet ett helt annat väder. Felet var inte datorns: systemet förstärkte en skillnad på en tiotusendel tills den dominerade.
+
+    1963 publicerade han detta med en förenklad modell av konvektion (varm luft som stiger): tre variabler x(t), y(t), z(t) som beror av tiden t, styrda av ekvationerna dx/dt = 10(y(t) − x(t)), dy/dt = x(t)(28 − z(t)) − y(t), dz/dt = x(t)y(t) − (8/3)z(t). Systemet är helt deterministiskt – inget slumpmässigt – men två startpunkter som ligger nära varandra glider isär exponentiellt. Banorna rör sig ändå inom en begränsad fjärilsformad figur, Lorenzattraktorn.
+
+    Slutsatsen: vädret kan i princip inte förutsägas mer än ett par veckor fram, hur bra datorerna än blir. Lorenz föredrag 1972 gav idén namnet fjärilseffekten (”kan en fjärils vingslag i Brasilien orsaka en tornado i Texas?”). Fenomenet hade anats av [Poincaré](#poincare-kaos-i-trekropparsproblemet) kring 1890, men Lorenz datorexperiment startade kaosteorin som fält, nära besläktad med [Mandelbrots fraktaler](#mandelbrot-fraktaler). I dag körs väderprognoser därför som ensembler: många körningar med lite olika startvärden.
+
+np-fullstandighet-1971:
+  period: 1960
+  label: "NP-fullständighet 1971"
+  title: "NP-fullständighet och P mot NP"
+  wiki:
+    - "en:NP-completeness"
+    - "en:Cook–Levin theorem"
+    - "en:P versus NP problem"
+  text: |
+    1971 visade Stephen Cook, amerikansk datavetare i Toronto, att ett visst problem är ”svårast” i en stor klass. Problemet, SAT, frågar: givet en logisk formel med variabler, finns det en tilldelning av sant/falskt som gör formeln sann? Klassen NP är alla ja/nej-problem där ett förslag på lösning kan *kontrolleras* snabbt (i polynomisk tid, alltså med en körtid som växer som en potens av indatas storlek). Cook visade att varje sådant problem kan översättas till SAT – SAT är NP-fullständigt. Leonid Levin i Sovjetunionen kom oberoende fram till samma sak.
+
+    1972 visade Richard Karp att 21 vanliga problem – schemaläggning, ruttplanering, kappsäcksproblemet med flera – också är NP-fullständiga. Löser man ett av dem snabbt löser man alla. Den öppna frågan P = NP? undrar om allt som kan kontrolleras snabbt också kan *hittas* snabbt (P är klassen av problem som kan lösas i polynomisk tid). De flesta tror inte det, men ingen har bevisat det; det är ett av sju millennieproblem med en miljon dollar i pris.
+
+    Idén bygger på [Turingmaskinen](#turingmaskinen-1936) som modell för beräkning. I praktiken betyder NP-fullständighet att man söker approximationer eller heuristiker, och moderna SAT-lösare klarar ändå enorma instanser. Kryptografi som [RSA](#rsa-1977) vilar på att vissa problem är svåra, även om faktorisering inte tros vara NP-fullständigt.
+
+rsa-1977:
+  period: 1960
+  label: "RSA 1977"
+  title: "RSA – kryptering med publik nyckel"
+  wiki:
+    - "en:RSA (cryptosystem)"
+    - "en:Public-key cryptography"
+  text: |
+    Traditionell kryptering kräver att båda parter delar en hemlig nyckel i förväg – opraktiskt för miljontals främlingar på ett nätverk. 1976 föreslog Whitfield Diffie och Martin Hellman idén med publik nyckel. 1977 gav Ron Rivest, Adi Shamir och Leonard Adleman vid MIT ett konkret system: RSA, efter deras initialer. (Clifford Cocks vid brittiska underrättelsetjänsten GCHQ hade hittat samma sak 1973, men det hölls hemligt till 1997.)
+
+    Så fungerar det: välj två stora primtal p och q och bilda n = p·q. Välj ett tal e och räkna ut d så att e·d ger rest 1 vid division med (p−1)(q−1). Den publika nyckeln är (n, e), den hemliga d. Ett meddelande m (ett tal mindre än n) krypteras som c = m^e mod n och dekrypteras som m = c^d mod n. Att det fungerar följer av talteori från [Fermat](#fermat) och Euler. Den som bara känner n kan inte räkna ut d utan att faktorisera n – och för tal med över 600 siffror är det med kända metoder praktiskt omöjligt.
+
+    RSA möjliggjorde digitala signaturer och säker kommunikation över internet, t.ex. HTTPS på [webben](#webben-1989). Säkerheten är dock bara ett antagande: en stor [kvantdator](#kvantdatorer) skulle kunna faktorisera snabbt med Shors algoritm (1994), varför nya ”postkvant”-algoritmer nu införs.
+
+mandelbrot-fraktaler:
+  period: 1980
+  label: "Mandelbrot: fraktaler"
+  title: "Mandelbrot och fraktalerna"
+  wiki:
+    - "sv:Fraktal"
+    - "en:Mandelbrot set"
+    - "en:Benoit Mandelbrot"
+  text: |
+    Benoît Mandelbrot var en polskfödd fransk-amerikansk matematiker som arbetade på IBM:s forskningslaboratorium. Han märkte att samma mönster återkom i vitt skilda data: prisrörelser på bomullsbörsen, brus på telefonlinjer, kustlinjer. 1975 myntade han ordet fraktal för former som ser likadana ut i alla skalor – en bit av en kustlinje ser ut som hela kusten – och 1982 kom boken *The Fractal Geometry of Nature*.
+
+    Ett mått är fraktal dimension: Storbritanniens kust blir längre ju kortare måttstock man använder, och dess dimension ligger mellan 1 (en linje) och 2 (en yta). Mest känd är Mandelbrotmängden. Ta ett komplext tal c och upprepa avbildningen z ↦ z² + c med start i z = 0. Mängden består av de c för vilka talen inte växer mot oändligheten. Regeln är en rad, men randen har oändligt detaljerad struktur. Mandelbrot såg den på datorskärm vid IBM 1980; utan datorgrafik hade den inte kunnat ses.
+
+    Föregångare fanns: Gaston Julia och Pierre Fatou studerade samma iterationer kring 1918, och Cantor och Koch konstruerade ”monsterkurvor” på 1800-talet. Fraktaler kopplas tätt till kaosteorin efter [Lorenz](#lorenz-kaos-1963), där attraktorerna ofta är fraktala. Idéerna fick tillämpningar i datorgrafik (genererade landskap), bildkomprimering, antenner i mobiltelefoner och modeller av finansmarknaders extrema rörelser.
+
+wiles-bevisar-fermats-stora-sats-1994:
+  period: 1980
+  label: "Wiles bevisar Fermats stora sats 1994"
+  title: "Fermats stora sats bevisas"
+  wiki:
+    - "sv:Fermats stora sats"
+    - "en:Wiles's proof of Fermat's Last Theorem"
+  text: |
+    Omkring 1637 skrev den franske juristen och amatörmatematikern [Pierre de Fermat](#fermat) i marginalen på en bok att ekvationen xⁿ + yⁿ = zⁿ saknar lösningar i positiva heltal x, y, z när heltalet n är större än 2. (För n = 2 finns många, t.ex. 3² + 4² = 5².) Han påstod sig ha ett ”förunderligt bevis” som inte fick plats. I över 350 år försökte matematiker förgäves; Euler visade fallet n = 3, och stora delar av algebraisk talteori uppstod ur försöken.
+
+    Vägen till lösningen kom från ett helt annat håll. 1986 visade Ken Ribet att satsen skulle följa av Taniyama–Shimura-förmodan, ett påstående om att elliptiska kurvor (kurvor av typen y² = x³ + ax + b) alltid hör ihop med vissa mycket symmetriska funktioner, modulära former. Den brittiske matematikern Andrew Wiles i Princeton arbetade sedan i hemlighet i sju år och presenterade ett bevis 1993.
+
+    Granskningen hittade ett allvarligt hål. Efter ett år, tillsammans med sin tidigare student Richard Taylor, lagade Wiles det i september 1994; beviset publicerades 1995 på över hundra sidor. Det viktigaste var inte Fermats sats utan att en stor del av Taniyama–Shimura bevisats, en bro mellan två fält som nu är central i Langlandsprogrammet. Hur långa bevis kan granskas är en fråga som senare drivit [formell verifiering i Lean](#ai-i-matematiken-formella-bevis-i-lean), där ett projekt att formalisera beviset pågår.
+
+perelman-poincareformodan-2003:
+  period: 2000
+  label: "Perelman: Poincaréförmodan 2003"
+  title: "Perelman bevisar Poincaréförmodan"
+  wiki:
+    - "sv:Poincarés förmodan"
+    - "en:Grigori Perelman"
+  text: |
+    Topologi är den del av geometrin som studerar egenskaper som bevaras när man töjer och böjer, men inte river. En klotyta och en kubyta är topologiskt samma; en munkyta (torus) är annorlunda, eftersom den har ett hål. Ett kännetecken på klotytan är att varje sluten slinga på den kan dras ihop till en punkt. 1904 frågade den franske matematikern Henri Poincaré, känd också för [kaos i trekropparsproblemet](#poincare-kaos-i-trekropparsproblemet), om samma sak gäller en dimension upp: är varje begränsad, sluten tredimensionell form där alla slingor kan dras ihop i grunden en 3-sfär (den tredimensionella motsvarigheten till klotytan)?
+
+    Frågan förblev öppen i nästan hundra år och blev ett av sju millennieproblem år 2000. 1982 föreslog Richard Hamilton en metod, Ricciflödet: låt formens krökning jämna ut sig över tid, ungefär som värme sprider sig, tills den blir rund. Problemet var att formen kan bilda singulariteter, punkter där krökningen växer obegränsat.
+
+    2002–03 lade den ryske matematikern Grigori Perelman från S:t Petersburg ut tre artiklar på arkivservern arXiv – utan att skicka dem till någon tidskrift. Han visade hur singulariteterna kunde kontrolleras och skäras bort, och bevisade därmed en ännu större förmodan om alla tredimensionella former (Thurstons geometriseringsförmodan). Granskningen tog flera år. Perelman avböjde både Fieldsmedaljen 2006 och millennieprisets miljon dollar 2010 och drog sig tillbaka från matematiken. Problemet är fortfarande det enda av millennieproblemen som lösts; [P mot NP](#np-fullstandighet-1971) är ett av de olösta.
+
+zhang-primtalsluckor-2013:
+  period: 2000
+  label: "Zhang: primtalsluckor 2013"
+  title: "Zhang och primtalsluckorna"
+  wiki:
+    - "en:Yitang Zhang"
+    - "en:Polymath Project"
+    - "sv:Primtalstvilling"
+  text: |
+    Primtalstvillingar är primtal med differensen 2, som 11 och 13 eller 41 och 43. Förmodan att det finns oändligt många sådana par är mycket gammal och fortfarande obevisad. Primtalen glesnar ju längre ut man kommer – runt talet en miljard är det i genomsnitt ungefär 21 steg mellan dem – så frågan är om nära par ändå fortsätter att dyka upp.
+
+    I april 2013 skickade Yitang Zhang, en kinesiskfödd matematiker som efter doktorsexamen haft svårt att få forskartjänst, bland annat arbetat på en restaurang och nu var lektor vid University of New Hampshire, in en artikel till tidskriften Annals of Mathematics. Han bevisade att det finns oändligt många primtalspar med avstånd högst 70 miljoner. Siffran är stor, men det var första gången någon visat att det minsta avståndet inte måste växa obegränsat. Metoden byggde på sållmetoder (efter idén i Eratosthenes såll att stryka multipler) och på resultat av Goldston, Pintz och Yıldırım från 2005.
+
+    Det som följde var ovanligt: Terence Tao startade ett öppet samarbete på nätet, Polymath8, där många matematiker förbättrade gränsen offentligt. Samtidigt fann James Maynard en enklare metod. Inom ett år var gränsen nere i 246. Att komma ner till 2 kräver troligen helt nya idéer. Episoden var ett tidigt exempel på det kollektiva, digitala arbetssätt som nu utvidgas med [AI och formella bevis](#ai-i-matematiken-formella-bevis-i-lean).
+
+ai-i-matematiken-formella-bevis-i-lean:
+  period: 2020
+  label: "AI i matematiken, formella bevis i Lean"
+  title: "AI och formella bevis"
+  wiki:
+    - "en:Lean (proof assistant)"
+    - "en:Proof assistant"
+  text: |
+    Ett formellt bevis är skrivet så noggrant att en dator kan kontrollera varje steg mot logikens regler. Programmen som gör det kallas bevisassistenter; en av de mest använda är Lean, skapad av Leonardo de Moura vid Microsoft Research från 2013. Idén går tillbaka till [Freges formella logik](#frege-logik), och tidiga system som Coq och Isabelle har använts sedan 1980–90-talen, bland annat för att verifiera beviset av fyrfärgssatsen och en optimerande C-kompilator.
+
+    Kring 2020 växte Leans gemensamma matematikbibliotek, mathlib, snabbt genom tusentals frivilliga. 2021 formaliserades på några månader ett svårt nytt resultat av den tyske matematikern Peter Scholze, som själv var osäker på om hans bevis höll. Fältmedaljören Terence Tao har lett projekt där människor delar upp bevis i småbitar som kontrolleras automatiskt, och ett stort projekt för att formalisera [beviset av Fermats stora sats](#wiles-bevisar-fermats-stora-sats-1994) pågår.
+
+    Samtidigt började AI-system lösa matematik. 2024 nådde Google DeepMinds AlphaProof, som skriver bevis i Lean, silvernivå vid den internationella matematikolympiaden; 2025 nådde flera språkmodeller guldnivå, då i vanlig text. Kombinationen är lovande: språkmodeller [genererar](#generativ-ai-2) förslag som ibland är fel, medan bevisassistenten garanterar korrektheten. Hur långt AI kommer på öppna forskningsproblem är en öppen fråga.
