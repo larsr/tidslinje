@@ -1,7 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# dependencies = ["tzdata"]
-# ///
 """Bygger sajten till _site/: kopierar index.html, data/ och vendor/ och skriver
 in tiden för senaste commit som "Senast uppdaterad" i fotnoten.
 

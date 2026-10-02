@@ -37,8 +37,8 @@ stycke som mellanslag; stycken skiljs åt med en tom rad.
 
 ## Verktyg
 
-Skripten är Python och körs med [uv](https://docs.astral.sh/uv/). Varje skript
-anger sina egna beroenden, så inget behöver installeras i förväg.
+Skripten är Python och körs med [uv](https://docs.astral.sh/uv/). Beroendena står i
+`pyproject.toml` och är låsta i `uv.lock`; `uv run` installerar dem vid behov.
 
 ```sh
 uv run scripts/format.py        # radbryt texterna efter redigering (--check: ändra inget)
@@ -46,21 +46,46 @@ uv run scripts/check.py         # datakontroll: id:n, perioder, länkar, same_as
 uv run scripts/test_format.py   # formateringen får inte ändra hur någon text renderas
 uv run scripts/build.py         # bygger _site/ med "Senast uppdaterad"
 uv run scripts/smoke.py         # röktest i Chromium mot _site/
-python3 -m http.server -d _site 8080   # titta lokalt
+uv run scripts/audit_vendor.py  # JS-biblioteken: kontrollsummor och kända sårbarheter
+uv audit --preview-features audit-command   # Python-beroendena: kända sårbarheter
+python3 -m http.server -d _site 8080        # titta lokalt
 ```
 
-Röktestet behöver Chromium första gången:
-`uv run --with playwright==1.56.0 playwright install chromium`.
+Röktestet behöver Chromium första gången: `uv run playwright install chromium`.
 
 `check.py` varnar (utan att stoppa bygget) för textrader över 100 tecken.
 
+## Säkerhet
+
+CI-jobbet **Säkerhet** körs vid varje push, varje pull request och varje måndag:
+
+- `uv audit` söker efter kända sårbarheter (OSV) i de låsta Python-beroendena.
+- `scripts/audit_vendor.py` kontrollerar att JS-filerna i `vendor/` har de
+  kontrollsummor som står i `vendor/libs.yaml`, frågar OSV om sårbarheter i
+  just de versionerna och varnar om nyare versioner finns.
+- [zizmor](https://docs.zizmor.sh/) granskar workflow-filerna (för breda
+  rättigheter, injektionsrisker, opinnade actions m.m.). Alla actions är låsta
+  till commit-SHA.
+- [gitleaks](https://github.com/gitleaks/gitleaks) söker efter incheckade
+  hemligheter i hela historiken.
+
+Dependabot (`.github/dependabot.yml`) föreslår veckovis uppdateringar av actions
+och Python-beroenden som pull requests, som CI testar.
+
+**Vad som stoppar vad:**
+
+- *Publicering* sker bara om både säkerhetsjobbet och bygget lyckas.
+- *Hemligheter i en push* stoppas av GitHubs push protection, som är påslaget som
+  standard för personliga konton mot publika repon.
+- *Lokalt* stoppar `uvx pre-commit install` commits med hemligheter eller trasig data
+  redan på din dator (`.pre-commit-config.yaml`), men det går att förbigå.
+- *Att trasig kod alls hamnar på `main`* kan bara förhindras med en regel
+  (Settings → Rules → Rulesets) som kräver pull request och gröna statuskontroller.
+
 ## Publicering
 
-`.github/workflows/pages.yml` kör kontroll, formateringstest, bygge och röktest vid
-varje push till `main` och publicerar `_site/` till GitHub Pages bara om allt går
-igenom. Pull requests testas men publiceras inte. Tiden för senaste commit skrivs in
-som "Senast uppdaterad" i sidans fotnot.
+`.github/workflows/pages.yml` publicerar `_site/` till GitHub Pages vid push till
+`main` när allt gått igenom. Pull requests och veckokörningar testas men publiceras
+inte. Tiden för senaste commit skrivs in som "Senast uppdaterad" i sidans fotnot.
 
 Pages är inställt på **Settings → Pages → Source: GitHub Actions**.
-
-JS-biblioteken som sidan använder ligger i `vendor/` (se `vendor/README.md`).

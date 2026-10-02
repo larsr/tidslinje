@@ -1,0 +1,19 @@
+# Dependabot föreslår uppdateringar som pull requests; CI testar dem innan de
+# kan slås ihop. JS-biblioteken i vendor/ täcks inte här – dem bevakar
+# scripts/audit_vendor.py.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ["*"]
+  - package-ecosystem: uv
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      python:
+        patterns: ["*"]

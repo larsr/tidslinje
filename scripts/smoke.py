@@ -1,7 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# dependencies = ["playwright==1.56.0"]
-# ///
 """Röktest: öppnar den byggda sidan (_site/) i Chromium och kontrollerar att
 tabellen renderas, att sökning, popup och interna länkar fungerar och att
 inga skriptfel uppstår. Typsnitt och Wikipedia blockeras, så testet behöver
@@ -9,7 +5,7 @@ inget nät.
 
     uv run scripts/build.py && uv run scripts/smoke.py
 
-Första gången: uv run --with playwright==1.56.0 playwright install chromium
+Första gången: uv run playwright install chromium
 """
 import functools
 import http.server

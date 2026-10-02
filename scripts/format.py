@@ -1,6 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# ///
 """Radbryter Markdown-texterna i data/*.yaml så att de går att läsa i en
 vanlig texteditor eller i GitHubs filvisning.
 

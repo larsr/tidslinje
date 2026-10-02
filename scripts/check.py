@@ -1,7 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# dependencies = ["pyyaml>=6", "markdown-it-py>=3"]
-# ///
 """Kontrollerar att datat i data/ är konsistent:
 
 - giltig YAML och unika id:n (a-z, 0-9, bindestreck, börjar med bokstav)

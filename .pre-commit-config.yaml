@@ -1,0 +1,24 @@
+# Lokala kontroller innan en commit skapas. Aktivera en gång per klon:
+#   uvx pre-commit install
+# Kör mot alla filer: uvx pre-commit run --all-files
+# (Hookarna körs bara på din egen dator och kan förbigås med --no-verify;
+#  det som verkligen stoppar publicering är CI, se README.)
+repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.30.1
+    hooks:
+      - id: gitleaks
+  - repo: local
+    hooks:
+      - id: format
+        name: radbryt texterna i data/
+        entry: uv run --locked scripts/format.py
+        language: system
+        files: ^data/.*\.yaml$
+        pass_filenames: false
+      - id: check
+        name: datakontroll
+        entry: uv run --locked scripts/check.py
+        language: system
+        files: ^data/
+        pass_filenames: false

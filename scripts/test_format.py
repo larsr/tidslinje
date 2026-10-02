@@ -1,7 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# dependencies = ["pyyaml>=6", "markdown-it-py>=3"]
-# ///
 """Testar scripts/format.py mot det riktiga datat:
 
 - formateringen ändrar aldrig hur en text renderas (samma HTML, bortsett från

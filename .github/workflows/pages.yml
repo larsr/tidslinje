@@ -5,38 +5,76 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  schedule:
+    # Varje måndag: nya sårbarheter publiceras även när koden står still.
+    - cron: "17 5 * * 1"
 
-permissions:
-  contents: read
+permissions: {}
 
 concurrency:
-  group: pages
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
-  build:
+  security:
+    name: Säkerhet
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
-      - uses: actions/checkout@v6
-      - uses: astral-sh/setup-uv@v9.0.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0 # hela historiken, så att gitleaks ser alla commits
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+        with:
+          enable-cache: false
+      - name: Sårbarheter i Python-beroenden (uv.lock)
+        run: uv audit --locked --preview-features audit-command
+      - name: Sårbarheter och kontrollsummor för JS-bibliotek (vendor/)
+        run: uv run --locked scripts/audit_vendor.py
+      - name: Säkerhetsgranskning av workflows (zizmor)
+        run: uv run --locked zizmor --format github .github/workflows
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Incheckade hemligheter (gitleaks)
+        uses: gitleaks/gitleaks-action@e0c47f4f8be36e29cdc102c57e68cb5cbf0e8d1e # v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITLEAKS_ENABLE_COMMENTS: "false"
+
+  build:
+    name: Bygg och testa
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+        with:
+          enable-cache: false
       - name: Kontrollera datat
-        run: uv run scripts/check.py
+        run: uv run --locked scripts/check.py
       - name: Testa formateringen
-        run: uv run scripts/test_format.py
+        run: uv run --locked scripts/test_format.py
       - name: Bygg sajten
-        run: uv run scripts/build.py
+        run: uv run --locked scripts/build.py
       - name: Installera Chromium för röktestet
-        run: uv run --with playwright==1.56.0 playwright install --with-deps chromium
+        run: uv run --locked playwright install --with-deps chromium
       - name: Röktest
-        run: uv run scripts/smoke.py
-      - uses: actions/upload-pages-artifact@v5
-        if: github.event_name != 'pull_request'
+        run: uv run --locked scripts/smoke.py
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
         with:
           path: _site
 
   deploy:
-    if: github.event_name != 'pull_request'
-    needs: build
+    name: Publicera
+    # Publicerar bara om både säkerhetskontrollen och bygget gick igenom.
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    needs: [security, build]
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -46,4 +84,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

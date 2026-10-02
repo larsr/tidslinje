@@ -1,0 +1,26 @@
+# JS-bibliotek som ligger incheckade i vendor/ och läses in av index.html.
+# scripts/audit_vendor.py kontrollerar att filerna har rätt kontrollsumma och
+# frågar OSV (https://osv.dev) om kända sårbarheter för varje version.
+# Byt version: hämta filen ur npm-paketet (npm pack <namn>@<version>),
+# uppdatera version och sha256 här och kör uv run scripts/audit_vendor.py.
+- name: js-yaml
+  ecosystem: npm
+  version: 5.4.2
+  file: js-yaml.umd.min.js
+  source: dist/browser/js-yaml.umd.min.js
+  license: MIT
+  sha256: 774fe802006763599e1faadd17d562ff781bb7849b66a42ac745f227d4833f02
+- name: marked
+  ecosystem: npm
+  version: 18.0.14
+  file: marked.umd.js
+  source: lib/marked.umd.js
+  license: MIT
+  sha256: 21568877a938d2c4e7d74e27f18e60da96bb73a68809610ca39216e1efebae62
+- name: dompurify
+  ecosystem: npm
+  version: 3.4.16
+  file: purify.min.js
+  source: dist/purify.min.js
+  license: MPL-2.0 OR Apache-2.0
+  sha256: 2c90a9b46d6463f26038a29b686e82bc91de01fdac9d5229e7cfe3b360134ea2
