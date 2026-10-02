@@ -201,6 +201,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
 document.addEventListener('click',e=>{if(pinned&&!pop.contains(e.target)&&!wpv.contains(e.target)&&!e.target.closest('li.has'))close()});
 wrap.addEventListener('scroll',()=>{if(!pop.hidden&&cur)place(pop,cur)},{passive:true});
 pop.addEventListener('click',e=>{
+  e.stopPropagation(); // innehållet byts ut nedan; låt inte dokumentets klick-hanterare tro att klicket var utanför
   const r=e.target.closest('a.ref');if(r){e.preventDefault();pinned=true;wpv.hidden=true;hist.push(curId);fill(r.dataset.id);goto(r.dataset.id);return}
   if(e.target.closest('.back')){pinned=true;const p=hist.pop();fill(p);goto(p);return}
   if(e.target.closest('.goto')){pinned=true;goto(curId)}
